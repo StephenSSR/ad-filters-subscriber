@@ -17,17 +17,22 @@ application:
   # 规则源配置，remote为远程规则，local为本地规则，支持多个规则源
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
-    remote:
-      - name: 'Subscription 1'
-        path: 'https://example.org/rule.txt' #仅支持 http/https，不限定响应内容格式
+     remote:
+      - name: 'dasheng' #规则名称
+        path: 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #规则地址
+      - name: 'VeleSila' 
+        path: 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts' 
+      - name: 'Cats-Team' 
+        path: 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt' 
+      - name: 'AWAvenue' 
+        path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
+      - name: '10007' 
+        path: 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all' 
 
-      - name: 'Subscription 2'
-        path: 'http://example.org/rule.txt'
-
-    #本地规则文件
+#      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
     local:
-      - name: 'local rule'
-        path: 'local-rule.txt' #支持绝对/相对路径
+      - name: private
+        path: 'private.txt'
 
   #输出配置
   output:
