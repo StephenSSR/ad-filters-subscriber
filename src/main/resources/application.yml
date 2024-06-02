@@ -17,7 +17,7 @@ application:
   # 规则源配置，remote为远程规则，local为本地规则，支持多个规则源
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
-     remote:
+    remote:
       - name: 'dasheng' #规则名称
         path: 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #规则地址
       - name: 'VeleSila' 
