@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-07 00:14:08
+! Last Modified: 2024-06-07 08:54:19
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -1186,6 +1186,7 @@
 127.0.0.1 openjmacs.m.taobao.com
 127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 sjarvis.taobao.com
+::1             localhost
 127.0.0.1 audid-api.taobao.com
 127.0.0.1 adashx4yt.m.taobao.com
 127.0.0.1 h-adashx4yt.ut.taobao.com
@@ -2270,7 +2271,6 @@
 127.0.0.1 aax-us-east-retail-direct.amazon-adsystem.com
 127.0.0.1 aax-us-east-rtb.amazon-adsystem.com
 127.0.0.1 aax-us-pdx.amazon-adsystem.com
-::1             localhost
 127.0.0.1 aax-us.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aaxads.com
