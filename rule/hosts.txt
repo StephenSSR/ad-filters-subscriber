@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-16 00:14:37
+! Last Modified: 2024-06-16 08:57:08
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -800,6 +800,7 @@
 127.0.0.1 rt.applovin.com
 127.0.0.1 d.applvn.com
 127.0.0.1 telemetry.sdk.inmobi.com
+::1             localhost
 127.0.0.1 ms.applvn.com
 127.0.0.1 rt.applvn.com
 127.0.0.1 api.youngle.tech
@@ -1650,7 +1651,6 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-::1             localhost
 110.43.121.13 bigota.d.miui.com
 110.43.121.13 hugeota.d.miui.com
 110.43.121.249 bigota.d.miui.com
