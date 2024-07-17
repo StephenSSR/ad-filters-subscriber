@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-17 00:13:45
+! Last Modified: 2024-07-17 08:55:16
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -1650,7 +1650,6 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-::1             localhost
 110.43.121.13 bigota.d.miui.com
 110.43.121.13 hugeota.d.miui.com
 110.43.121.249 bigota.d.miui.com
@@ -3399,6 +3398,7 @@
 127.0.0.1 ad31.checkm8.com
 127.0.0.1 ad31digital.checkm8.com
 127.0.0.1 ad32.checkm8.com
+::1             localhost
 127.0.0.1 ad32digital.checkm8.com
 127.0.0.1 ad33.checkm8.com
 127.0.0.1 ad33digital.checkm8.com
