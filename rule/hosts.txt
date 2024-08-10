@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-10 08:56:14
+! Last Modified: 2024-08-10 16:14:36
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -1551,6 +1551,7 @@
 127.0.0.1 adserver.xpanama.net
 127.0.0.1 adserver.yahoo.com
 127.0.0.1 ads.eu.msn.com
+::1             localhost
 127.0.0.1 ads.gionee.com
 127.0.0.1 ads.gmodules.com
 127.0.0.1 ads.msn.com
@@ -2665,7 +2666,6 @@
 127.0.0.1 ad.cbonds.info
 127.0.0.1 ad.ccement.com
 127.0.0.1 ad.ccmbg.com
-::1             localhost
 127.0.0.1 ad.cdnjm.cn
 127.0.0.1 ad.centrum.cz
 127.0.0.1 ad.cgi.cz
