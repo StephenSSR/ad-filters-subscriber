@@ -1,23 +1,8 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2024-08-14 16:15:27
+! Last Modified: 2024-08-15 00:17:19
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-/*.*.shouji.sogou.com/
-/*.[a-zA-Z0-9.-]skwai.com/
-/*.a.market.xiaomi.com/
-/*.data.hicloud.com/
-/*.log.aliyuncs.com/
-/*.shouji.sogou.com/
-/[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com/
-/[a-zA-Z0-9.-]*-ad.sm.cn/
-/[a-zA-Z0-9.-]*-ad.video.yximgs.com/
-/[a-zA-Z0-9.-]*-ad.wtzw.com/
-/[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com/
-/[a-zA-Z0-9.-]*-lm.adkwai.com/
-/[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com/
-/[a-zA-Z0-9.-]*-normal.zijieapi.com/
-/cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
 0.0.0.0 adfurikun.jp
 0.0.0.0 aag.yahooapis.jp
 0.0.0.0 optimus-ads.amap.com
@@ -1069,15 +1054,30 @@
 0.0.0.0 adsence.sogou.com
 0.0.0.0 fair.sogou.com
 0.0.0.0 files2.sogou.com
+/*.*.shouji.sogou.com/
+/*.[a-zA-Z0-9.-]skwai.com/
 0.0.0.0 goto.sogou.com
+/*.a.market.xiaomi.com/
+/*.data.hicloud.com/
 0.0.0.0 p3p.sogou.com
+/*.log.aliyuncs.com/
+/*.shouji.sogou.com/
 0.0.0.0 pb.sogou.com
+/[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com/
 0.0.0.0 pbd.sogou.com
+/[a-zA-Z0-9.-]*-ad.sm.cn/
+/[a-zA-Z0-9.-]*-ad.video.yximgs.com/
 0.0.0.0 ping.acc.sogou.com
+/[a-zA-Z0-9.-]*-ad.wtzw.com/
 0.0.0.0 psfq.gou.sogou.com
+/[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com/
+/[a-zA-Z0-9.-]*-lm.adkwai.com/
 0.0.0.0 pv.sogou.com
+/[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com/
 0.0.0.0 rd.e.sogou.com
+/[a-zA-Z0-9.-]*-normal.zijieapi.com/
 0.0.0.0 rjgw.theta.sogou.com
+/cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
 0.0.0.0 rmoeu.mercury.sogou.com
 0.0.0.0 sw.mobile.sogou.com
 0.0.0.0 union.sogou.com
@@ -1370,6 +1370,7 @@
 0.0.0.0 ledou.dl.uu.cc
 0.0.0.0 in1.secure.uu.cc
 0.0.0.0 sdklog.uu.cc
+#@coolapk 1007
 0.0.0.0 sdkpay.uu.cc
 0.0.0.0 api2.play.cn
 0.0.0.0 open.play.cn
@@ -1378,7 +1379,10 @@
 0.0.0.0 actsdk.idreamsky.com
 0.0.0.0 v1-feed.idreamsky.com
 0.0.0.0 service.ad.adesk.com
+::1 ip6-loopback
+::1 ip6-localhost
 0.0.0.0 ad.1kxun.com
+##################
 0.0.0.0 tcad.wedolook.com
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 livep.l.ott.video.qq.com
@@ -3911,16 +3915,12 @@
 0.0.0.0 www.537901.com
 0.0.0.0 www.5634.com
 0.0.0.0 www.56yk.com
-#@coolapk 1007
 0.0.0.0 www.57.com.cn
 0.0.0.0 www.5857.com
 0.0.0.0 www.588yw.com
 0.0.0.0 www.6kwan.com
 0.0.0.0 www.7080555.com
-::1 ip6-loopback
-::1 ip6-localhost
 0.0.0.0 www.7540.com
-##################
 0.0.0.0 www.810251.com
 0.0.0.0 www.83692.com
 0.0.0.0 www.8jzw.com
@@ -5352,488 +5352,6 @@
 0.0.0.0 gam.adnxs.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 m.adnxs.com
-0.0.0.0 photobucket.adnxs.com
-0.0.0.0 secure-sin.adnxs.com
-0.0.0.0 secure.adnxs.com
-0.0.0.0 sin1.g.adnxs.com
-0.0.0.0 ym.adnxs.com
-0.0.0.0 adperium.com
-0.0.0.0 click.adperium.com
-0.0.0.0 direct.adperium.com
-0.0.0.0 a.adroll.com
-0.0.0.0 d.adroll.com
-0.0.0.0 s.adroll.com
-0.0.0.0 se.adroll.com
-0.0.0.0 status.adroll.com
-0.0.0.0 growth-tracking.adroll.com
-0.0.0.0 mob.adroll.com
-0.0.0.0 logs.adroll.com
-0.0.0.0 pixel.adsafeprotected.com
-0.0.0.0 static.adsafeprotected.com
-0.0.0.0 cdn.adsfactor.net
-0.0.0.0 servedby.adsfactor.net
-0.0.0.0 adserver.adtechus.com
-0.0.0.0 aka-cdn-ns.adtechus.com
-0.0.0.0 aka-cdn.adtechus.com
-0.0.0.0 ums.adtechus.com
-0.0.0.0 engine.adzerk.net
-0.0.0.0 static.adzerk.net
-0.0.0.0 api.airpush.com
-0.0.0.0 appwall.api.airpush.com
-0.0.0.0 aax-fe-sin.amazon-adsystem.com
-0.0.0.0 aax-fe.amazon-adsystem.com
-0.0.0.0 aax-us-east.amazon-adsystem.com
-0.0.0.0 aax.amazon-adsystem.com
-0.0.0.0 c.amazon-adsystem.com
-0.0.0.0 mads.amazon-adsystem.com
-0.0.0.0 s.amazon-adsystem.com
-0.0.0.0 a.applovin.com
-0.0.0.0 assets.applovin.com
-0.0.0.0 d.applovin.com
-0.0.0.0 img.applovin.com
-0.0.0.0 pdn.applovin.com
-0.0.0.0 rt.applovin.com
-0.0.0.0 vid.applovin.com
-0.0.0.0 api.appsflyer.com
-0.0.0.0 events.appsflyer.com
-0.0.0.0 hq.appsflyer.com
-0.0.0.0 inapps.appsflyer.com
-0.0.0.0 launches.appsflyer.com
-0.0.0.0 stats.appsflyer.com
-0.0.0.0 sdk.appsflyer.com
-0.0.0.0 t.appsflyer.com
-0.0.0.0 track.appsflyer.com
-0.0.0.0 www.appsflyer.com
-0.0.0.0 ad.atdmt.com
-0.0.0.0 adn.atdmt.com
-0.0.0.0 aidps.atdmt.com
-0.0.0.0 analytics.atdmt.com
-0.0.0.0 api.atdmt.com
-0.0.0.0 atdmt.com
-0.0.0.0 c.atdmt.com
-0.0.0.0 click.atdmt.com
-0.0.0.0 clk.atdmt.com
-0.0.0.0 ec.atdmt.com
-0.0.0.0 h.atdmt.com
-0.0.0.0 image.atdmt.com
-0.0.0.0 img.atdmt.com
-0.0.0.0 ll.atdmt.com
-0.0.0.0 srch.atdmt.com
-0.0.0.0 view.atdmt.com
-0.0.0.0 www.atdmt.com
-0.0.0.0 adson.awempire.com
-0.0.0.0 counter.awempire.com
-0.0.0.0 iframes.awempire.com
-0.0.0.0 promo.awempire.com
-0.0.0.0 static.awempire.com
-0.0.0.0 www.beintoo.com
-0.0.0.0 bdv.bidvertiser.com
-0.0.0.0 www.bidvertiser.com
-0.0.0.0 bluekai.com
-0.0.0.0 tags.bluekai.com
-0.0.0.0 match.adsrvr.org
-0.0.0.0 s3.buysellads.com
-0.0.0.0 stats.buysellads.com
-0.0.0.0 as.casalemedia.com
-0.0.0.0 ssum.casalemedia.com
-0.0.0.0 castplatform.com
-0.0.0.0 t.channeladvisor.com
-0.0.0.0 tracking2.channeladvisor.com
-0.0.0.0 ping.chartbeat.net
-0.0.0.0 static.chartbeat.com
-0.0.0.0 ads2.contentabc.com
-0.0.0.0 vz-cdn.contentabc.com
-0.0.0.0 cdn.fastclick.net
-0.0.0.0 code.fastclick.net
-0.0.0.0 images.fastclick.net
-0.0.0.0 media.fastclick.net
-0.0.0.0 secure.fastclick.net
-0.0.0.0 sync.fastclick.net
-0.0.0.0 www.fastclick.net
-0.0.0.0 www.fastclick.com
-0.0.0.0 q.s.cr-nielsen.com
-0.0.0.0 s.cr-nielsen.com
-0.0.0.0 t.cr-nielsen.com
-0.0.0.0 cas.criteo.com
-0.0.0.0 dis.criteo.com
-0.0.0.0 dis.us.criteo.com
-0.0.0.0 gum.criteo.com
-0.0.0.0 rtax.criteo.com
-0.0.0.0 widget.criteo.com
-0.0.0.0 www.criteo.com
-0.0.0.0 static.criteo.net
-0.0.0.0 afp.csbew.com
-0.0.0.0 afptrack.csbew.com
-0.0.0.0 csbew.com
-0.0.0.0 s.csbew.com
-0.0.0.0 static.csbew.com
-0.0.0.0 tga.csbew.com
-0.0.0.0 tgb.csbew.com
-0.0.0.0 api.adsymptotic.com
-0.0.0.0 p.adsymptotic.com
-0.0.0.0 c.effectivemeasure.net
-0.0.0.0 hk-cdn.effectivemeasure.net
-0.0.0.0 me-cdn.effectivemeasure.net
-0.0.0.0 s.effectivemeasure.net
-0.0.0.0 sg-cdn.effectivemeasure.net
-0.0.0.0 www9.effectivemeasure.net
-0.0.0.0 ads.exdynsrv.com
-0.0.0.0 main.exdynsrv.com
-0.0.0.0 syndication.exdynsrv.com
-0.0.0.0 a.exoclick.com
-0.0.0.0 ads.exoclick.com
-0.0.0.0 main.exoclick.com
-0.0.0.0 origin-ads.exoclick.com
-0.0.0.0 syndication.exoclick.com
-0.0.0.0 syndication-evo.exoclick.com
-0.0.0.0 syndication-whk1.exoclick.com
-0.0.0.0 syndication-gceuw1.exoclick.com
-0.0.0.0 origin-static.exoclick.com
-0.0.0.0 syndication-adblock.exoclick.com
-0.0.0.0 syndication0.exoclick.com
-0.0.0.0 syndication-p.exoclick.com
-0.0.0.0 logs.exoclick.com
-0.0.0.0 static0.exoclick.com
-0.0.0.0 4171764.fls.doubleclick.net
-0.0.0.0 ad-apac.doubleclick.net
-0.0.0.0 ad.jp.doubleclick.net
-0.0.0.0 adclick.g.doublecklick.net
-0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 bid.g.doubleclick.net
-0.0.0.0 pagead46.l.doubleclick.net
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 afs.googlesyndication.com
-0.0.0.0 video-ad-stats.googlesyndication.com
-0.0.0.0 s0.2mdn.net
-0.0.0.0 s1.2mdn.net
-0.0.0.0 media.admob.com
-0.0.0.0 data.gosquared.com
-0.0.0.0 data2.gosquared.com
-0.0.0.0 cm.gtags.net
-0.0.0.0 cms.gtags.net
-0.0.0.0 dat.gtags.net
-0.0.0.0 uma.gtags.net
-0.0.0.0 ut.gtags.net
-0.0.0.0 s10.histats.com
-0.0.0.0 s4.histats.com
-0.0.0.0 7208853.hitslink.com
-0.0.0.0 counter.hitslink.com
-0.0.0.0 www.hitslink.com
-0.0.0.0 ad.hot-mob.com
-0.0.0.0 m.hot-mob.com
-0.0.0.0 www.hot-mob.com
-0.0.0.0 cdn.hot-mob.com
-0.0.0.0 track.hot-mob.com
-0.0.0.0 wap.hot-mob.com
-0.0.0.0 network.hot-mob.com
-0.0.0.0 monitor.hot-mob.com
-0.0.0.0 dsp.hot-mob.com
-0.0.0.0 www3.hot-mob.com
-0.0.0.0 trk.hot-mob.com
-0.0.0.0 testad.hot-mob.com
-0.0.0.0 www2.hot-mob.com
-0.0.0.0 webapi.hot-mob.com
-0.0.0.0 cors.hot-mob.com
-0.0.0.0 adsite.hot-mob.com
-0.0.0.0 cdn.hyperpromote.com
-0.0.0.0 cdnas.hyperpromote.com
-0.0.0.0 cdnis.hyperpromote.com
-0.0.0.0 cdnpa.hyperpromote.com
-0.0.0.0 sc.iasds01.com
-0.0.0.0 fe-au.imrworldwide.com
-0.0.0.0 fe1-au.imrworldwide.com
-0.0.0.0 fe2-au.imrworldwide.com
-0.0.0.0 fe3-au.imrworldwide.com
-0.0.0.0 lycos-eu.imrworldwide.com
-0.0.0.0 ninemsn.imrworldwide.com
-0.0.0.0 rc-au.imrworldwide.com
-0.0.0.0 secure-asia.imrworldwide.com
-0.0.0.0 secure-au.imrworldwide.com
-0.0.0.0 secure-chn.imrworldwide.com
-0.0.0.0 secure-dk.imrworldwide.com
-0.0.0.0 secure-it.imrworldwide.com
-0.0.0.0 secure-jp.imrworldwide.com
-0.0.0.0 secure-nz.imrworldwide.com
-0.0.0.0 secure-sg.imrworldwide.com
-0.0.0.0 secure-uk.imrworldwide.com
-0.0.0.0 secure-us.imrworldwide.com
-0.0.0.0 secure-yt.imrworldwide.com
-0.0.0.0 secure-za.imrworldwide.com
-0.0.0.0 server-au.imrworldwide.com
-0.0.0.0 server-br.imrworldwide.com
-0.0.0.0 server-by.imrworldwide.com
-0.0.0.0 server-de.imrworldwide.com
-0.0.0.0 server-dk.imrworldwide.com
-0.0.0.0 server-ee.imrworldwide.com
-0.0.0.0 server-fi.imrworldwide.com
-0.0.0.0 server-fr.imrworldwide.com
-0.0.0.0 server-hk.imrworldwide.com
-0.0.0.0 server-it.imrworldwide.com
-0.0.0.0 server-jp.imrworldwide.com
-0.0.0.0 server-lt.imrworldwide.com
-0.0.0.0 server-lv.imrworldwide.com
-0.0.0.0 server-no.imrworldwide.com
-0.0.0.0 server-nz.imrworldwide.com
-0.0.0.0 server-oslo.imrworldwide.com
-0.0.0.0 server-pl.imrworldwide.com
-0.0.0.0 server-ru.imrworldwide.com
-0.0.0.0 server-se.imrworldwide.com
-0.0.0.0 server-sg.imrworldwide.com
-0.0.0.0 server-stockh.imrworldwide.com
-0.0.0.0 server-ua.imrworldwide.com
-0.0.0.0 server-uk.imrworldwide.com
-0.0.0.0 server-us.imrworldwide.com
-0.0.0.0 telstra.imrworldwide.com
-0.0.0.0 i.l.inmobicdn.net
-0.0.0.0 au.w.inmobi.cn
-0.0.0.0 sdkm.w.inmobi.cn
-0.0.0.0 api.w.inmobi.com
-0.0.0.0 apptv.w.inmobi.com
-0.0.0.0 au.w.inmobi.com
-0.0.0.0 c.w.inmobi.com
-0.0.0.0 cf.cdn.inmobi.com
-0.0.0.0 config-ltvp.inmobi.com
-0.0.0.0 config.inmobi.com
-0.0.0.0 et.w.inmobi.com
-0.0.0.0 i.w.inmobi.com
-0.0.0.0 sdkm.w.inmobi.com
-0.0.0.0 www.inmobi.com
-0.0.0.0 freecodecs.us.intellitxt.com
-0.0.0.0 images.intellitxt.com
-0.0.0.0 jizzads.com
-0.0.0.0 www.jizzads.com
-0.0.0.0 img.jizzads.com
-0.0.0.0 ads-a.juicyads.com
-0.0.0.0 ads.juicyads.com
-0.0.0.0 adserver.juicyads.com
-0.0.0.0 ck.juicyads.com
-0.0.0.0 xapi.juicyads.com
-0.0.0.0 ad.leadboltads.net
-0.0.0.0 ad.leadboltapps.net
-0.0.0.0 ads.leadboltads.net
-0.0.0.0 www.ad.leadboltads.net
-0.0.0.0 5ad.leadboltads.net
-0.0.0.0 ww2.leadboltads.net
-0.0.0.0 atlas.leadboltads.net
-0.0.0.0 nad.leadboltads.net
-0.0.0.0 training.leadboltads.net
-0.0.0.0 ww1.leadboltads.net
-0.0.0.0 ww4.leadboltads.net
-0.0.0.0 ww3.leadboltads.net
-0.0.0.0 ad7.leadboltads.net
-0.0.0.0 asia.marketo.com
-0.0.0.0 munchkin.marketo.net
-0.0.0.0 pages2.marketo.com
-0.0.0.0 imgg.mgid.com
-0.0.0.0 jsc.mgid.com
-0.0.0.0 mgid.com
-0.0.0.0 www.mgid.com
-0.0.0.0 ads.nexage.com
-0.0.0.0 www.millennialmedia.com
-0.0.0.0 my.mobfox.com
-0.0.0.0 www.mobfox.com
-0.0.0.0 apps.mobilityware.com
-0.0.0.0 ads.mobilityware.com
-0.0.0.0 ads.mopub.com
-0.0.0.0 analytics.mopub.com
-0.0.0.0 www.mopub.com
-0.0.0.0 ads.mp.mydas.mobi
-0.0.0.0 ads.mydas.mobi
-0.0.0.0 androidsdk.ads.mp.mydas.mobi
-0.0.0.0 cvt.mydas.mobi
-0.0.0.0 newrelic.com
-0.0.0.0 ad.propellerads.com
-0.0.0.0 geoip.propellerads.com
-0.0.0.0 cdn.propellerads.com
-0.0.0.0 tracking2.propellerads.com
-0.0.0.0 statsv2.propellerads.com
-0.0.0.0 apistats.propellerads.com
-0.0.0.0 stats.propellerads.com
-0.0.0.0 ab-config.propellerads.com
-0.0.0.0 report.propellerads.com
-0.0.0.0 tracking.propellerads.com
-0.0.0.0 apiad.propellerads.com
-0.0.0.0 apistats-static.propellerads.com
-0.0.0.0 adp.propellerads.com
-0.0.0.0 native.propellerads.com
-0.0.0.0 edge.quantserve.com
-0.0.0.0 pixel.quantserve.com
-0.0.0.0 secure.quantserve.com
-0.0.0.0 cdn1.srv.revdepo.com
-0.0.0.0 srv.revdepo.com
-0.0.0.0 tags4.revdepo.com
-0.0.0.0 js.revsci.net
-0.0.0.0 pd7-imp.revsci.net
-0.0.0.0 pix04.revsci.net
-0.0.0.0 optimized-by.rubiconproject.com
-0.0.0.0 secure-assets.rubiconproject.com
-0.0.0.0 www.rubiconproject.com
-0.0.0.0 b.scorecardresearch.com
-0.0.0.0 sb.scorecardresearch.com
-0.0.0.0 udm.scorecardresearch.com
-0.0.0.0 cdn-settings.segment.com
-0.0.0.0 activity.serving-sys.com
-0.0.0.0 bs.serving-sys.com
-0.0.0.0 bsch.serving-sys.com
-0.0.0.0 datacapture.serving-sys.com
-0.0.0.0 ds-ll.serving-sys.com
-0.0.0.0 ds.serving-sys.com
-0.0.0.0 secure-ds.serving-sys.com
-0.0.0.0 us.bs.serving-sys.com
-0.0.0.0 cdn1.smartadserver.com
-0.0.0.0 www6.smartadserver.com
-0.0.0.0 ww251.smartadserver.com
-0.0.0.0 ww881.smartadserver.com
-0.0.0.0 edge.sharethis.com
-0.0.0.0 seg.sharethis.com
-0.0.0.0 w.sharethis.com
-0.0.0.0 wd-edge.sharethis.com
-0.0.0.0 lp.startapp.com
-0.0.0.0 images.startappservice.com
-0.0.0.0 info.static.startappservice.com
-0.0.0.0 req.startappservice.com
-0.0.0.0 init.startappexchange.com
-0.0.0.0 www.startappexchange.com
-0.0.0.0 c.statcounter.com
-0.0.0.0 c1.statcounter.com
-0.0.0.0 c2.statcounter.com
-0.0.0.0 secure.statcounter.com
-0.0.0.0 www.statcounter.com
-0.0.0.0 px.steelhousemedia.com
-0.0.0.0 rto.steelhousemedia.com
-0.0.0.0 15.taboola.com
-0.0.0.0 cdn.taboola.com
-0.0.0.0 images.taboola.com
-0.0.0.0 imprhkmp.taboola.com
-0.0.0.0 match.taboola.com
-0.0.0.0 trc.taboola.com
-0.0.0.0 vidstat.taboola.com
-0.0.0.0 cdn.taboola.com.cn
-0.0.0.0 cdn.taboolasyndication.com
-0.0.0.0 tapjoy.cn
-0.0.0.0 tapjoy.com
-0.0.0.0 tapjoyads.com
-0.0.0.0 ws.tapjoyads.com
-0.0.0.0 ads.trafficjunky.net
-0.0.0.0 media.trafficjunky.net
-0.0.0.0 vz-cdn.trafficjunky.net
-0.0.0.0 ad.turn.com
-0.0.0.0 analytics.turn.com
-0.0.0.0 d.turn.com
-0.0.0.0 www.turn.com
-0.0.0.0 beacon2.turn.com
-0.0.0.0 static.turn.com
-0.0.0.0 api.turn.com
-0.0.0.0 metrics.turn.com
-0.0.0.0 status.turn.com
-0.0.0.0 ak.ad.turn.com
-0.0.0.0 d-audienceiq-hkg1.turn.com
-0.0.0.0 d-audienceiq-atl1.turn.com
-0.0.0.0 beacon1.turn.com
-0.0.0.0 console-audienceiq-sjc2.turn.com
-0.0.0.0 ad2.turn.com
-0.0.0.0 ad2.cdns.turn.com
-0.0.0.0 attadworks.turn.com
-0.0.0.0 www.adworks.att.com.turn.com
-0.0.0.0 api.viglink.com
-0.0.0.0 cdn.viglink.com
-0.0.0.0 cl.webterren.com
-0.0.0.0 cl0.webterren.com
-0.0.0.0 cl2.webterren.com
-0.0.0.0 cl3.webterren.com
-0.0.0.0 cl4.webterren.com
-0.0.0.0 cl5.webterren.com
-0.0.0.0 ads.yahoo.com
-0.0.0.0 adserver.yahoo.com
-0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 analytics.yahoo.com
-0.0.0.0 beap-bc.yahoo.com
-0.0.0.0 beap.adss.yahoo.com
-0.0.0.0 js-apac-ss.ysm.yahoo.com
-0.0.0.0 n.gemini.yahoo.com
-0.0.0.0 na.ads.yahoo.com
-0.0.0.0 p3p.yahoo.com
-0.0.0.0 partnerads.ysm.yahoo.com
-0.0.0.0 pr-bh.ybp.yahoo.com
-0.0.0.0 pr.ybp.yahoo.com
-0.0.0.0 us.adserver.yahoo.com
-0.0.0.0 yads.c.yimg.jp
-0.0.0.0 yads.yahoo.co.jp
-0.0.0.0 ad.flurry.com
-0.0.0.0 adlog.flurry.com
-0.0.0.0 ads.flurry.com
-0.0.0.0 cdn.flurry.com
-0.0.0.0 data.flurry.com
-0.0.0.0 flurry.com
-0.0.0.0 www.flurry.com
-0.0.0.0 flurry.cachefly.net
-0.0.0.0 www.adtaily.com
-0.0.0.0 d8.zedo.com
-0.0.0.0 z1.zedo.com
-0.0.0.0 eus.rubiconproject.com
-0.0.0.0 i.liadm.com
-0.0.0.0 i.ssix.io
-0.0.0.0 load77.exelator.com
-0.0.0.0 stags.bluekai.com
-0.0.0.0 sync.crwdcntrl.net
-0.0.0.0 server.exposebox.com
-0.0.0.0 adspaces.ero-advertising.com
-0.0.0.0 api-secure.solvemedia.com
-0.0.0.0 c.adsco.re
-0.0.0.0 fans.bestvogue.com
-0.0.0.0 code.hot-mob.com
-0.0.0.0 rad.reporo.net
-0.0.0.0 ads.traffichunt.com
-0.0.0.0 nexus.ensighten.com
-0.0.0.0 beacon.krxd.net
-0.0.0.0 cdn.krxd.net
-0.0.0.0 stats.wp.com
-0.0.0.0 rum-collector.pingdom.net
-0.0.0.0 rum-static.pingdom.net
-0.0.0.0 inclk.com
-0.0.0.0 p215223.inclk.com
-0.0.0.0 n.ads3-adnow.com
-0.0.0.0 st-n.ads3-adnow.com
-0.0.0.0 c.codeonclick.com
-0.0.0.0 p215223.clksite.com
-0.0.0.0 p215223.mycdn2.co
-0.0.0.0 www.onclicktop.com
-0.0.0.0 lbstatic-a.akamaihd.net
-0.0.0.0 pix.tagcdn.com
-0.0.0.0 serving.bepolite.eu
-0.0.0.0 static.bepolite.eu
-0.0.0.0 s1.adform.net
-0.0.0.0 track.adform.net
-0.0.0.0 www.tradeadexchange.com
-0.0.0.0 static.addtoany.com
-0.0.0.0 pl14369502.puserving.com
-0.0.0.0 ie8eamus.com
-0.0.0.0 adinfo.aol.com
-0.0.0.0 cdn.at.atwola.com
-0.0.0.0 cdn.atwola.com
-0.0.0.0 ad-stir.com
-0.0.0.0 ad.ad-stir.com
-0.0.0.0 api.ad-stir.com
-0.0.0.0 dist.bpc.ad-stir.com
-0.0.0.0 js.ad-stir.com
-0.0.0.0 rtb.ad-stir.com
-0.0.0.0 blue-ad.ad-stir.com
-0.0.0.0 nad.ad-stir.com
-0.0.0.0 js2.ad-stir.com
-0.0.0.0 dl.ad-stir.com
-0.0.0.0 cf-ad.ad-stir.com
-0.0.0.0 stage-uev.ad-stir.com
-0.0.0.0 api.ad.ad-stir.com
-0.0.0.0 ad.shepard.ad-stir.com
-0.0.0.0 click.bpc.ad-stir.com
-0.0.0.0 uev.ad-stir.com
-0.0.0.0 sync.ad-stir.com
-0.0.0.0 click.ad-stir.com
-0.0.0.0 mon.ad-stir.com
-0.0.0.0 ad-api.ad-stir.com
-0.0.0.0 nad-stage1.ad-stir.com
-0.0.0.0 green-ad.ad-stir.com
-0.0.0.0 adcloud.jp
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -5918,215 +5436,424 @@
 ###adblocker_modal_overlay
 ###adblockinfo
 ###adblockpopup
+0.0.0.0 photobucket.adnxs.com
 ###adbpopup
 ###adbuddy-no-adb-container
+0.0.0.0 secure-sin.adnxs.com
 ###adbuddy-overlay
+0.0.0.0 secure.adnxs.com
 ###adrights14
+0.0.0.0 sin1.g.adnxs.com
 ###ads-blocked
 ###ads.row
+0.0.0.0 ym.adnxs.com
 ###ads_c_tpc
+0.0.0.0 adperium.com
 ###ads_top_video
+0.0.0.0 click.adperium.com
 ###adsblocker_detected
 ###adtop1
+0.0.0.0 direct.adperium.com
 ###adv-2
+0.0.0.0 a.adroll.com
 ###adv-3
+0.0.0.0 d.adroll.com
 ###adv-fixed-square
 ###adv_wrap_hh
+0.0.0.0 s.adroll.com
 ###advertisementjsalert
+0.0.0.0 se.adroll.com
 ###adx_cggp
+0.0.0.0 status.adroll.com
 ###alert_windows > .q-dialog__backdrop
+0.0.0.0 growth-tracking.adroll.com
 ###anti_adblock
+0.0.0.0 mob.adroll.com
 ###app > .publicAllContentBg > .bigBannerBg
+0.0.0.0 logs.adroll.com
 ###app.app > .topic-big
+0.0.0.0 pixel.adsafeprotected.com
 ###appBottomIn
 ###appIn
+0.0.0.0 static.adsafeprotected.com
 ###appad.cate
 ###appqrcode
+0.0.0.0 cdn.adsfactor.net
 ###apprecom1.apprecom
+0.0.0.0 servedby.adsfactor.net
 ###apprecom2.apprecom
+0.0.0.0 adserver.adtechus.com
 ###arBRyGHxuDYU
+0.0.0.0 aka-cdn-ns.adtechus.com
+0.0.0.0 aka-cdn.adtechus.com
+0.0.0.0 ums.adtechus.com
+0.0.0.0 engine.adzerk.net
+0.0.0.0 static.adzerk.net
+0.0.0.0 api.airpush.com
+0.0.0.0 appwall.api.airpush.com
+0.0.0.0 aax-fe-sin.amazon-adsystem.com
+0.0.0.0 aax-fe.amazon-adsystem.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 a.applovin.com
+0.0.0.0 assets.applovin.com
+0.0.0.0 d.applovin.com
+0.0.0.0 img.applovin.com
+0.0.0.0 pdn.applovin.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 vid.applovin.com
+0.0.0.0 api.appsflyer.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 hq.appsflyer.com
+0.0.0.0 inapps.appsflyer.com
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 sdk.appsflyer.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 track.appsflyer.com
+0.0.0.0 www.appsflyer.com
+0.0.0.0 ad.atdmt.com
+0.0.0.0 adn.atdmt.com
+0.0.0.0 aidps.atdmt.com
+0.0.0.0 analytics.atdmt.com
+0.0.0.0 api.atdmt.com
+0.0.0.0 atdmt.com
+0.0.0.0 c.atdmt.com
+0.0.0.0 click.atdmt.com
+0.0.0.0 clk.atdmt.com
+0.0.0.0 ec.atdmt.com
+0.0.0.0 h.atdmt.com
+0.0.0.0 image.atdmt.com
+0.0.0.0 img.atdmt.com
+0.0.0.0 ll.atdmt.com
+0.0.0.0 srch.atdmt.com
+0.0.0.0 view.atdmt.com
+0.0.0.0 www.atdmt.com
 ###asdw
+0.0.0.0 adson.awempire.com
 ###asdw2
+0.0.0.0 counter.awempire.com
 ###asdw2 + img
 ###aside_cat_ad_bottom
+0.0.0.0 iframes.awempire.com
 ###asx_text
+0.0.0.0 promo.awempire.com
 ###bd-hl-content
 ###bfad
+0.0.0.0 static.awempire.com
 ###bfad1
+0.0.0.0 www.beintoo.com
 ###bfad2
 ###bfad3
+0.0.0.0 bdv.bidvertiser.com
 ###bfad4
 ###bfad5
+0.0.0.0 www.bidvertiser.com
 ###bfad6
+0.0.0.0 bluekai.com
 ###bgframe[style^="position: fixed;"]
+0.0.0.0 tags.bluekai.com
 ###bl_mobile_float
+0.0.0.0 match.adsrvr.org
+0.0.0.0 s3.buysellads.com
 ###bl_mobile_float[style='height: 152px;']
 ###body > #left-promotion
+0.0.0.0 stats.buysellads.com
 ###body > #right-promotion
+0.0.0.0 as.casalemedia.com
 ###bottom-gg1
 ###bottomAD
+0.0.0.0 ssum.casalemedia.com
+0.0.0.0 castplatform.com
 ###bottomApp
+0.0.0.0 t.channeladvisor.com
 ###bottomNavad
 ###bottom_ads.hl_bottom_ads
+0.0.0.0 tracking2.channeladvisor.com
 ###bottom_qr_code
+0.0.0.0 ping.chartbeat.net
 ###bottombanner
 ###bottommob.bottommob
+0.0.0.0 static.chartbeat.com
 ###box-adblocker-wrap
+0.0.0.0 ads2.contentabc.com
 ###breadCrumb + .c + .t[style="margin-top:8px"]
+0.0.0.0 vz-cdn.contentabc.com
 ###breadCrumb + .t[style="margin-top:8px"]
+0.0.0.0 cdn.fastclick.net
 ###cat_intro_first_ad
+0.0.0.0 code.fastclick.net
 ###cat_intro_second_ad
+0.0.0.0 images.fastclick.net
 ###checkadblockernow
 ###chs_bannerArea
+0.0.0.0 media.fastclick.net
 ###comic_reader + #adDisabledBtn
+0.0.0.0 secure.fastclick.net
 ###comiis_xizi_gg02
+0.0.0.0 sync.fastclick.net
+0.0.0.0 www.fastclick.net
 ###container > #main.site-main > div > div > a[href^="/"][href$="/"] > img
+0.0.0.0 www.fastclick.com
 ###container > .item.title_normal
+0.0.0.0 q.s.cr-nielsen.com
 ###container > .item.title_top
+0.0.0.0 s.cr-nielsen.com
 ###container > .sectionBanner
+0.0.0.0 t.cr-nielsen.com
 ###container > .wrapper > .fl
+0.0.0.0 cas.criteo.com
 ###container > a.block
+0.0.0.0 dis.criteo.com
 ###container.container > a.item
+0.0.0.0 dis.us.criteo.com
 ###content_adblock_message
+0.0.0.0 gum.criteo.com
 ###coupletBox
 ###cpro_container
+0.0.0.0 rtax.criteo.com
 ###crazy_ad_float
+0.0.0.0 widget.criteo.com
 ###crazy_ad_layer
+0.0.0.0 www.criteo.com
 ###cs_left_couplet
 ###cs_right_couplet
+0.0.0.0 static.criteo.net
 ###cxense-recs-in-article
+0.0.0.0 afp.csbew.com
 ###dbgg
+0.0.0.0 afptrack.csbew.com
 ###detectAdblock
+0.0.0.0 csbew.com
 ###detectadblock
+0.0.0.0 s.csbew.com
 ###detection-block
+0.0.0.0 static.csbew.com
 ###detection-block-overlay
 ###dgf_pc
+0.0.0.0 tga.csbew.com
 ###diads
+0.0.0.0 tgb.csbew.com
 ###div_top_ads
 ###downapp1
+0.0.0.0 api.adsymptotic.com
 ###downdiv > .downcode
+0.0.0.0 p.adsymptotic.com
 ###doyoo_mon_mask
+0.0.0.0 c.effectivemeasure.net
 ###doyoo_monitor
 ###duilian_left
+0.0.0.0 hk-cdn.effectivemeasure.net
 ###duilian_right
 ###dy_card_dy
+0.0.0.0 me-cdn.effectivemeasure.net
 ###eis_pad1
 ###eis_pad2
+0.0.0.0 s.effectivemeasure.net
 ###everydayadv_mask
+0.0.0.0 sg-cdn.effectivemeasure.net
 ###fc_foot > #f_skyf
+0.0.0.0 www9.effectivemeasure.net
+0.0.0.0 ads.exdynsrv.com
 ###fixed-bottom-modal[style^="right:"][style$="px; display: block;"]
 ###fk_faiVisitStateAd
+0.0.0.0 main.exdynsrv.com
 ###floatad-winpop
+0.0.0.0 syndication.exdynsrv.com
 ###fnAdblockingOverlay
 ###fnbt
+0.0.0.0 a.exoclick.com
 ###fondAdblock
+0.0.0.0 ads.exoclick.com
 ###footer_fix_ggw
+0.0.0.0 main.exoclick.com
 ###frameS8CyqB
 ###fuo_top_float
+0.0.0.0 origin-ads.exoclick.com
 ###fwin_popad_7ree
+0.0.0.0 syndication.exoclick.com
 ###fwin_popad_7ree + #fwin_dialog
 ###gg300
+0.0.0.0 syndication-evo.exoclick.com
 ###gg_url
 ###googleAD1
+0.0.0.0 syndication-whk1.exoclick.com
 ###googleAD2
 ###googleAD3
+0.0.0.0 syndication-gceuw1.exoclick.com
 ###googleAdIndexTop
+0.0.0.0 origin-static.exoclick.com
 ###gothamadblock_msg
 ###gothamadblock_overlayh_n
+0.0.0.0 syndication-adblock.exoclick.com
 ###guanggao1[style^="position"]
+0.0.0.0 syndication0.exoclick.com
 ###guanggao2[style^="position"]
+0.0.0.0 syndication-p.exoclick.com
 ###gudingweiDiv
+0.0.0.0 logs.exoclick.com
 ###haoxinqing_me_img
+0.0.0.0 static0.exoclick.com
 ###header + #topBox
+0.0.0.0 4171764.fls.doubleclick.net
 ###header > a[target="_blank"] > img[style="width:100%;height:60px;margin-bottom:2px;"]
+0.0.0.0 ad-apac.doubleclick.net
 ###header-top + .advertisement
+0.0.0.0 ad.jp.doubleclick.net
 ###header_global_ad
+0.0.0.0 adclick.g.doublecklick.net
 ###hellobox > .mylist
 ###hengfu > #jiukan
+0.0.0.0 adclick.g.doubleclick.net
 ###hengfu1.banner
+0.0.0.0 bid.g.doubleclick.net
 ###hengfu2.banner
 ###hfad
+0.0.0.0 pagead46.l.doubleclick.net
 ###hj-right-aside[style="float: right;"]
+0.0.0.0 stats.g.doubleclick.net
 ###hongbao20201217
+0.0.0.0 afs.googlesyndication.com
 ###img-txt-wrapper > #title_desc_div
 ###imgad
+0.0.0.0 video-ad-stats.googlesyndication.com
 ###imgs5[height="60px"]
+0.0.0.0 s0.2mdn.net
 ###index_aside_ad
+0.0.0.0 s1.2mdn.net
 ###index_banner[src*=".meituan.net"]
+0.0.0.0 media.admob.com
 ###index_content_ad
+0.0.0.0 data.gosquared.com
 ###j-new-ad
 ###js-ad-map
+0.0.0.0 data2.gosquared.com
 ###js-popup-blocker
+0.0.0.0 cm.gtags.net
 ###js-ysjpp
+0.0.0.0 cms.gtags.net
 ###js_ads_banner_top
+0.0.0.0 dat.gtags.net
 ###js_ads_banner_top_slide
+0.0.0.0 uma.gtags.net
 ###k2Uw7isHrMm5JXP1Vwdxc567ZKc1aZ4I
+0.0.0.0 ut.gtags.net
 ###kfpopupDiv
+0.0.0.0 s10.histats.com
 ###ks > .DaKuang
 ###ldgindexbuttom
+0.0.0.0 s4.histats.com
 ###leftCouple
+0.0.0.0 7208853.hitslink.com
 ###leftCouple1
 ###leftCouplet
+0.0.0.0 counter.hitslink.com
 ###leftFloat + #rightFloat
+0.0.0.0 www.hitslink.com
 ###leftFloat1 + #rightFloat1
+0.0.0.0 ad.hot-mob.com
+0.0.0.0 m.hot-mob.com
 ###leftFloat[style="z-index: 999; position: fixed; left: 0px; bottom: 0px;"]
+0.0.0.0 www.hot-mob.com
 ###left_couple
+0.0.0.0 cdn.hot-mob.com
 ###left_couplet.close_discor
+0.0.0.0 track.hot-mob.com
 ###left_down_float_ad
+0.0.0.0 wap.hot-mob.com
 ###left_float + #right_float
+0.0.0.0 network.hot-mob.com
 ###left_float.close_discor
 ###left_up_float_ad
+0.0.0.0 monitor.hot-mob.com
 ###lefttd.lefttd
+0.0.0.0 dsp.hot-mob.com
 ###ljPz
+0.0.0.0 www3.hot-mob.com
 ###login_wp.foot_flwp
 ###lovexin1
+0.0.0.0 trk.hot-mob.com
 ###lovexin11
+0.0.0.0 testad.hot-mob.com
 ###lovexin12
 ###lovexin121
+0.0.0.0 www2.hot-mob.com
 ###lovexin13
 ###lovexin14
+0.0.0.0 webapi.hot-mob.com
 ###lovexin2
+0.0.0.0 cors.hot-mob.com
 ###lt-ad-radio
+0.0.0.0 adsite.hot-mob.com
+0.0.0.0 cdn.hyperpromote.com
 ###magneturlpost + .movie + .movie[style="padding:12px; margin-top:15px"]
+0.0.0.0 cdnas.hyperpromote.com
 ###mainbody:nth-child(5) > .mylist
+0.0.0.0 cdnis.hyperpromote.com
 ###mdp-deblocker-ads
+0.0.0.0 cdnpa.hyperpromote.com
 ###mdp-deblocker-js-disabled
 ###menu + #topBox
+0.0.0.0 sc.iasds01.com
 ###menu + script + #topBox
+0.0.0.0 fe-au.imrworldwide.com
 ###message_adblock
 ###miaov_float_layer
+0.0.0.0 fe1-au.imrworldwide.com
+0.0.0.0 fe2-au.imrworldwide.com
 ###micast_ads
 ###mobile-ad.hidden-md
+0.0.0.0 fe3-au.imrworldwide.com
 ###mobile-index > div#vodbm
+0.0.0.0 lycos-eu.imrworldwide.com
 ###mobile-index > div[id^="ins"]
+0.0.0.0 ninemsn.imrworldwide.com
 ###modal-adblocker
 ###modalgg
+0.0.0.0 rc-au.imrworldwide.com
 ###movieInfoRight
 ###movietp > .movietp
+0.0.0.0 secure-asia.imrworldwide.com
 ###mui-player + #player_pic
 ###mv_ad_dom
+0.0.0.0 secure-au.imrworldwide.com
 ###mv_float_layer
 ###my-adsFPR
+0.0.0.0 secure-chn.imrworldwide.com
 ###my_dp_a
 ###my_gd_a
+0.0.0.0 secure-dk.imrworldwide.com
 ###nav + .slider-spons
 ###nav-home > .coment-bottom
+0.0.0.0 secure-it.imrworldwide.com
 ###navcontainer + .moneyarea
+0.0.0.0 secure-jp.imrworldwide.com
 ###netease_mail_footer
 ###news_top_advert
+0.0.0.0 secure-nz.imrworldwide.com
 ###notify-adblock
 ###olfullad
+0.0.0.0 secure-sg.imrworldwide.com
 ###overture_ads_bottom_td
 ###overture_ads_top_td
 ###photo--content-title-bottomx--foot
 ###piao_div_0[style*="width:140px;"]
+0.0.0.0 secure-uk.imrworldwide.com
 ###piao_div_1[style*="width:140px;"]
+0.0.0.0 secure-us.imrworldwide.com
 ###piao_div_2[style*="width:140px;"]
+0.0.0.0 secure-yt.imrworldwide.com
 ###piao_div_3[style*="width:140px;"]
 ###piao_div_4[style*="width:140px;"]
+0.0.0.0 secure-za.imrworldwide.com
 ###piao_div_5[style*="width:140px;"]
+0.0.0.0 server-au.imrworldwide.com
 ###play[style="padding: 10px;"] > a[href*=".xmcdn.com"]
 ###player-bottom-ads
+0.0.0.0 server-br.imrworldwide.com
 ###playerAdvLayer
 ###playerJsvLayer.jsv-layer
 ###player_banner[style*="fixed;"]
@@ -6161,1634 +5888,1907 @@
 ###right_couple + #left_float
 ###right_couplet.close_discor
 ###right_down_float_ad
+0.0.0.0 server-by.imrworldwide.com
 ###right_float.close_discor
 ###right_up_float_ad
+0.0.0.0 server-de.imrworldwide.com
 ###rightd.rightd
 ###rip[href*=".taobao.com"]
+0.0.0.0 server-dk.imrworldwide.com
 ###rm-float + .popup
 ###rm-float3
+0.0.0.0 server-ee.imrworldwide.com
 ###sOIcquIT
 ###sc-superman-ad
+0.0.0.0 server-fi.imrworldwide.com
 ###search > a[href="/top1.html"]
+0.0.0.0 server-fr.imrworldwide.com
 ###sign-ad
 ###sitefocus.focus
+0.0.0.0 server-hk.imrworldwide.com
 ###snActive-wrap
 ###sponsorAdDiv2
+0.0.0.0 server-it.imrworldwide.com
 ###swtleft[style^="position:fixed;"]
+0.0.0.0 server-jp.imrworldwide.com
 ###syad.visible-xs
 ###syad1
+0.0.0.0 server-lt.imrworldwide.com
 ###syad2
 ###syad3
+0.0.0.0 server-lv.imrworldwide.com
 ###syad4
 ###syad5
+0.0.0.0 server-no.imrworldwide.com
 ###syad6
 ###t4>a
+0.0.0.0 server-nz.imrworldwide.com
 ###table1[width="468"][height="50"]
+0.0.0.0 server-oslo.imrworldwide.com
 ###table1[width="794"][height="60"]
+0.0.0.0 server-pl.imrworldwide.com
 ###table1[width="812"][height="50"]
+0.0.0.0 server-ru.imrworldwide.com
 ###table1[width="812"][height="60"]
 ###tanx-con-1
+0.0.0.0 server-se.imrworldwide.com
 ###tanx-fold-main
 ###taotaole
+0.0.0.0 server-sg.imrworldwide.com
 ###td_tpc > .ads
 ###textggs
+0.0.0.0 server-stockh.imrworldwide.com
 ###tie-popup-adblock
 ###timedfuo
+0.0.0.0 server-ua.imrworldwide.com
 ###top-gg-container
+0.0.0.0 server-uk.imrworldwide.com
 ###top100counter
 ###topNavad
+0.0.0.0 server-us.imrworldwide.com
 ###top_ads0
+0.0.0.0 telstra.imrworldwide.com
 ###top_box > a[onclick^="javascript"]
 ###toperAd2
+0.0.0.0 i.l.inmobicdn.net
+0.0.0.0 au.w.inmobi.cn
 ###toptb + div[align="center"]
 ###toptd.toptd
+0.0.0.0 sdkm.w.inmobi.cn
 ###tr_ad1
+0.0.0.0 api.w.inmobi.com
 ###tr_ad10
 ###tr_ad11
+0.0.0.0 apptv.w.inmobi.com
 ###tr_ad2
 ###tr_ad3
+0.0.0.0 au.w.inmobi.com
 ###tr_ad4
+0.0.0.0 c.w.inmobi.com
 ###tr_ad5
 ###tr_ad6
+0.0.0.0 cf.cdn.inmobi.com
 ###tr_ad7
 ###tr_ad8
+0.0.0.0 config-ltvp.inmobi.com
 ###tr_ad9
+0.0.0.0 config.inmobi.com
 ###tripadvisor-ad
 ###undertd.undertd
+0.0.0.0 et.w.inmobi.com
 ###upprev_box
+0.0.0.0 i.w.inmobi.com
 ###videoADPIC
+0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 www.inmobi.com
+0.0.0.0 freecodecs.us.intellitxt.com
+0.0.0.0 images.intellitxt.com
 ###video_playr_side.video_playr_sider.videoplayerside
 ###vpnModal.nordvpn-popup
+0.0.0.0 jizzads.com
 ###whYuTlxF
+0.0.0.0 www.jizzads.com
 ###widget-quan
 ###windlocation
+0.0.0.0 img.jizzads.com
 ###wp > .V-video-float
+0.0.0.0 ads-a.juicyads.com
 ###wp > .V-videoFloat
 ###wrapper > .topad
+0.0.0.0 ads.juicyads.com
 ###wrapper > div[style="padding:3px;"] > #pic
+0.0.0.0 adserver.juicyads.com
 ###wrapperBlocker
+0.0.0.0 ck.juicyads.com
 ###xinnxi
 ###xqad
+0.0.0.0 xapi.juicyads.com
 ###xqad1
 ###xqad2
+0.0.0.0 ad.leadboltads.net
 ###xqad3
 ##.AD_TAC_BOX
+0.0.0.0 ad.leadboltapps.net
 ##.AdblockBanner
 ##.AdblockMessage
+0.0.0.0 ads.leadboltads.net
 ##.AdblockMessage_msg
 ##.BrokenAd
+0.0.0.0 www.ad.leadboltads.net
 ##.C1U,.C1M,.C2L,.C2R
+0.0.0.0 5ad.leadboltads.net
 ##.Flagrow-Ads-under-header
 ##.MacPlayer > #play-pause
+0.0.0.0 ww2.leadboltads.net
 ##.RMss1
+0.0.0.0 atlas.leadboltads.net
 ##.Text-Advertising
 ##.TqAdShow
+0.0.0.0 nad.leadboltads.net
 ##.Zi_ad_a_H
 ##.Zi_ad_a_SB
+0.0.0.0 training.leadboltads.net
 ##._300x250.item
+0.0.0.0 ww1.leadboltads.net
 ##.__isboostOverContent
 ##._cggp
+0.0.0.0 ww4.leadboltads.net
 ##._ggs
 ##.a_2mu
+0.0.0.0 ww3.leadboltads.net
 ##.a_cn
 ##.a_fl
+0.0.0.0 ad7.leadboltads.net
 ##.a_fr
 ##.a_oscar1
+0.0.0.0 asia.marketo.com
 ##.a_pb
 ##.a_ssk_cn
+0.0.0.0 munchkin.marketo.net
 ##.a_sxc
 ##.a_sxfl
+0.0.0.0 pages2.marketo.com
 ##.a_sxmu
 ##.a_sxp
+0.0.0.0 imgg.mgid.com
 ##.a_sxpb
 ##.a_xsfl
+0.0.0.0 jsc.mgid.com
 ##.aab-post
+0.0.0.0 mgid.com
 ##.aasd-text
+0.0.0.0 www.mgid.com
 ##.aasdwa
+0.0.0.0 ads.nexage.com
 ##.ab-detected
 ##.ab-detector-wrap
+0.0.0.0 www.millennialmedia.com
 ##.ad-above-footer
+0.0.0.0 my.mobfox.com
 ##.ad-alert-message-text
+0.0.0.0 www.mobfox.com
 ##.ad-alert-wrapper
+0.0.0.0 apps.mobilityware.com
 ##.ad-below-adjacent-post
+0.0.0.0 ads.mobilityware.com
 ##.ad-below-header-menu
 ##.ad-below-post-title
+0.0.0.0 ads.mopub.com
 ##.ad-below-related-post
+0.0.0.0 analytics.mopub.com
 ##.ad-block-cn
+0.0.0.0 www.mopub.com
 ##.ad-block-detected
 ##.ad-block-enabled
+0.0.0.0 ads.mp.mydas.mobi
 ##.ad-block-message
+0.0.0.0 ads.mydas.mobi
 ##.ad-block__overlay
+0.0.0.0 androidsdk.ads.mp.mydas.mobi
 ##.ad-blocked
 ##.ad-blocked-container
+0.0.0.0 cvt.mydas.mobi
 ##.ad-blocked-wrapper
+0.0.0.0 newrelic.com
 ##.ad-blocker-warning
+0.0.0.0 ad.propellerads.com
 ##.ad-blocking-advisor-wrapper
+0.0.0.0 geoip.propellerads.com
 ##.ad-couplet-common
+0.0.0.0 cdn.propellerads.com
 ##.ad-left-down
 ##.ad-pc
+0.0.0.0 tracking2.propellerads.com
 ##.ad-right-down
 ##.ad-right-top
+0.0.0.0 statsv2.propellerads.com
 ##.ad-shine-panel
 ##.ad-site
+0.0.0.0 apistats.propellerads.com
 ##.ad.mi_btcon
+0.0.0.0 stats.propellerads.com
 ##.ad250left
 ##.ad250right
+0.0.0.0 ab-config.propellerads.com
 ##.ad300left
 ##.ad336left
+0.0.0.0 report.propellerads.com
 ##.ad990x130
+0.0.0.0 tracking.propellerads.com
 ##.ad990x90
 ##.adBlock-banner
+0.0.0.0 apiad.propellerads.com
 ##.adBlockDetectModal
+0.0.0.0 apistats-static.propellerads.com
 ##.adBlockDetectedSign
 ##.adBlockNotification
+0.0.0.0 adp.propellerads.com
 ##.adBlockNotificationOverlay
+0.0.0.0 native.propellerads.com
 ##.adBlockWarning
+0.0.0.0 edge.quantserve.com
 ##.adContainer[style="margin-top: -5px"]
 ##.adHF
+0.0.0.0 pixel.quantserve.com
 ##.adHF3
 ##.adHF6
 ##.ad_block_detected
+0.0.0.0 secure.quantserve.com
 ##.ad_block_off
+0.0.0.0 cdn1.srv.revdepo.com
 ##.ad_blocker
 ##.ad_content_mask
+0.0.0.0 srv.revdepo.com
 ##.ad_couplebanner
+0.0.0.0 tags4.revdepo.com
 ##.ad_footerbanner
+0.0.0.0 js.revsci.net
 ##.ad_headerbanner
 ##.ad_hf
+0.0.0.0 pd7-imp.revsci.net
 ##.ad_img
 ##.ad_pc
+0.0.0.0 pix04.revsci.net
 ##.ad_right_1
+0.0.0.0 optimized-by.rubiconproject.com
 ##.ad_right_2
 ##.ad_thread
+0.0.0.0 secure-assets.rubiconproject.com
 ##.adace-popup-detector
+0.0.0.0 www.rubiconproject.com
 ##.adb-detect.simple-alert-boxes
 ##.adb-enabled
+0.0.0.0 b.scorecardresearch.com
 ##.adbd-background
+0.0.0.0 sb.scorecardresearch.com
 ##.adbd-message
 ##.adbd-wrapper
+0.0.0.0 udm.scorecardresearch.com
 ##.adblock-message
+0.0.0.0 cdn-settings.segment.com
 ##.adblock-modal
 ##.adblock-modal-content
+0.0.0.0 activity.serving-sys.com
 ##.adblock-notification-wrapper
+0.0.0.0 bs.serving-sys.com
 ##.adblock-player
 ##.adblock-stop
+0.0.0.0 bsch.serving-sys.com
 ##.adblock-warning-partial-component
+0.0.0.0 datacapture.serving-sys.com
 ##.adblock-warning-teaser
 ##.adblockInfo
+0.0.0.0 ds-ll.serving-sys.com
 ##.adblockOverlay
+0.0.0.0 ds.serving-sys.com
 ##.adblock_detector
 ##.adblock_enabled
+0.0.0.0 secure-ds.serving-sys.com
 ##.adblock_floating_message
 ##.adblock_msg
+0.0.0.0 us.bs.serving-sys.com
 ##.adblockalert
+0.0.0.0 cdn1.smartadserver.com
 ##.adblocker-message
 ##.adblocker-root
+0.0.0.0 www6.smartadserver.com
 ##.adblocker-wrap
+0.0.0.0 ww251.smartadserver.com
 ##.adbox-bg.adscounter
 ##.add-gg
+0.0.0.0 ww881.smartadserver.com
 ##.addddddwarp
 ##.adlistcss
+0.0.0.0 edge.sharethis.com
 ##.adpc
+0.0.0.0 seg.sharethis.com
 ##.adpcc
 ##.adppc
+0.0.0.0 w.sharethis.com
 ##.ads > #video_playr_sider
+0.0.0.0 wd-edge.sharethis.com
 ##.ads > a > img[src*=".sinaimg."]
+0.0.0.0 lp.startapp.com
 ##.ads-after-content
+0.0.0.0 images.startappservice.com
 ##.ads-after-header
 ##.ads-all
+0.0.0.0 info.static.startappservice.com
 ##.ads-before-content
+0.0.0.0 req.startappservice.com
 ##.ads-block-warning
 ##.ads100
+0.0.0.0 init.startappexchange.com
 ##.ads200
 ##.ads_all > .ads_w
+0.0.0.0 www.startappexchange.com
 ##.ads_desktop
+0.0.0.0 c.statcounter.com
 ##.ads_mobile
 ##.ads_plugin
+0.0.0.0 c1.statcounter.com
 ##.ads_topBanner
+0.0.0.0 c2.statcounter.com
 ##.adsblocked
 ##.adsense160
+0.0.0.0 secure.statcounter.com
 ##.adsense200
+0.0.0.0 www.statcounter.com
 ##.adsoho
 ##.adv-6park
+0.0.0.0 px.steelhousemedia.com
 ##.adv-couplets
+0.0.0.0 rto.steelhousemedia.com
 ##.adv-g1
+0.0.0.0 15.taboola.com
 ##.advInfoElem
+0.0.0.0 cdn.taboola.com
 ##.advert-short
 ##.advertise
+0.0.0.0 images.taboola.com
 ##.advertising_lightbox
+0.0.0.0 imprhkmp.taboola.com
 ##.adwap
 ##.afc_popup
+0.0.0.0 match.taboola.com
 ##.aiboav-ads
+0.0.0.0 trc.taboola.com
 ##.alert_windows > .q-card__actions > a
+0.0.0.0 vidstat.taboola.com
 ##.anniversary-wrap-2018
 ##.apd-footer
+0.0.0.0 cdn.taboola.com.cn
 ##.apd-home
 ##.apd-right
+0.0.0.0 cdn.taboolasyndication.com
 ##.app-down-fix.body-fix
+0.0.0.0 tapjoy.cn
 ##.appdownload_ad + .hider
+0.0.0.0 tapjoy.com
+0.0.0.0 tapjoyads.com
 ##.appguide-wrap[onclick*="bcebos.com"]
+0.0.0.0 ws.tapjoyads.com
 ##.archive > a[ontouchstart="this.click();"]
+0.0.0.0 ads.trafficjunky.net
 ##.area > .tuiguang
 ##.artad
+0.0.0.0 media.trafficjunky.net
 ##.article-pop-up-ad
+0.0.0.0 vz-cdn.trafficjunky.net
 ##.artplayer-plugin-ads
 ##.asb-index
+0.0.0.0 ad.turn.com
 ##.asb-post
+0.0.0.0 analytics.turn.com
 ##.assort-ad
 ##.aub-post
+0.0.0.0 d.turn.com
+0.0.0.0 www.turn.com
 ##.ayx[style="display:block;"]
+0.0.0.0 beacon2.turn.com
+0.0.0.0 static.turn.com
 ##.ayx[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
+0.0.0.0 api.turn.com
 ##.ayx[style^="position: fixed;bottom"]
+0.0.0.0 metrics.turn.com
 ##.b300 > .h100 > a[href^="http"]
+0.0.0.0 status.turn.com
 ##.b_oscar1
 ##.b_pr
+0.0.0.0 ak.ad.turn.com
 ##.b_sxc
 ##.b_sxp
+0.0.0.0 d-audienceiq-hkg1.turn.com
 ##.b_sxp + .zxy
 ##.baiduad
+0.0.0.0 d-audienceiq-atl1.turn.com
 ##.banner-ad-section
+0.0.0.0 beacon1.turn.com
 ##.banner-cctv-A2
 ##.banner-cctv-Topping
+0.0.0.0 console-audienceiq-sjc2.turn.com
 ##.bdyp-sygg-ul
+0.0.0.0 ad2.turn.com
 ##.before_playing_cctv.yc
+0.0.0.0 ad2.cdns.turn.com
 ##.below_ads
+0.0.0.0 attadworks.turn.com
 ##.bg > img[src*=".meituan.net"]
 ##.bhgg
+0.0.0.0 www.adworks.att.com.turn.com
 ##.bjxhf
-0.0.0.0 ad-cloud.jp
 ##.bl > .gg
+0.0.0.0 api.viglink.com
 ##.blockingAd
+0.0.0.0 cdn.viglink.com
 ##.bm.a_c
-0.0.0.0 www.ad-cloud.jp
 ##.bn728-100
-0.0.0.0 ad.adfurikun.jp
+0.0.0.0 cl.webterren.com
 ##.bn728-93
-0.0.0.0 api.adfurikun.jp
+0.0.0.0 cl0.webterren.com
 ##.book > #btmBox
-0.0.0.0 i.adfurikun.jp
-0.0.0.0 ipua.adfurikun.jp
+0.0.0.0 cl2.webterren.com
 ##.bottom-pic,.col-pd.mb10
-0.0.0.0 i-mobile.co.jp
+0.0.0.0 cl3.webterren.com
 ##.bottomSponsor
-0.0.0.0 spad.i-mobile.co.jp
-0.0.0.0 spcdnpc.i-mobile.co.jp
+0.0.0.0 cl4.webterren.com
 ##.bottom_fixed > #imgs_link4
-0.0.0.0 spcnv.i-mobile.co.jp
+0.0.0.0 cl5.webterren.com
 ##.bottom_mengcheng_ad_wrap
-0.0.0.0 spdeliver.i-mobile.co.jp
+0.0.0.0 ads.yahoo.com
 ##.bottomads + .leftd
-0.0.0.0 spdmg-backend.i-mobile.co.jp
 ##.bottomd + .leftd
-0.0.0.0 spdmg.i-mobile.co.jp
-0.0.0.0 spnet2-1.i-mobile.co.jp
+0.0.0.0 adserver.yahoo.com
 ##.bottomd > .closebox2
-0.0.0.0 spnet33.i-mobile.co.jp
-0.0.0.0 ssp-bidder.i-mobile.co.jp
-0.0.0.0 analytics.mobadme.jp
+0.0.0.0 analytics.query.yahoo.com
 ##.box_con[style="border-radius:10px;background-color:#ff0000;padding:15px;"]
-0.0.0.0 car.mobadme.jp
-0.0.0.0 mobadme.jp
+0.0.0.0 analytics.yahoo.com
 ##.broadcastMe[style="width: 1200px;"]
-0.0.0.0 ad1.nend.net
-0.0.0.0 ad2.nend.net
+0.0.0.0 beap-bc.yahoo.com
 ##.btn.btn-success.text-white[href*=".com:"]
-0.0.0.0 img1.nend.net
+0.0.0.0 beap.adss.yahoo.com
 ##.bus_adsbox
-0.0.0.0 js1.nend.net
-0.0.0.0 output.nend.net
+0.0.0.0 js-apac-ss.ysm.yahoo.com
 ##.callApp_fl_btn[onclick^="open_app"]
-0.0.0.0 impression.nend.net
 ##.cari-ads
-0.0.0.0 ymurase.ad.dev.nend.net
+0.0.0.0 n.gemini.yahoo.com
 ##.cfa_popup
-0.0.0.0 m-hayakawa.ad.dev.nend.net
 ##.chat-ad
-0.0.0.0 yamada2-dev.nend.net
+0.0.0.0 na.ads.yahoo.com
 ##.chat-right-ad
-0.0.0.0 ad3.nend.net
+0.0.0.0 p3p.yahoo.com
 ##.chat-sysbroadcast-ad
-0.0.0.0 rtb.tamura.ad.dev.nend.net
 ##.chat-top-ad
-0.0.0.0 hsts.rtb.tamura.ad.dev.nend.net
-0.0.0.0 yamada.ad.dev.nend.net
-0.0.0.0 api.nend.net
-0.0.0.0 ad4.nend.net
+0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 pr-bh.ybp.yahoo.com
 ##.clearfix > a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
-0.0.0.0 static-interactive-api.nend.net
-0.0.0.0 st.yengo.com
+0.0.0.0 pr.ybp.yahoo.com
 ##.clearfix.col5.row > #listBox
-0.0.0.0 www.yengo.com
-0.0.0.0 ad.adriver.ru
 ##.col-md-10 > .banner-table-block
-0.0.0.0 content.adriver.ru
+0.0.0.0 us.adserver.yahoo.com
 ##.col5 > dl#randomBox
-0.0.0.0 servers1.adriver.ru
-0.0.0.0 edp2.adriver.ru
-0.0.0.0 ssp.adriver.ru
-0.0.0.0 am15.net
-0.0.0.0 b.am15.net
-0.0.0.0 c.am15.net
+0.0.0.0 yads.c.yimg.jp
+0.0.0.0 yads.yahoo.co.jp
+0.0.0.0 ad.flurry.com
 ##.col6 > a[onclick*="横幅"]
-0.0.0.0 cache.betweendigital.com
 ##.comiis_ad
-0.0.0.0 match.ads.betweendigital.com
+0.0.0.0 adlog.flurry.com
 ##.comiis_adbox
-0.0.0.0 dmg.digitaltarget.ru
 ##.comiis_guanggao
-0.0.0.0 tag.digitaltarget.ru
+0.0.0.0 ads.flurry.com
 ##.comiis_guanggao_tit
-0.0.0.0 cdn.marketgid.com
+0.0.0.0 cdn.flurry.com
 ##.common-topad
 ##.common_ad
-0.0.0.0 counter.marketgid.com
+0.0.0.0 data.flurry.com
 ##.con_search + #carousel-example-generic[style^="max-width: 1170px;"]
-0.0.0.0 imgg.marketgid.com
+0.0.0.0 flurry.com
 ##.con_section > .da
-0.0.0.0 jsc.marketgid.com
 ##.conch-ads-box
-0.0.0.0 marketgid.com
+0.0.0.0 www.flurry.com
 ##.container + .container > .warp > .cate
+0.0.0.0 flurry.cachefly.net
 ##.container > #dhshtml
-0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 ##.container > .index-ad
-0.0.0.0 gmtdmp.mookie1.com
+0.0.0.0 www.adtaily.com
 ##.container > .slide-baidu
-0.0.0.0 ru-gmtdmp.mookie1.com
+0.0.0.0 d8.zedo.com
 ##.container > .t-img-box:first-child
-0.0.0.0 cdn-rtb.sape.ru
+0.0.0.0 z1.zedo.com
 ##.container > a.mid-wrapper
-0.0.0.0 dispenser-rtb.sape.ru
+0.0.0.0 eus.rubiconproject.com
 ##.container > a[href^="http"] > .ads
-0.0.0.0 ssp-rtb.sape.ru
+0.0.0.0 i.liadm.com
 ##.containeradvertising
 ##.content > #dhxhtml
-0.0.0.0 counter.yadro.ru
+0.0.0.0 i.ssix.io
 ##.content > a > .topline
-0.0.0.0 mg.yadro.ru
+0.0.0.0 load77.exelator.com
 ##.content-video > .ads
-0.0.0.0 an.yandex.ru
+0.0.0.0 stags.bluekai.com
 ##.content-video > .ads-player
-0.0.0.0 mc.yandex.ru
 ##.content_ad_300
-0.0.0.0 st.yandexadexchange.net
+0.0.0.0 sync.crwdcntrl.net
 ##.corner-gg
 ##.counterAdblocks
-0.0.0.0 ad.mail.ru
+0.0.0.0 server.exposebox.com
 ##.couplet_9cb0d
-0.0.0.0 rtb.com.ru
+0.0.0.0 adspaces.ero-advertising.com
 ##.coupletad
 ##.ctm_ad
-0.0.0.0 sync-eu.exe.bid
+0.0.0.0 api-secure.solvemedia.com
 ##.cui-pt-item[data-qhb]
-0.0.0.0 sync.1dmp.io
 ##.d_banner_inner
-0.0.0.0 x01.aidata.io
+0.0.0.0 c.adsco.re
 ##.dabc > .ng-star-inserted
-0.0.0.0 api.rees46.com
+0.0.0.0 fans.bestvogue.com
 ##.davwheat-ad
-0.0.0.0 bgrndi.com
+0.0.0.0 code.hot-mob.com
 ##.ddd.ng-star-inserted
+0.0.0.0 rad.reporo.net
 ##.deadblocker-header-bar
-0.0.0.0 match.c8.net.ua
+0.0.0.0 ads.traffichunt.com
 ##.deadblocker-header-bar-inner
-0.0.0.0 matching.targeterra.com
+0.0.0.0 nexus.ensighten.com
 ##.detectBlockBox
-0.0.0.0 mrelko.com
+0.0.0.0 beacon.krxd.net
 ##.detected-block-modal
-0.0.0.0 profile.ssp.rambler.ru
 ##.dipiao
-0.0.0.0 sync.rambler.ru
+0.0.0.0 cdn.krxd.net
 ##.dispositifAdblock
-0.0.0.0 recreativ.ru
+0.0.0.0 stats.wp.com
 ##.dispositifAdblockContent
-0.0.0.0 track.recreativ.ru
-0.0.0.0 sync.audtd.com
+0.0.0.0 rum-collector.pingdom.net
 ##.dispositifAdblockMessageBox
-0.0.0.0 sync2.audtd.com
-0.0.0.0 relap.io
-0.0.0.0 s.uuidksinc.net
-0.0.0.0 spb.bid.run
+0.0.0.0 rum-static.pingdom.net
+0.0.0.0 inclk.com
 ##.div-search-box.col-lg-offset-2.col-lg-8 > a[href^="http"][target="_blank"]
-0.0.0.0 sync.audsp.com
-0.0.0.0 sync.morgdm.ru
+0.0.0.0 p215223.inclk.com
 ##.diysdk_webServices_banners1und1MainContent
-0.0.0.0 sync.republer.com
-0.0.0.0 t.supermario.xyz
-0.0.0.0 t.trafmag.com
+0.0.0.0 n.ads3-adnow.com
 ##.downcode[style^="position:fixed;z-index:1000;top:200px;"]
-0.0.0.0 v.rmbn.net
+0.0.0.0 st-n.ads3-adnow.com
 ##.dplayer > .tips
-0.0.0.0 www.bgrndi.com
-0.0.0.0 www.mrelko.com
 ##.duilian > .leftd
-0.0.0.0 adriver-sync.rutarget.ru
+0.0.0.0 c.codeonclick.com
 ##.ec-ad
-0.0.0.0 advombat.ru
 ##.edtj
-0.0.0.0 bam.nr-data.net
+0.0.0.0 p215223.clksite.com
 ##.eis_muad
-0.0.0.0 betsonsport.ru
-0.0.0.0 faggrim.com
 ##.embed-responsive-trendmd
-0.0.0.0 openstat.net
+0.0.0.0 p215223.mycdn2.co
 ##.error > #qqs
-0.0.0.0 oredero.com
+0.0.0.0 www.onclicktop.com
 ##.event_fullscreen_gg_modal
-0.0.0.0 pixel.vihub.ru
-0.0.0.0 rutrk.org
 ##.f-sign-cont[data-dysign-adid]
-0.0.0.0 stat.adlabs.ru
+0.0.0.0 lbstatic-a.akamaihd.net
 ##.fc_foot
-0.0.0.0 uuidksinc.net
-0.0.0.0 wallet.advcash.com
+0.0.0.0 pix.tagcdn.com
 ##.fed-part-advs.fed-text-center.fed-font-xvi
-0.0.0.0 winlinebet.ru
-0.0.0.0 wlneteller.adsrv.eacdn.com
+0.0.0.0 serving.bepolite.eu
 ##.fed-part-case > .ads-img
-0.0.0.0 www.acint.net
 ##.feed-item[data-ad]
-0.0.0.0 www.inoprosport.su
+0.0.0.0 static.bepolite.eu
 ##.ff-ads
-0.0.0.0 www.tns-counter.ru
-0.0.0.0 x.bidswitch.net
+0.0.0.0 s1.adform.net
 ##.fixed-bottom.jsv.jsv-g1
-0.0.0.0 018520.com
+0.0.0.0 track.adform.net
 ##.flex-row > #propagandaLeft
-0.0.0.0 13023.url.7wkw.com
-0.0.0.0 30350f.com
 ##.flex-row > #propagandaRight
-0.0.0.0 77455.com
-0.0.0.0 8184.cc
+0.0.0.0 www.tradeadexchange.com
 ##.float-adv-left-bottom
-0.0.0.0 8315.cn
 ##.float-adv-left-top
-0.0.0.0 apnmedia.ask.com
-0.0.0.0 baidut.github.io
+0.0.0.0 static.addtoany.com
 ##.float-adv-right-bottom
-0.0.0.0 c.silvinst.com
 ##.float-adv-right-top
-0.0.0.0 c16cp358.com
-0.0.0.0 c2.58toto.net
+0.0.0.0 pl14369502.puserving.com
 ##.float-left12 > .div-list
-0.0.0.0 cdn.app.liuxingyul.cn
 ##.floatAd
-0.0.0.0 cdn.img.liuxingyul.cn
+0.0.0.0 ie8eamus.com
 ##.float_bot_right
-0.0.0.0 down.xiazaidc.com
+0.0.0.0 adinfo.aol.com
 ##.fnwehjnc12
-0.0.0.0 downlaod.xiaocen.com
 ##.frAd
-0.0.0.0 download.123cw.cn
+0.0.0.0 cdn.at.atwola.com
 ##.frontpageAdvM
-0.0.0.0 download.fuyuncc.com
+0.0.0.0 cdn.atwola.com
 ##.fuckYouAdBlock
-0.0.0.0 download.mediaget.com
-0.0.0.0 download.qianka.com
+0.0.0.0 ad-stir.com
 ##.fuckYouAdBlock2
-0.0.0.0 download3.123cw.cn
+0.0.0.0 ad.ad-stir.com
 ##.full.banners12
-0.0.0.0 ffb.feihuo.com
 ##.g1_wz > .g1_tp
-0.0.0.0 girlcc.cc
+0.0.0.0 api.ad-stir.com
 ##.getads
-0.0.0.0 h5.jiumaster.com
+0.0.0.0 dist.bpc.ad-stir.com
 ##.gg-box
-0.0.0.0 hao.tiandi.com
 ##.gg-one
-0.0.0.0 hao916.com
+0.0.0.0 js.ad-stir.com
 ##.gg1000
-0.0.0.0 hjc1990.com
-0.0.0.0 hwt.player888.cn
+0.0.0.0 rtb.ad-stir.com
 ##.gg430
-0.0.0.0 img.apnanalytics.com
 ##.gg_300
-0.0.0.0 inapp.1sapp.com
+0.0.0.0 blue-ad.ad-stir.com
 ##.gg_728
-0.0.0.0 iosipa.b0.upaiyun.com
 ##.gg_950
-0.0.0.0 ld.mediaget.com
+0.0.0.0 nad.ad-stir.com
 ##.gg_960
-0.0.0.0 m.649649.com
+0.0.0.0 js2.ad-stir.com
 ##.gg_canvas
-0.0.0.0 m.937920.com
 ##.gg_full
-0.0.0.0 m.qianka.com
+0.0.0.0 dl.ad-stir.com
 ##.gg_pc
-0.0.0.0 m.qulishi.com
+0.0.0.0 cf-ad.ad-stir.com
 ##.gg_tp
-0.0.0.0 m.xingxd.com
 ##.ggad
-0.0.0.0 mibook-10006092.cos.myqcloud.com
+0.0.0.0 stage-uev.ad-stir.com
 ##.gggpost-above
-0.0.0.0 onclkds.com
 ##.ggpost-below
-0.0.0.0 p.raidmedia.com.cn
-0.0.0.0 p555.cc
+0.0.0.0 api.ad.ad-stir.com
 ##.ggtop
-0.0.0.0 pj3456.com
-0.0.0.0 pj50.com
-0.0.0.0 pl108258.puserving.com
-0.0.0.0 redpaper-10006092.cos.myqcloud.com
-0.0.0.0 script.crazyegg.com
-0.0.0.0 static.hotjar.com
-0.0.0.0 suedai.com
-0.0.0.0 tactics.bainv.net
-0.0.0.0 u.raidmedia.com.cn
-0.0.0.0 update.bainv.net
-0.0.0.0 url.tudown.com
-0.0.0.0 vn543.com
-0.0.0.0 w2528.com
-0.0.0.0 www.142904.com
-0.0.0.0 www.1933000.com
-0.0.0.0 www.203710.com
-0.0.0.0 www.2345at.com
+0.0.0.0 ad.shepard.ad-stir.com
+0.0.0.0 click.bpc.ad-stir.com
+0.0.0.0 uev.ad-stir.com
+0.0.0.0 sync.ad-stir.com
+0.0.0.0 click.ad-stir.com
 ##.ggw
-0.0.0.0 www.32666099.com
 ##.global_video_bottom_dbtc
-0.0.0.0 www.4242jj.com
 ##.google-ad2_fixed
-0.0.0.0 www.4242lll.com
 ##.google_adsense2
-0.0.0.0 www.4242uuu.com
 ##.gotoclick[adv_id]
-0.0.0.0 www.4wad.com
 ##.gpost-below
 ##.gpt_ads_box
-0.0.0.0 www.555p555p.com
 ##.gpt_ads_title
-0.0.0.0 www.6666349.com
 ##.gr_slide_car_inner
-0.0.0.0 www.66992949.com
 ##.guanggaoBox
 ##.guruin-ads
-0.0.0.0 www.700900.com
 ##.hao123-unionad-pic
-0.0.0.0 www.7ldou.com
 ##.hbp > .wp_banner
-0.0.0.0 www.878090.com
 ##.header-blocked-ad
-0.0.0.0 www.9948000.com
 ##.headxx11xiaoapp
 ##.heg > .div-list
-0.0.0.0 www.bb1429.com
 ##.heg > .partner-list
-0.0.0.0 www.bet36500050.com
 ##.his-sign-cont[data-dysign-adid]
-0.0.0.0 www.c77777777.com
 ##.hlol_ad
 ##.homepage > .wp-none1
-0.0.0.0 www.d77777777.com
 ##.hongbao_hd
-0.0.0.0 www.fanqianbb.com
 ##.horizontal-banner
-0.0.0.0 www.iiewl.com
 ##.hzxld
 ##.iHead960x90
-0.0.0.0 www.jinshagt222.com
 ##.ibtad
-0.0.0.0 www.pj5189.com
 ##.imagegg-container
-0.0.0.0 www.pp9899.com
 ##.imgBox > div[class^="ad"]
-0.0.0.0 www.um0592.com
 ##.index-top-aassd
 ##.index-top-ad
-0.0.0.0 www.v00087.com
 ##.index-top-gg
 ##.index-wz-ad
-0.0.0.0 www.xpjylc9977.com
 ##.index_alert_gg
-0.0.0.0 www.ylwy168.com
 ##.indexad2
 ##.indexad3
-0.0.0.0 wwww.649649.com
 ##.indexad4
-0.0.0.0 xpj1.net
 ##.indexnews-ad
-0.0.0.0 xpj2.net
-0.0.0.0 xpj3.net
 ##.infomation + #notice_container > .event-notice
-0.0.0.0 xpj4.net
 ##.inner-advertise
-0.0.0.0 xpj8088.com
 ##.it618_firstad_flex
 ##.itopbar + .container
 ##.jag8CityBio212023
 ##.jav-nav + .bcpic
 ##.jav-nav + .bcpic2
-0.0.0.0 xpjkf888.com
 ##.jingqun_tu
-0.0.0.0 soft.jiegeng.com
 ##.jq_infoflow_ad_wrap
 ##.jq_mediav_ad_report
-0.0.0.0 log.liusha.info
+0.0.0.0 mon.ad-stir.com
 ##.jqrp_infoflow_ad
-0.0.0.0 statistics.liusha.info
+0.0.0.0 ad-api.ad-stir.com
 ##.js-ad-whitelist-notice
 ##.js-checkad-warning
-0.0.0.0 template.liusha.info
+0.0.0.0 nad-stage1.ad-stir.com
 ##.js-cui-pt-item[data-qhb]
-0.0.0.0 j.credit.wwz114.cn
+0.0.0.0 green-ad.ad-stir.com
 ##.jsv > .mobile-adv
-0.0.0.0 adsmind.gdtimg.com
+0.0.0.0 adcloud.jp
+0.0.0.0 ad-cloud.jp
 ##.jsv-layer > .image > a[href^="http"]
-0.0.0.0 smartnews-ads.com
 ##.ka-flo
-0.0.0.0 www.kldsam.com
+0.0.0.0 www.ad-cloud.jp
 ##.kill-adblock-container
+0.0.0.0 ad.adfurikun.jp
 ##.kjk-flo
-0.0.0.0 down.ewo1617.com
 ##.ksads
+0.0.0.0 api.adfurikun.jp
 ##.kuandu > .bottommob
-0.0.0.0 acdcdn.com
+0.0.0.0 i.adfurikun.jp
 ##.leftadv
+0.0.0.0 ipua.adfurikun.jp
 ##.leftd + .rightd
-0.0.0.0 squeezedthoughtfully.com
+0.0.0.0 i-mobile.co.jp
 ##.leftd1 + .rightd1
-0.0.0.0 sorrowfulchemical.com
 ##.leo-container .ssr1
-0.0.0.0 regulationprivilegescan.top
+0.0.0.0 spad.i-mobile.co.jp
 ##.link > .image[src*=".qhimg.com/"]
-0.0.0.0 www.sundady.online
+0.0.0.0 spcdnpc.i-mobile.co.jp
 ##.listok > a > img[src*=".alicdn.com"][width="980"][height="80"]
-0.0.0.0 show.govjiangsu.cn
-0.0.0.0 pv.dakawm.cc
+0.0.0.0 spcnv.i-mobile.co.jp
 ##.listok > a > img[style^="width:980px;height:"]
-0.0.0.0 xzj.kebi1.top
+0.0.0.0 spdeliver.i-mobile.co.jp
 ##.loc-home-top-adv-new
+0.0.0.0 spdmg-backend.i-mobile.co.jp
 ##.lol-ad
-0.0.0.0 n.35kds.com
 ##.lol_ad
-0.0.0.0 fjjmnh.com
+0.0.0.0 spdmg.i-mobile.co.jp
 ##.look_more_a[onclick^="open_app"]
+0.0.0.0 spnet2-1.i-mobile.co.jp
 ##.lyzm-prevent
+0.0.0.0 spnet33.i-mobile.co.jp
 ##.m1938-container
+0.0.0.0 ssp-bidder.i-mobile.co.jp
 ##.m_hot_rec_box_base[id^="right"]
-0.0.0.0 jsmxkj.com
 ##.main-ad-l
-0.0.0.0 dat8.cc
+0.0.0.0 analytics.mobadme.jp
 ##.main-ad-r
-0.0.0.0 036e.cn
+0.0.0.0 car.mobadme.jp
 ##.main-ad-r + .topad
-0.0.0.0 hxlover.com
+0.0.0.0 mobadme.jp
+0.0.0.0 ad1.nend.net
 ##.main-container > #dhxhtml
-0.0.0.0 etl-xlmc-ssl.xunlei.com
+0.0.0.0 ad2.nend.net
 ##.main-content > .a2b3
-0.0.0.0 fangniaowang.net
+0.0.0.0 img1.nend.net
 ##.main[style="border:#7D8C8E solid 1px;height: 23px;"]
-0.0.0.0 api.aiclk.com
+0.0.0.0 js1.nend.net
 ##.main_adbalert
-0.0.0.0 cdn.aiclk.com
 ##.mainbg > #s11navtop
-0.0.0.0 oss.cdn.aiclk.com
 ##.maomi-content > #main-container > .row.mob40 + .row
-0.0.0.0 rcv.aiclk.com
 ##.maomi-content > .section-banner
-0.0.0.0 update0.aiclk.com
-0.0.0.0 adv.aiclk.com
+0.0.0.0 output.nend.net
+0.0.0.0 impression.nend.net
 ##.maomi-content > .section-menu > .row > a[target="_blank"]
-0.0.0.0 game-motivatead.aiclk.com
+0.0.0.0 ymurase.ad.dev.nend.net
 ##.maomi-content > a[target="_blank"]
-0.0.0.0 tac.aiclk.com
 ##.mbads
-0.0.0.0 tracelog-debug.aiclk.com
+0.0.0.0 m-hayakawa.ad.dev.nend.net
 ##.mediav-newsfeed-listitem-type-1
-0.0.0.0 vip.70qn.com
-0.0.0.0 show.suning.beer
-0.0.0.0 aa.toponad.com
+0.0.0.0 yamada2-dev.nend.net
+0.0.0.0 ad3.nend.net
+0.0.0.0 rtb.tamura.ad.dev.nend.net
 ##.mediavAd_report
-0.0.0.0 adx-tk.rayjump.com
+0.0.0.0 hsts.rtb.tamura.ad.dev.nend.net
 ##.mediavfeed-newsitem
-0.0.0.0 analytics.dspunion.com
+0.0.0.0 yamada.ad.dev.nend.net
 ##.menutab_ad
+0.0.0.0 api.nend.net
 ##.mi_btcon.ad
-0.0.0.0 bds.snssdk.com
+0.0.0.0 ad4.nend.net
 ##.ml_ad1
 ##.ml_ad3
-0.0.0.0 cdn-adn-https-share.rayjump.com
+0.0.0.0 static-interactive-api.nend.net
 ##.ml_ad5
 ##.mlad
-0.0.0.0 da.anythinktech.com
+0.0.0.0 st.yengo.com
 ##.mobadsq
 ##.mod + #bottomBox
-0.0.0.0 gd-stats.jpush.cn
+0.0.0.0 www.yengo.com
 ##.modal__body-adblock
+0.0.0.0 ad.adriver.ru
 ##.module-adslist
-0.0.0.0 imp-toutiao-data.37.com.cn
+0.0.0.0 content.adriver.ru
 ##.module-adslists
-0.0.0.0 impression.appsflyer.com
+0.0.0.0 servers1.adriver.ru
 ##.module-tglist > .tg-normal-box
-0.0.0.0 ios.bugly.qq.com
+0.0.0.0 edp2.adriver.ru
 ##.module-ttlist.tt_w-2
-0.0.0.0 is.snssdk.com
 ##.module-yylist.tg_w
+0.0.0.0 ssp.adriver.ru
 ##.msg-adblock
-0.0.0.0 isub.snssdk.com
+0.0.0.0 am15.net
 ##.my-cat.my-cat-header
+0.0.0.0 b.am15.net
 ##.mylist + #topthree
-0.0.0.0 ms.applovin.com
+0.0.0.0 c.am15.net
 ##.mylist > a > img[width^="9"][height="80"]
-0.0.0.0 net.rayjump.com
+0.0.0.0 cache.betweendigital.com
 ##.myui-extra + .noticetext
-0.0.0.0 newplayable.dspunion.com
 ##.nQIAj
+0.0.0.0 match.ads.betweendigital.com
 ##.nQIAj1
-0.0.0.0 prod-a.applovin.com
 ##.nav-ads
-0.0.0.0 prod-bid.applovin.com
+0.0.0.0 dmg.digitaltarget.ru
 ##.nav-area + .wrapper .tuiguang
-0.0.0.0 res1.applovin.com
+0.0.0.0 tag.digitaltarget.ru
 ##.newstyle > .container > a[target="_blank"]
-0.0.0.0 s2s.adjust.com
+0.0.0.0 cdn.marketgid.com
 ##.newstyle > a > img[src*="img.com/i/"]
-0.0.0.0 setting.rayjump.com
+0.0.0.0 counter.marketgid.com
 ##.ninja-recommend-block
-0.0.0.0 sf3-ttcdn-tos.pstatp.com
+0.0.0.0 imgg.marketgid.com
 ##.no-ad-reminder
-0.0.0.0 sg01.rayjump.com
+0.0.0.0 jsc.marketgid.com
+0.0.0.0 marketgid.com
 ##.no-mobile[style="position: fixed;right:0px;bottom: 0px;"]
-0.0.0.0 smart.mobvista.com
 ##.noadblock
-0.0.0.0 smr.snssdk.com
+0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 ##.nordvpn-popup + .sidebar-vpn
-0.0.0.0 tk.anythinktech.com
+0.0.0.0 gmtdmp.mookie1.com
 ##.nr_all > .m_f_a.sw_sp
-0.0.0.0 tkcn.rayjump.com
-0.0.0.0 track.tenjin.com
+0.0.0.0 ru-gmtdmp.mookie1.com
+0.0.0.0 cdn-rtb.sape.ru
 ##.opt > a[target="_blank"] > img[src*=".360buyimg.com"]
 ##.orbui-post
-0.0.0.0 www.tinytapgame.com
+0.0.0.0 dispenser-rtb.sape.ru
 ##.orbui-site
-0.0.0.0 ads.taboola.com
+0.0.0.0 ssp-rtb.sape.ru
 ##.overBanner.dowloadBtn
-0.0.0.0 am-trc-events.taboola.com
+0.0.0.0 counter.yadro.ru
 ##.page > .wp-none1
-0.0.0.0 am-trc-f.taboola.com
+0.0.0.0 mg.yadro.ru
 ##.page-wwads
 ##.pagead_3
-0.0.0.0 am-vid-events.taboola.com
 ##.pagecon + .ad1
-0.0.0.0 beacon.taboola.com
+0.0.0.0 an.yandex.ru
 ##.pane-emediate
-0.0.0.0 ch-match.taboola.com
-0.0.0.0 ch-trc.taboola.com
+0.0.0.0 mc.yandex.ru
 ##.partialViewSlider-outerwrapper
+0.0.0.0 st.yandexadexchange.net
 ##.pasuAD
-0.0.0.0 ch-trc-events.taboola.com
 ##.pause-ad
-0.0.0.0 ch-vid-events.taboola.com
+0.0.0.0 ad.mail.ru
 ##.pc-ads
-0.0.0.0 clickam.taboola.com
+0.0.0.0 rtb.com.ru
 ##.pccb > .ng-star-inserted
+0.0.0.0 sync-eu.exe.bid
 ##.pcd_ad
-0.0.0.0 clickch.taboola.com
 ##.pcgg
-0.0.0.0 clickhk.taboola.com
-0.0.0.0 clicknj.taboola.com
+0.0.0.0 sync.1dmp.io
 ##.pggb > .ng-star-inserted
-0.0.0.0 clickus.taboola.com
+0.0.0.0 x01.aidata.io
 ##.pggc > .ng-star-inserted
-0.0.0.0 cn-trc.taboola.com
+0.0.0.0 api.rees46.com
 ##.pggd > .ng-star-inserted
-0.0.0.0 hk-match.taboola.com
+0.0.0.0 bgrndi.com
 ##.photo-two > a[onclick^="_czc."]
-0.0.0.0 hk-trc.taboola.com
+0.0.0.0 match.c8.net.ua
 ##.player + .sponsor
-0.0.0.0 hk-trc-events.taboola.com
+0.0.0.0 matching.targeterra.com
 ##.player-bottom-gg
-0.0.0.0 hk-trc-f.taboola.com
+0.0.0.0 mrelko.com
 ##.player-box > [style*="flex; justify"]
-0.0.0.0 hk-vid-events.taboola.com
+0.0.0.0 profile.ssp.rambler.ru
 ##.player-info > .recommend-two.recommend-list
-0.0.0.0 il-trc.taboola.com
+0.0.0.0 sync.rambler.ru
+0.0.0.0 recreativ.ru
 ##.player-news > .news-list
-0.0.0.0 il-trc-events.taboola.com
-0.0.0.0 nr-events.taboola.com
+0.0.0.0 track.recreativ.ru
 ##.player-rm > a[href*="/ad.html?url="]
-0.0.0.0 popup.taboola.com
+0.0.0.0 sync.audtd.com
 ##.player-rm > a[target="_blank"]
-0.0.0.0 pvc.taboola.com
+0.0.0.0 sync2.audtd.com
 ##.player-rm-float
-0.0.0.0 sg-trc-events.taboola.com
+0.0.0.0 relap.io
 ##.player-tt-rm.rm-list
+0.0.0.0 s.uuidksinc.net
 ##.player-tt-rmm
-0.0.0.0 sg-vid-events.taboola.com
 ##.player_ggw
-0.0.0.0 static.taboola.com
+0.0.0.0 spb.bid.run
+0.0.0.0 sync.audsp.com
 ##.player_pic_link > [src*='/player.gif']
-0.0.0.0 tracker.taboola.com
 ##.playtop.col-pd
-0.0.0.0 tracking.taboola.com
+0.0.0.0 sync.morgdm.ru
 ##.plc > .a_p
-0.0.0.0 trc0.taboola.com
+0.0.0.0 sync.republer.com
 ##.plugin-daily_count
+0.0.0.0 t.supermario.xyz
 ##.pop[style="right: 10px;"]
+0.0.0.0 t.trafmag.com
 ##.popup + .shortcuts-m-overlay
-0.0.0.0 trc-china.taboola.com
+0.0.0.0 v.rmbn.net
 ##.popup + .shortcuts-mobile-overlay
-0.0.0.0 trc-events.taboola.com
-0.0.0.0 trctest.taboola.com
+0.0.0.0 www.bgrndi.com
+0.0.0.0 www.mrelko.com
 ##.post-title + .metadata + .entry > div > div > a[href^="/"][href$="/"] > img
-0.0.0.0 trc-tls13.taboola.com
+0.0.0.0 adriver-sync.rutarget.ru
 ##.postmessage > #googleFirst
-0.0.0.0 trc-yjp.taboola.com
+0.0.0.0 advombat.ru
 ##.postmessage > #googleSecond
-0.0.0.0 trk.taboola.com
+0.0.0.0 bam.nr-data.net
 ##.privilege-promote
-0.0.0.0 us-match.taboola.com
+0.0.0.0 betsonsport.ru
 ##.pro-molnk
 ##.pro1-molnk
-0.0.0.0 us-trc.taboola.com
+0.0.0.0 faggrim.com
 ##.prom-olnk
-0.0.0.0 us-trc-events.taboola.com
-0.0.0.0 us-trc-f.taboola.com
+0.0.0.0 openstat.net
+0.0.0.0 oredero.com
 ##.promolink-[style="position:relative;width:100%;height:100%;"]
-0.0.0.0 us-vid-events.taboola.com
+0.0.0.0 pixel.vihub.ru
+0.0.0.0 rutrk.org
 ##.promtlink_[style="position:relative;width:100%;height:100%;"]
+0.0.0.0 stat.adlabs.ru
 ##.propa_bottom
-0.0.0.0 vidanalytics.taboola.com
+0.0.0.0 uuidksinc.net
 ##.pure-g[onclick*="float"]
-0.0.0.0 ad-test.mediav.com
 ##.qpdb + a[href]
+0.0.0.0 wallet.advcash.com
 ##.qzdhf
-0.0.0.0 dsp-lb.mediav.com
+0.0.0.0 winlinebet.ru
 ##.qzhfaaa
-0.0.0.0 gdt.dsp.mediav.com
 ##.readerListADbox
-0.0.0.0 jupin.mediav.com
+0.0.0.0 wlneteller.adsrv.eacdn.com
 ##.readmidad
-0.0.0.0 munion.mediav.com
-0.0.0.0 static.i.mediav.com
+0.0.0.0 www.acint.net
+0.0.0.0 www.inoprosport.su
 ##.recommended-grids > .file[style="margin: 5px 2px 5px 2px;"]
-0.0.0.0 static.ju.mediav.com
 ##.remove-adblock-msg
-0.0.0.0 static.jupin.mediav.com
+0.0.0.0 www.tns-counter.ru
 ##.right > .content > .ads
-0.0.0.0 360.munion.mediav.com
+0.0.0.0 x.bidswitch.net
 ##.rightd + .leftd1
-0.0.0.0 25c8e.admaster.com.cn
+0.0.0.0 018520.com
 ##.room-ad-bottom
 ##.room-ad-top
-0.0.0.0 7r29uu.vyk.admaster.com.cn
+0.0.0.0 13023.url.7wkw.com
 ##.room-ad-video-down
-0.0.0.0 7r3cna.viqiyi.admaster.com.cn
+0.0.0.0 30350f.com
 ##.rotate-adv
+0.0.0.0 77455.com
 ##.row > .gao-bg
-0.0.0.0 7r76oa.vyk.admaster.com.cn
+0.0.0.0 8184.cc
 ##.rtcenter_game
-0.0.0.0 7r8a9a.viqiyi.admaster.com.cn
+0.0.0.0 8315.cn
 ##.s.u.m.o.me.scrollbox-popup
+0.0.0.0 apnmedia.ask.com
 ##.samBannerUnit
-0.0.0.0 8b253a.vyk.admaster.com.cn
 ##.scaled-juicyads
+0.0.0.0 baidut.github.io
 ##.scupioadslot
+0.0.0.0 c.silvinst.com
 ##.search + #midBox
+0.0.0.0 c16cp358.com
 ##.self-gg
 ##.siteAnn1
+0.0.0.0 c2.58toto.net
 ##.slider-ad[adid]
-0.0.0.0 8b26nu.viqiyi.admaster.com.cn
+0.0.0.0 cdn.app.liuxingyul.cn
 ##.smcms-wrap > .group-box > a[target="_blank"] > img
-0.0.0.0 8b6fqu.vyk.admaster.com.cn
+0.0.0.0 cdn.img.liuxingyul.cn
 ##.smcms-wrap > a[target="_blank"] > img
-0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
+0.0.0.0 down.xiazaidc.com
 ##.space-y-6 > .advertising
+0.0.0.0 downlaod.xiaocen.com
 ##.spon-img[src*=".alicdn."]
-0.0.0.0 8b8a4a.viqiyi.admaster.com.cn
+0.0.0.0 download.123cw.cn
 ##.spot_nav_under_ad
 ##.ssr1
+0.0.0.0 download.fuyuncc.com
 ##.static-a2d
-0.0.0.0 8b8a6a.vsohu.admaster.com.cn
+0.0.0.0 download.mediaget.com
+0.0.0.0 download.qianka.com
 ##.stui-vodlist__thumb.lazyload[href^="http"][target="_blank"]
-0.0.0.0 8b8a7u.vyk.admaster.com.cn
+0.0.0.0 download3.123cw.cn
+0.0.0.0 ffb.feihuo.com
 ##.stui-vodlist__thumb.lazyload[href^="http"][target="_blank"] + .stui-vodlist__detail
-0.0.0.0 8c8vqu.vyk.admaster.com.cn
+0.0.0.0 girlcc.cc
 ##.subject_link[href$="/thread-index-fid-1-tid-12848.htm"]
+0.0.0.0 h5.jiumaster.com
 ##.svg-adblock-full
-0.0.0.0 8cayca.viqiyi.admaster.com.cn
+0.0.0.0 hao.tiandi.com
 ##.svg-adblock-full--box
-0.0.0.0 8cayga.vsohu.admaster.com.cn
+0.0.0.0 hao916.com
 ##.svg-icon + #player_pause
+0.0.0.0 hjc1990.com
 ##.sxAdBox
-0.0.0.0 8cbbwu.vsohu.admaster.com.cn
+0.0.0.0 hwt.player888.cn
 ##.t5[style="border:1px solid #a6cbe7;"] + .t[style="margin-top:8px"]
-0.0.0.0 8cc6au.viqiyi.admaster.com.cn
+0.0.0.0 img.apnanalytics.com
 ##.tab-content + .col-pd
-0.0.0.0 8cc6bu.viqiyi.admaster.com.cn
+0.0.0.0 inapp.1sapp.com
 ##.test-adblock-overlay
+0.0.0.0 iosipa.b0.upaiyun.com
 ##.textadlist
-0.0.0.0 8ccxfa.viqiyi.admaster.com.cn
+0.0.0.0 ld.mediaget.com
 ##.theme-dark > .ayx > a
-0.0.0.0 8cd9gu.viqiyi.admaster.com.cn
+0.0.0.0 m.649649.com
 ##.theme_custom_slidebox-ad-below
 ##.title > .gg
+0.0.0.0 m.937920.com
 ##.tmall_ad_container
-0.0.0.0 8ce0zu.viqiyi.admaster.com.cn
+0.0.0.0 m.qianka.com
 ##.tmall_bg15
+0.0.0.0 m.qulishi.com
 ##.tooltip > #tp
-0.0.0.0 8ceivu.vsohu.admaster.com.cn
+0.0.0.0 m.xingxd.com
 ##.top > a > .topline[src^="/photo/"]
-0.0.0.0 8cf27a.viqiyi.admaster.com.cn
-0.0.0.0 8cf3ha.vsohu.admaster.com.cn
-0.0.0.0 8cffau.viqiyi.admaster.com.cn
+0.0.0.0 mibook-10006092.cos.myqcloud.com
+0.0.0.0 onclkds.com
 ##.top > div[style="max-width: 1235px; width: 100%; text-align:center; margin-left: auto; margin-right: auto"]
+0.0.0.0 p.raidmedia.com.cn
 ##.top-bar-adblock
+0.0.0.0 p555.cc
 ##.top-gg
+0.0.0.0 pj3456.com
 ##.top-meta > .moj-content
+0.0.0.0 pj50.com
 ##.top-read-ad
 ##.topSponsor
-0.0.0.0 8cgzvu.viqiyi.admaster.com.cn
+0.0.0.0 pl108258.puserving.com
 ##.top_ad_ban
-0.0.0.0 8ci19u.vyk.admaster.com.cn
 ##.top_box > #foot
+0.0.0.0 redpaper-10006092.cos.myqcloud.com
 ##.top_box > #indextop
-0.0.0.0 8ci2nu.vyk.admaster.com.cn
 ##.top_box > #news
-0.0.0.0 8ci46u.vyk.admaster.com.cn
+0.0.0.0 script.crazyegg.com
+0.0.0.0 static.hotjar.com
 ##.top_box > li > a[href^="/js/app.htm?"]
-0.0.0.0 8cifgu.vyk.admaster.com.cn
+0.0.0.0 suedai.com
 ##.top_func_ad
-0.0.0.0 8cnvwu.viqiyi.admaster.com.cn
 ##.topbanner + .nav + .banner
+0.0.0.0 tactics.bainv.net
 ##.toy52_outer
-0.0.0.0 8csbxu.vsohu.admaster.com.cn
+0.0.0.0 u.raidmedia.com.cn
 ##.toy52apparel_ALL
 ##.tp_advertising
+0.0.0.0 update.bainv.net
 ##.trad3
-0.0.0.0 8csexa.vfs.admaster.com.cn
 ##.twavt-ads
+0.0.0.0 url.tudown.com
+0.0.0.0 vn543.com
 ##.txp_ad[data-role="txpad-interact-pause"]
+0.0.0.0 w2528.com
 ##.txp_ad_center
-0.0.0.0 8dcn5u.viqiyi.admaster.com.cn
 ##.txtguanggao
-0.0.0.0 8dqc4u.viqiyi.admaster.com.cn
+0.0.0.0 www.142904.com
 ##.uk-width-1-1.adbox
+0.0.0.0 www.1933000.com
 ##.vg-overlay-pause
-0.0.0.0 8dvzfa.vfs.admaster.com.cn
+0.0.0.0 www.203710.com
+0.0.0.0 www.2345at.com
 ##.video-holder > a[target="_blank"] > img[src*=".360buyimg.com"]
-0.0.0.0 azarlive-branch.vsohu.admaster.com.cn
+0.0.0.0 www.32666099.com
 ##.video-info-aux + div[style^="border-radius: 5px;"]
-0.0.0.0 banner.as.admaster.com.cn
+0.0.0.0 www.4242jj.com
 ##.video-item-ads
+0.0.0.0 www.4242lll.com
 ##.video-player > .gg-bg-cover
-0.0.0.0 banneras.admaster.com.cn
+0.0.0.0 www.4242uuu.com
 ##.video_details > .banner
-0.0.0.0 coocaa.admaster.com.cn
 ##.vodads
-0.0.0.0 hdt.adx.admaster.com.cn
+0.0.0.0 www.4wad.com
 ##.w-full > .banner.el-carousel
+0.0.0.0 www.555p555p.com
 ##.w100b > .m_adv
-0.0.0.0 i18q.admaster.com.cn
+0.0.0.0 www.6666349.com
 ##.wbalist_thumb[style*="/upload/site/"]
-0.0.0.0 jice.admaster.com.cn
+0.0.0.0 www.66992949.com
 ##.wemziguanggao
-0.0.0.0 kz.admaster.com.cn
+0.0.0.0 www.700900.com
 ##.wf_ad_block
-0.0.0.0 mma.admaster.com.cn
+0.0.0.0 www.7ldou.com
 ##.widget-qianhuiji
 ##.widget-topadding
-0.0.0.0 mms2017.admaster.com.cn
+0.0.0.0 www.878090.com
 ##.widget-xlxba
+0.0.0.0 www.9948000.com
 ##.widget_adbox
-0.0.0.0 open.admaster.com.cn
+0.0.0.0 www.bb1429.com
 ##.widget_ui_asb
-0.0.0.0 p.admaster.com.cn
 ##.widget_ui_aub
-0.0.0.0 survey.admaster.com.cn
+0.0.0.0 www.bet36500050.com
 ##.widget_ui_textasb
+0.0.0.0 www.c77777777.com
 ##.widget_ui_textaub
-0.0.0.0 tag.admaster.com.cn
 ##.width.imgs_1
-0.0.0.0 track-help.admaster.com.cn
-0.0.0.0 track.admaster.com.cn
+0.0.0.0 www.d77777777.com
+0.0.0.0 www.fanqianbb.com
 ##.wordurl[style="   width: 42%; float:left; text-align: center;"]
+0.0.0.0 www.iiewl.com
 ##.wp > .ad-box
-0.0.0.0 ty.viqiyi.admaster.com.cn
 ##.wp.a2_h
+0.0.0.0 www.jinshagt222.com
 ##.wp.a_f
-0.0.0.0 ty.vletv.admaster.com.cn
 ##.wp.a_h
-0.0.0.0 vfs.admaster.com.cn
+0.0.0.0 www.pj5189.com
 ##.wp_adblock_detect
+0.0.0.0 www.pp9899.com
 ##.wp_headline + .ad1
-0.0.0.0 vspa.admaster.com.cn
+0.0.0.0 www.um0592.com
 ##.wpcom_ad_wrap
-0.0.0.0 vtyqy.admaster.com.cn
 ##.wrap + #btmBox
-0.0.0.0 www.vyk.admaster.com.cn
+0.0.0.0 www.v00087.com
 ##.wrap + #midBox
 ##.wrap > #btmBox
-0.0.0.0 albtest.applovin.com
+0.0.0.0 www.xpjylc9977.com
 ##.wrap.mt10.clearfix > .box.top_box
-0.0.0.0 a-support.applovin.com
+0.0.0.0 www.ylwy168.com
 ##.wrapper > #asxv
-0.0.0.0 data.applovin.com
+0.0.0.0 wwww.649649.com
 ##.wrapper > a[target="_blank"] > .ads
-0.0.0.0 dev-www.applovin.com
+0.0.0.0 xpj1.net
 ##.wumii-bottom-popup
-0.0.0.0 growth-support.applovin.com
+0.0.0.0 xpj2.net
 ##.wumii-widget-ad
-0.0.0.0 ms-d.applovin.com
+0.0.0.0 xpj3.net
 ##.wwads
 ##.wwads-cn
+0.0.0.0 xpj4.net
 ##.wwads_abp
-0.0.0.0 nuqstage-msevent.applovin.com
 ##.wzad
-0.0.0.0 nyjprod-msevent.applovin.com
+0.0.0.0 xpj8088.com
 ##.xstui-content__acc
+0.0.0.0 xpjkf888.com
 ##.xzbox-gh
-0.0.0.0 nyjstage-msevent.applovin.com
+0.0.0.0 soft.jiegeng.com
 ##.y.mtw[style="padding: 0px 10px;"]
-0.0.0.0 prod-a4.applovin.com
+0.0.0.0 log.liusha.info
 ##.ya-normal-box-done
+0.0.0.0 statistics.liusha.info
 ##.yueduad1
-0.0.0.0 stage-ms.applovin.com
 ##.zhanzhang_tuijian_btn
-0.0.0.0 ue.applovin.com
+0.0.0.0 template.liusha.info
 ##.zhedangceng_ggg
+0.0.0.0 j.credit.wwz114.cn
 ##.zone_wap_banner2
-0.0.0.0 zn7zcrzms3zdyzvrobkdqdrphkvijejz-a.applovin.com
+0.0.0.0 adsmind.gdtimg.com
 ##.zozoads
-0.0.0.0 s.tribalfusion.com
+0.0.0.0 smartnews-ads.com
 ##A > IMG[alt][src*='resources/images/']
+0.0.0.0 www.kldsam.com
 ##A#floating-banner
-0.0.0.0 events.tribalfusion.com
+0.0.0.0 down.ewo1617.com
 ##A.toptxt[target='_blank']
-0.0.0.0 ads.tribalfusion.com
+0.0.0.0 acdcdn.com
 ##A.wrapper_bg_c.hidden-xs
-0.0.0.0 a3.tribalfusion.com
+0.0.0.0 squeezedthoughtfully.com
 ##ASIDE[id^='custom_html-']
-0.0.0.0 a-dev1.tribalfusion.com
+0.0.0.0 sorrowfulchemical.com
 ##A[href*=".com/?Agent="]
+0.0.0.0 regulationprivilegescan.top
 ##A[href*="emprestimo.eu"]
-0.0.0.0 a-s.tribalfusion.com
+0.0.0.0 www.sundady.online
 ##A[href*="googleme.eu"]
-0.0.0.0 a-stage2.tribalfusion.com
+0.0.0.0 show.govjiangsu.cn
 ##A[href*='-fghgdf.com']
+0.0.0.0 pv.dakawm.cc
 ##A[href*='-fghhjj.com']
-0.0.0.0 a-stage1.tribalfusion.com
+0.0.0.0 xzj.kebi1.top
 ##A[href*='//v.wanfumei.net']
-0.0.0.0 a-stage.tribalfusion.com
+0.0.0.0 n.35kds.com
 ##A[href*='/adjump/?']
-0.0.0.0 www.events.tribalfusion.com
+0.0.0.0 fjjmnh.com
 ##A[href*='aducx.com']
-0.0.0.0 a-stage1-origin.tribalfusion.com
+0.0.0.0 jsmxkj.com
+0.0.0.0 dat8.cc
 ##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
-0.0.0.0 a-dsa-stage.tribalfusion.com
+0.0.0.0 036e.cn
 ##A[href*='ds2f1sd31g.vip']
+0.0.0.0 hxlover.com
 ##A[href*='exuvu.com']
-0.0.0.0 a1.tribalfusion.com
+0.0.0.0 etl-xlmc-ssl.xunlei.com
 ##A[href*='ixeeo.com']
-0.0.0.0 adxrtb-as.tribalfusion.com
+0.0.0.0 fangniaowang.net
 ##A[href*='jdbfknsbkldns.com']
-0.0.0.0 ctxtad.tribalfusion.com
 ##A[href*='jialu6699h.vip']
-0.0.0.0 adxrtb-eu1.tribalfusion.com
+0.0.0.0 api.aiclk.com
 ##A[href*='xzzkx.com']
+0.0.0.0 cdn.aiclk.com
 ##A[href*='youqu.buzz']
-0.0.0.0 adxrtb-eu.tribalfusion.com
+0.0.0.0 oss.cdn.aiclk.com
 ##A[href*='zbkrv.com']
+0.0.0.0 rcv.aiclk.com
+##A[href="http://goo.gl/jQ9bcz"]
+0.0.0.0 update0.aiclk.com
+##A[href="http://t.cn/A6hQCVsv"]
+0.0.0.0 adv.aiclk.com
+##A[href='/?'][target='_blank']
+0.0.0.0 game-motivatead.aiclk.com
+##A[href='/hth.html']
+0.0.0.0 tac.aiclk.com
+##A[href='/iwagbwfiwehaeyh/']
+0.0.0.0 tracelog-debug.aiclk.com
+##A[href='/statics/js/ky-a.html']
+0.0.0.0 vip.70qn.com
+##A[href='http://8hgpro.vip/']
+0.0.0.0 show.suning.beer
+0.0.0.0 aa.toponad.com
+##A[href='http://95710.vip']
+0.0.0.0 adx-tk.rayjump.com
+##A[href='http://k023055.com']
+##A[href='http://kkyty29.cc/']
+0.0.0.0 analytics.dspunion.com
+##A[href='http://x5123.cc/']
+0.0.0.0 bds.snssdk.com
+##A[href^="/e/public/ClickAd?adid="]
+0.0.0.0 cdn-adn-https-share.rayjump.com
+##A[href^="http://action.metaffiliation.com/trk.php?"]
+0.0.0.0 da.anythinktech.com
+0.0.0.0 gd-stats.jpush.cn
+##A[href^="http://get.d3b3e6340.website/as/clk?id="]
+0.0.0.0 imp-toutiao-data.37.com.cn
+##A[href^="http://share.payoneer-affiliates.com/a/clk/"]
+0.0.0.0 impression.appsflyer.com
+0.0.0.0 ios.bugly.qq.com
+##A[href^="http://www.liveadexchanger.com/a/display.php"]
+0.0.0.0 is.snssdk.com
+##A[href^="http://www.yourfilezone.com/play?lng="]
+0.0.0.0 isub.snssdk.com
+0.0.0.0 ms.applovin.com
+##A[href^="https://action.metaffiliation.com/trk.php?"]
+0.0.0.0 net.rayjump.com
+0.0.0.0 newplayable.dspunion.com
+##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
+0.0.0.0 prod-a.applovin.com
+##A[href^='http://cszb420.tinawd81.com/']
+0.0.0.0 prod-bid.applovin.com
+0.0.0.0 res1.applovin.com
+##A[href^='http://h5.shangjinssp.com/sjprom'][style='display:block;']
+0.0.0.0 s2s.adjust.com
+##A[href^='http://www.kyty1119.com']
+0.0.0.0 setting.rayjump.com
+##A[href^='https://chmjmff.com/']
+0.0.0.0 sf3-ttcdn-tos.pstatp.com
+##A[href^='https://d1-dm.online/go/']
+0.0.0.0 sg01.rayjump.com
+0.0.0.0 smart.mobvista.com
+##A[href^='https://icrwt696.com']
+0.0.0.0 smr.snssdk.com
+##A[href^='https://js.iconiclee.com']
+0.0.0.0 tk.anythinktech.com
+##A[href^='https://js.pico4pro.com']
+0.0.0.0 tkcn.rayjump.com
+##A[href^='https://k.izret.com']
+0.0.0.0 track.tenjin.com
+##A[href^='https://tv2356.cc']
+0.0.0.0 www.tinytapgame.com
+##A[href^='https://v.frthv.com']
+0.0.0.0 ads.taboola.com
+##A[href^='https://www.ids20.co']
+0.0.0.0 am-trc-events.taboola.com
+##A[href^='https://www.nonstopclub.xyz']
+0.0.0.0 am-trc-f.taboola.com
+##A[href^='https://www.pcjx365.com']
+0.0.0.0 am-vid-events.taboola.com
+##A[href^='https://yongle008.com']
+0.0.0.0 beacon.taboola.com
+0.0.0.0 ch-match.taboola.com
+##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
+0.0.0.0 ch-trc.taboola.com
+0.0.0.0 ch-trc-events.taboola.com
+##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
+0.0.0.0 ch-vid-events.taboola.com
+##A[rel='nofollow'][href='/play/player-2-1.php']
+0.0.0.0 clickam.taboola.com
+##A[rel='nofollow'][href='/play/tv.php']
+0.0.0.0 clickch.taboola.com
+0.0.0.0 clickhk.taboola.com
+0.0.0.0 clicknj.taboola.com
+##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
+0.0.0.0 clickus.taboola.com
+0.0.0.0 cn-trc.taboola.com
+##A[target='_blank'] > IMG[width='100%'][src*='.gif']
+0.0.0.0 hk-match.taboola.com
+##A[target='_blank'][href*='/auth/register?code=']
+0.0.0.0 hk-trc.taboola.com
+##BODY > DIV.ggcontainer
+0.0.0.0 hk-trc-events.taboola.com
+##DIV#advertisings.advertising
+0.0.0.0 hk-trc-f.taboola.com
+##DIV#bannerCtrl.source_container.swiper-wrapper
+0.0.0.0 hk-vid-events.taboola.com
+##DIV#bfad
+##DIV#bl_mobile_float
+0.0.0.0 il-trc.taboola.com
+##DIV#bottom-ads
+0.0.0.0 il-trc-events.taboola.com
+##DIV#div1.div-relative[style='display:block;']
+0.0.0.0 nr-events.taboola.com
+##DIV#googleads-popup.popup.visible
+0.0.0.0 popup.taboola.com
+0.0.0.0 pvc.taboola.com
+##DIV#links.links.my-1.row[style='font-size:20px']
+##DIV#mhbottom_ad_box
+0.0.0.0 sg-trc-events.taboola.com
+##DIV#pos_nei_content
+0.0.0.0 sg-vid-events.taboola.com
+##DIV#recommend-float.player-recommend-float > a
+0.0.0.0 static.taboola.com
+##DIV#tads
+##DIV#top-ads
+0.0.0.0 tracker.taboola.com
+##DIV#video-player-ads-wrap
+0.0.0.0 tracking.taboola.com
+##DIV#wwads
+0.0.0.0 trc0.taboola.com
+##DIV#xfb_lbox.zoomout_transition.zoomout
+0.0.0.0 trc-china.taboola.com
+##DIV.JS_mid_ad
+##DIV._42701c0173
+0.0.0.0 trc-events.taboola.com
+##DIV._4e544f1dde
+0.0.0.0 trctest.taboola.com
+##DIV.ad-area.ad-area-fix-bottom
+0.0.0.0 trc-tls13.taboola.com
+##DIV.ad-content
+0.0.0.0 trc-yjp.taboola.com
+##DIV.ad_js
+##DIV.adj
+0.0.0.0 trk.taboola.com
+##DIV.ads.ads_w
+0.0.0.0 us-match.taboola.com
+##DIV.advertisingConfiguration
+0.0.0.0 us-trc.taboola.com
+##DIV.appdownload_ad
+0.0.0.0 us-trc-events.taboola.com
+##DIV.bot-per-context[data-width='728'][data-height='90']
+0.0.0.0 us-trc-f.taboola.com
+##DIV.bot-per.visible-xs.visible-sm *
+0.0.0.0 us-vid-events.taboola.com
+##DIV.bottom-ad.hidden-lg
+0.0.0.0 vidanalytics.taboola.com
+##DIV.box-width.ec-ad
+0.0.0.0 ad-test.mediav.com
+0.0.0.0 dsp-lb.mediav.com
+0.0.0.0 gdt.dsp.mediav.com
+0.0.0.0 jupin.mediav.com
+0.0.0.0 munion.mediav.com
+##DIV.code-block[style='margin: 8px 0; clear: both;']
+0.0.0.0 static.i.mediav.com
+##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
+0.0.0.0 static.ju.mediav.com
+0.0.0.0 static.jupin.mediav.com
+##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
+##DIV.div_adhost
+0.0.0.0 360.munion.mediav.com
+##DIV.div_sticky2.hidden-lg
+0.0.0.0 25c8e.admaster.com.cn
+##DIV.duilian[style*='z-index: 9999; top: 0px; ']
+0.0.0.0 7r29uu.vyk.admaster.com.cn
+##DIV.ec-ad.tim-box
+0.0.0.0 7r3cna.viqiyi.admaster.com.cn
+0.0.0.0 7r76oa.vyk.admaster.com.cn
+0.0.0.0 7r8a9a.viqiyi.admaster.com.cn
+0.0.0.0 8b253a.vyk.admaster.com.cn
+0.0.0.0 8b26nu.viqiyi.admaster.com.cn
+0.0.0.0 8b6fqu.vyk.admaster.com.cn
+0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
+0.0.0.0 8b8a4a.viqiyi.admaster.com.cn
+0.0.0.0 8b8a6a.vsohu.admaster.com.cn
+0.0.0.0 8b8a7u.vyk.admaster.com.cn
+0.0.0.0 8c8vqu.vyk.admaster.com.cn
+0.0.0.0 8cayca.viqiyi.admaster.com.cn
+0.0.0.0 8cayga.vsohu.admaster.com.cn
+##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
+0.0.0.0 8cbbwu.vsohu.admaster.com.cn
+##DIV.footer-appload.js-footer-appload
+0.0.0.0 8cc6au.viqiyi.admaster.com.cn
+0.0.0.0 8cc6bu.viqiyi.admaster.com.cn
+##DIV.hidden-lg[style='position: absolute;bottom: 0px;z-index: 10;']
+##DIV.index_adpic
+0.0.0.0 8ccxfa.viqiyi.admaster.com.cn
+##DIV.loc_banner.only-app
+##DIV.module-adslist
+0.0.0.0 8cd9gu.viqiyi.admaster.com.cn
+##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
+##DIV.playVideo-centerAd
+##DIV.row.no-gutters.m-0
+0.0.0.0 8ce0zu.viqiyi.admaster.com.cn
+##DIV.stui-player__item.clearfix > img[url]
+0.0.0.0 8ceivu.vsohu.admaster.com.cn
+##DIV.swiper2.swiper-initialized.swiper-horizontal
+0.0.0.0 8cf27a.viqiyi.admaster.com.cn
+##DIV[allowtransparency='true'][scrolling='no']
+0.0.0.0 8cf3ha.vsohu.admaster.com.cn
+##DIV[class$='_ad_wrap']
+0.0.0.0 8cffau.viqiyi.admaster.com.cn
+##DIV[class*='home'][class*='Ads']
+0.0.0.0 8cgzvu.viqiyi.admaster.com.cn
+##DIV[class*='id_ads__']
+0.0.0.0 8ci19u.vyk.admaster.com.cn
+##DIV[class][id][style$='px; background-size: 400px 127px !important;']
+0.0.0.0 8ci2nu.vyk.admaster.com.cn
+##DIV[class^='ads_border_']
+0.0.0.0 8ci46u.vyk.admaster.com.cn
+##DIV[data-text-ad]
+0.0.0.0 8cifgu.vyk.admaster.com.cn
+0.0.0.0 8cnvwu.viqiyi.admaster.com.cn
+##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
+0.0.0.0 8csbxu.vsohu.admaster.com.cn
+0.0.0.0 8csexa.vfs.admaster.com.cn
+##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background:#000;opacity:0.01;']
+0.0.0.0 8dcn5u.viqiyi.admaster.com.cn
+0.0.0.0 8dqc4u.viqiyi.admaster.com.cn
+0.0.0.0 8dvzfa.vfs.admaster.com.cn
+##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
+0.0.0.0 azarlive-branch.vsohu.admaster.com.cn
+##DIV[style*='.xyz/gif/']
+0.0.0.0 banner.as.admaster.com.cn
+0.0.0.0 banneras.admaster.com.cn
+##DIV[style*='animation: 1s ease 0.2s infinite normal none running shakegwegs; z-index:'][style*='background: url']
+0.0.0.0 coocaa.admaster.com.cn
+0.0.0.0 hdt.adx.admaster.com.cn
+0.0.0.0 i18q.admaster.com.cn
+##DIV[style*='display: block; width: 100%; left: 0px; position: fixed; z-index:'][style*='height: 25px; top: 133px;']
+0.0.0.0 jice.admaster.com.cn
+0.0.0.0 kz.admaster.com.cn
+##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
+0.0.0.0 mma.admaster.com.cn
+0.0.0.0 mms2017.admaster.com.cn
+0.0.0.0 open.admaster.com.cn
+##DIV[style*='px; bottom: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
+0.0.0.0 p.admaster.com.cn
+##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
+0.0.0.0 survey.admaster.com.cn
+0.0.0.0 tag.admaster.com.cn
+0.0.0.0 track-help.admaster.com.cn
+##DIV[style='background-color: rgb(249, 249, 249); display: flex; align-items: center; justify-content: center;']
+0.0.0.0 track.admaster.com.cn
+0.0.0.0 ty.viqiyi.admaster.com.cn
+##DIV[style='clear: both; position: relative; width: 396px; height: 130px;']
+0.0.0.0 ty.vletv.admaster.com.cn
+0.0.0.0 vfs.admaster.com.cn
+##DIV[style='position: absolute; inset: 0px; background: rgba(0, 0, 0, 0);']
+0.0.0.0 vspa.admaster.com.cn
+0.0.0.0 vtyqy.admaster.com.cn
+##DIV[style='position: fixed; bottom: 0px; left: 0px; width: 100%; height: 5.85rem; z-index: 99999;']
+0.0.0.0 www.vyk.admaster.com.cn
+0.0.0.0 albtest.applovin.com
+0.0.0.0 a-support.applovin.com
+##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
+0.0.0.0 data.applovin.com
+0.0.0.0 dev-www.applovin.com
+0.0.0.0 growth-support.applovin.com
+##DIV[style='position: fixed; left: 0px; bottom: 0px; width: 100%; height: 120px; z-index: 2147483647 !important;']
+0.0.0.0 ms-d.applovin.com
+0.0.0.0 nuqstage-msevent.applovin.com
+##DIV[style='position: fixed; line-height: 100vh; width: 100vw; top: 0px; left: 0px;']
+0.0.0.0 nyjprod-msevent.applovin.com
+##DIV[style='width: 100%;background-color: black;color: white;padding: 15px 0;']
+0.0.0.0 nyjstage-msevent.applovin.com
+0.0.0.0 prod-a4.applovin.com
+##DIV[style^='box-sizing: border-box; position: relative; left: 0px; z-index: 214748']
+0.0.0.0 stage-ms.applovin.com
+0.0.0.0 ue.applovin.com
+##DIV[style^='display: block; aspect-ratio: 728 / 90; background-image: url("/static/resources/lp.php']
+0.0.0.0 zn7zcrzms3zdyzvrobkdqdrphkvijejz-a.applovin.com
+0.0.0.0 s.tribalfusion.com
+##DIV[style^='position: fixed; bottom: 50%; z-index: 19999 !important; ']
+0.0.0.0 events.tribalfusion.com
+0.0.0.0 ads.tribalfusion.com
+0.0.0.0 a3.tribalfusion.com
+##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
+##I.fa.fa-close
+0.0.0.0 a-dev1.tribalfusion.com
+0.0.0.0 a-s.tribalfusion.com
+##IFRAME[src^='https://mydisplay.ctfile.com/popview.php']
+##IMG#diads
+0.0.0.0 a-stage2.tribalfusion.com
+##IMG.cupfox[src$='gif']
+0.0.0.0 a-stage1.tribalfusion.com
+##IMG.lazyload[src='/statics/img/load.gif']
+0.0.0.0 a-stage.tribalfusion.com
+##IMG.playVideo-checkin-img
+0.0.0.0 www.events.tribalfusion.com
+##IMG[alt='155.fun']
+0.0.0.0 a-stage1-origin.tribalfusion.com
+##IMG[alt='五一特惠']
+0.0.0.0 a-dsa-stage.tribalfusion.com
+##IMG[alt^='kaiybet']
+0.0.0.0 a1.tribalfusion.com
+##IMG[onclick='godown()'][src$='gif']
+0.0.0.0 adxrtb-as.tribalfusion.com
+##IMG[onclick='golh()'][src$='.gif']
+0.0.0.0 ctxtad.tribalfusion.com
+##IMG[referrerpolicy='no-referrer'][src$='.gif'][width='100%']
+0.0.0.0 adxrtb-eu1.tribalfusion.com
+0.0.0.0 adxrtb-eu.tribalfusion.com
 0.0.0.0 a.vlion.cn
 0.0.0.0 u.vlion.cn
-##A[href="http://goo.gl/jQ9bcz"]
+##IMG[referrerpolicy='no-referrer'][style='box-sizing: border-box;height:calc(10vh); width:100%;padding: 0px 15px 10px 15px;']
 0.0.0.0 jira.vlion.cn
-##A[href="http://t.cn/A6hQCVsv"]
 0.0.0.0 dsp.vlion.cn
-##A[href='/?'][target='_blank']
+##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
 0.0.0.0 rta.vlion.cn
-##A[href='/hth.html']
+##IMG[src$='tywheying/vv2-960x80.gif']
 0.0.0.0 dmp.vlion.cn
-##A[href='/iwagbwfiwehaeyh/']
 0.0.0.0 v.vlion.cn
-##A[href='/statics/js/ky-a.html']
+##IMG[src*='.xyz/tupian/'][src$='/h5.gif']
 0.0.0.0 c.vlion.cn
+##IMG[src*='//img4.qv1.ru/data/game/']
 0.0.0.0 n.vlion.cn
-##A[href='http://8hgpro.vip/']
+##IMG[src*='/ds3/ssmh/']
 0.0.0.0 a-bj.vlion.cn
-##A[href='http://95710.vip']
 0.0.0.0 q.vlion.cn
-##A[href='http://k023055.com']
+##IMG[src*='/gg/'][src$='180.gif'][src*='800']
 0.0.0.0 hippo.vlion.cn
+##IMG[src*='qimanwu_wap/static/adimages/']
 0.0.0.0 b.vlion.cn
-##A[href='http://kkyty29.cc/']
+##IMG[src*='qmfcybwbf']
 0.0.0.0 mammut.vlion.cn
-##A[href='http://x5123.cc/']
+##IMG[src*='tupian.guanggao']
 0.0.0.0 test.vlion.cn
+##IMG[src='/adBanner']
 0.0.0.0 g.vlion.cn
-##A[href^="/e/public/ClickAd?adid="]
+##IMG[src='/js/imgs/taote.jpg']
 0.0.0.0 tophippo.vlion.cn
-##A[href^="http://action.metaffiliation.com/trk.php?"]
+##IMG[src='https://tanju.vip/wapxiezi.png']
 0.0.0.0 tt.toponad.com
 0.0.0.0 app.toponad.com
-##A[href^="http://get.d3b3e6340.website/as/clk?id="]
+##IMG[src^='http://socos.gitee.io/ss/poster'][alt][style='width: 100%;']
 0.0.0.0 app.233.toponad.com
+##IMG[src^='https://dzfzfv.xyz/']
 0.0.0.0 mores.toponad.com
-##A[href^="http://share.payoneer-affiliates.com/a/clk/"]
+##IMG[style='height:120px;width:100%;'][src*='/sucai/']
 0.0.0.0 dd.toponad.com
-##A[href^="http://www.liveadexchanger.com/a/display.php"]
+##IMG[style='width: 100%;'][src^='https://ad.']
 0.0.0.0 s3.mores.toponad.com
 0.0.0.0 s3.pkg.toponad.com
-##A[href^="http://www.yourfilezone.com/play?lng="]
-0.0.0.0 pkg.toponad.com
-##A[href^="https://action.metaffiliation.com/trk.php?"]
-0.0.0.0 ad.alimama.com
-0.0.0.0 c.click.alimama.com
-##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
-0.0.0.0 adsh.wagbridge.taobao.alimama.com
-##A[href^='http://cszb420.tinawd81.com/']
-0.0.0.0 adsh.wagbridge.tmall.alimama.com
-##A[href^='http://h5.shangjinssp.com/sjprom'][style='display:block;']
-0.0.0.0 adsz.wagbridge.taobao.alimama.com
-##A[href^='http://www.kyty1119.com']
-##A[href^='https://chmjmff.com/']
-0.0.0.0 ad-sh-sz-zb.wagbridge.tanx.alimama.com
-##A[href^='https://d1-dm.online/go/']
-0.0.0.0 adsh.wagbridge.1688.alimama.com
-##A[href^='https://icrwt696.com']
-0.0.0.0 pre3-ad.alimama.com
-##A[href^='https://js.iconiclee.com']
-##A[href^='https://js.pico4pro.com']
-0.0.0.0 adsz.wagbridge.1688.alimama.com
-##A[href^='https://k.izret.com']
-0.0.0.0 pre-ad.alimama.com
-##A[href^='https://tv2356.cc']
-0.0.0.0 pre-adv.alimama.com
-##A[href^='https://v.frthv.com']
-0.0.0.0 adsz.wagbridge.tanx.alimama.com
-##A[href^='https://www.ids20.co']
-0.0.0.0 adsh.wagbridge.alibaba.alimama.com
-##A[href^='https://www.nonstopclub.xyz']
-0.0.0.0 adx.alimama.com
-##A[href^='https://www.pcjx365.com']
-##A[href^='https://yongle008.com']
-0.0.0.0 adsh.wagbridge.tanx.alimama.com
-0.0.0.0 adsz.wagbridge.tmall.alimama.com
-##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
-0.0.0.0 pre2-ad.alimama.com
-0.0.0.0 tf.logview.alimama.com
-##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
-0.0.0.0 logview.uc.alimama.com
-##A[rel='nofollow'][href='/play/player-2-1.php']
-0.0.0.0 ad.bayescom.com
-##A[rel='nofollow'][href='/play/tv.php']
-0.0.0.0 blink.bayescom.com
-0.0.0.0 jupiter.bayescom.com
-0.0.0.0 jupiter2.bayescom.com
-##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
-0.0.0.0 blink-upload.bayescom.com
-0.0.0.0 raddus.bayescom.com
-##A[target='_blank'] > IMG[width='100%'][src*='.gif']
-0.0.0.0 shuttle.bayescom.com
-##A[target='_blank'][href*='/auth/register?code=']
-0.0.0.0 cruiser.bayescom.cn
-##BODY > DIV.ggcontainer
-0.0.0.0 ad.cacafly.com
-##DIV#advertisings.advertising
-0.0.0.0 mrbs.cacafly.com
-0.0.0.0 rp3.cacafly.com
-##DIV#bannerCtrl.source_container.swiper-wrapper
-##DIV#bfad
-0.0.0.0 nativeads.cacafly.com
-##DIV#bl_mobile_float
-0.0.0.0 rp.cacafly.com
-##DIV#bottom-ads
-0.0.0.0 appx.cacafly.com
-0.0.0.0 gateway.cacafly.com
-##DIV#div1.div-relative[style='display:block;']
-0.0.0.0 apps2.cacafly.com
-##DIV#googleads-popup.popup.visible
-0.0.0.0 lyncdiscover.cacafly.com
-##DIV#links.links.my-1.row[style='font-size:20px']
-0.0.0.0 flarefilter.cacafly.com
-##DIV#mhbottom_ad_box
-##DIV#pos_nei_content
-0.0.0.0 apps.cacafly.com
-0.0.0.0 app.cacafly.com
-##DIV#recommend-float.player-recommend-float > a
-##DIV#tads
-0.0.0.0 www.flarefilter.cacafly.com
-##DIV#top-ads
-0.0.0.0 ad-verify.flurry.com
-##DIV#video-player-ads-wrap
-##DIV#wwads
-0.0.0.0 ads-verify.flurry.com
-##DIV#xfb_lbox.zoomout_transition.zoomout
-0.0.0.0 apac-ads.flurry.com
-##DIV.JS_mid_ad
-0.0.0.0 api-metrics-canary.flurry.com
-##DIV._42701c0173
-##DIV._4e544f1dde
-0.0.0.0 api-metrics-e2e.nonprod.flurry.com
-##DIV.ad-area.ad-area-fix-bottom
-0.0.0.0 api-metrics-smoke.nonprod.flurry.com
-##DIV.ad-content
-##DIV.ad_js
-0.0.0.0 api-metrics.flurry.com
-##DIV.adj
-##DIV.ads.ads_w
-0.0.0.0 api-verify.flurry.com
-##DIV.advertisingConfiguration
-0.0.0.0 api.flurry.com
-##DIV.appdownload_ad
-0.0.0.0 app.flurry.com
-0.0.0.0 data-canary.flurry.com
-##DIV.bot-per-context[data-width='728'][data-height='90']
-##DIV.bot-per.visible-xs.visible-sm *
-0.0.0.0 data-ipv6.flurry.com
-##DIV.bottom-ad.hidden-lg
-0.0.0.0 data-k8s.flurry.com
-##DIV.box-width.ec-ad
-0.0.0.0 data.real.flurry.com
-0.0.0.0 geo.flurry.com
-0.0.0.0 gw.flurry.com
-0.0.0.0 pilot-ad.flurry.com
-0.0.0.0 pilot-api.flurry.com
-##DIV.code-block[style='margin: 8px 0; clear: both;']
-0.0.0.0 pilot-data.flurry.com
-0.0.0.0 proton-int.flurry.com
-##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
-0.0.0.0 pulse.data.flurry.com
-##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
-0.0.0.0 realtime-metrics.flurry.com
-##DIV.div_adhost
-##DIV.div_sticky2.hidden-lg
-##DIV.duilian[style*='z-index: 9999; top: 0px; ']
-##DIV.ec-ad.tim-box
-0.0.0.0 staging-ads.flurry.com
-0.0.0.0 app.zhidian3g.cn
-##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
-0.0.0.0 marketing.zhidian3g.cn
-##DIV.footer-appload.js-footer-appload
-0.0.0.0 sapi.zhidian3g.cn
-0.0.0.0 x.zhidian3g.cn
-##DIV.hidden-lg[style='position: absolute;bottom: 0px;z-index: 10;']
-0.0.0.0 djing.zhidian3g.cn
-##DIV.index_adpic
-0.0.0.0 d.zhidian3g.cn
-##DIV.loc_banner.only-app
-0.0.0.0 e.zhidian3g.cn
-##DIV.module-adslist
-##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
-0.0.0.0 s.zhidian3g.cn
-##DIV.playVideo-centerAd
-0.0.0.0 a.zhidian3g.cn
-##DIV.row.no-gutters.m-0
-##DIV.stui-player__item.clearfix > img[url]
-0.0.0.0 c.zhidian3g.cn
-##DIV.swiper2.swiper-initialized.swiper-horizontal
-0.0.0.0 adunion.wifi8.com
-0.0.0.0 adfile.wifi8.com
-##DIV[allowtransparency='true'][scrolling='no']
-##DIV[class$='_ad_wrap']
-##DIV[class*='home'][class*='Ads']
-0.0.0.0 ad.yun.wifi8.com
-##DIV[class*='id_ads__']
-0.0.0.0 dmp.wifi8.com
-0.0.0.0 dev.wifi8.com
-##DIV[class][id][style$='px; background-size: 400px 127px !important;']
-0.0.0.0 sync.adaptv.advertising.com
-##DIV[class^='ads_border_']
-##DIV[data-text-ad]
-0.0.0.0 ads.adaptv.advertising.com
-0.0.0.0 tag.sp.advertising.com
-##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
-0.0.0.0 pixel.advertising.com
-0.0.0.0 ads-ap.adaptv.advertising.com
-##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background:#000;opacity:0.01;']
-0.0.0.0 ads-ec.adaptv.advertising.com
-0.0.0.0 ads-eu.adaptv.advertising.com
-0.0.0.0 ads-wc.adaptv.advertising.com
-##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
-0.0.0.0 adserver-as.adtech.advertising.com
-##DIV[style*='.xyz/gif/']
-0.0.0.0 adserver-eu.adtech.advertising.com
-##DIV[style*='animation: 1s ease 0.2s infinite normal none running shakegwegs; z-index:'][style*='background: url']
-0.0.0.0 adserver-us.adtech.advertising.com
-0.0.0.0 adserver.adtech.advertising.com
-##DIV[style*='display: block; width: 100%; left: 0px; position: fixed; z-index:'][style*='height: 25px; top: 133px;']
-0.0.0.0 eu.event.cmp.advertising.com
-##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
-0.0.0.0 guce.advertising.com
-0.0.0.0 hb-as.adtech.advertising.com
-##DIV[style*='px; bottom: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
-0.0.0.0 log-nj.adaptv.advertising.com
-##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
-0.0.0.0 log-sj-eq.adaptv.advertising.com
-0.0.0.0 log-sj.adaptv.advertising.com
-##DIV[style='background-color: rgb(249, 249, 249); display: flex; align-items: center; justify-content: center;']
-0.0.0.0 log.adaptv.advertising.com
-0.0.0.0 mads.advertising.com
-##DIV[style='clear: both; position: relative; width: 396px; height: 130px;']
-0.0.0.0 mobileapi.advertising.com
-##DIV[style='position: absolute; inset: 0px; background: rgba(0, 0, 0, 0);']
-0.0.0.0 tag-dev.sp.advertising.com
-0.0.0.0 us.event.cmp.advertising.com
-0.0.0.0 adeaz.com
-##DIV[style='position: fixed; bottom: 0px; left: 0px; width: 100%; height: 5.85rem; z-index: 99999;']
-0.0.0.0 jira.adeaz.com
-0.0.0.0 www.adeaz.com
-0.0.0.0 hz.adeaz.com
-##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
-0.0.0.0 newsbee.adeaz.com
-0.0.0.0 touch.adeaz.com
-0.0.0.0 sx.adm.adeaz.com
-0.0.0.0 third.adeaz.com
-##DIV[style='position: fixed; left: 0px; bottom: 0px; width: 100%; height: 120px; z-index: 2147483647 !important;']
-0.0.0.0 sa.adeaz.com
-0.0.0.0 g.sa.adeaz.com
-0.0.0.0 i.adeaz.com
-##DIV[style='position: fixed; line-height: 100vh; width: 100vw; top: 0px; left: 0px;']
-0.0.0.0 data.adeaz.com
-0.0.0.0 ddy.adeaz.com
-##DIV[style='width: 100%;background-color: black;color: white;padding: 15px 0;']
-0.0.0.0 wukong.adeaz.com
-0.0.0.0 j.adeaz.com
-0.0.0.0 pic.adeaz.com
-##DIV[style^='box-sizing: border-box; position: relative; left: 0px; z-index: 214748']
-0.0.0.0 n1.zuoyebang.cc
-0.0.0.0 n2.zuoyebang.cc
-0.0.0.0 n3.zuoyebang.cc
-##DIV[style^='display: block; aspect-ratio: 728 / 90; background-image: url("/static/resources/lp.php']
-0.0.0.0 n4.zuoyebang.cc
-0.0.0.0 n5.zuoyebang.cc
-##DIV[style^='position: fixed; bottom: 50%; z-index: 19999 !important; ']
-0.0.0.0 sdk.appadhoc.com
-0.0.0.0 experiment.appadhoc.com
-##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
-0.0.0.0 upgrade.api.my7v.com
-##I.fa.fa-close
-0.0.0.0 ads.api.my7v.com
-##IFRAME[src^='https://mydisplay.ctfile.com/popview.php']
-0.0.0.0 api.wx.my7v.com
-##IMG#diads
-0.0.0.0 dc.api.my7v.com
-##IMG.cupfox[src$='gif']
-0.0.0.0 base.api.my7v.com
-##IMG.lazyload[src='/statics/img/load.gif']
-0.0.0.0 ads.huan.tv
-##IMG.playVideo-checkin-img
-0.0.0.0 amdc.m.taobao.com
-##IMG[alt='155.fun']
-0.0.0.0 tclicon5.ifmis.huan.tv
-##IMG[alt='五一特惠']
-0.0.0.0 dreport.meituan.net
-##IMG[alt^='kaiybet']
-0.0.0.0 env.dreport.meituan.net
-##IMG[onclick='godown()'][src$='gif']
-0.0.0.0 kfk2es.dreport.meigtuan.net
-##IMG[onclick='golh()'][src$='.gif']
-0.0.0.0 met-badge.dreport.meituan.net
-##IMG[referrerpolicy='no-referrer'][src$='.gif'][width='100%']
-0.0.0.0 mobile.dreport.meituan.net
-0.0.0.0 sniffer.dreport.meituan.net
-##IMG[referrerpolicy='no-referrer'][style='box-sizing: border-box;height:calc(10vh); width:100%;padding: 0px 15px 10px 15px;']
-0.0.0.0 metrics-exit-ios.dreport.meituan.net
-##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
-0.0.0.0 prism-report-ddd.dreport.meituan.net
-##IMG[src$='tywheying/vv2-960x80.gif']
-0.0.0.0 route-stats.dreport.meituan.net
-##IMG[src*='.xyz/tupian/'][src$='/h5.gif']
-0.0.0.0 api.ads.tvb.com
-##IMG[src*='//img4.qv1.ru/data/game/']
-0.0.0.0 img.ads.tvb.com
-##IMG[src*='/ds3/ssmh/']
-0.0.0.0 active.tc.skysrt.com
-##IMG[src*='/gg/'][src$='180.gif'][src*='800']
-0.0.0.0 t7z.cupid.iqiyi.com
-0.0.0.0 ad.3.cn
-##IMG[src*='qimanwu_wap/static/adimages/']
-0.0.0.0 amdcopen.m.taobao.com
-##IMG[src*='qmfcybwbf']
-0.0.0.0 api.app.skysrt.com
-##IMG[src*='tupian.guanggao']
-0.0.0.0 api.device.skysrt.com
-##IMG[src='/adBanner']
-##IMG[src='/js/imgs/taote.jpg']
-0.0.0.0 api.home.skysrt.com
-0.0.0.0 api.skyworthiot.com
-##IMG[src='https://tanju.vip/wapxiezi.png']
-0.0.0.0 api-home.skysrt.com
-##IMG[src^='http://socos.gitee.io/ss/poster'][alt][style='width: 100%;']
-0.0.0.0 app.snm0516.aisee.tv
-##IMG[src^='https://dzfzfv.xyz/']
-0.0.0.0 btrace.play.t002.ottcn.com
-0.0.0.0 business.video.tc.skysrt.com
-##IMG[style='height:120px;width:100%;'][src*='/sucai/']
-0.0.0.0 cl-dl.cc0808.com
-##IMG[style='width: 100%;'][src^='https://ad.']
-0.0.0.0 conf-darwin.xycdn.com
-0.0.0.0 connect.play.aiseet.atianqi.com
 ##IMG[url][onclick='window.open(this.url)'][src$='.gif'][width='100%']
-0.0.0.0 data-dl.skysrt.com
+0.0.0.0 pkg.toponad.com
 ##INS.adsbygoogle
-0.0.0.0 dl.skysrt.com
+0.0.0.0 ad.alimama.com
 ##INS[status='done'] A.external
-0.0.0.0 dp3.play.t002.ottcn.com
-0.0.0.0 livep.l.t002.ottcn.com
+0.0.0.0 c.click.alimama.com
+0.0.0.0 adsh.wagbridge.taobao.alimama.com
 ##P[style$='transparent !important; font-size: 0px !important; text-indent: -10000px !important; height: 125px !important;']
-0.0.0.0 mtrace.play.t002.ottcn.com
-0.0.0.0 ocsp.int-x3.letsencrypt.org
-0.0.0.0 puui.qpic.cn
+0.0.0.0 adsh.wagbridge.tmall.alimama.com
+0.0.0.0 adsz.wagbridge.taobao.alimama.com
 ##P[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
-0.0.0.0 rpc-tc.skysrt.com
+0.0.0.0 ad-sh-sz-zb.wagbridge.tanx.alimama.com
 ##SPAN#VuMk2.IgpuN2
 ##SPAN#qdSZ2
-0.0.0.0 rpt-gdt.play.t002.ottcn.com
+0.0.0.0 adsh.wagbridge.1688.alimama.com
+0.0.0.0 pre3-ad.alimama.com
 ##SPAN.closebox1,SPAN.closebox2,SPAN.closebox3,SPAN.closebox4
-0.0.0.0 sdk1xyajs.data.p2cdn.com
+0.0.0.0 adsz.wagbridge.1688.alimama.com
+0.0.0.0 pre-ad.alimama.com
+0.0.0.0 pre-adv.alimama.com
+0.0.0.0 adsz.wagbridge.tanx.alimama.com
+0.0.0.0 adsh.wagbridge.alibaba.alimama.com
+0.0.0.0 adx.alimama.com
 ##SPAN[style$='font-size: 6vw; color:#fff; text-align: center; transform: rotate(-90deg);']
-0.0.0.0 sky.tvos.skysrt.com
-0.0.0.0 sv.video.qq.com
-0.0.0.0 tq.skysrt.com
+0.0.0.0 adsh.wagbridge.tanx.alimama.com
+0.0.0.0 adsz.wagbridge.tmall.alimama.com
+0.0.0.0 pre2-ad.alimama.com
+0.0.0.0 tf.logview.alimama.com
+0.0.0.0 logview.uc.alimama.com
 ##SPAN[style^="position: fixed; bottom: 30vh; z-index: 2147483647; right: 0px; margin-right: 6vw; padding: 0px; text-decoration: none; background-color: red; width: 7vw; height: 7vw; border-radius: 7vw; font-size: 6vw; color:"]
-0.0.0.0 tracker.appadhoc.com
-0.0.0.0 tvos.skysrt.com
+0.0.0.0 ad.bayescom.com
+0.0.0.0 blink.bayescom.com
 ##UL[style='margin: 0px; padding: 0px; font-size: 0px; display: flex;']
-0.0.0.0 tx.ctrmi.cn
+0.0.0.0 jupiter.bayescom.com
+0.0.0.0 jupiter2.bayescom.com
 ##VIDEO[loop='true'][muted='true'][autoplay='true'][playsinline='true'][preload='auto']
-0.0.0.0 umengacs.m.taobao.com
+0.0.0.0 blink-upload.bayescom.com
 ##[ad_dot_url]
-0.0.0.0 update01.skyworth-cloud.com
+0.0.0.0 raddus.bayescom.com
 ##[alt="要恰饭的嘛"]
+0.0.0.0 shuttle.bayescom.com
 ##[alt='52bl']
-0.0.0.0 webapp.skysrt.com
 ##[alt='ACG里番']
-0.0.0.0 api-app.coocaa.ottcn.com
+0.0.0.0 cruiser.bayescom.cn
 ##[alt='ad']
+0.0.0.0 ad.cacafly.com
 ##[alt='西瓜社']
+0.0.0.0 mrbs.cacafly.com
 ##[at*='尼斯人注册送']
-0.0.0.0 api-home.coocaa.ottcn.com
+0.0.0.0 rp3.cacafly.com
+0.0.0.0 nativeads.cacafly.com
 ##[class$="_main_outstream"][style="right: 0px;"]
-0.0.0.0 qr.coocaa.com
-0.0.0.0 res.hoisin.coocaatv.com
+0.0.0.0 rp.cacafly.com
+0.0.0.0 appx.cacafly.com
 ##[class][data-sitename][data-header-version] > div[id^="detection-block"]
-0.0.0.0 api-upgrade.coocaa.ottcn.com
+0.0.0.0 gateway.cacafly.com
 ##[class][onclick="window.location.href='/api/goapp/'"]
-0.0.0.0 data-hoisin.coocaa.com
-0.0.0.0 hoisin.coocaa.com
+0.0.0.0 apps2.cacafly.com
+0.0.0.0 lyncdiscover.cacafly.com
 ##[class][onclick="window.location.href='https://www.suyuexs.com'"]
+0.0.0.0 flarefilter.cacafly.com
+0.0.0.0 apps.cacafly.com
 ##[class][onclick="window.location.href='https://www.tsqcy.cn'"]
+0.0.0.0 app.cacafly.com
 ##[class][onclick^="window.location.href"][onclick*="%AF%B4.apk"]
+0.0.0.0 www.flarefilter.cacafly.com
+0.0.0.0 ad-verify.flurry.com
 ##[class][onclick^="window.location.href"][onclick*=".bcebos."]
+0.0.0.0 ads-verify.flurry.com
 ##[class][onclick^="window.location.href"][onclick*=".pypyj.com"]
+0.0.0.0 apac-ads.flurry.com
+0.0.0.0 api-metrics-canary.flurry.com
 ##[class][onclick^="window.location.href"][onclick*=".yueshuapp.com"]
+0.0.0.0 api-metrics-e2e.nonprod.flurry.com
+0.0.0.0 api-metrics-smoke.nonprod.flurry.com
 ##[class][style*='px; bottom: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
+0.0.0.0 api-metrics.flurry.com
+0.0.0.0 api-verify.flurry.com
 ##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
+0.0.0.0 api.flurry.com
+0.0.0.0 app.flurry.com
 ##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: relative;']
+0.0.0.0 data-canary.flurry.com
 ##[class^="chapter_"] > .baiduCenter
+0.0.0.0 data-ipv6.flurry.com
+0.0.0.0 data-k8s.flurry.com
 ##[data^='/banners/pr_advertising_ads_banner']
+0.0.0.0 data.real.flurry.com
 ##[href$='/ads.aspx']
+0.0.0.0 geo.flurry.com
 ##[href*="/?channelCode="] > [referrerpolicy='no-referrer']
+0.0.0.0 gw.flurry.com
+0.0.0.0 pilot-ad.flurry.com
 ##[href*="/entry/register/?i_code="]
 ##[href*='.lookxmh3']
+0.0.0.0 pilot-api.flurry.com
 ##[href*='.top/?token=']
+0.0.0.0 pilot-data.flurry.com
 ##[href*='.xacg.info/']
+0.0.0.0 proton-int.flurry.com
 ##[href*='3400.org']
+0.0.0.0 pulse.data.flurry.com
 ##[href*='anrvl.com']
 ##[href*='baidugg123.cc']
+0.0.0.0 realtime-metrics.flurry.com
 ##[href*='pojuko.buzz']
+0.0.0.0 staging-ads.flurry.com
 ##[href*='slkdnlkfnskl.com']
+0.0.0.0 app.zhidian3g.cn
 ##[href*='snnrb.com']
+0.0.0.0 marketing.zhidian3g.cn
 ##[href*='sohu.com/hy-op']
+0.0.0.0 sapi.zhidian3g.cn
 ##[href*='zthbe.com']
+0.0.0.0 x.zhidian3g.cn
 ##[href="/ad/007.html"]
+0.0.0.0 djing.zhidian3g.cn
 ##[href='/ad.html']
+0.0.0.0 d.zhidian3g.cn
 ##[href='/ad/bfy.html']
+0.0.0.0 e.zhidian3g.cn
 ##[href='/aga2/1661087']
+0.0.0.0 s.zhidian3g.cn
 ##[href='/jump.html']
+0.0.0.0 a.zhidian3g.cn
 ##[href='/my/dp.html']
+0.0.0.0 c.zhidian3g.cn
 ##[href='/my/gd.html']
+0.0.0.0 adunion.wifi8.com
 ##[href='http://ky53362.com/']
+0.0.0.0 adfile.wifi8.com
 ##[href='https://click.aliyun.com/m/1000332699/']
+0.0.0.0 ad.yun.wifi8.com
 ##[href='https://dpurl.cn/HifSTUtz']
+0.0.0.0 dmp.wifi8.com
 ##[href='https://okok.com.tw/']
+0.0.0.0 dev.wifi8.com
 ##[href='https://ttaxz087b.xyz']
+0.0.0.0 sync.adaptv.advertising.com
 ##[href='https://www.aiwajbh.com/mh.php']
+0.0.0.0 ads.adaptv.advertising.com
 ##[href^="//mage98rquewz.com/"]
+0.0.0.0 tag.sp.advertising.com
 ##[href^="//x4pollyxxpush.com/"]
+0.0.0.0 pixel.advertising.com
 ##[href^="https://9996867.com"]
+0.0.0.0 ads-ap.adaptv.advertising.com
 ##[href^="https://lantianyong"]
+0.0.0.0 ads-ec.adaptv.advertising.com
 ##[href^="openapp.jdmobile://virtual?params="]
+0.0.0.0 ads-eu.adaptv.advertising.com
 ##[href^='http://j6597v.hjlego.com']
+0.0.0.0 ads-wc.adaptv.advertising.com
 ##[href^='http://jg.awaliwa.com/']
+0.0.0.0 adserver-as.adtech.advertising.com
 ##[href^='http://mm.alameinv.com/']
+0.0.0.0 adserver-eu.adtech.advertising.com
 ##[href^='https://31jrx5y7.com/']
+0.0.0.0 adserver-us.adtech.advertising.com
 ##[href^='https://65564535.com']
 ##[href^='https://97749516.com/']
+0.0.0.0 adserver.adtech.advertising.com
 ##[href^='https://analytics.woozooo.com/jump.php?url=']
 ##[href^='https://ccs.holor0803.cn']
+0.0.0.0 eu.event.cmp.advertising.com
 ##[href^='https://dc.vvsmse72']
 ##[href^='https://down.erperweima.top/']
+0.0.0.0 guce.advertising.com
 ##[href^='https://dt.mydrivers.com/b.ashx']
 ##[href^='https://fcc.hxaxfcc.cn/']
+0.0.0.0 hb-as.adtech.advertising.com
 ##[href^='https://gougew.lanzoub.com/']
 ##[href^='https://iluluweb.club']
 ##[href^='https://jd.dangbei.com/']
+0.0.0.0 log-nj.adaptv.advertising.com
 ##[href^='https://jincai.sohu.com/']
 ##[href^='https://js.xiaobaofei.com']
+0.0.0.0 log-sj-eq.adaptv.advertising.com
 ##[href^='https://kcc.qrjxween.com/cc/']
 ##[href^='https://luodi.aitaokeji.top/']
+0.0.0.0 log-sj.adaptv.advertising.com
 ##[href^='https://mtyshi.com/']
 ##[href^='https://tz.jingjiezhenkong.com']
+0.0.0.0 log.adaptv.advertising.com
 ##[href^='https://tz.kefuyuming.vip/']
 ##[href^='https://uod217.com/']
+0.0.0.0 mads.advertising.com
 ##[href^='https://w5979.com:']
+0.0.0.0 mobileapi.advertising.com
 ##[href^='https://www.00285164.com']
 ##[href^='https://www.00426740.com']
+0.0.0.0 tag-dev.sp.advertising.com
 ##[href^='https://www.jumbobag.cn']
 ##[href^='https://www.qlspx.com:']
+0.0.0.0 us.event.cmp.advertising.com
 ##[href^='https://xcc.'][href*='cn/']
+0.0.0.0 adeaz.com
+0.0.0.0 jira.adeaz.com
+0.0.0.0 www.adeaz.com
+0.0.0.0 hz.adeaz.com
 ##[href^='https://xxx.nunxun.com']
 ##[onclick*="trackEvent', 'ad"]
+0.0.0.0 newsbee.adeaz.com
 ##[onclick*='fjbglfrv.com']
+0.0.0.0 touch.adeaz.com
 ##[onclick*='https://i.opiwb.com:']
 ##[onclick*='pypyj.com']
+0.0.0.0 sx.adm.adeaz.com
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b
 ##[onclick="window.open('http://682kg.com/')"]
+0.0.0.0 third.adeaz.com
+0.0.0.0 sa.adeaz.com
 ##[onclick="window.open('https://docs.qq.com/doc/DZGtmWUxpamJGTnNY');"]
 ##[onclick='gourl()'][src^='/images/bfq/']
+0.0.0.0 g.sa.adeaz.com
+0.0.0.0 i.adeaz.com
 ##[onclick^="window.location.href='https://apps.apple.com/cn/app/%E9%80%9F%E9%98%85%E5%B0%8F%E8%AF%B4"]
+0.0.0.0 data.adeaz.com
 ##[poster^='https://dingbu.bj.bcebos.com/']
 ##[rel='nofollow'][href^='/book/baidu_verify_code']
+0.0.0.0 ddy.adeaz.com
 ##[src$='/dibu.adadadad']
 ##[src$='anyhosthub-480x90.gif']
+0.0.0.0 wukong.adeaz.com
 ##[src*='zdmbl.xyz']
 ##[src='/images/c_l.png']
+0.0.0.0 j.adeaz.com
 ##[src='/static/ads.png']
+0.0.0.0 pic.adeaz.com
 ##[src='http://m.guangzhoubingqing.com/88888.jpg']
+0.0.0.0 n1.zuoyebang.cc
 ##[src='https://pnm.hpvitycz.cn/00.jpg']
 ##[src^="https://img.sobot.com/chatres/"][title="sb"]
+0.0.0.0 n2.zuoyebang.cc
 ##[src^='/MDassets/images/']
+0.0.0.0 n3.zuoyebang.cc
+0.0.0.0 n4.zuoyebang.cc
 ##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']
 ##[src^='/banners/pr_advertising_ads_banner']
+0.0.0.0 n5.zuoyebang.cc
+0.0.0.0 sdk.appadhoc.com
 ##[src^='/static/resources/lp.php'][style^='max-width: 100%; transform-origin: left top;']
+0.0.0.0 experiment.appadhoc.com
 ##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
+0.0.0.0 upgrade.api.my7v.com
 ##[src^='https://369x520.com']
+0.0.0.0 ads.api.my7v.com
+0.0.0.0 api.wx.my7v.com
 ##[src^='https://ae01.alicdn.com/'][alt='歪歪漫画']
 ##[src^='https://dingbu.bj.bcebos.com/']
+0.0.0.0 dc.api.my7v.com
 ##[src^='https://immmg.owowqrf.cn']
 ##[src^='https://kykqss.xyz']
+0.0.0.0 base.api.my7v.com
 ##[src^='https://l.bt5v.com/v.php']
+0.0.0.0 ads.huan.tv
 ##[src^='https://play.cdn6.buzz/js/']
+0.0.0.0 amdc.m.taobao.com
 ##[src^='https://qwe0231141.bj.bcebos.com/']
+0.0.0.0 tclicon5.ifmis.huan.tv
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
+0.0.0.0 dreport.meituan.net
 ##[style$=' 0% 0% / 100% no-repeat; height: 130px; width: 100%; position: relative;']
+0.0.0.0 env.dreport.meituan.net
 ##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
+0.0.0.0 kfk2es.dreport.meigtuan.net
 ##[style$='display:block;width:9.6vw;height:8.5vw;background: #000;opacity:0.01;']
+0.0.0.0 met-badge.dreport.meituan.net
 ##[style*="mi-img.com"][style*="calc"]
+0.0.0.0 mobile.dreport.meituan.net
 ##[style*='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147'][style*='bottom: 132px;']
+0.0.0.0 sniffer.dreport.meituan.net
 ##[style*='line-height: 115px; left: 0px; z-index: 0; width: 100vw; background: url']
+0.0.0.0 metrics-exit-ios.dreport.meituan.net
 ##[style*='px; top: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
+0.0.0.0 prism-report-ddd.dreport.meituan.net
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !']
+0.0.0.0 route-stats.dreport.meituan.net
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !'] *
+0.0.0.0 api.ads.tvb.com
+0.0.0.0 img.ads.tvb.com
 ##[style*='width: 100vw; background: url'][style$='no-repeat; position: fixed;'][style*='0px 0px / 100vw ']
+0.0.0.0 active.tc.skysrt.com
 ##[style*='width:9.6vw;height:8.5vw;background:#000;opacity:0.01;']
+0.0.0.0 t7z.cupid.iqiyi.com
+0.0.0.0 ad.3.cn
 ##[style="display:none"] + iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+0.0.0.0 amdcopen.m.taobao.com
 ##[style='box-sizing: border-box; position: relative; left: 0px; z-index: 912944; text-indent: -10em;']
+0.0.0.0 api.app.skysrt.com
+0.0.0.0 api.device.skysrt.com
 ##[style='display: block; width: 100%; height: 125px; background-size: 100% 100%;']
+0.0.0.0 api.home.skysrt.com
 ##[style='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147483646; height: 49px; bottom: 132px;']
+0.0.0.0 api.skyworthiot.com
+0.0.0.0 api-home.skysrt.com
 ##[style='position:absolute !important;padding:0px !important;margin:0px !important;width:100% !important;font-size:0px !important;line-height:0px !important;']
+0.0.0.0 app.snm0516.aisee.tv
 ##[style='position:relative !important;padding:0px !important;margin:0px !important;line-height:1 !important;']
+0.0.0.0 btrace.play.t002.ottcn.com
 ##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
+0.0.0.0 business.video.tc.skysrt.com
 ##[style='top: 0vw; display: block;']
+0.0.0.0 cl-dl.cc0808.com
 ##[style='top: 16.4vw; display: block;']
 ##[style='top: 24.6vw; display: block;']
+0.0.0.0 conf-darwin.xycdn.com
 ##[style='top: 8.2vw; display: block;']
+0.0.0.0 connect.play.aiseet.atianqi.com
 ##[style='width: 100%; height: 123.75px;']
+0.0.0.0 data-dl.skysrt.com
 ##[style='width: 100%; height: auto; position: fixed; left: 0px; top: 0px; z-index: 2147483647;']
+0.0.0.0 dl.skysrt.com
 ##[style='width: 100%;height:660px;z-index:2147483647;position:fixed;display:block;bottom:0px;']
+0.0.0.0 dp3.play.t002.ottcn.com
 ##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
+0.0.0.0 livep.l.t002.ottcn.com
+0.0.0.0 mtrace.play.t002.ottcn.com
 ##[style='z-index: 99999; text-indent: -10em;position: relative; left: 0px;box-sizing: border-box;']
+0.0.0.0 ocsp.int-x3.letsencrypt.org
 ##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
+0.0.0.0 puui.qpic.cn
+0.0.0.0 rpc-tc.skysrt.com
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
+0.0.0.0 rpt-gdt.play.t002.ottcn.com
 ##[style^='display: block; z-index: 2147483646; width: 10%;']
+0.0.0.0 sdk1xyajs.data.p2cdn.com
 ##[style^='display: block; z-index: 2147483646; width: 17px; ']
+0.0.0.0 sky.tvos.skysrt.com
 ##[style^='position: fixed; bottom: 20%; z-index: 19999 !important; ']
+0.0.0.0 sv.video.qq.com
+0.0.0.0 tq.skysrt.com
 ##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
+0.0.0.0 tracker.appadhoc.com
 ##[style^='position: fixed; z-index: 2147483616; width: 10%; height: 32.5px;']
+0.0.0.0 tvos.skysrt.com
 ##a > I.gg-icon
 ##a > IMG[src$='.gif'][wapsrc][style^='width: 100%']
+0.0.0.0 tx.ctrmi.cn
 ##a#wrapper_left_bg
 ##a#wrapper_left_bg\ llll
+0.0.0.0 umengacs.m.taobao.com
 ##a#wrapper_right_bg
 ##a.gggg[href^="https"]
+0.0.0.0 update01.skyworth-cloud.com
 ##a.hengfu > img.hengfu
 ##a[clickmode="ad"]
+0.0.0.0 webapp.skysrt.com
 ##a[href$=".cc:8443"]
 ##a[href$=".php"] > img[src*=".bcebos.com"]
+0.0.0.0 api-app.coocaa.ottcn.com
 ##a[href$=".xyz:8443"]
 ##a[href$="/hjdt9.com"]
+0.0.0.0 api-home.coocaa.ottcn.com
 ##a[href$="/xha77.com"]
 ##a[href*=".68hantang.com"]
+0.0.0.0 qr.coocaa.com
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
+0.0.0.0 res.hoisin.coocaatv.com
 ##a[href*=".asd257642.com:"]
 ##a[href*=".bilibilitool.site"]
 ##a[href*=".bright.cn/?utm_"]
 ##a[href*=".bsy3.xyz"]
+0.0.0.0 api-upgrade.coocaa.ottcn.com
 ##a[href*=".bvftxy.com/"]
 ##a[href*=".cgn8j9f4j3g.com:"]
+0.0.0.0 data-hoisin.coocaa.com
 ##a[href*=".com/?Extend="]
+0.0.0.0 hoisin.coocaa.com
 ##a[href*=".com/Register.aspx?aid="]
 ##a[href*=".com/Register/?a="]
 ##a[href*=".com/tg.html?id="]
@@ -16433,6 +16433,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 1avlang.com,avavl4.com,avlang.com##.index-info > .tac
 1fichier.com##[style="float:right;width:300px;height:600px"]
 1freebb.com,babaorum.info,bboard.it,bestforum4u.com,bestforumforyou.com,bestoof.com,bestthread.com,bigboardlive.com,bigforum4you.com,boardforyou.com,cforum.info,clicforum.com,clicforum.fr,coolforum.info,discuforum.info,discussionforyou.com,ebboard.com,fansforum.info,forum-box.com,forumdesfans.com,forumforever.com,forumserv.com,hereboard.com,hotforum4u.com,hotforumonline.com,leforum.cc,leforum.eu,leforum.tv,level52.com,lolforum.com,lolforum.info,majz.com,myforumlive.com,newforumlive.com,ogameteam.com,phpboard1.com,positiforum.info,quickforum.info,smileforum.info,soforums.com,theforumcity.com,topbboard.com,urtopic.com,vraiforum.com,webrpg.info,xoo.it,xooit.be,xooit.biz,xooit.cc,xooit.co.uk,xooit.com,xooit.eu,xooit.fr,xooit.info,xooit.org,xooit.org.uk,xooit.tv#$#abort-on-property-read document.body.style.backgroundPosition
+127.0.0.1 mishop.pandora.xiaomi.com.
 1keydata.com#$##detect.ad-placement { display: block !important; }
 1keydata.com#%#//scriptlet('abort-current-inline-script', 'document.querySelector', 'window.getComputedStyle')
 1kkk.com##.kk2.cc
@@ -17344,7 +17345,6 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 23180.connector-qa1.marketingcloudqaapis.com$image
 23180.view-qa1.sfmc-marketingqa.com$image
 23186.connector-qa1.marketingcloudqaapis.com$image
-127.0.0.1 mishop.pandora.xiaomi.com.
 23186.editor-qa1.marketingcloudqaapis.com$image
 23187.connector-qa1.marketingcloudqaapis.com$image
 23208.connector-qa1.marketingcloudqaapis.com$image
@@ -25258,7 +25258,11 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=stalker-worlds.ru
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=trading-evolution.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=videoproxy.in
+23.202.34.138 bigota.d.miui.com
+23.202.34.138 hugeota.d.miui.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=windows7themes.net
+47.74.196.250 bigota.d.miui.com
+47.74.196.250 hugeota.d.miui.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=woprime.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=youtubeproxy.info
 @@||pagead2.googlesyndication.com/pub-config/$script,domain=sc2casts.com
@@ -26304,13 +26308,9 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 @@||walmart.com/b/ss/
 @@||walmart.com^*/track?event=$xmlhttprequest
 @@||walmartimages.com/webanalytics/omniture/omniture.jsp$domain=walmart.com
-23.202.34.138 bigota.d.miui.com
 @@||walmartimages.com/webanalytics/wmStat/wmStat.jsp$domain=walmart.com
-23.202.34.138 hugeota.d.miui.com
 @@||wamiz.com/css/ads.css
-47.74.196.250 bigota.d.miui.com
 @@||wancaibb.com/share/js/share.min.js
-47.74.196.250 hugeota.d.miui.com
 @@||wandhi.com^$generichide
 @@||ware.shop.jd.com^$genericblock,generichide
 @@||wargag.ru/public/js/counter.js?
