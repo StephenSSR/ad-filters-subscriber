@@ -1,41 +1,40 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2024-09-19 16:17:44
+! Last Modified: 2024-09-20 00:15:57
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
-::1 localhost
 ||1010pic.com^
-127.0.0.1 livew.l.qq.com #-> 腾讯视频
+::1 localhost
 ||16dd-advertise-1252317822.file.myqcloud.com^
-127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
+127.0.0.1 livew.l.qq.com #-> 腾讯视频
 ||16dd-advertise-1252317822.image.myqcloud.com^
-127.0.0.1 wxsnsdy.wxs.qq.com #-> 微信
 ||8le8le.com^
-127.0.0.1 is.snssdk.com
 ||a0.app.xiaomi.com^
-127.0.0.1 adsmind.gdtimg.com
 ||aaid.umeng.com^
-127.0.0.1 pv.sohu.com
 ||ad-cache.dopool.com^
+127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
+127.0.0.1 wxsnsdy.wxs.qq.com #-> 微信
+127.0.0.1 is.snssdk.com
+127.0.0.1 adsmind.gdtimg.com
+127.0.0.1 pv.sohu.com
 127.0.0.1 gw.365you.com
-||ad-cdn.qingting.fm^
-||ad-scope.com^
-||ad-scope.com.cn^
 127.0.0.1 x.adnet.qq.com
+||ad-cdn.qingting.fm^
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
-||ad-sdk.huxiu.com^
 127.0.0.1 d.gdt.qq.com
-||ad.12306.cn^
+||ad-scope.com^
 127.0.0.1 i.gdt.qq.com
-||ad.51wnl.com^
 127.0.0.1 m.gdt.qq.com
-||ad.bwton.com^
 127.0.0.1 t.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com
-127.0.0.1 v2.gdt.qq.com
+||ad-scope.com.cn^
+||ad-sdk.huxiu.com^
+||ad.12306.cn^
+||ad.51wnl.com^
+||ad.bwton.com^
 ||ad.cctv.com^
 ||ad.cyapi.cn^
 ||ad.partner.gifshow.com^
@@ -60,6 +59,8 @@
 ||adfilter.imtt.qq.com^
 ||adguanggao.eee114.com^
 ||adjust.cn^
+||adjust.com^
+127.0.0.1 v2.gdt.qq.com
 127.0.0.1 ii.gdt.qq.com
 127.0.0.1 rm.gdt.qq.com
 127.0.0.1 nc.gdt.qq.com
@@ -78,195 +79,197 @@
 127.0.0.1 nav.browser.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 api.ad.xiaomi.com
-||adjust.com^
-||adkwai.com^
-||adlink-api.huan.tv^
-||adm.funshion.com^
-||ads-api-o.api.leiniao.com^
 127.0.0.1 sdkconfig.ad.xiaomi.com
-||ads-api.tiktok.com^
-||ads-api.twitter.com^
 127.0.0.1 m.track.ad.xiaomi.com
-||ads-img-qc.xhscdn.com^
+||adkwai.com^
 127.0.0.1 t.track.ad.xiaomi.com
-||ads-jp.tiktok.com^
 127.0.0.1 irs01.com
-||ads-sg.tiktok.com^
 127.0.0.1 s.irs03.com
-||ads-us.tiktok.com^
 127.0.0.1 s1.irs03.com
-||ads-video-al.xhscdn.com^
 127.0.0.1 397c0.admaster.com.cn
-||ads-video-qc.xhscdn.com^
+||adlink-api.huan.tv^
 127.0.0.1 clickc.admaster.com.cn
-||ads.95516.com^
 127.0.0.1 v.admaster.com.cn
-||ads.google.cn^
-||ads.heytapmobi.com^
 127.0.0.1 ppvabs.pplive.com
-||ads.huan.tv^
 127.0.0.1 cdn.ad.xiaomi.com
-||ads.huantest.com^
 127.0.0.1 e.ad.xiaomi.com
-||ads.icloseli.cn^
 127.0.0.1 log.ad.xiaomi.com
-||ads.music.126.net^
 127.0.0.1 zeus.ad.xiaomi.com
-||ads.oppomobile.com^
 127.0.0.1 test.ad.xiaomi.com
-||ads.pinterest.com^
 127.0.0.1 test.e.ad.xiaomi.com
-||ads.servebom.com^
-||ads.service.kugou.com^
 127.0.0.1 test.zeus.ad.xiaomi.com
-||ads.v3mh.com^
+||adm.funshion.com^
 127.0.0.1 abtest.mistat.xiaomi.com
-||ads3-normal-hl.zijieapi.com^
+||ads-api-o.api.leiniao.com^
 127.0.0.1 api.tw06.xlmc.sec.miui.com
-||ads3-normal-lf.zijieapi.com^
+||ads-api.tiktok.com^
 127.0.0.1 adv.sec.miui.com
-||ads3-normal-lq.zijieapi.com^
-||ads3-normal.zijieapi.com^
+||ads-api.twitter.com^
 127.0.0.1 vt.ipinyou.com
-||ads5-normal-hl.zijieapi.com^
-||ads5-normal-lf.zijieapi.com^
-||ads5-normal-lq.zijieapi.com^
-||ads5-normal.zijieapi.com^
-||adsense.google.cn^
-||adservice.google.cn^
-||adservice.google.com^
-||adserviceretry.kugou.com^
+||ads-img-qc.xhscdn.com^
+||ads-jp.tiktok.com^
 127.0.0.1 diagnosis.ad.xiaomi.com
-||adsfile.bssdlbig.kugou.com^
+||ads-sg.tiktok.com^
 127.0.0.1 msg.71.am
-||adsfilebssdlbig.ali.kugou.com^
+||ads-us.tiktok.com^
 127.0.0.1 msg.qy.net
-||adsfileretry.service.kugou.com^
+||ads-video-al.xhscdn.com^
 127.0.0.1 resolver.msg.xiaomi.net
-||adsfs-sdkconfig.heytapimage.com^
-||adsfs.oppomobile.com^
+||ads-video-qc.xhscdn.com^
 127.0.0.1 api.ts.feedback.71.am
-||adsmart.konka.com^
+||ads.95516.com^
+||ads.google.cn^
 127.0.0.1 bj.imp.voiceads.cn
-||adsmind.gdtimg.com^
+||ads.heytapmobi.com^
+||ads.huan.tv^
 127.0.0.1 o2o.api.xiaomi.com
-||adsmind.ugdtimg.com^
+||ads.huantest.com^
 127.0.0.1 xiaomi.m.cn.miaozhen.com
-||adsp.xunlei.com^
-||adstats.tencentmusic.com^
+||ads.icloseli.cn^
 127.0.0.1 xiaomi-dtv.m.cn.miaozhen.com
 127.0.0.1 baiducdncmn3.inter.iqiyi.com
-||adstore-1252524079.file.myqcloud.com^
 127.0.0.1 nadvideo2.baidu.com
-||adstore-index-1252524079.file.myqcloud.com^
 127.0.0.1 api.cupid.iqiyi.com
-||adtago.s3.amazonaws.com^
 127.0.0.1 api.yuedu.iqiyi.com
-||adtech.yahooinc.com^
 127.0.0.1 c.uaa.iqiyi.com
-||adtrack.quark.cn^
 127.0.0.1 cloudpush.iqiyi.com
-||adukwai.com^
 127.0.0.1 cm.passport.iqiyi.com
-||adv.fjtv.net^
 127.0.0.1 gamecenter.iqiyi.com
-||adv.sec.intl.miui.com^
 127.0.0.1 ifacelog.iqiyi.com
-||adv.sec.miui.com^
 127.0.0.1 mbdlog.iqiyi.com
-||advertiseonbing.azureedge.net^
 127.0.0.1 msg.iqiyi.com
-||advertising-api-eu.amazon.com^
 127.0.0.1 msga.cupid.iqiyi.com
-||advertising-api-fe.amazon.com^
 127.0.0.1 nl.notice.iqiyi.com
-||advertising-api.amazon.com^
 127.0.0.1 notice.iqiyi.com
-||advertising.apple.com^
 127.0.0.1 policy.video.iqiyi.com
-||advertising.yahoo.com^
 127.0.0.1 static.g.iqiyi.com
-||advertising.yandex.ru^
 127.0.0.1 store.iqiyi.com
-||advice-ads.s3.amazonaws.com^
 127.0.0.1 nl.rcd.iqiyi.com
-||adview.cn^
 127.0.0.1 emoticon.sns.iqiyi.com
-||adx-ad.smart-tv.cn^
-||adx-cn.anythinktech.com^
 127.0.0.1 hotchat-im.iqiyi.com
 127.0.0.1 tracker.sns.iqiyi.com
-||adx-drcn.op.dbankcloud.cn^
 127.0.0.1 paopao.iqiyi.com
 127.0.0.1 paopao-monitor.iqiyi.com
-||adx-open-service.youku.com^
 127.0.0.1 paopao0.qiyipic.com
-||adx.ads.heytapmobi.com^
 127.0.0.1 paopao1.qiyipic.com
-||adx.ads.oppomobile.com^
 127.0.0.1 paopao2.qiyipic.com
+127.0.0.1 paopao3.qiyipic.com
+127.0.0.1 count.game.pps.tv
+127.0.0.1 game.pps.tv
+127.0.0.1 static.g.ppstream.com
+127.0.0.1 qosp.msg.71.am
+127.0.0.1 msga.71.am
+||ads.music.126.net^
+127.0.0.1 androidgo.duapp.com
+||ads.oppomobile.com^
+||ads.pinterest.com^
+127.0.0.1 noxagile.duapp.com
+||ads.servebom.com^
+127.0.0.1 api.cupid.qiyi.com
+||ads.service.kugou.com^
+127.0.0.1 msg.video.qiyi.com
+||ads.v3mh.com^
+127.0.0.1 msg2.video.qiyi.com
+||ads3-normal-hl.zijieapi.com^
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+||ads3-normal-lf.zijieapi.com^
+127.0.0.1 g.dtv.cn.miaozhen.com
+||ads3-normal-lq.zijieapi.com^
+127.0.0.1 baiducdncmn.inter.iqiyi.com
+||ads3-normal.zijieapi.com^
+127.0.0.1 msgv6.qy.net
+||ads5-normal-hl.zijieapi.com^
+127.0.0.1 api.ts.feedback.qy.net
+||ads5-normal-lf.zijieapi.com^
+||ads5-normal-lq.zijieapi.com^
+127.0.0.1 puma.api.iqiyi.com
+||ads5-normal.zijieapi.com^
+127.0.0.1 puma-api.iqiyi.com
+||adsense.google.cn^
+127.0.0.1 rd596n.jomodns.com
+||adservice.google.cn^
+127.0.0.1 baiducdncmn-gd.inter.iqiyi.com
+||adservice.google.com^
+||adserviceretry.kugou.com^
+127.0.0.1 bdcdncmn-gd.inter.71edge.com
+||adsfile.bssdlbig.kugou.com^
+127.0.0.1 mixer.cupid.ptqy.gitv.tv
+||adsfilebssdlbig.ali.kugou.com^
+127.0.0.1 msg.ptqy.gitv.tv
+||adsfileretry.service.kugou.com^
+||adsfs-sdkconfig.heytapimage.com^
+127.0.0.1 aiseet.aa.atianqi.com
+||adsfs.oppomobile.com^
+||adsmart.konka.com^
+||adsmind.gdtimg.com^
+||adsmind.ugdtimg.com^
+||adsp.xunlei.com^
+||adstats.tencentmusic.com^
+||adstore-1252524079.file.myqcloud.com^
+||adstore-index-1252524079.file.myqcloud.com^
+||adtago.s3.amazonaws.com^
+||adtech.yahooinc.com^
+||adtrack.quark.cn^
+||adukwai.com^
+||adv.fjtv.net^
+||adv.sec.intl.miui.com^
+||adv.sec.miui.com^
+||advertiseonbing.azureedge.net^
+||advertising-api-eu.amazon.com^
+||advertising-api-fe.amazon.com^
+||advertising-api.amazon.com^
+||advertising.apple.com^
+||advertising.yahoo.com^
+||advertising.yandex.ru^
+||advice-ads.s3.amazonaws.com^
+||adview.cn^
+||adx-ad.smart-tv.cn^
+||adx-cn.anythinktech.com^
+||adx-drcn.op.dbankcloud.cn^
+||adx-open-service.youku.com^
+||adx.ads.heytapmobi.com^
+||adx.ads.oppomobile.com^
 ||adxlog-adnet.vivo.com.cn^
 ||adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn^
-127.0.0.1 paopao3.qiyipic.com
 ||adxserver.ad.cmvideo.cn^
-127.0.0.1 count.game.pps.tv
 ||aegis.qq.com^
-127.0.0.1 game.pps.tv
 ||afs.googlesyndication.com^
 ||aiseet.aa.atianqi.com^
-127.0.0.1 static.g.ppstream.com
 ||ali-ad.a.yximgs.com^
-127.0.0.1 qosp.msg.71.am
 ||alog.umeng.com^
-127.0.0.1 msga.71.am
 ||als.baidu.com^
-127.0.0.1 androidgo.duapp.com
 ||amdcopen.m.taobao.com^
-127.0.0.1 noxagile.duapp.com
 ||an.facebook.com^
-127.0.0.1 api.cupid.qiyi.com
 ||analysis.yozocloud.cn^
-127.0.0.1 msg.video.qiyi.com
 ||analytics-api.samsunghealthcn.com^
-127.0.0.1 msg2.video.qiyi.com
 ||analytics.126.net^
 ||analytics.95516.com^
-127.0.0.1 t7z.cupid.ptqy.gitv.tv
 ||analytics.google.com^
-127.0.0.1 g.dtv.cn.miaozhen.com
 ||analytics.pinterest.com^
-127.0.0.1 baiducdncmn.inter.iqiyi.com
 ||analytics.query.yahoo.com^
-127.0.0.1 msgv6.qy.net
 ||analytics.rayjump.com^
-127.0.0.1 api.ts.feedback.qy.net
 ||analytics.tiktok.com^
-127.0.0.1 puma.api.iqiyi.com
 ||analytics.woozooo.com^
-127.0.0.1 puma-api.iqiyi.com
 ||analyze.lemurbrowser.com^
-127.0.0.1 rd596n.jomodns.com
-||andrqd.play.aiseet.atianqi.com^
-127.0.0.1 baiducdncmn-gd.inter.iqiyi.com
-||ap.dongqiudi.com^
-127.0.0.1 bdcdncmn-gd.inter.71edge.com
-||apd-pcdnwxlogin.teg.tencent-cloud.net^
-127.0.0.1 mixer.cupid.ptqy.gitv.tv
-||apd-pcdnwxnat.teg.tencent-cloud.net^
-127.0.0.1 msg.ptqy.gitv.tv
-||apd-pcdnwxstat.teg.tencent-cloud.net^
-127.0.0.1 aiseet.aa.atianqi.com
-||api-access.pangolin-sdk-toutiao.com^
 127.0.0.1 livep.l.aiseet.atianqi.com
-||api-access.pangolin-sdk-toutiao1.com^
 127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 lives.l.ott.video.qq.com
+127.0.0.1 dp3.play.aiseet.atianqi.com
+127.0.0.1 p-l.play.aiseet.atianqi.com
+127.0.0.1 t-l.play.aiseet.atianqi.com
+127.0.0.1 news-l.play.ott.video.qq.com
+127.0.0.1 omgmta.play.ott.video.qq.com
+||andrqd.play.aiseet.atianqi.com^
+||ap.dongqiudi.com^
+||apd-pcdnwxlogin.teg.tencent-cloud.net^
+||apd-pcdnwxnat.teg.tencent-cloud.net^
+||apd-pcdnwxstat.teg.tencent-cloud.net^
+||api-access.pangolin-sdk-toutiao.com^
+||api-access.pangolin-sdk-toutiao1.com^
 ||api-access.pangolin-sdk-toutiao2.com^
 ||api-access.pangolin-sdk-toutiao3.com^
-127.0.0.1 lives.l.ott.video.qq.com
 ||api-access.pangolin-sdk-toutiao4.com^
-127.0.0.1 dp3.play.aiseet.atianqi.com
 ||api-access.pangolin-sdk-toutiao5.com^
-127.0.0.1 p-l.play.aiseet.atianqi.com
 ||api-ad-product.huxiu.com^
 ||api-adservices.apple.com^
 ||api-htp.beizi.biz^
@@ -301,47 +304,19 @@
 ||beizi.biz^
 ||bgg.baidu.com^
 ||bianxian.com^
-127.0.0.1 t-l.play.aiseet.atianqi.com
-127.0.0.1 news-l.play.ott.video.qq.com
-127.0.0.1 omgmta.play.ott.video.qq.com
-127.0.0.1 andrqd.play.aiseet.atianqi.com
-127.0.0.1 otheve.play.aiseet.atianqi.com
-127.0.0.1 othstr.play.aiseet.atianqi.com
-127.0.0.1 omgmta.play.aiseet.atianqi.com
-127.0.0.1 mtrace.play.aiseet.atianqi.com
-127.0.0.1 btrace.play.aiseet.atianqi.com
-127.0.0.1 news-l.play.aiseet.atianqi.com
-127.0.0.1 sdkconfig.play.aiseet.atianqi.com
-127.0.0.1 monitor-uu.play.aiseet.atianqi.com
-127.0.0.1 mdevstat.qqlive.qq.com
-127.0.0.1 tencent-dtv.m.cn.miaozhen.com
 ||bingads.microsoft.com^
-127.0.0.1 vmindhls.tc.qq.com
-127.0.0.1 c.l.qq.com
-127.0.0.1 bs.l.qq.com
-127.0.0.1 c2.l.qq.com
-127.0.0.1 cb.l.qq.com
-127.0.0.1 cm.l.qq.com
-127.0.0.1 hm.l.qq.com
-127.0.0.1 l.qq.com
 ||bj.ad.track.66mobi.com^
-127.0.0.1 l2.l.qq.com
 ||books-analytics-events.apple.com^
-127.0.0.1 lb.l.qq.com
 ||bossaudioandcomic-1252317822.image.myqcloud.com^
 ||bsrv.qq.com^
 ||bugly.qq.com^
-127.0.0.1 livec.l.qq.com
 ||business-api.tiktok.com^
 ||c.bidtoolads.com^
-127.0.0.1 livem.l.qq.com
 ||c.evidon.com^
 ||c.gj.qq.com^
 ||c.kuaiduizuoye.com^
-127.0.0.1 livep.l.qq.com
 ||c.sayhi.360.cn^
 ||c2.gdt.qq.com^
-127.0.0.1 lives.l.qq.com
 ||catalog.fjwhcbsh.com^
 ||ccs.umeng.com^
 ||cctv.adsunion.com^
@@ -397,17 +372,38 @@
 ||errlog.umeng.com^
 ||errnewlog.umeng.com^
 ||event.tradplusad.com^
+127.0.0.1 andrqd.play.aiseet.atianqi.com
+127.0.0.1 otheve.play.aiseet.atianqi.com
+127.0.0.1 othstr.play.aiseet.atianqi.com
+127.0.0.1 omgmta.play.aiseet.atianqi.com
+127.0.0.1 mtrace.play.aiseet.atianqi.com
+127.0.0.1 btrace.play.aiseet.atianqi.com
+127.0.0.1 news-l.play.aiseet.atianqi.com
+127.0.0.1 sdkconfig.play.aiseet.atianqi.com
+127.0.0.1 monitor-uu.play.aiseet.atianqi.com
+127.0.0.1 mdevstat.qqlive.qq.com
 ||events-drcn.op.dbankcloud.cn^
+127.0.0.1 tencent-dtv.m.cn.miaozhen.com
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
+127.0.0.1 vmindhls.tc.qq.com
 ||g-staic.ganjingworld.com^
+127.0.0.1 c.l.qq.com
 ||g2.ganjing.world^
+127.0.0.1 bs.l.qq.com
 ||game.loveota.com^
+127.0.0.1 c2.l.qq.com
 ||gdfp.gifshow.com^
+127.0.0.1 cb.l.qq.com
 ||gemini.yahoo.com^
+127.0.0.1 cm.l.qq.com
 ||geo.yahoo.com^
+127.0.0.1 hm.l.qq.com
 ||getui.com^
 ||ggx.cmvideo.cn^
+127.0.0.1 l.qq.com
+127.0.0.1 l2.l.qq.com
+127.0.0.1 lb.l.qq.com
 ||ggx01.miguvideo.com^
 ||ggx03.miguvideo.com^
 ||globalapi.ad.xiaomi.com^
@@ -415,1072 +411,17 @@
 ||googleadservices-cn.com^
 ||googleadservices.com^
 ||googletagservices-cn.com^
-127.0.0.1 ls.l.qq.com
+127.0.0.1 livec.l.qq.com
 ||googletagservices.com^
+127.0.0.1 livem.l.qq.com
 ||gorgon.youdao.com^
+127.0.0.1 livep.l.qq.com
 ||gromore.pangolin-sdk-toutiao.com^
-127.0.0.1 p2.l.qq.com
+127.0.0.1 lives.l.qq.com
 ||grs.dbankcloud.com^
+127.0.0.1 ls.l.qq.com
 ||grs.hicloud.com^
-127.0.0.1 p3.l.qq.com
-||grs.platform.dbankcloud.ru^
-127.0.0.1 t.l.qq.com
-||h-adashx.ut.taobao.com^
-||h.trace.qq.com^
-127.0.0.1 vd.l.qq.com
-||hanlanad.com^
-||henzanapp.com^
-127.0.0.1 w.l.qq.com
-||hexagon-analytics.com^
-||hiboard-drcn.ai.dbankcloud.cn^
-127.0.0.1 news.l.qq.com
-||hm.baidu.com^
-127.0.0.1 mcgi.v.qq.com
-||hmma.baidu.com^
-||houyi.kkmh.com^
-127.0.0.1 soup.v.qq.com
-||hpplay.cn^
-||httpdns.bcelive.com^
-127.0.0.1 bksoup.v.qq.com
-||httpdns.ocloud.oppomobile.com^
-||hugelog.fcbox.com^
-||huichuan.sm.cn^
-||hw-ot-ad.a.yximgs.com^
-127.0.0.1 sohu-dtv.m.cn.miaozhen.com
-||hw.zuimeitianqi.com^
-||hwpub-s01-drcn.cloud.dbankcloud.cn^
-127.0.0.1 agn.aty.snmsohu.aisee.tv
-||hya.comp.360os.com^
-127.0.0.1 agn.aty.sohu.com
-||hye.comp.360os.com^
-||hyt.comp.360os.com^
-127.0.0.1 f.aty.sohu.com
-||i.snssdk.com^
-||iad.apple.com^
-127.0.0.1 m.aty.sohu.com
-||iadctest.qwapi.com^
-127.0.0.1 fmg.aty.sohu.com
-||iadsdk.apple.com^
-127.0.0.1 mmg.aty.sohu.com
-||iadworkbench.apple.com^
-127.0.0.1 p.aty.sohu.com
-||ifacelog.iqiyi.com^
-||ifs.tanx.com^
-127.0.0.1 pg.aty.sohu.com
-||ii.gdt.qq.com^
-||imag8.pubmatic.com^
-127.0.0.1 pm.aty.sohu.com
-||imag86.pubmatic.com^
-127.0.0.1 v.aty.sohu.com
-||image-ad.sm.cn^
-||imageplus.baidu.com^
-127.0.0.1 vg.aty.sohu.com
-||images.outbrainimg.com^
-127.0.0.1 vm.aty.sohu.com
-||images.pinduoduo.com^
-127.0.0.1 da.mmarket.com
-||img-c.heytapimage.com^
-127.0.0.1 click.hd.sohu.com.cn
-||img.adnyg.com^
-127.0.0.1 click2.hd.sohu.com
-||img.adnyg.com.w.kunlungr.com^
-127.0.0.1 count.vrs.sohu.com
-||imtmp.net^
-127.0.0.1 ctr.hd.sohu.com
-||ipv4.kkmh.com^
-127.0.0.1 pb.hd.sohu.com.cn
-||irc.qubiankeji.com^
-127.0.0.1 pv.hd.sohu.com
-||itv2-up.openspeech.cn^
-127.0.0.1 vstat.my.tv.sohu.com
-||ixav-cse.avlyun.com^
-127.0.0.1 vstat.v.blog.sohu.com
-||iyfbodn.com^
-127.0.0.1 wl.hd.sohu.com
-||janapi.jd.com^
-127.0.0.1 download.wan.sohu.com
-||jiguang.cn^
-127.0.0.1 g.jssdk.net
-||jpush.cn^
-127.0.0.1 changyan.sohu.com
-||jpush.html5.qq.com^
-127.0.0.1 n.mark.letv.com
-||jpush.io^
-127.0.0.1 static.app.m.letv.com
-||jswebcollects.kugou.com^
-127.0.0.1 test.ark.letv.com
-||kepler.jd.com^
-127.0.0.1 de.as.cp61.ott.cibntv.net
-||kl.67it.com^
-||knicks.jd.com^
-127.0.0.1 lives.l.cp81.ott.cibntv.net
-||ks.pull.yximgs.com^
-127.0.0.1 mtrace.play.cp81.ott.cibntv.net
-||launcher.smart-tv.cn^
-127.0.0.1 ad.advst.cp33.ott.cibntv.net
-||launcherimg.smart-tv.cn^
-127.0.0.1 sltint.adv.ott.cibntv.net
-||lf3-ad-union-sdk.pglstatp-toutiao.com^
-127.0.0.1 topapi.cp12.ott.cibntv.net
-||litchiads.com^
-127.0.0.1 ad.video.51togic.com
-127.0.0.1 ssp.cibn.starschina.com
-||liveats-vod.video.ptqy.gitv.tv^
-||livemonitor.huan.tv^
-||livep.l.aiseet.atianqi.com^
-127.0.0.1 vpptv.admaster.com.cn
-||lives.l.aiseet.atianqi.com^
-127.0.0.1 pptv.m.cn.miaozhen.com
-127.0.0.1 ads.aplus.pptv.com
-127.0.0.1 app.aplus.pptv.com
-127.0.0.1 as.aplus.pptv.com
-127.0.0.1 de.as.pptv.com
-127.0.0.1 jp.as.pptv.com
-127.0.0.1 static.g.pptv.com
-||lives.l.ott.video.qq.com^
-127.0.0.1 tj.g.pptv.com
-||lm10111.jtrincc.cn^
-127.0.0.1 ads.data.pplive.com
-||log-api-mn.huxiu.com^
-127.0.0.1 gas.data.pplive.com
-127.0.0.1 plt.data.pplive.com
-||log-api.huxiu.com^
-127.0.0.1 web.data.pplive.com
-||log-api.pangolin-sdk-toutiao-b.com^
-127.0.0.1 mobile.da.mgtv.com
-127.0.0.1 mobile2.da.mgtv.com
-||log-api.pangolin-sdk-toutiao.com^
-127.0.0.1 ott.da.mgtv.com
-||log-report.com^
-127.0.0.1 ott2.da.mgtv.com
-||log-sdk.gifshow.com^
-127.0.0.1 ott3.da.mgtv.com
-||log-upload-os.hoyoverse.com^
-127.0.0.1 ott-v0-al.data.mgtv.com
-||log-upload.mihoyo.com^
-127.0.0.1 ott.v1.data.mgtv.com
-||log.ad.xiaomi.com^
-127.0.0.1 ys.da.mgtv.com
-127.0.0.1 ynet.da.mgtv.com
-||log.aispeech.com^
-127.0.0.1 pc.da.mgtv.com
-||log.amemv.com^
-127.0.0.1 pc1.da.mgtv.com
-||log.appstore3.huan.tv^
-127.0.0.1 pcweb-v1.log.mgtv.com
-||log.avlyun.com^
-127.0.0.1 pcweb.v1.mgtv.com
-127.0.0.1 py.da.mgtv.com
-||log.avlyun.sec.intl.miui.com^
-127.0.0.1 v1-play.log.mgtv.com
-||log.byteoversea.com^
-127.0.0.1 v2.da.mgtv.com
-||log.fc.yahoo.com^
-127.0.0.1 v2.log.mgtv.com
-||log.kuwo.cn^
-127.0.0.1 web.da.mgtv.com
-||log.pinterest.com^
-127.0.0.1 x.da.mgtv.com
-||log.snssdk.com^
-127.0.0.1 y.da.mgtv.com
-||log.stat.kugou.com^
-127.0.0.1 zx.da.mgtv.com
-||log.tagtic.cn^
-127.0.0.1 apperr.log.mgtv.com
-||log.tbs.qq.com^
-127.0.0.1 m2.da.mgtv.com
-127.0.0.1 m.da.mgtv.com
-||log.vcgame.cn^
-127.0.0.1 cws-cctv.conviva.com
-||log.web.kugou.com^
-127.0.0.1 galaxy.bjcathay.com
-||log.zijieapi.com^
-127.0.0.1 rtas.videocc.net
-127.0.0.1 a.cntv.cn
-||log1.cmpassport.com^
-127.0.0.1 ad.cctv.com
-||logbak.hicloud.com^
-127.0.0.1 d.cntv.cn
-||logs.amap.com^
-127.0.0.1 adguanggao.eee114.com
-||logservice.hicloud.com^
-127.0.0.1 cctv.adsunion.com
-||logservice1.hicloud.com^
-127.0.0.1 adstore-1252524079.file.myqcloud.com
-||logtj.kugou.com^
-127.0.0.1 adstore-index-1252524079.file.myqcloud.com
-||logupdate.avlyun.sec.miui.com^
-127.0.0.1 aa0.pub.funshion.com
-||m.ad.zhangyue.com^
-127.0.0.1 aa1.pub.funshion.com
-||m.atm.youku.com^
-127.0.0.1 adm.funshion.com
-||m.kubiqq.com^
-127.0.0.1 conf.funshion.com
-127.0.0.1 pub.funshion.com
-||m1.ad.10010.com^
-127.0.0.1 vs.funshion.com
-||manhua.acimg.cn^
-||mapi.m.jd.com^
-127.0.0.1 rt.funshion.net
-||masdkv6.3g.qq.com^
-127.0.0.1 stat.funshion.net
-||mazu.m.qq.com^
-127.0.0.1 fun.adx.admaster.com.cn
-||mbdlog.iqiyi.com^
-||metok.sys.miui.com^
-127.0.0.1 ykad-gateway.youku.com
-||metrics.apple.com^
-||metrics.data.hicloud.com^
-127.0.0.1 ykugc.cp31.ott.cibntv.net.302.myalicdn.com
-||metrics.icloud.com^
-||metrics.mzstatic.com^
-||metrics2.data.hicloud.com^
-127.0.0.1 vali.cp31.ott.cibntv.net.302.myalicdn.com
-||metrika.yandex.ru^
-||mi.gdt.qq.com^
-127.0.0.1 youku-dtv.m.cn.miaozhen.com
-||miav-cse.avlyun.com^
-||mime.baidu.com^
-127.0.0.1 m.atm.youku.com
-||mine.baidu.com^
-127.0.0.1 ipm.atm.youku.com
-||mission-pub.smart-tv.cn^
-||miui-fxcse.avlyun.com^
-127.0.0.1 orange-dc.youku.com
-||mnqlog.ldmnq.com^
-||mobads-logs.baidu.com^
-127.0.0.1 youku-acs.m.taobao.com
-||mobads-pre-config.cdn.bcebos.com^
-127.0.0.1 video-ad.sm.cn
-||mobads.baidu.com^
-127.0.0.1 rest.irs01.com
-||mobile.da.mgtv.com^
-127.0.0.1 px.ucweb.com
-||mobilelog.upqzfile.com^
-||mobileservice.cn^
-127.0.0.1 huichuan.sm.cn
-||mon.zijieapi.com^
-127.0.0.1 timeserver.cnzz.net
-||monitor-ads-test.huan.tv^
-127.0.0.1 val.atm.youku.com
-||monitor-uu.play.aiseet.atianqi.com^
-||monitor.music.qq.com^
-||monitor.uu.qq.com^
-||monsetting.toutiao.com^
-||mssdk.volces.com^
-||mssdk.zijieapi.com^
-||mtj.baidu.com^
-||newvoice.chiq5.smart-tv.cn^
-||nmetrics.samsung.com^
-||notes-analytics-events.apple.com^
-||nsclick.baidu.com^
-||o2o.api.xiaomi.com^
-||oauth-login-drcn.platform.dbankcloud.com^
-||offerwall.yandex.net^
-||omgmta.play.aiseet.atianqi.com^
-||open.e.kuaishou.cn^
-||open.e.kuaishou.com^
-||open.kuaishouzt.com^
-||open.kwaishouzt.com^
-||open.kwaizt.com^
-||optimus-ads.amap.com^
-||orbit.jd.com^
-||oth.eve.mdt.qq.com^
-||oth.str.mdt.qq.com^
-||otheve.play.aiseet.atianqi.com^
-||outlookads.live.com^
-||p.l.qq.com^
-||p.s.360.cn^
-||p1-be-pack-sign.pglstatp-toutiao.com^
-||p1-lm.adkwai.com^
-||p2-be-pack-sign.pglstatp-toutiao.com^
-||p2-lm.adkwai.com^
-||p3-be-pack-sign.pglstatp-toutiao.com^
-||p3-lm.adkwai.com^
-||p3-tt.byteimg.com^
-||p4-be-pack-sign.pglstatp-toutiao.com^
-||p5-be-pack-sign.pglstatp-toutiao.com^
-||p6-be-pack-sign.pglstatp-toutiao.com^
-||pagead2.googleadservices.com^
-||pagead2.googlesyndication.com^
-||pangolin-sdk-toutiao-b.com^
-||pay.sboot.cn^
-||pgdt.ugdtimg.com^
-||pglstatp-toutiao.com^
-||pig.pupuapi.com^
-||pixon.ads-pixiv.net^
-||plbslog.umeng.com^
-||pms.mb.qq.com^
-||policy.video.ptqy.gitv.tv^
-||proxy.advp.apple.com^
-||public.gdtimg.com^
-||q.i.gdt.qq.com^
-||qqdata.ab.qq.com^
-||qwapi.apple.com^
-||qzs.gdtimg.com^
-||recommend-drcn.hms.dbankcloud.cn^
-||report.tv.kohesport.qq.com^
-||res.hubcloud.com.cn^
-||res1.hubcloud.com.cn^
-||res2.hubcloud.com.cn^
-||res3.hubcloud.com.cn^
-||review.gdtimg.com^
-||rms-drcn.platform.dbankcloud.cn^
-||roi.soulapp.cn^
-||rpt.gdt.qq.com^
-||rtb.voiceads.cn^
-||s1.qq.com^
-||s2.qq.com^
-||s3.qq.com^
-||saad.ms.zhangyue.net^
-||samsung-com.112.2o7.net^
-||samsungads.com^
-||sanme2.taisantech.com^
-||saveu5-normal-lq.zijieapi.com^
-||scdown.qq.com^
-||scs.openspeech.cn^
-||sdk-ab-config.qquanquan.com^
-||sdk-cache.video.ptqy.gitv.tv^
-||sdk.1rtb.net^
-||sdk.beizi.biz^
-||sdk.cferw.com^
-||sdk.e.qq.com^
-||sdk.hzsanjiaomao.com^
-||sdk.markmedia.com.cn^
-||sdk.mobads.adwangmai.com^
-||sdkconf.avlyun.com^
-||sdkconfig.ad.intl.xiaomi.com^
-127.0.0.1 ykad-data.youku.com
-||sdkconfig.ad.xiaomi.com^
-||sdkconfig.play.aiseet.atianqi.com^
-||sdkconfig.video.qq.com^
-||sdkoptedge.chinanetcenter.com^
-127.0.0.1 yk-ssp.ad.youku.com
-||sdktmp.hubcloud.com.cn^
-||sdownload.stargame.com^
-||search.ixigua.com^
-127.0.0.1 adashx.ut.youku.com
-||search3-search.ixigua.com^
-127.0.0.1 adx-open-service.youku.com
-||search5-search-hl.ixigua.com^
-||search5-search.ixigua.com^
-127.0.0.1 h-adashx.ut.youku.com
-||securemetrics.apple.com^
-127.0.0.1 ggx.cmvideo.cn
-||securepubads.g.doubleclick.net^
-||sensors-log.dongqiudi.com^
-127.0.0.1 adxserver.ad.cmvideo.cn
-||service.changhong.upgrade2.huan.tv^
-127.0.0.1 openstorage.ad.cmvideo.cn
-||service.vmos.cn^
-127.0.0.1 ggx01.miguvideo.com
-||sf16-static.i18n-pglstatp.com^
-127.0.0.1 ggx02.miguvideo.com
-||sf3-fe-tos.pglstatp-toutiao.com^
-127.0.0.1 ggx10.miguvideo.com
-||shouji.sogou.com^
-||sigmob.cn^
-127.0.0.1 dcads.sina.com.cn
-||sigmob.com^
-||skdisplay.jd.com^
-127.0.0.1 acs.56.com
-||slb-p2p.vcloud.ks-live.com^
-127.0.0.1 acs.agent.56.com
-||smad.ms.zhangyue.net^
-127.0.0.1 acs.agent.v-56.com
-||smart-tv.cn^
-||smartad.10010.com^
-127.0.0.1 bill.agent.56.com
-||smetrics.samsung.com^
-127.0.0.1 bill.agent.v-56.com
-||sms.ads.oppomobile.com^
-127.0.0.1 stat.56.com
-||sngmta.qq.com^
-||snowflake.qq.com^
-127.0.0.1 stat2.corp.56.com
-||stat.dongqiudi.com^
-127.0.0.1 union.56.com
-||stat.y.qq.com^
-127.0.0.1 v16.56.com
-||static.ads-twitter.com^
-127.0.0.1 pole.6rooms.com
-||statics.woozooo.com^
-||stats.qiumibao.com^
-127.0.0.1 shrek.6.cn
-||statsigapi.net^
-127.0.0.1 simba.6.cn
-||stg-data.ads.heytapmobi.com^
-127.0.0.1 union.6.cn
-||success.ctobsnssdk.com^
-127.0.0.1 mcfg.sandai.net
-||syh-imp.cdnjtzy.com^
-127.0.0.1 biz5.sandai.net
-||t-dsp.pinduoduo.com^
-||t.l.qq.com^
-127.0.0.1 3.iscrv.com
-||t.track.ad.xiaomi.com^
-127.0.0.1 www.wjxcdn.com
-||t002.ottcn.com^
-127.0.0.1 adsmis.duxiaoman.com
-||t1.a.market.xiaomi.com^
-127.0.0.1 ebp.renren.com
-||t2.a.market.xiaomi.com^
-127.0.0.1 bolt.jebe.renren.com
-||t3.a.market.xiaomi.com^
-||tangram.e.qq.com^
-127.0.0.1 static.jebe.renren.com
-||tdc.qq.com^
-||tdsdk.cpatrk.net^
-127.0.0.1 xray.jebe.renren.com
-||tdsdk.xdrig.com^
-127.0.0.1 pat.farvd.com
-127.0.0.1 dc.sigmob.cn
-||tencent-dtv.m.cn.miaozhen.com^
-127.0.0.1 cdn.adm.myhayo.com
-||terms-drcn.platform.dbankcloud.cn^
-127.0.0.1 engine.tuia.cn
-||test.ad.xiaomi.com^
-127.0.0.1 ad-cache.dopool.com
-||test.e.ad.xiaomi.com^
-127.0.0.1 analytics3.dopool.com
-||tj.b.qq.com^
-||tj.video.qq.com^
-127.0.0.1 analytics3.starschina.com
-||tmead.y.qq.com^
-127.0.0.1 app.starschina.com
-||tmeadcomm.y.qq.com^
-||tmfmazu-wangka.m.qq.com^
-127.0.0.1 ssp.tadseeker.com
-||tmfmazu.m.qq.com^
-127.0.0.1 ad.molitv.cn
-||tmfsdk.m.qq.com^
-127.0.0.1 vyk.admaster.com.cn
-||tmfsdktcpv4.m.qq.com^
-127.0.0.1 ems.cp12.wasu.tv
-||tnc3-aliec1.toutiaoapi.com^
-127.0.0.1 pl.cp12.wasu.tv
-||tnc3-aliec2.bytedance.com^
-127.0.0.1 valatm.cp12.wasu.tv
-||tnc3-aliec2.toutiaoapi.com^
-127.0.0.1 adlog.molitv.cn
-||tnc3-alisc1.bytedance.com^
-127.0.0.1 ipmatm.cp12.wasu.tv
-||tnc3-alisc1.zijieapi.com^
-127.0.0.1 topapi.cp12.wasu.tv
-||tnc3-alisc2.zijieapi.com^
-127.0.0.1 adservice.sigmob.cn
-||tnc3-bjlgy.bytedance.com^
-127.0.0.1 stadig.ifeng.com
-||tnc3-bjlgy.toutiaoapi.com^
-127.0.0.1 api.newad.ifeng.com
-||tnc3-bjlgy.zijieapi.com^
-127.0.0.1 ifengad.3g.ifeng.com
-||toblog.ctobsnssdk.com^
-127.0.0.1 adv.fjtv.net
-||trace.qq.com^
-127.0.0.1 dsa-mfp.fengshows.cn
-||tracelog-debug.qquanquan.com^
-||track.lc.quark.cn^
-127.0.0.1 sdk.cferw.com
-||track.uc.cn^
-||tracker.ai.xiaomi.com^
-127.0.0.1 ad.weixin.qq.com
-||tracker.gitee.com^
-127.0.0.1 wxa.wxs.qq.com
-||tracking.miui.com^
-||tracking.rus.miui.com^
-127.0.0.1 wxsnsdythumb.wxs.qq.com
-||tsvrv.com^
-||tvuser-ch.cedock.com^
-127.0.0.1 wxsnsdy.video.qq.com
-||tx-ad.a.yximgs.com^
-127.0.0.1 wxsnsdy.tc.qq.com
-||tx-kmpaudio.pull.yximgs.com^
-127.0.0.1 wxsnsad.tc.qq.com
-||tz.sec.xiaomi.com^
-127.0.0.1 pgdt.gtimg.cn
-||uapi.ads.heytapmobi.com^
-||udc.yahoo.com^
-127.0.0.1 pgdt.ugdtimg.com
-||udcm.yahoo.com^
-127.0.0.1 union.gdtimg.com
-||uedas.qidian.com^
-||ulog-sdk.gifshow.com^
-127.0.0.1 canvas.gdt.qq.com
-||ulogjs.gifshow.com^
-127.0.0.1 badjs.weixinbridge.com
-||ulogs.umeng.com^
-127.0.0.1 mj.weimob.net
-||ulogs.umengcloud.com^
-127.0.0.1 ad.toutiao.com
-||umengacs.m.taobao.com^
-127.0.0.1 dm.toutiao.com
-||umengjmacs.m.taobao.com^
-||umsns.com^
-127.0.0.1 adshare.toutiao.com
-||union.baidu.cn^
-127.0.0.1 awake-stats.jpush.cn
-||union.baidu.com^
-127.0.0.1 miniapp.qiluyidian.mobi
-||update.avlyun.sec.miui.com^
-||update.lejiao.tv^
-127.0.0.1 static.bshare.cn
-||us.l.qq.com^
-||v.adintl.cn^
-127.0.0.1 launches.appsflyer.com
-||v.adx.hubcloud.com.cn^
-127.0.0.1 cl2.webterren.com
-||v1-ad.video.yximgs.com^
-||v2-ad.video.yximgs.com^
-127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
-||v2.gdt.qq.com^
-127.0.0.1 api-access.pangolin-sdk-toutiao.com
-||v3-ad.video.yximgs.com^
-||video-ad.sm.cn^
-127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
-||video-dsp.pddpic.com^
-||video.dispatch.tc.qq.com^
-127.0.0.1 log-api.pangolin-sdk-toutiao.com
-||virusinfo-cloudscan-cn.heytapmobi.com^
-127.0.0.1 ad.qingting.fm
-||vlive.qqvideo.tc.qq.com^
-127.0.0.1 list.z.qingting.fm
-||vungle.com^
-||w.l.qq.com^
-127.0.0.1 adlaunch.qingting.fm
-||w1.askwai.com^
-||w1.bskwai.com^
-127.0.0.1 ad-cdn.qingting.fm
-||w1.cskwai.com^
-127.0.0.1 ad.ximalaya.com
-||w1.dskwai.com^
-127.0.0.1 adse.ximalaya.com
-||w1.eskwai.com^
-127.0.0.1 adse.wsa.ximalaya.com
-||w1.fskwai.com^
-||w1.gskwai.com^
-127.0.0.1 adsebs.ximalaya.com
-||w1.hskwai.com^
-127.0.0.1 adsehera.ximalaya.com
-||w1.iskwai.com^
-||w1.jskwai.com^
-127.0.0.1 adbehavior.ximalaya.com
-||w1.kskwai.com^
-127.0.0.1 adwbs.ximalaya.com
-||w1.lskwai.com^
-127.0.0.1 adbs.ximalaya.com
-||w1.mskwai.com^
-127.0.0.1 dns.ximalaya.com
-||w1.nskwai.com^
-127.0.0.1 mobwsa.ximalaya.com
-||w1.oskwai.com^
-||w1.pskwai.com^
-127.0.0.1 location.ximalaya.com
-||w1.qskwai.com^
-127.0.0.1 xdcs-collector.ximalaya.com
-||w1.rskwai.com^
-||w1.sskwai.com^
-127.0.0.1 events.appsflyer.com
-||w1.tskwai.com^
-||w1.uskwai.com^
-127.0.0.1 ad.tencentmusic.com
-||w1.vskwai.com^
-||w1.wskwai.com^
-127.0.0.1 adstats.tencentmusic.com
-||w1.xskwai.com^
-127.0.0.1 adcdn.tencentmusic.com
-||w1.yskwai.com^
-||w1.zskwai.com^
-127.0.0.1 adexpo.tencentmusic.com
-||watson.microsoft.com^
-127.0.0.1 adclick.tencentmusic.com
-||watson.telemetry.microsoft.com^
-127.0.0.1 g1.163.com
-||weather-analytics-events.apple.com^
-127.0.0.1 nex.163.com
-||weather-community-drcn.weather.dbankcloud.cn^
-127.0.0.1 admusicpic.music.126.net
-||webstat.qiumibao.com^
-||widgets.outbrain.com^
-127.0.0.1 iadmusicmat.music.126.net
-||widgets.pinterest.com^
-||win.gdt.qq.com^
-127.0.0.1 clientlog3.music.163.com
-||wn.pos.baidu.com^
-||wn.x.jd.com^
-127.0.0.1 iadmusicmatvideo.music.126.net
-||ws-keyboard.shouji.sogou.com^
-127.0.0.1 sdkapp.mobile.sina.cn
-||ws.sj.qq.com^
-127.0.0.1 wbapp.mobile.sina.cn
-||www42.zskwai.com^
-||wxa.wxs.qq.com^
-127.0.0.1 vs.biz.weibo.com
-||wximg.wxs.qq.com^
-127.0.0.1 dp.im.weibo.cn
-||wxsmw.wxs.qq.com^
-||wxsnsad.tc.qq.com^
-127.0.0.1 ad.us.sinaimg.cn
-||wxsnsdy.wxs.qq.com^
-127.0.0.1 adstrategy.biz.weibo.com
-||wxsnsdythumb.wxs.qq.com^
-||xc.gdt.qq.com^
-127.0.0.1 sax.sina.com.cn
-||xiaomi-dtv.m.cn.miaozhen.com^
-127.0.0.1 saxn.sina.com.cn
-||xiaoshuo.wtzw.com^
-127.0.0.1 beacon.sina.com.cn
-||xlivrdr.com^
-||xlmzc.cnjp-exp.com^
-127.0.0.1 s3.pfp.sina.net
-||xlog.jd.com^
-127.0.0.1 d0.sina.com.cn
-||xlviiirdr.com^
-||xlviirdr.com^
-127.0.0.1 d1.sina.com.cn
-||yk-ssp.ad.youku.com^
-127.0.0.1 d2.sina.com.cn
-||ykad-data.youku.com^
-127.0.0.1 d5.sina.com.cn
-||ykad-gateway.youku.com^
-127.0.0.1 d7.sina.com.cn
-||youku-acs.m.taobao.com^
-||youxi.kugou.com^
-127.0.0.1 d8.sina.com.cn
-||zeus.ad.xiaomi.com^
-127.0.0.1 d9.sina.com.cn
-127.0.0.1 adx.hupu.com
-127.0.0.1 goblin.hupu.com
-127.0.0.1 shence.hupu.com
-127.0.0.1 ccdace.hupu.com
-127.0.0.1 hd.hupu.com
-127.0.0.1 glores2.taisantech.com
-127.0.0.1 sanme2.taisantech.com
-127.0.0.1 madeqr.com
-127.0.0.1 mon.snssdk.com
-127.0.0.1 extlog.snssdk.com
-127.0.0.1 toblog.ctobsnssdk.com
-127.0.0.1 tobapplog.ctobsnssdk.com
-127.0.0.1 toutiao-frontier.snssdk.com
-127.0.0.1 gecko-hl.snssdk.com
-127.0.0.1 gecko-lq.snssdk.com
-127.0.0.1 bds.snssdk.com
-127.0.0.1 mcs.snssdk.com
-127.0.0.1 sdfp.snssdk.com
-127.0.0.1 abtest-ch.snssdk.com
-127.0.0.1 pangolin.snssdk.com
-127.0.0.1 adsfs.oppomobile.com
-127.0.0.1 adx.ads.oppomobile.com
-127.0.0.1 bdapi.ads.oppomobile.com
-127.0.0.1 data.ads.oppomobile.com
-127.0.0.1 httpdns.push.oppomobile.com
-127.0.0.1 sms.ads.oppomobile.com
-127.0.0.1 b1.ads.oppomobile.com
-127.0.0.1 bjdata.ads.oppomobile.com
-127.0.0.1 data-id.ads.oppomobile.com
-127.0.0.1 dataf.ads.oppomobile.com
-127.0.0.1 g1.ads.oppomobile.com
-127.0.0.1 uapi.ads.oppomobile.com
-127.0.0.1 adlog.vivo.com.cn
-127.0.0.1 adreq.vivo.com.cn
-127.0.0.1 adsdk.vivo.com.cn
-127.0.0.1 adsstatic.vivo.com.cn
-127.0.0.1 adxlog.vivo.com.cn
-127.0.0.1 stnetsdk.appstore.vivo.com.cn
-127.0.0.1 monitor-stsdk.vivo.com.cn
-127.0.0.1 onrt-stsdk.vivo.com.cn
-127.0.0.1 ort-stsdk.vivo.com.cn
-127.0.0.1 pnrt-stsdk.vivo.com.cn
-127.0.0.1 prt-stsdk.vivo.com.cn
-127.0.0.1 stnetsdk.vivo.com.cn
-127.0.0.1 stsdk.vivo.com.cn
-127.0.0.1 bronrt.stsdk.vivo.com.cn
-127.0.0.1 brort.stsdk.vivo.com.cn
-127.0.0.1 brpnrt.stsdk.vivo.com.cn
-127.0.0.1 brprt.stsdk.vivo.com.cn
-127.0.0.1 onrt.stsdk.vivo.com.cn
-127.0.0.1 ort.stsdk.vivo.com.cn
-127.0.0.1 pnrt.stsdk.vivo.com.cn
-127.0.0.1 prt.stsdk.vivo.com.cn
-127.0.0.1 vcardsdkservice.vivo.com.cn
-127.0.0.1 m.shilian168.cn
-127.0.0.1 m.zdjgj.cn
-127.0.0.1 ee.j5s9b.cn
-127.0.0.1 m.j5s9b.cn
-127.0.0.1 uo.jstaogu.com
-127.0.0.1 m.89kvh.cn
-127.0.0.1 ee.89kvh.cn
-127.0.0.1 xn--mtso8sj6menhyil.online
-127.0.0.1 wx.sifakaoshi360.com
-127.0.0.1 pv.vipwm.cc
-127.0.0.1 xn--xhq9mt12cf5v.website
-127.0.0.1 r2.tschewang.com
-127.0.0.1 80vn.cn
-127.0.0.1 www.hxcav77.com
-127.0.0.1 assets.ckjr001.com
-127.0.0.1 kpstaticbj.wx.ckjr001.com
-127.0.0.1 www.meipian7.cn
-127.0.0.1 wxa79ef55c1a84e284.wx.ckjr001.com
-127.0.0.1 uvu.nojmlxq.cn
-127.0.0.1 veim.lrswl.com
-127.0.0.1 adsdk.yandex.ru
-127.0.0.1 hybird.rayjump.com
-127.0.0.1 c.kuaiduizuoye.com
-127.0.0.1 dig.zjurl.cn
-127.0.0.1 www.qchannel01.cn
-127.0.0.1 www.qchannel03.cn
-127.0.0.1 www.qchannel04.cn
-127.0.0.1 log.qchannel03.cn
-127.0.0.1 d.qchannel03.cn
-127.0.0.1 b.qchannel03.cn
-127.0.0.1 a.qchannel03.cn
-127.0.0.1 pg-ad-b1.ws.126.net
-127.0.0.1 pg-ad-b2.ws.126.net
-127.0.0.1 yt-adp.ws.126.net
-127.0.0.1 yt-adv.bn.netease.com
-127.0.0.1 mydisplay.ctfile.com
-127.0.0.1 dns.m.sm.cn
-127.0.0.1 log.m.sm.cn
-127.0.0.1 mobds.pthejzb.com
-127.0.0.1 sdk.mobad.ijinshan.com
-127.0.0.1 ad.51wnl-cq.com
-127.0.0.1 norma-external-collect.meizu.com
-127.0.0.1 api.adxpand.com
-127.0.0.1 df.mic.mob.com
-127.0.0.1 dfe.mic.mob.com
-127.0.0.1 l.gm.mob.com
-127.0.0.1 f.gm.mob.com
-127.0.0.1 js.users.51.la
-127.0.0.1 av1.xdrig.com
-127.0.0.1 adpai.thepaper.cn
-127.0.0.1 applog.uc.cn
-127.0.0.1 fbapi.guguread.com
-127.0.0.1 jrad.jd.com
-127.0.0.1 api.adnet.mob.com
-127.0.0.1 tracking.ad-survey.com
-127.0.0.1 api1.888zy.cn
-127.0.0.1 open.e.kuaishou.com
-127.0.0.1 sdk.api.oaid.wocloud.cn
-127.0.0.1 i.w.inmobi.cn
-127.0.0.1 sdktm.w.inmobi.cn
-127.0.0.1 dm.bytedance.com
-127.0.0.1 dm.pstatp.com
-127.0.0.1 sdk.guard.mob.com
-127.0.0.1 stg-data.ads.heytapmobi.com
-127.0.0.1 dolphin-center.adsame.com
-127.0.0.1 keybut.com
-127.0.0.1 api.df.mob.com
-127.0.0.1 api-analytics-cn.huami.com
-127.0.0.1 api.applink.mob.com
-127.0.0.1 statics.woozooo.com
-127.0.0.1 api-ads.tiantianqutao.com
-127.0.0.1 c.adx.2345.com
-127.0.0.1 cloud.xdrig.com
-127.0.0.1 push.xdrig.com
-127.0.0.1 iflyad.bj.openstorage.cn
-127.0.0.1 adx.rrt365.com
-127.0.0.1 zz.bdstatic.com
-127.0.0.1 adx.appsdk.com.cn
-127.0.0.1 adls.suning.com
-127.0.0.1 ssp.1nmob.com
-127.0.0.1 tl.oneway.mobi
-127.0.0.1 in.vipliangmei.com
-127.0.0.1 sdk.open.talk.getui.net
-127.0.0.1 sdk.open.talk.gepush.com
-127.0.0.1 ddd.1sapp.com
-127.0.0.1 trk1.17admob.com
-127.0.0.1 a.tn.token-ad.com
-127.0.0.1 adashx.ut.amap.com
-127.0.0.1 x1.go.sohu.com
-127.0.0.1 aads.shuzilm.cn
-127.0.0.1 dsp.ads.umeng.com
-127.0.0.1 sdk.open.talk.getui.com
-127.0.0.1 st.appsad.cn
-127.0.0.1 adx.timewit.cn
-127.0.0.1 track.adx.adlefee.com
-127.0.0.1 stats.xwuad.com
-127.0.0.1 ad.api.youshiad.cn
-127.0.0.1 adx-bid.tianzhuobj.com
-127.0.0.1 platform.adwep.com
-127.0.0.1 cdn.pyadx.com
-127.0.0.1 js-ad.a.yximgs.com
-127.0.0.1 tx-ad.a.yximgs.com
-127.0.0.1 ana.masky.biddingx.com
-127.0.0.1 ifs.tanx.com
-127.0.0.1 ifsk2.tanx.com
-127.0.0.1 adashx.ut.ele.me
-127.0.0.1 h-adashx.ut.ele.me
-127.0.0.1 e-ad-monitor.huya.com
-127.0.0.1 adlaunch.qtfm.cn
-127.0.0.1 fumiad.dxys.pro
-127.0.0.1 talk.nz4.getui.com
-127.0.0.1 c-gi.getui.com
-127.0.0.1 config.jpush.cn
-127.0.0.1 adash-emas.cn-hangzhou.aliyuncs.com
-127.0.0.1 config-junion.jpush.cn
-127.0.0.1 report-stats.ad.jiguang.cn
-127.0.0.1 stat2.openinstall.io
-127.0.0.1 cdn-sdk-opt.getui.com
-127.0.0.1 t.adbxb.com
-127.0.0.1 tracking.v.tf.360.cn
-127.0.0.1 adx.doumpaq.com
-127.0.0.1 adx.kuaiyiad.com
-127.0.0.1 search.mgc-games.com
-127.0.0.1 adstats.mgc-games.com
-127.0.0.1 api.snmi.cn
-127.0.0.1 s.snmi.cn
-127.0.0.1 fms.ipinyou.com
-127.0.0.1 ssp1.kfadx.tech
-127.0.0.1 vapi.tiandi.com
-127.0.0.1 s.adxvip.com
-127.0.0.1 c-gtc.getui.net
-127.0.0.1 b-gtc.gepush.com
-127.0.0.1 b-gtc.getui.net
-127.0.0.1 talk.nz4.gepush.com
-127.0.0.1 talk.nz4.getui.net
-127.0.0.1 advert.lx.netease.com
-127.0.0.1 ma-adx.ctrip.com
-127.0.0.1 gi.gepush.com
-127.0.0.1 gi.getui.net
-127.0.0.1 b-gi.gepush.com
-127.0.0.1 b-gi.getui.net
-127.0.0.1 s.trafficjam.cn
-127.0.0.1 wkrd.tingyun.com
-127.0.0.1 mon.ad.xelements.cn
-127.0.0.1 imp.ad.xelements.cn
-127.0.0.1 league1.maoyuncloud.cn
-127.0.0.1 androidads4-6.adcolony.com
-127.0.0.1 adc3-launch.adcolony.com
-127.0.0.1 wd.adcolony.com
-127.0.0.1 amap-aos-info-nogw.amap.com
-127.0.0.1 adreport.adtianmai.com
-127.0.0.1 adapi.izuiyou.com
-127.0.0.1 adstat.izuiyou.com
-127.0.0.1 test.adsp.xunlei.com
-127.0.0.1 api-mcp.adsp.xunlei.com
-127.0.0.1 xladapi.izuiyou.com
-127.0.0.1 advertpay-vip-ssl.xunlei.com
-127.0.0.1 watch.advertising.speed.cdn.vip.xunlei.com
-127.0.0.1 xunlei.adx.admaster.com.cn
-127.0.0.1 advertpay.vip.xunlei.com
-127.0.0.1 config.adview.cn
-127.0.0.1 p2sdmkj6t.bkt.clouddn.com
-127.0.0.1 log.umsns.com
-127.0.0.1 s.youmi.net
-127.0.0.1 r.youmi.net
-127.0.0.1 stat.gw.youmi.net
-127.0.0.1 bid.adview.cn
-127.0.0.1 ad.bayescom.com
-127.0.0.1 ad.12306.cn
-127.0.0.1 logs.amap.com
-127.0.0.1 commercial.shouji.360.cn
-127.0.0.1 zhihu-web-analytics.zhihu.com
-127.0.0.1 post1.voiceads.cn
-127.0.0.1 ad.thsi.cn
-127.0.0.1 adm.10jqka.com.cn
-127.0.0.1 ads.voiceads.cn
-127.0.0.1 sdk.zsdfm.com
-127.0.0.1 adnew.wifi8.com
-127.0.0.1 ad.ikonke.com
-127.0.0.1 smart-789.kakamobi.cn
-127.0.0.1 short-video.kakamobi.cn
-127.0.0.1 ad.quwin.cn
-127.0.0.1 ubmcmm.baidustatic.com
-127.0.0.1 adserviceretry.kugou.com
-127.0.0.1 adsfile.bssdlbig.kugou.com
-127.0.0.1 cloudservice22.kingsoft-office-service.com
-127.0.0.1 api.touchxd.com
-127.0.0.1 b-gi.getui.com
-127.0.0.1 kepler.jd.com
-127.0.0.1 orbit.jd.com
-127.0.0.1 t.appsflyer.com
-127.0.0.1 api-luckycoinsdk.doglobal.net
-127.0.0.1 durdcn.doglobal.net
-127.0.0.1 api-es.doglobal.net
-127.0.0.1 adproxy.autohome.com.cn
-127.0.0.1 v3-ad.ixigua.com
-127.0.0.1 rcv.aiclk.com
-127.0.0.1 cdn.aiclk.com
-127.0.0.1 cfg-cdn.aiclk.com
-127.0.0.1 ad-sdk.aiclk.com
-127.0.0.1 api.aiclk.com
-127.0.0.1 update0.aiclk.com
-127.0.0.1 sdk-ab-config.aiclk.com
-127.0.0.1 sdk-globalconfig.aiclk.com
-127.0.0.1 adx.maplehaze.cn
-127.0.0.1 log.kajicam.com
-127.0.0.1 conf.xdrig.com
-127.0.0.1 api-ad.kajicam.com
-127.0.0.1 me.xdrig.com
-127.0.0.1 api.ad.yipinread.com
-127.0.0.1 dpush-api.domob.cn
-127.0.0.1 engine.lvehaisen.com
-127.0.0.1 sdk.tf.360.cn
-127.0.0.1 sdkrec.tf.360.cn
-127.0.0.1 sdk.s.360.cn
-127.0.0.1 me.cpatrk.net
-127.0.0.1 ap.cpatrk.net
-127.0.0.1 adt.cpatrk.net
-127.0.0.1 edgecast-vod.yimg.com
-127.0.0.1 edgecast-vod.yahoo.net
-127.0.0.1 ad.hpplay.cn
-127.0.0.1 adc.hpplay.cn
-127.0.0.1 adcdn.hpplay.cn
-127.0.0.1 adeng.hpplay.cn
-127.0.0.1 tanx.com
-127.0.0.1 et.tanx.com
-127.0.0.1 df.tanx.com
-127.0.0.1 ef-dongfeng.tanx.com
-127.0.0.1 ad.lflucky.com
-127.0.0.1 ad.flurry.com
-127.0.0.1 adlog.flurry.com
-127.0.0.1 ads.flurry.com
-127.0.0.1 ads.icloseli.cn
-127.0.0.1 etl.xlmc.sandai.net
-127.0.0.1 uapi.ads.heytapmobi.com
-127.0.0.1 b1-data.ads.heytapmobi.com
-127.0.0.1 adx.ads.heytapmobi.com
-127.0.0.1 b2-data.ads.heytapmobi.com
-127.0.0.1 hw.zuimeitianqi.com
-127.0.0.1 adsfs-sdkconfig.heytapimage.com
-127.0.0.1 optimus-ads.amap.com
-127.0.0.1 widgets.outbrain.com
-127.0.0.1 www.ad5lm.net
-127.0.0.1 zls.xz6d.com
-127.0.0.1 spl.ztvx8.com
-127.0.0.1 pv.dakawm.cc
-127.0.0.1 jpg.mengbingyuan.com
-127.0.0.1 y76.ylems.club
-127.0.0.1 epp.2polj.top
-127.0.0.1 qqwx.zhangguangzong.com
-127.0.0.1 ads.reader.yueyouxs.com
-127.0.0.1 c.sayhi.360.cn
-127.0.0.1 cloud.zyiis.net
-127.0.0.1 ads.weilitoutiao.net
-127.0.0.1 ssp-api.domob.cn
-127.0.0.1 ssp-event.domob.cn
-127.0.0.1 du.163.com
-127.0.0.1 yaolu.mh.163.com
-127.0.0.1 yaolu.yuedu.163.com
-127.0.0.1 newswifiapi.dftoutiao.com
-127.0.0.1 api.e.kuaishou.com
-127.0.0.1 api2.e.kuaishou.com
-127.0.0.1 log-dmp.suishenyun.cn
-127.0.0.1 log1.cmpassport.com
-127.0.0.1 adlog.tagtic.cn
-127.0.0.1 adopt-sdk.xg.tagtic.cn
-127.0.0.1 gs.getui.com
-127.0.0.1 lc.getui.com
-127.0.0.1 g1.tagtic.cn
-127.0.0.1 ad.zuimeitianqi.com
-127.0.0.1 ads.adroi.com.cn
-127.0.0.1 ads-go.adroi.com.cn
-127.0.0.1 adx.hzbxm.com
-127.0.0.1 api.verify.mob.com
-127.0.0.1 pasta.esfile.duapps.com
-127.0.0.1 nrcapi.ssl2.duapps.com
-127.0.0.1 logs.chelaile.net.cn
-127.0.0.1 ss.chelaile.net.cn
-127.0.0.1 b-gtc.getui.com
-127.0.0.1 c-gtc.getui.com
-127.0.0.1 c-hzgt2.getui.com
-127.0.0.1 atrace.chelaile.net.cn
-127.0.0.1 api-gi.getui.com
-127.0.0.1 sdk.open.phone.igexin.com
-127.0.0.1 sdk-open-phone.getui.com
-127.0.0.1 sf1-be-pack.pglstatp-toutiao.com
-127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
-127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
-127.0.0.1 gorgon.youdao.com
-127.0.0.1 dev.iyuba.cn
-127.0.0.1 gstat.myzaker.com
-127.0.0.1 ggs.myzaker.com
-127.0.0.1 m.ads.sohu.com
-127.0.0.1 s.ads.sohu.com
-127.0.0.1 t.ads.sohu.com
-127.0.0.1 a.track.sohu.com
-127.0.0.1 monitor.ssp.admobile.top
-127.0.0.1 sdk.ssp.admobile.top
-127.0.0.1 u.ssp.admobile.top
-127.0.0.1 api.fc.mob.com
-127.0.0.1 dspwin.adsame.com
-127.0.0.1 tr.adsame.com
-127.0.0.1 dspimg.adsame.com
-127.0.0.1 app-tj.adinall.com
-127.0.0.1 g.koowo.com
-127.0.0.1 mobilead.kuwo.cn
-127.0.0.1 nmobi.kuwo.cn
-127.0.0.1 splashimgbssdl.yun.kugou.com
-127.0.0.1 m1.ad.10010.com
-127.0.0.1 config.unityads.unitychina.cn
-127.0.0.1 api.openinstall.io
-127.0.0.1 ads.oneway.mobi
-127.0.0.1 ads.oway.mobi
-127.0.0.1 owads.audioadx.com
-127.0.0.1 p3.adkwai.com
-127.0.0.1 ali-stats.jpush.cn
-127.0.0.1 stats.jpush.cn
-127.0.0.1 gd-stats.jpush.cn
-127.0.0.1 tsis.jpush.cn
-127.0.0.1 bjuser.jpush.cn
-127.0.0.1 s.jpush.cn
-127.0.0.1 adx.sogaha.cn
-127.0.0.1 api.jialiangad.com
-127.0.0.1 track.adxwork.com
-127.0.0.1 p1-lm.adkwai.com
-127.0.0.1 p1.adkwai.com
-127.0.0.1 report.yumobi.cn
-127.0.0.1 ssp.indexmob.com
-127.0.0.1 engine.liandaomobi.com
-127.0.0.1 api.yidaomobi.com
-127.0.0.1 adtrack.e.kuaishou.com
-127.0.0.1 open.e.kuaishou.cn
-127.0.0.1 jnn-pa.googleapis.com
-127.0.0.1 adcs-ue.myappsget.com
-127.0.0.1 api.myadsget.com
-127.0.0.1 midas-tracker.hellay.net
-127.0.0.1 adcs-ap.myappsget.com
-127.0.0.1 adx-tk.rayjump.com
-127.0.0.1 events.ads.vungle.com
-127.0.0.1 app.appsflyer.com
-127.0.0.1 adx.apiok.net
-127.0.0.1 ads.api.vungle.com
-127.0.0.1 net.rayjump.com
-127.0.0.1 svibeacon.onezapp.com
-127.0.0.1 data.flurry.com
-127.0.0.1 ms.applovin.com
-127.0.0.1 rt.applovin.com
-127.0.0.1 d.applvn.com
-127.0.0.1 telemetry.sdk.inmobi.com
-127.0.0.1 ms.applvn.com
-127.0.0.1 rt.applvn.com
-127.0.0.1 api.youngle.tech
-127.0.0.1 publisher-config.unityads.unity3d.com
-127.0.0.1 httpkafka.unityads.unity3d.com
-127.0.0.1 configv2.unityads.unity3d.com
-127.0.0.1 cdn.appnext.com
-127.0.0.1 imasdk.googleapis.com
-127.0.0.1 events.mz.unity3d.com
-127.0.0.1 umeng.com.gds.alibabadns.com
-127.0.0.1 errnewlog.umeng.com
-127.0.0.1 auction-load.unityads.unity3d.com
-127.0.0.1 cdp.cloud.unity3d.com
-127.0.0.1 app-measurement.com
-127.0.0.1 beacons.gcp.gvt2.com
-127.0.0.1 ads.google.com
-127.0.0.1 www.googleadservices.com
-127.0.0.1 google-analytics.com
-127.0.0.1 www.google-analytics.com
-127.0.0.1 www.googletagmanager.com
-127.0.0.1 googlesyndication.com
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 pagead2.googleadservices.com
-127.0.0.1 ade.googlesyndication.com
-127.0.0.1 adservice.google.com
-127.0.0.1 adservice.google.com.au
-127.0.0.1 ads.traffichunt.com
-127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 p2.l.qq.com
 110.43.121.13 bigota.d.miui.com
 110.43.121.13 hugeota.d.miui.com
 110.43.121.249 bigota.d.miui.com
@@ -2063,6 +1004,7 @@
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 a.teads.tv
 127.0.0.1 a.teads.tv.edgekey.net
+127.0.0.1 a.tn.token-ad.com
 127.0.0.1 a.vlion.cn
 127.0.0.1 a.vserv.mobi
 127.0.0.1 a.youdao.com
@@ -2104,6 +1046,7 @@
 127.0.0.1 aaa.japanxvideos.mobi
 127.0.0.1 aab-check.me
 127.0.0.1 aad4dec3a8bb9906584299b314c83cec.jilua.pl
+127.0.0.1 aads.shuzilm.cn
 127.0.0.1 aads.treehugger.com
 127.0.0.1 aadvantage.quest
 127.0.0.1 aaid.umeng.com
@@ -2144,6 +1087,7 @@
 127.0.0.1 absolute-honey.pro
 127.0.0.1 abt.s3.yandex.net
 127.0.0.1 abtd-txt.click
+127.0.0.1 abtest-ch.snssdk.com
 127.0.0.1 ac-ad.pages.net.br
 127.0.0.1 ac-ebis.usen-ad.com
 127.0.0.1 ac.dun.163.com
@@ -2246,7 +1190,9 @@
 127.0.0.1 ad-bg.adwo.com
 127.0.0.1 ad-blocking24.net
 127.0.0.1 ad-brix.com
+127.0.0.1 ad-cache.dopool.com
 127.0.0.1 ad-cdn.bilgin.pro
+127.0.0.1 ad-cdn.qingting.fm
 127.0.0.1 ad-cdn.technoratimedia.com
 127.0.0.1 ad-channel.diwodiwo.xyz
 127.0.0.1 ad-channel.wikawika.xyz
@@ -2324,6 +1270,7 @@
 127.0.0.1 ad-score.com
 127.0.0.1 ad-script.viewus.co.kr
 127.0.0.1 ad-sdk-config.youdao.com
+127.0.0.1 ad-sdk.aiclk.com
 127.0.0.1 ad-sdk.altamob.xiaoying.co
 127.0.0.1 ad-seek.jp
 127.0.0.1 ad-sell.com
@@ -2373,6 +1320,7 @@
 127.0.0.1 ad-wzx.sbs
 127.0.0.1 ad-x.co.uk
 127.0.0.1 ad.103092804.com
+127.0.0.1 ad.12306.cn
 127.0.0.1 ad.163.com
 127.0.0.1 ad.1k3.com
 127.0.0.1 ad.1kxun.com
@@ -2389,6 +1337,7 @@
 127.0.0.1 ad.363.in
 127.0.0.1 ad.3dnews.ru
 127.0.0.1 ad.3dpop.kr
+127.0.0.1 ad.51wnl-cq.com
 127.0.0.1 ad.51wnl.com
 127.0.0.1 ad.52av.one
 127.0.0.1 ad.52av.tv
@@ -2447,6 +1396,7 @@
 127.0.0.1 ad.adverticum.net
 127.0.0.1 ad.advertstream.com
 127.0.0.1 ad.adview.pl
+127.0.0.1 ad.advst.cp33.ott.cibntv.net
 127.0.0.1 ad.adwo.com
 127.0.0.1 ad.adx.adnxs.com
 127.0.0.1 ad.adxcore.com
@@ -2477,6 +1427,7 @@
 127.0.0.1 ad.api.kaffnet.com
 127.0.0.1 ad.api.mobile.youku.com
 127.0.0.1 ad.api.moji.com
+127.0.0.1 ad.api.youshiad.cn
 127.0.0.1 ad.api.yyapi.net
 127.0.0.1 ad.apl164.me
 127.0.0.1 ad.apl298.me
@@ -2504,6 +1455,7 @@
 127.0.0.1 ad.bannerhost.ru
 127.0.0.1 ad.batanga.com
 127.0.0.1 ad.batanga.net
+127.0.0.1 ad.bayescom.com
 127.0.0.1 ad.be.doubleclick.net
 127.0.0.1 ad.beihai365.com
 127.0.0.1 ad.belleeau.jp
@@ -2537,6 +1489,7 @@
 127.0.0.1 ad.cbonds.info
 127.0.0.1 ad.ccement.com
 127.0.0.1 ad.ccmbg.com
+127.0.0.1 ad.cctv.com
 127.0.0.1 ad.cdnjm.cn
 127.0.0.1 ad.centrum.cz
 127.0.0.1 ad.cgi.cz
@@ -2634,6 +1587,7 @@
 127.0.0.1 ad.firstadsolution.com
 127.0.0.1 ad.flipboard.com
 127.0.0.1 ad.floq.jp
+127.0.0.1 ad.flurry.com
 127.0.0.1 ad.flux.com
 127.0.0.1 ad.fout.jp
 127.0.0.1 ad.foxnetworks.com
@@ -2697,6 +1651,7 @@
 127.0.0.1 ad.hot-mob.com
 127.0.0.1 ad.houkei-shinjuku.com
 127.0.0.1 ad.house365.com
+127.0.0.1 ad.hpplay.cn
 127.0.0.1 ad.hr.doubleclick.net
 127.0.0.1 ad.hu.doubleclick.net
 127.0.0.1 ad.huajiao.com
@@ -2710,6 +1665,7 @@
 127.0.0.1 ad.idnad.co.kr
 127.0.0.1 ad.ie.doubleclick.net
 127.0.0.1 ad.iinfo.cz
+127.0.0.1 ad.ikonke.com
 127.0.0.1 ad.ilbe.com
 127.0.0.1 ad.ilikesponsorad.com
 127.0.0.1 ad.iloveinterracial.com
@@ -2770,300 +1726,165 @@
 127.0.0.1 ad.kisscartoon.sh
 127.0.0.1 ad.kisstvshow.es
 127.0.0.1 ad.kisstvshow.ru
-127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 ad.kmib.co.kr
 127.0.0.1 ad.koreadaily.com
 127.0.0.1 ad.kr.doubleclick.net
 127.0.0.1 ad.krutilka.ru
-127.0.0.1 partner.googleadservices.com
 127.0.0.1 ad.land.to
 127.0.0.1 ad.lapa.pub
-127.0.0.1 static.googleadsserving.cn
 127.0.0.1 ad.lavanetwork.net
-127.0.0.1 lb.usemaxserver.de
 127.0.0.1 ad.leadbolt.net
-127.0.0.1 tracking.klickthru.com
 127.0.0.1 ad.leadboltads.net
-127.0.0.1 gsmtop.net
 127.0.0.1 ad.leadboltapps.net
-127.0.0.1 click.buzzcity.net
 127.0.0.1 ad.leap.app
-127.0.0.1 stats.pflexads.com
 127.0.0.1 ad.lectinect.no
-127.0.0.1 a.glcdn.co
 127.0.0.1 ad.leongaming.com
-127.0.0.1 wwww.adleads.com
 127.0.0.1 ad.letmeads.com
-127.0.0.1 apps.buzzcity.net
+127.0.0.1 ad.lflucky.com
 127.0.0.1 ad.lgappstv.com
-127.0.0.1 ads.mobgold.com
 127.0.0.1 ad.line-scdn.net
-127.0.0.1 android.bcfads.com
 127.0.0.1 ad.linkexchange.com
-127.0.0.1 show.buzzcity.net
 127.0.0.1 ad.linkprice.com
-127.0.0.1 api.analytics.omgpop.com
 127.0.0.1 ad.linkshare.ne.jp
-127.0.0.1 r.edge.inmobicdn.net
 127.0.0.1 ad.linkstorms.com
-127.0.0.1 www.mmnetwork.mobi
 127.0.0.1 ad.linksynergy.com
-127.0.0.1 img.ads.huntmad.com
 127.0.0.1 ad.lionmobi.com
-127.0.0.1 creative1cdn.mobfox.com
 127.0.0.1 ad.liveburst.com
-127.0.0.1 admicro1.vcmedia.vn
 127.0.0.1 ad.liveinternet.ru
-127.0.0.1 s3.phluant.com
 127.0.0.1 ad.livere.co.kr
-127.0.0.1 c.vrvm.com
 127.0.0.1 ad.lkqd.net
-127.0.0.1 go.vrvm.com
 127.0.0.1 ad.lomadee.com
-127.0.0.1 static.estebull.com
 127.0.0.1 ad.lomadee.fun
-127.0.0.1 mobile.Banzai.it
 127.0.0.1 ad.looktraffic.com
-127.0.0.1 ads.xxxad.net
 127.0.0.1 ad.lqalm.com
-127.0.0.1 adcontent.saymedia.com
 127.0.0.1 ad.ltnk.skin
-127.0.0.1 ads.saymedia.com
 127.0.0.1 ad.lupa.cz
-127.0.0.1 ftpcontent.worldnow.com
 127.0.0.1 ad.luxnet.ua
-127.0.0.1 s0.2mdn.net
 127.0.0.1 ad.lyricswire.com
-127.0.0.1 bigmobileads.com
 127.0.0.1 ad.m5prod.net
-127.0.0.1 ads.mopub.com
 127.0.0.1 ad.madserving.com
-127.0.0.1 oasc04012.247realmedia.com
 127.0.0.1 ad.magokoro-care-shoku.com
-127.0.0.1 assets.cntdy.mobi
 127.0.0.1 ad.mail.ru
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 ad.mailo.com
-127.0.0.1 api.airpush.com
 127.0.0.1 ad.mangareader.net
-127.0.0.1 ad.where.com
 127.0.0.1 ad.mastermedia.ru
-127.0.0.1 cdn1.crispadvertising.com
 127.0.0.1 ad.mdmd.info
-127.0.0.1 cdn2.crispadvertising.com
 127.0.0.1 ad.meck.top
-127.0.0.1 rs-staticart.ybcdn.net
 127.0.0.1 ad.media-servers.net
-127.0.0.1 img.ads.taptapnetworks.com
 127.0.0.1 ad.mediabong.com
-127.0.0.1 adserver.ubiyoo.com
 127.0.0.1 ad.mediafarm.co.kr
-127.0.0.1 c753738.r38.cf2.rackcdn.com
 127.0.0.1 ad.mediamixer.co.kr
-127.0.0.1 edge.reporo.net
 127.0.0.1 ad.mediaprimaplus.com.my
-127.0.0.1 adultmoda.com
 127.0.0.1 ad.mediastorm.hu
-127.0.0.1 b.scorecardresearch.com
 127.0.0.1 ad.mediawayss.com
-127.0.0.1 m.adsymptotic.com
 127.0.0.1 ad.mediba.jp
-127.0.0.1 asotrack1.fluentmobile.com
 127.0.0.1 ad.medyanetads.com
-127.0.0.1 apps.mobilityware.com
 127.0.0.1 ad.megapeer.ru
-127.0.0.1 ads.mobilityware.com
 127.0.0.1 ad.mg
-127.0.0.1 ads.admarvel.com
 127.0.0.1 ad.mi.com
-127.0.0.1 netdna.reporo.net
 127.0.0.1 ad.mibet.com
-127.0.0.1 www.eltrafiko.com
 127.0.0.1 ad.minecraft-mods.ru
-127.0.0.1 cdn.trafficforce.com
 127.0.0.1 ad.missena.io
-127.0.0.1 gts-ads.twistbox.com
 127.0.0.1 ad.mo.doubleclick.net
 127.0.0.1 ad.mobadme.jp
-127.0.0.1 static.cdn.gtsmobi.com
 127.0.0.1 ad.mobiuspace.net
 127.0.0.1 ad.moe.video
-127.0.0.1 img.ads.mobilefuse.net
-127.0.0.1 as.adfonic.net
+127.0.0.1 ad.molitv.cn
 127.0.0.1 ad.monetate.net
-127.0.0.1 media.mobpartner.mobi
 127.0.0.1 ad.moo-mam-tai.com
-127.0.0.1 ads2.mediaarmor.com
 127.0.0.1 ad.moreto.net
-127.0.0.1 cdn.nearbyad.com
 127.0.0.1 ad.moscowtimes.ru
 127.0.0.1 ad.mox.tv
-127.0.0.1 gemini.yahoo.com
 127.0.0.1 ad.mrab.co.kr
 127.0.0.1 ad.mrtnsvr.com
-127.0.0.1 d3oltyb66oj2v8.cloudfront.net
 127.0.0.1 ad.mtburn.com
 127.0.0.1 ad.musicmatch.com
-127.0.0.1 admin.vserv.mobi
-127.0.0.1 c.vserv.mobi
 127.0.0.1 ad.my.doubleclick.net
-127.0.0.1 ads.vserv.mobi
 127.0.0.1 ad.myapple.pl
-127.0.0.1 sf.vserv.mobi
 127.0.0.1 ad.myinstashot.com
-127.0.0.1 hybl9bazbc35.pflexads.com
 127.0.0.1 ad.mynetreklam.com.streamprovider.net
-127.0.0.1 hhbekxxw5d9e.pflexads.com
 127.0.0.1 ad.n2434.doubleclick.net
-127.0.0.1 www.pflexads.com
 127.0.0.1 ad.nachtagenten.de
-127.0.0.1 orencia.pflexads.com
 127.0.0.1 ad.native-ad.net
-127.0.0.1 cdn.celtra.com
 127.0.0.1 ad.naver.com
-127.0.0.1 ads.celtra.com
 127.0.0.1 ad.ne.com
-127.0.0.1 cache-ssl.celtra.com
 127.0.0.1 ad.net
-127.0.0.1 cache.celtra.com
 127.0.0.1 ad.net-c.com
-127.0.0.1 track.celtra.com
 127.0.0.1 ad.net-tool.jp
-127.0.0.1 wv.inner-active.mobi
 127.0.0.1 ad.netcommunities.com
-127.0.0.1 cdn1.inner-active.mobi
 127.0.0.1 ad.netgoo.com
 127.0.0.1 ad.netmedia.hu
-127.0.0.1 m2m1.inner-active.mobi
 127.0.0.1 ad.netowl.jp
-127.0.0.1 a.applovin.com
-127.0.0.1 d.applovin.com
 127.0.0.1 ad.nettvservices.com
-127.0.0.1 pdn.applovin.com
 127.0.0.1 ad.network60.com
-127.0.0.1 mobpartner.mobi
 127.0.0.1 ad.netzquadrat.de
-127.0.0.1 go.mobpartner.mobi
 127.0.0.1 ad.newspim.com
-127.0.0.1 r.mobpartner.mobi
 127.0.0.1 ad.nicovideo.jp
-127.0.0.1 adinfuse.com
 127.0.0.1 ad.nl.doubleclick.net
-127.0.0.1 cvt.mydas.mobi
 127.0.0.1 ad.no.doubleclick.net
-127.0.0.1 lp.mydas.mobi
 127.0.0.1 ad.norfolkbroads.com
-127.0.0.1 golds.lp.mydas.mobi
 127.0.0.1 ad.nozonedata.com
-127.0.0.1 suo.lp.mydas.mobi
 127.0.0.1 ad.nttnavi.co.jp
-127.0.0.1 aio.lp.mydas.mobi
 127.0.0.1 ad.ntvmsnbc.com
-127.0.0.1 lp.mp.mydas.mobi
 127.0.0.1 ad.nvdvr.cn
-127.0.0.1 media.mydas.mobi
 127.0.0.1 ad.nwt.cz
-127.0.0.1 ads.mp.mydas.mobi
 127.0.0.1 ad.nz.doubleclick.net
-127.0.0.1 neptune.appads.com
-127.0.0.1 neptune1.appads.com
 127.0.0.1 ad.obuy.tw
-127.0.0.1 neptune2.appads.com
 127.0.0.1 ad.ohmyad.co
-127.0.0.1 neptune3.appads.com
 127.0.0.1 ad.ohmynews.com
 127.0.0.1 ad.onliner.by
-127.0.0.1 saturn.appads.com
 127.0.0.1 ad.orange-park.jp
-127.0.0.1 saturn1.appads.com
 127.0.0.1 ad.ordersuit.info
-127.0.0.1 saturn2.appads.com
 127.0.0.1 ad.org.vn
-127.0.0.1 saturn3.appads.com
 127.0.0.1 ad.oujdacity.net
-127.0.0.1 jupiter.appads.com
 127.0.0.1 ad.ourgame.com
-127.0.0.1 jupiter1.appads.com
 127.0.0.1 ad.outstream.today
-127.0.0.1 jupiter2.appads.com
 127.0.0.1 ad.owlair.net
-127.0.0.1 jupiter3.appads.com
 127.0.0.1 ad.oyy.ru
-127.0.0.1 req.appads.com
 127.0.0.1 ad.pandora.tv
-127.0.0.1 req1.appads.com
 127.0.0.1 ad.parom.hu
-127.0.0.1 req2.appads.com
 127.0.0.1 ad.particlenews.com
-127.0.0.1 req3.appads.com
 127.0.0.1 ad.partis.si
-127.0.0.1 campaign-tapad.s3.amazonaws.com
 127.0.0.1 ad.partner.gifshow.com
 127.0.0.1 ad.pchome.com.tw
-127.0.0.1 i.w.inmobi.com
 127.0.0.1 ad.period-calendar.com
-127.0.0.1 r.w.inmobi.com
 127.0.0.1 ad.petel.bg
-127.0.0.1 c.w.inmobi.com
 127.0.0.1 ad.phaserep.com
-127.0.0.1 china.inmobi.com
 127.0.0.1 ad.phunuxuavanay.vn
-127.0.0.1 japan.inmobi.com
 127.0.0.1 ad.pickple.net
-127.0.0.1 mdn1.phluantmobile.net
 127.0.0.1 ad.pitta.ne.jp
-127.0.0.1 mdn2.phluantmobile.net
 127.0.0.1 ad.pixnet.net
-127.0.0.1 mdn3.phluantmobile.net
 127.0.0.1 ad.pl.doubleclick.net
-127.0.0.1 mdn3origin.phluantmobile.net
 127.0.0.1 ad.planbplus.co.kr
-127.0.0.1 akamai.smartadserver.com
 127.0.0.1 ad.platformtrad.xyz
-127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 ad.player.baidu.com
-127.0.0.1 diff.smartadserver.com
 127.0.0.1 ad.playhit.biz
-127.0.0.1 diff2.smartadserver.com
 127.0.0.1 ad.plus
-127.0.0.1 diff3.smartadserver.com
 127.0.0.1 ad.poco.madserving.com
 127.0.0.1 ad.policeone.com
-127.0.0.1 eqx.smartadserver.com
 127.0.0.1 ad.polskiprzemysl.com.pl
-127.0.0.1 im2.smartadserver.com
 127.0.0.1 ad.polymorphicads.jp
-127.0.0.1 itx5-publicidad.smartadserver.com
 127.0.0.1 ad.pornimg.xyz
-127.0.0.1 itx5.smartadserver.com
 127.0.0.1 ad.pornutopia.org
-127.0.0.1 ww129.smartadserver.com
 127.0.0.1 ad.pping.kr
 127.0.0.1 ad.pr.ameba.jp
-127.0.0.1 ww13.smartadserver.com
 127.0.0.1 ad.pravda.ru
-127.0.0.1 ww14.smartadserver.com
 127.0.0.1 ad.premiumonlinemedia.com
-127.0.0.1 ww234.smartadserver.com
 127.0.0.1 ad.presco.asia
-127.0.0.1 ww251.smartadserver.com
 127.0.0.1 ad.primead.jp
-127.0.0.1 ww264.smartadserver.com
 127.0.0.1 ad.prismamediadigital.com
-127.0.0.1 ww302.smartadserver.com
 127.0.0.1 ad.profiwin.de
-127.0.0.1 ww362.smartadserver.com
 127.0.0.1 ad.programtts.top
-127.0.0.1 ww370.smartadserver.com
 127.0.0.1 ad.propellerads.com
 127.0.0.1 ad.prv.pl
-127.0.0.1 ww381.smartadserver.com
 127.0.0.1 ad.pt.doubleclick.net
-127.0.0.1 ww392.smartadserver.com
 127.0.0.1 ad.publicidees.com
 127.0.0.1 ad.qc789.vip
+127.0.0.1 ad.qingting.fm
 127.0.0.1 ad.qq.com
 127.0.0.1 ad.qun.qq.com
+127.0.0.1 ad.quwin.cn
 127.0.0.1 ad.qyer.com
 127.0.0.1 ad.rarure.com
 127.0.0.1 ad.reachlocal.com
@@ -3082,16 +1903,6 @@
 127.0.0.1 ad.rikvip.uk
 127.0.0.1 ad.ro.doubleclick.net
 127.0.0.1 ad.romankyo.com
-127.0.0.1 ww55.smartadserver.com
-127.0.0.1 ww57.smartadserver.com
-127.0.0.1 ww84.smartadserver.com
-127.0.0.1 www.smartadserver.com
-127.0.0.1 www2.smartadserver.com
-127.0.0.1 www3.smartadserver.com
-127.0.0.1 www4.smartadserver.com
-127.0.0.1 ads.mobclix.com
-127.0.0.1 ads2.greystripe.com
-127.0.0.1 adsx.greystripe.com
 127.0.0.1 ad.rs.doubleclick.net
 127.0.0.1 ad.ru.doubleclick.net
 127.0.0.1 ad.sacitaslan.com
@@ -3103,1279 +1914,1735 @@
 127.0.0.1 ad.searchteria.co.jp
 127.0.0.1 ad.seeyouyima.com
 127.0.0.1 ad.sensismediasmart.com
-127.0.0.1 c.greystripe.com
 127.0.0.1 ad.sensismediasmart.com.au
 127.0.0.1 ad.setrowid.com
 127.0.0.1 ad.sg.doubleclick.net
-127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 ad.sgdgjarfpp123.com
-127.0.0.1 admarvel.s3.amazonaws.com
 127.0.0.1 ad.shareholders.dk
 127.0.0.1 ad.shepard.ad-stir.com
-127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
 127.0.0.1 ad.shinjuku-mens-chuoh.com
-127.0.0.1 inneractive-assets.s3.amazonaws.com
 127.0.0.1 ad.si.doubleclick.net
-127.0.0.1 strikeadcdn.s3.amazonaws.com
 127.0.0.1 ad.sigortagundem.biz
-127.0.0.1 c.admob.com
 127.0.0.1 ad.simflight.com
-127.0.0.1 media.admob.com
 127.0.0.1 ad.simgames.net
-127.0.0.1 met.adwhirl.com
 127.0.0.1 ad.simpledesign.ltd
-127.0.0.1 mob.adwhirl.com
 127.0.0.1 ad.sinovision.net
-127.0.0.1 mobileads.msn.com
 127.0.0.1 ad.sitemaji.com
-127.0.0.1 aos.wall.youmi.net
 127.0.0.1 ad.slashgear.com
-127.0.0.1 au.youmi.net
 127.0.0.1 ad.smaad.jp
-127.0.0.1 coconuts.boy.jp
 127.0.0.1 ad.smaato.net
-127.0.0.1 iacpromotion.s3.amazonaws.com
 127.0.0.1 ad.smaclick.com
-127.0.0.1 plugin.2easydroid.com
 127.0.0.1 ad.smartclip.net
-127.0.0.1 adimg3.search.naver.net
 127.0.0.1 ad.smartinmedia.co.kr
-127.0.0.1 ads.adadapted.com
 127.0.0.1 ad.smv.to
-127.0.0.1 a.medialytics.com
 127.0.0.1 ad.snappea.com
-127.0.0.1 c.medialytics.com
 127.0.0.1 ad.sohu.com
 127.0.0.1 ad.soulapp.cn
-127.0.0.1 cdn.creative.medialytics.com
 127.0.0.1 ad.sp.mbga.jp
-127.0.0.1 p.medialytics.com
 127.0.0.1 ad.ssp.d2c.ne.jp
-127.0.0.1 px.cdn.creative.medialytics.com
 127.0.0.1 ad.starlightmedia.ua
 127.0.0.1 ad.style
 127.0.0.1 ad.sunflower.vn
 127.0.0.1 ad.sweb.ru
 127.0.0.1 ad.sxp.smartclip.net
-127.0.0.1 adx.g.doubleclick.net
 127.0.0.1 ad.szhsx.net
-127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 ad.taigamengay.digital
-127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 ad.taihit.win
-127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 ad.takasu.co.jp
-127.0.0.1 static.doubleclick.net
 127.0.0.1 ad.tapthislink.com
-127.0.0.1 doubleclick.ctfile.com
 127.0.0.1 ad.tatatimes.com
 127.0.0.1 ad.technews-iran.com
 127.0.0.1 ad.technoratimedia.com
-127.0.0.1 doubleclick.net
 127.0.0.1 ad.tehno-rating.ru
 127.0.0.1 ad.tempstaff.co.jp
-127.0.0.1 4171764.fls.doubleclick.net
+127.0.0.1 ad.tencentmusic.com
 127.0.0.1 ad.terra.com
 127.0.0.1 ad.terra.com.mx
-127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 ad.terra.doubleclick.net
-127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 ad.th.doubleclick.net
-127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 ad.theatre.co.jp
-127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 ad.theatreacademy.jp
-127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 ad.themedianw.com
-127.0.0.1 afs.googlesyndication.com
 127.0.0.1 ad.thetyee.ca
 127.0.0.1 ad.thewheelof.com
-127.0.0.1 video-ad-stats.googlesyndication.com
 127.0.0.1 ad.thisav.com
-127.0.0.1 s1.2mdn.net
+127.0.0.1 ad.thsi.cn
 127.0.0.1 ad.tjtune.com
 127.0.0.1 ad.tom.com
-127.0.0.1 ssl.google-analytics.com
 127.0.0.1 ad.topwar.ru
-127.0.0.1 adm.baidu.com
+127.0.0.1 ad.toutiao.com
 127.0.0.1 ad.tpmn.co.kr
 127.0.0.1 ad.tpmn.io
 127.0.0.1 ad.track.us.org
-127.0.0.1 adscdn.baidu.com
 127.0.0.1 ad.tradertimerz.media
-127.0.0.1 afd.baidu.com
 127.0.0.1 ad.tradwzorce.top
-127.0.0.1 als.baidu.com
 127.0.0.1 ad.trafficmp.com
-127.0.0.1 cbjs.baidu.com
 127.0.0.1 ad.trafficshop.com
-127.0.0.1 cm.baidu.com
 127.0.0.1 ad.traffique.net
-127.0.0.1 cm.pos.baidu.com
 127.0.0.1 ad.trident.net
-127.0.0.1 cpro.baidu.com
 127.0.0.1 ad.triplemind.com
-127.0.0.1 crs.baidu.com
 127.0.0.1 ad.turn.com
-127.0.0.1 eclick.baidu.com
 127.0.0.1 ad.turn.com.akadns.net
 127.0.0.1 ad.tv2.no
-127.0.0.1 eiv.baidu.com
-127.0.0.1 entry.baidu.com
 127.0.0.1 ad.tw.doubleclick.net
-127.0.0.1 idm-su.baidu.com
 127.0.0.1 ad.u-car.com.tw
-127.0.0.1 idm.bce.baidu.com
 127.0.0.1 ad.uk.doubleclick.net
 127.0.0.1 ad.unimhk.com
-127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 ad.unique1static.jp
-127.0.0.1 mobads.baidu.com
-127.0.0.1 msite.baidu.com
-127.0.0.1 nsclick.baidu.com
 127.0.0.1 ad.universcine.com
-127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 ad.us.doubleclick.net
-127.0.0.1 pc.videoclick.baidu.com
-127.0.0.1 pos.baidu.com
+127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 ad.usatoday.com
-127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 ad.userporn.com
 127.0.0.1 ad.utop.ir
-127.0.0.1 river.zhidao.baidu.com
 127.0.0.1 ad.vacanceo.com
-127.0.0.1 s.cpro.baidu.com
 127.0.0.1 ad.val.jp
-127.0.0.1 wangmeng.baidu.com
 127.0.0.1 ad.valuecalling.com
-127.0.0.1 wn.pos.baidu.com
 127.0.0.1 ad.ve.doubleclick.net
-127.0.0.1 bdplus.baidu.com
 127.0.0.1 ad.velomania.ru
-127.0.0.1 datax.baidu.com
 127.0.0.1 ad.vicdesmidt.com
-127.0.0.1 openrcv.baidu.com
 127.0.0.1 ad.video-mech.ru
-127.0.0.1 cb.baidu.com
+127.0.0.1 ad.video.51togic.com
 127.0.0.1 ad.vidver.to
-127.0.0.1 hdj.baidu.com
 127.0.0.1 ad.vidverto.io
-127.0.0.1 mssp.baidu.com
 127.0.0.1 ad.vietbao.vn
-127.0.0.1 nlog.baidu.com
 127.0.0.1 ad.viewus.co.kr
 127.0.0.1 ad.viprik.click
-127.0.0.1 sestat.baidu.com
 127.0.0.1 ad.virtual-nights.com
-127.0.0.1 stat.v.baidu.com
 127.0.0.1 ad.vkool.net
-127.0.0.1 videopush.baidu.com
 127.0.0.1 ad.vkoolzzz.net
 127.0.0.1 ad.vnnayngaytin.vn
-127.0.0.1 wisepush.video.baidu.com
 127.0.0.1 ad.vo-media.ru
-127.0.0.1 hmma.baidu.com
 127.0.0.1 ad.vrvm.com
-127.0.0.1 dup.baidustatic.com
 127.0.0.1 ad.walkgame.com
-127.0.0.1 sp0.baidu.com
 127.0.0.1 ad.wanderlist.com
-127.0.0.1 qapm.baidu.com
 127.0.0.1 ad.wang502.com
-127.0.0.1 fclog.baidu.com
 127.0.0.1 ad.wavu.hu
-127.0.0.1 sofire.baidu.com
 127.0.0.1 ad.weatherbug.com
-127.0.0.1 tcbox.baidu.com
 127.0.0.1 ad.webdice.jp
-127.0.0.1 browserkernel.baidu.com
 127.0.0.1 ad.webnext.ru
-127.0.0.1 hijack.baidu.com
 127.0.0.1 ad.weibo.com
-127.0.0.1 hpd.baidu.com
-127.0.0.1 hm.baidu.com
+127.0.0.1 ad.weixin.qq.com
 127.0.0.1 ad.weplayer.cc
-127.0.0.1 ecma.bdimg.com
+127.0.0.1 ad.where.com
 127.0.0.1 ad.wingads.com
-127.0.0.1 ecmb.bdimg.com
 127.0.0.1 ad.winrar.com.cn
-127.0.0.1 cdn-haokanapk.baidu.com
 127.0.0.1 ad.wmt.dk
-127.0.0.1 adavideo.baidu.com
 127.0.0.1 ad.woman.mynavi.jp
-127.0.0.1 ada.baidu.com
 127.0.0.1 ad.wretch.cc
-127.0.0.1 tuijian.baidu.com
 127.0.0.1 ad.wsod.com
-127.0.0.1 ucstat.baidu.com
 127.0.0.1 ad.wurangxian.top
 127.0.0.1 ad.wynk.in
-127.0.0.1 crab.baidu.com
 127.0.0.1 ad.wz.cz
-127.0.0.1 api1.tuisong.baidu.com
 127.0.0.1 ad.wzorzectrad.top
-127.0.0.1 baidu-mipdx.cn.miaozhen.com
 127.0.0.1 ad.xdomain.ne.jp
 127.0.0.1 ad.xiaomi.com
-127.0.0.1 api3.tuisong.baidu.com
-127.0.0.1 api8.tuisong.baidu.com
+127.0.0.1 ad.ximalaya.com
 127.0.0.1 ad.xmovies8.si
-127.0.0.1 sa.tuisong.baidu.com
 127.0.0.1 ad.xrea.com
-127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 ad.yadro.ru
-127.0.0.1 sa8.tuisong.baidu.com
+127.0.0.1 p3.l.qq.com
 127.0.0.1 ad.yemeksepeti.com
-127.0.0.1 cpro.baidustatic.com
 127.0.0.1 ad.yeshitv.com
+127.0.0.1 t.l.qq.com
 127.0.0.1 ad.yieldlab.net
+127.0.0.1 vd.l.qq.com
 127.0.0.1 ad.yieldmanager.com
+127.0.0.1 w.l.qq.com
 127.0.0.1 ad.yixin.im
+127.0.0.1 news.l.qq.com
 127.0.0.1 ad.yo88.net
-127.0.0.1 adping.qq.com
+127.0.0.1 mcgi.v.qq.com
 127.0.0.1 ad.yo88.win
+127.0.0.1 soup.v.qq.com
 127.0.0.1 ad.yo88vn.com
+127.0.0.1 bksoup.v.qq.com
 127.0.0.1 ad.yo88vn.vip
-127.0.0.1 adpm.app.qq.com
+127.0.0.1 sohu-dtv.m.cn.miaozhen.com
 127.0.0.1 ad.yonhapnews.co.kr
-127.0.0.1 adrdir.qq.com
+127.0.0.1 agn.aty.snmsohu.aisee.tv
 127.0.0.1 ad.youku.com
-127.0.0.1 adsfile.qq.com
+127.0.0.1 agn.aty.sohu.com
 127.0.0.1 ad.yun.wifi8.com
-127.0.0.1 adsgroup.qq.com
+127.0.0.1 f.aty.sohu.com
+127.0.0.1 m.aty.sohu.com
 127.0.0.1 ad.za.doubleclick.net
-127.0.0.1 adshmct.qq.com
+127.0.0.1 fmg.aty.sohu.com
 127.0.0.1 ad.zaman.com
-127.0.0.1 adshmmsg.qq.com
+127.0.0.1 mmg.aty.sohu.com
 127.0.0.1 ad.zanox.com
-127.0.0.1 adslvfile.qq.com
+127.0.0.1 p.aty.sohu.com
 127.0.0.1 ad.zdworks.com
-127.0.0.1 adslvseed.qq.com
+127.0.0.1 pg.aty.sohu.com
 127.0.0.1 ad.zhidian3g.cn
-127.0.0.1 adstextview.qq.com
+127.0.0.1 pm.aty.sohu.com
 127.0.0.1 ad.zijieapi.com
-127.0.0.1 adsview.qq.com
+127.0.0.1 v.aty.sohu.com
 127.0.0.1 ad.zing.vn
-127.0.0.1 adsview2.qq.com
+127.0.0.1 vg.aty.sohu.com
 127.0.0.1 ad.zinimedia.com
-127.0.0.1 adv.app.qq.com
+127.0.0.1 vm.aty.sohu.com
 127.0.0.1 ad.zodera.hu
-127.0.0.1 adver.qq.com
+127.0.0.1 da.mmarket.com
 127.0.0.1 ad.ztylez.com
-127.0.0.1 adfilter.imtt.qq.com
+127.0.0.1 click.hd.sohu.com.cn
 127.0.0.1 ad.zui.com
+127.0.0.1 click2.hd.sohu.com
+127.0.0.1 ad.zuimeitianqi.com
 127.0.0.1 ad.zumst.com
+127.0.0.1 count.vrs.sohu.com
+127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 ad0.api.ero-advertising.com
-127.0.0.1 adsense.html5.qq.com
+127.0.0.1 pb.hd.sohu.com.cn
 127.0.0.1 ad0.banners.ero-advertising.com
+127.0.0.1 pv.hd.sohu.com
 127.0.0.1 ad0.bigmir.net
+127.0.0.1 vstat.my.tv.sohu.com
+||grs.platform.dbankcloud.ru^
 127.0.0.1 ad0.data2.ero-advertising.com
+127.0.0.1 vstat.v.blog.sohu.com
 127.0.0.1 ad0.haynet.com
-127.0.0.1 adsolution.imtt.qq.com
+127.0.0.1 wl.hd.sohu.com
 127.0.0.1 ad01.advertise.com
+127.0.0.1 download.wan.sohu.com
 127.0.0.1 ad01.focalink.com
-127.0.0.1 adsrich.qq.com
+127.0.0.1 g.jssdk.net
+||h-adashx.ut.taobao.com^
 127.0.0.1 ad01.mediacorpsingapore.com
+127.0.0.1 changyan.sohu.com
+||h.trace.qq.com^
 127.0.0.1 ad01.tmgrup.com.tr
+||hanlanad.com^
+127.0.0.1 n.mark.letv.com
+||henzanapp.com^
 127.0.0.1 ad02.focalink.com
+127.0.0.1 static.app.m.letv.com
+||hexagon-analytics.com^
 127.0.0.1 ad03.doubleadx.com
+127.0.0.1 test.ark.letv.com
+||hiboard-drcn.ai.dbankcloud.cn^
 127.0.0.1 ad03.focalink.com
-127.0.0.1 d3g.qq.com
+||hm.baidu.com^
+127.0.0.1 de.as.cp61.ott.cibntv.net
 127.0.0.1 ad04.focalink.com
-127.0.0.1 jqmt.qq.com
+||hmma.baidu.com^
+||houyi.kkmh.com^
+127.0.0.1 lives.l.cp81.ott.cibntv.net
 127.0.0.1 ad05.focalink.com
-127.0.0.1 jsqmt.qq.com
-127.0.0.1 ta.qq.com
+||hpplay.cn^
 127.0.0.1 ad06.focalink.com
-127.0.0.1 p.tencentmind.com
+||httpdns.bcelive.com^
 127.0.0.1 ad07.focalink.com
-127.0.0.1 e.qq.com
+||httpdns.ocloud.oppomobile.com^
+||hugelog.fcbox.com^
+||huichuan.sm.cn^
 127.0.0.1 ad08.focalink.com
-127.0.0.1 cm.e.qq.com
+||hw-ot-ad.a.yximgs.com^
 127.0.0.1 ad09.focalink.com
-127.0.0.1 sdk.e.qq.com
-127.0.0.1 p.l.qq.com
+||hw.zuimeitianqi.com^
 127.0.0.1 ad0vent0rew0rld0.life
-127.0.0.1 dp3.qq.com
+||hwpub-s01-drcn.cloud.dbankcloud.cn^
 127.0.0.1 ad1.adfarm1.adition.com
-127.0.0.1 us.l.qq.com
+||hya.comp.360os.com^
+||hye.comp.360os.com^
 127.0.0.1 ad1.adtitan.net
-127.0.0.1 android.rqd.qq.com
+||hyt.comp.360os.com^
 127.0.0.1 ad1.api.ero-advertising.com
-127.0.0.1 android.bugly.qq.com
+||i.snssdk.com^
+||iad.apple.com^
+||iadctest.qwapi.com^
+||iadsdk.apple.com^
+||iadworkbench.apple.com^
 127.0.0.1 ad1.bannerbank.ru
-127.0.0.1 api.poll.aiseet.atianqi.com
+||ifacelog.iqiyi.com^
 127.0.0.1 ad1.banners.ero-advertising.com
-127.0.0.1 btrace.qq.com
+||ifs.tanx.com^
 127.0.0.1 ad1.bigmir.net
-127.0.0.1 otheve.beacon.qq.com
 127.0.0.1 ad1.checkm8.com
-127.0.0.1 tools.3g.qq.com
 127.0.0.1 ad1.contentabc.com
-127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 ad1.doublepimp.com
-127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 ad1.emediate.dk
-127.0.0.1 mtrace.qq.com
 127.0.0.1 ad1.emule-project.org
-127.0.0.1 misc.wcd.qq.com
 127.0.0.1 ad1.ero-advertising.com
-127.0.0.1 raddus.bayescom.com
 127.0.0.1 ad1.gamezone.com
-127.0.0.1 mtt.eve.mdt.qq.com
 127.0.0.1 ad1.girls-affiliate.com
-127.0.0.1 push.pgl.qq.com
+||ii.gdt.qq.com^
 127.0.0.1 ad1.greedland.net
-127.0.0.1 rmpad.imtt.qq.com
+||imag8.pubmatic.com^
 127.0.0.1 ad1.hotel.com
-127.0.0.1 tangram.e.qq.com
+||imag86.pubmatic.com^
 127.0.0.1 ad1.img.static.youmi.net
+||image-ad.sm.cn^
+||imageplus.baidu.com^
 127.0.0.1 ad1.kde.cz
+||images.outbrainimg.com^
 127.0.0.1 ad1.lbn.ru
-127.0.0.1 mig.str.mdt.qq.com
+||images.pinduoduo.com^
+||img-c.heytapimage.com^
 127.0.0.1 ad1.missyusa.com
-127.0.0.1 pms.mb.qq.com
+||img.adnyg.com^
+||img.adnyg.com.w.kunlungr.com^
+||imtmp.net^
+127.0.0.1 mtrace.play.cp81.ott.cibntv.net
+||ipv4.kkmh.com^
+||irc.qubiankeji.com^
+||itv2-up.openspeech.cn^
+||ixav-cse.avlyun.com^
+||iyfbodn.com^
+||janapi.jd.com^
+||jiguang.cn^
+||jpush.cn^
+||jpush.html5.qq.com^
+||jpush.io^
+||jswebcollects.kugou.com^
+||kepler.jd.com^
+||kl.67it.com^
+||knicks.jd.com^
+||ks.pull.yximgs.com^
+||launcher.smart-tv.cn^
+||launcherimg.smart-tv.cn^
+||lf3-ad-union-sdk.pglstatp-toutiao.com^
+||litchiads.com^
+||liveats-vod.video.ptqy.gitv.tv^
+||livemonitor.huan.tv^
+||livep.l.aiseet.atianqi.com^
+||lives.l.aiseet.atianqi.com^
+||lives.l.ott.video.qq.com^
+||lm10111.jtrincc.cn^
+||log-api-mn.huxiu.com^
+||log-api.huxiu.com^
+||log-api.pangolin-sdk-toutiao-b.com^
+||log-api.pangolin-sdk-toutiao.com^
+||log-report.com^
+||log-sdk.gifshow.com^
+||log-upload-os.hoyoverse.com^
+||log-upload.mihoyo.com^
+||log.ad.xiaomi.com^
+||log.aispeech.com^
+||log.amemv.com^
+||log.appstore3.huan.tv^
+||log.avlyun.com^
+||log.avlyun.sec.intl.miui.com^
+||log.byteoversea.com^
+||log.fc.yahoo.com^
+||log.kuwo.cn^
+||log.pinterest.com^
 127.0.0.1 ad1.nend.net
-127.0.0.1 adsmind.apdcdn.tc.qq.com
+||log.snssdk.com^
 127.0.0.1 ad1.pamedia.com.au
-127.0.0.1 p.store.qq.com
+||log.stat.kugou.com^
 127.0.0.1 ad1.popcap.com
-127.0.0.1 masdk.3g.qq.com
+||log.tagtic.cn^
+||log.tbs.qq.com^
 127.0.0.1 ad1.sibnet.ru
-127.0.0.1 ten.sngapm.qq.com
+||log.vcgame.cn^
 127.0.0.1 ad1.speedbit.com
-127.0.0.1 ads.privacy.qq.com
-127.0.0.1 tdid.m.qq.com
+||log.web.kugou.com^
 127.0.0.1 ad1.sportschosun.com
-127.0.0.1 h.trace.qq.com
+||log.zijieapi.com^
+||log1.cmpassport.com^
 127.0.0.1 ad1.tone.ne.jp
-127.0.0.1 mtt.str.mdt.qq.com
 127.0.0.1 ad1.udn.com
-127.0.0.1 tmeadcomm.y.qq.com
+||logbak.hicloud.com^
+||logs.amap.com^
 127.0.0.1 ad1.yangjinyou.com
-127.0.0.1 qzs.gdtimg.com
+||logservice.hicloud.com^
 127.0.0.1 ad10.bannerbank.ru
-127.0.0.1 public.gdtimg.com
+||logservice1.hicloud.com^
 127.0.0.1 ad10.checkm8.com
-127.0.0.1 cmshow.gtimg.cn
+||logtj.kugou.com^
 127.0.0.1 ad10.focalink.com
-127.0.0.1 qappcenterv6.3g.qq.com
+||logupdate.avlyun.sec.miui.com^
 127.0.0.1 ad10.speedbit.com
+||m.ad.zhangyue.com^
+||m.atm.youku.com^
 127.0.0.1 ad101com.adbureau.net
-127.0.0.1 aeventlog.beacon.qq.com
+||m.kubiqq.com^
+||m1.ad.10010.com^
+||manhua.acimg.cn^
+127.0.0.1 sltint.adv.ott.cibntv.net
+||mapi.m.jd.com^
+||masdkv6.3g.qq.com^
+127.0.0.1 topapi.cp12.ott.cibntv.net
+||mazu.m.qq.com^
+||mbdlog.iqiyi.com^
+||metok.sys.miui.com^
+127.0.0.1 ssp.cibn.starschina.com
+||metrics.apple.com^
+||metrics.data.hicloud.com^
+127.0.0.1 vpptv.admaster.com.cn
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+127.0.0.1 pptv.m.cn.miaozhen.com
+||metrics2.data.hicloud.com^
+127.0.0.1 ads.aplus.pptv.com
+||metrika.yandex.ru^
+||mi.gdt.qq.com^
+127.0.0.1 app.aplus.pptv.com
+||miav-cse.avlyun.com^
+127.0.0.1 as.aplus.pptv.com
+||mime.baidu.com^
+127.0.0.1 de.as.pptv.com
+||mine.baidu.com^
+127.0.0.1 jp.as.pptv.com
+||mission-pub.smart-tv.cn^
+127.0.0.1 static.g.pptv.com
+127.0.0.1 tj.g.pptv.com
+127.0.0.1 ads.data.pplive.com
+127.0.0.1 gas.data.pplive.com
+127.0.0.1 plt.data.pplive.com
+127.0.0.1 web.data.pplive.com
+127.0.0.1 mobile.da.mgtv.com
+127.0.0.1 mobile2.da.mgtv.com
+127.0.0.1 ott.da.mgtv.com
+127.0.0.1 ott2.da.mgtv.com
+127.0.0.1 ott3.da.mgtv.com
+127.0.0.1 ott-v0-al.data.mgtv.com
+127.0.0.1 ott.v1.data.mgtv.com
+127.0.0.1 ys.da.mgtv.com
+127.0.0.1 ynet.da.mgtv.com
+127.0.0.1 pc.da.mgtv.com
+127.0.0.1 pc1.da.mgtv.com
+127.0.0.1 pcweb-v1.log.mgtv.com
+127.0.0.1 pcweb.v1.mgtv.com
+127.0.0.1 py.da.mgtv.com
+127.0.0.1 v1-play.log.mgtv.com
+127.0.0.1 v2.da.mgtv.com
+127.0.0.1 v2.log.mgtv.com
+||miui-fxcse.avlyun.com^
+127.0.0.1 web.da.mgtv.com
+127.0.0.1 x.da.mgtv.com
+127.0.0.1 y.da.mgtv.com
+||mnqlog.ldmnq.com^
+127.0.0.1 zx.da.mgtv.com
+||mobads-logs.baidu.com^
+127.0.0.1 apperr.log.mgtv.com
+||mobads-pre-config.cdn.bcebos.com^
+127.0.0.1 m2.da.mgtv.com
+||mobads.baidu.com^
+127.0.0.1 m.da.mgtv.com
+||mobile.da.mgtv.com^
+||mobilelog.upqzfile.com^
+||mobileservice.cn^
+||mon.zijieapi.com^
+||monitor-ads-test.huan.tv^
+||monitor-uu.play.aiseet.atianqi.com^
+||monitor.music.qq.com^
+||monitor.uu.qq.com^
+||monsetting.toutiao.com^
+||mssdk.volces.com^
+||mssdk.zijieapi.com^
+||mtj.baidu.com^
+||newvoice.chiq5.smart-tv.cn^
+||nmetrics.samsung.com^
+||notes-analytics-events.apple.com^
+||nsclick.baidu.com^
+||o2o.api.xiaomi.com^
+||oauth-login-drcn.platform.dbankcloud.com^
+||offerwall.yandex.net^
+||omgmta.play.aiseet.atianqi.com^
+||open.e.kuaishou.cn^
+||open.e.kuaishou.com^
+||open.kuaishouzt.com^
+||open.kwaishouzt.com^
+||open.kwaizt.com^
+||optimus-ads.amap.com^
+||orbit.jd.com^
+||oth.eve.mdt.qq.com^
+||oth.str.mdt.qq.com^
+||otheve.play.aiseet.atianqi.com^
+||outlookads.live.com^
+||p.l.qq.com^
+||p.s.360.cn^
+||p1-be-pack-sign.pglstatp-toutiao.com^
+||p1-lm.adkwai.com^
+||p2-be-pack-sign.pglstatp-toutiao.com^
+||p2-lm.adkwai.com^
+||p3-be-pack-sign.pglstatp-toutiao.com^
+||p3-lm.adkwai.com^
+||p3-tt.byteimg.com^
+||p4-be-pack-sign.pglstatp-toutiao.com^
+||p5-be-pack-sign.pglstatp-toutiao.com^
+||p6-be-pack-sign.pglstatp-toutiao.com^
+||pagead2.googleadservices.com^
+||pagead2.googlesyndication.com^
+||pangolin-sdk-toutiao-b.com^
+||pay.sboot.cn^
+||pgdt.ugdtimg.com^
+||pglstatp-toutiao.com^
+||pig.pupuapi.com^
+||pixon.ads-pixiv.net^
+||plbslog.umeng.com^
+||pms.mb.qq.com^
+||policy.video.ptqy.gitv.tv^
+||proxy.advp.apple.com^
+||public.gdtimg.com^
+||q.i.gdt.qq.com^
+||qqdata.ab.qq.com^
+||qwapi.apple.com^
+||qzs.gdtimg.com^
+||recommend-drcn.hms.dbankcloud.cn^
+||report.tv.kohesport.qq.com^
+||res.hubcloud.com.cn^
+||res1.hubcloud.com.cn^
+127.0.0.1 cws-cctv.conviva.com
+||res2.hubcloud.com.cn^
+||res3.hubcloud.com.cn^
+127.0.0.1 galaxy.bjcathay.com
+||review.gdtimg.com^
+127.0.0.1 rtas.videocc.net
+||rms-drcn.platform.dbankcloud.cn^
+127.0.0.1 a.cntv.cn
+||roi.soulapp.cn^
+||rpt.gdt.qq.com^
+||rtb.voiceads.cn^
+||s1.qq.com^
+||s2.qq.com^
+127.0.0.1 d.cntv.cn
+||s3.qq.com^
+||saad.ms.zhangyue.net^
+127.0.0.1 adguanggao.eee114.com
+||samsung-com.112.2o7.net^
+127.0.0.1 cctv.adsunion.com
+||samsungads.com^
+||sanme2.taisantech.com^
+127.0.0.1 adstore-1252524079.file.myqcloud.com
+||saveu5-normal-lq.zijieapi.com^
+||scdown.qq.com^
+127.0.0.1 adstore-index-1252524079.file.myqcloud.com
+||scs.openspeech.cn^
+127.0.0.1 aa0.pub.funshion.com
+||sdk-ab-config.qquanquan.com^
+||sdk-cache.video.ptqy.gitv.tv^
+127.0.0.1 aa1.pub.funshion.com
+||sdk.1rtb.net^
+127.0.0.1 adm.funshion.com
+||sdk.beizi.biz^
+||sdk.cferw.com^
+127.0.0.1 conf.funshion.com
+||sdk.e.qq.com^
+127.0.0.1 pub.funshion.com
+||sdk.hzsanjiaomao.com^
+127.0.0.1 vs.funshion.com
+||sdk.markmedia.com.cn^
+||sdk.mobads.adwangmai.com^
+||sdkconf.avlyun.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sdkconfig.play.aiseet.atianqi.com^
+||sdkconfig.video.qq.com^
+||sdkoptedge.chinanetcenter.com^
+||sdktmp.hubcloud.com.cn^
+||sdownload.stargame.com^
+||search.ixigua.com^
+||search3-search.ixigua.com^
+||search5-search-hl.ixigua.com^
+||search5-search.ixigua.com^
+||securemetrics.apple.com^
+||securepubads.g.doubleclick.net^
+||sensors-log.dongqiudi.com^
+||service.changhong.upgrade2.huan.tv^
+||service.vmos.cn^
+||sf16-static.i18n-pglstatp.com^
+||sf3-fe-tos.pglstatp-toutiao.com^
+||shouji.sogou.com^
+||sigmob.cn^
+||sigmob.com^
+||skdisplay.jd.com^
+||slb-p2p.vcloud.ks-live.com^
+||smad.ms.zhangyue.net^
+||smart-tv.cn^
+||smartad.10010.com^
+||smetrics.samsung.com^
+||sms.ads.oppomobile.com^
+||sngmta.qq.com^
+||snowflake.qq.com^
+||stat.dongqiudi.com^
+||stat.y.qq.com^
+||static.ads-twitter.com^
+||statics.woozooo.com^
+127.0.0.1 rt.funshion.net
+||stats.qiumibao.com^
+127.0.0.1 stat.funshion.net
+||statsigapi.net^
+127.0.0.1 fun.adx.admaster.com.cn
+||stg-data.ads.heytapmobi.com^
+127.0.0.1 ykad-gateway.youku.com
+127.0.0.1 ykugc.cp31.ott.cibntv.net.302.myalicdn.com
+127.0.0.1 vali.cp31.ott.cibntv.net.302.myalicdn.com
+127.0.0.1 youku-dtv.m.cn.miaozhen.com
+127.0.0.1 m.atm.youku.com
+127.0.0.1 ipm.atm.youku.com
+127.0.0.1 orange-dc.youku.com
+127.0.0.1 youku-acs.m.taobao.com
+127.0.0.1 video-ad.sm.cn
+||success.ctobsnssdk.com^
+127.0.0.1 rest.irs01.com
+||syh-imp.cdnjtzy.com^
+127.0.0.1 px.ucweb.com
+||t-dsp.pinduoduo.com^
+127.0.0.1 huichuan.sm.cn
+||t.l.qq.com^
+||t.track.ad.xiaomi.com^
+127.0.0.1 timeserver.cnzz.net
+||t002.ottcn.com^
+127.0.0.1 val.atm.youku.com
+||t1.a.market.xiaomi.com^
+||t2.a.market.xiaomi.com^
+||t3.a.market.xiaomi.com^
+||tangram.e.qq.com^
+||tdc.qq.com^
+||tdsdk.cpatrk.net^
+||tdsdk.xdrig.com^
+||tencent-dtv.m.cn.miaozhen.com^
+||terms-drcn.platform.dbankcloud.cn^
+||test.ad.xiaomi.com^
+||test.e.ad.xiaomi.com^
+||tj.b.qq.com^
+||tj.video.qq.com^
+||tmead.y.qq.com^
+||tmeadcomm.y.qq.com^
+||tmfmazu-wangka.m.qq.com^
+||tmfmazu.m.qq.com^
+||tmfsdk.m.qq.com^
+||tmfsdktcpv4.m.qq.com^
+127.0.0.1 ykad-data.youku.com
+||tnc3-aliec1.toutiaoapi.com^
+127.0.0.1 yk-ssp.ad.youku.com
+||tnc3-aliec2.bytedance.com^
+127.0.0.1 adashx.ut.youku.com
+||tnc3-aliec2.toutiaoapi.com^
+||tnc3-alisc1.bytedance.com^
+127.0.0.1 adx-open-service.youku.com
+||tnc3-alisc1.zijieapi.com^
+127.0.0.1 h-adashx.ut.youku.com
+||tnc3-alisc2.zijieapi.com^
+127.0.0.1 ggx.cmvideo.cn
+||tnc3-bjlgy.bytedance.com^
+127.0.0.1 adxserver.ad.cmvideo.cn
+||tnc3-bjlgy.toutiaoapi.com^
+||tnc3-bjlgy.zijieapi.com^
+127.0.0.1 openstorage.ad.cmvideo.cn
+||toblog.ctobsnssdk.com^
+127.0.0.1 ggx01.miguvideo.com
+||trace.qq.com^
+||tracelog-debug.qquanquan.com^
+127.0.0.1 ggx02.miguvideo.com
+||track.lc.quark.cn^
+127.0.0.1 ggx10.miguvideo.com
+||track.uc.cn^
+127.0.0.1 dcads.sina.com.cn
+127.0.0.1 acs.56.com
+||tracker.ai.xiaomi.com^
+127.0.0.1 acs.agent.56.com
+||tracker.gitee.com^
+||tracking.miui.com^
+127.0.0.1 acs.agent.v-56.com
+||tracking.rus.miui.com^
+127.0.0.1 bill.agent.56.com
+127.0.0.1 bill.agent.v-56.com
+127.0.0.1 stat.56.com
+127.0.0.1 stat2.corp.56.com
+127.0.0.1 union.56.com
+127.0.0.1 v16.56.com
+127.0.0.1 pole.6rooms.com
+127.0.0.1 shrek.6.cn
+127.0.0.1 simba.6.cn
+127.0.0.1 union.6.cn
+127.0.0.1 mcfg.sandai.net
+127.0.0.1 biz5.sandai.net
+127.0.0.1 3.iscrv.com
+127.0.0.1 www.wjxcdn.com
+127.0.0.1 adsmis.duxiaoman.com
+127.0.0.1 ebp.renren.com
+127.0.0.1 bolt.jebe.renren.com
+127.0.0.1 static.jebe.renren.com
+127.0.0.1 xray.jebe.renren.com
+127.0.0.1 pat.farvd.com
+127.0.0.1 dc.sigmob.cn
+127.0.0.1 cdn.adm.myhayo.com
+127.0.0.1 engine.tuia.cn
+127.0.0.1 analytics3.dopool.com
+127.0.0.1 analytics3.starschina.com
+127.0.0.1 app.starschina.com
+||tsvrv.com^
+127.0.0.1 ssp.tadseeker.com
+||tvuser-ch.cedock.com^
+||tx-ad.a.yximgs.com^
+||tx-kmpaudio.pull.yximgs.com^
+127.0.0.1 vyk.admaster.com.cn
+||tz.sec.xiaomi.com^
+127.0.0.1 ems.cp12.wasu.tv
+||uapi.ads.heytapmobi.com^
+127.0.0.1 pl.cp12.wasu.tv
+||udc.yahoo.com^
+||udcm.yahoo.com^
+127.0.0.1 valatm.cp12.wasu.tv
+||uedas.qidian.com^
+127.0.0.1 adlog.molitv.cn
+||ulog-sdk.gifshow.com^
+||ulogjs.gifshow.com^
+127.0.0.1 ipmatm.cp12.wasu.tv
+||ulogs.umeng.com^
+127.0.0.1 topapi.cp12.wasu.tv
+||ulogs.umengcloud.com^
+127.0.0.1 adservice.sigmob.cn
+||umengacs.m.taobao.com^
+||umengjmacs.m.taobao.com^
+||umsns.com^
+||union.baidu.cn^
+||union.baidu.com^
+||update.avlyun.sec.miui.com^
+||update.lejiao.tv^
+||us.l.qq.com^
+||v.adintl.cn^
+||v.adx.hubcloud.com.cn^
+||v1-ad.video.yximgs.com^
+||v2-ad.video.yximgs.com^
+||v2.gdt.qq.com^
+||v3-ad.video.yximgs.com^
+||video-ad.sm.cn^
+||video-dsp.pddpic.com^
+||video.dispatch.tc.qq.com^
+||virusinfo-cloudscan-cn.heytapmobi.com^
+||vlive.qqvideo.tc.qq.com^
+||vungle.com^
+||w.l.qq.com^
+||w1.askwai.com^
+||w1.bskwai.com^
+||w1.cskwai.com^
+||w1.dskwai.com^
+||w1.eskwai.com^
+127.0.0.1 stadig.ifeng.com
+||w1.fskwai.com^
+127.0.0.1 api.newad.ifeng.com
+||w1.gskwai.com^
+127.0.0.1 ifengad.3g.ifeng.com
+||w1.hskwai.com^
+||w1.iskwai.com^
+127.0.0.1 adv.fjtv.net
+||w1.jskwai.com^
+127.0.0.1 dsa-mfp.fengshows.cn
+||w1.kskwai.com^
+127.0.0.1 sdk.cferw.com
+||w1.lskwai.com^
+||w1.mskwai.com^
+||w1.nskwai.com^
+127.0.0.1 wxa.wxs.qq.com
+||w1.oskwai.com^
+127.0.0.1 wxsnsdythumb.wxs.qq.com
+||w1.pskwai.com^
+127.0.0.1 wxsnsdy.video.qq.com
+||w1.qskwai.com^
+||w1.rskwai.com^
+127.0.0.1 wxsnsdy.tc.qq.com
+||w1.sskwai.com^
+127.0.0.1 wxsnsad.tc.qq.com
+||w1.tskwai.com^
+||w1.uskwai.com^
+127.0.0.1 pgdt.gtimg.cn
+||w1.vskwai.com^
+127.0.0.1 pgdt.ugdtimg.com
+||w1.wskwai.com^
+||w1.xskwai.com^
+127.0.0.1 union.gdtimg.com
+||w1.yskwai.com^
+127.0.0.1 canvas.gdt.qq.com
+||w1.zskwai.com^
+||watson.microsoft.com^
+127.0.0.1 badjs.weixinbridge.com
+||watson.telemetry.microsoft.com^
+127.0.0.1 mj.weimob.net
+||weather-analytics-events.apple.com^
+127.0.0.1 dm.toutiao.com
+||weather-community-drcn.weather.dbankcloud.cn^
+127.0.0.1 adshare.toutiao.com
+||webstat.qiumibao.com^
+||widgets.outbrain.com^
+127.0.0.1 awake-stats.jpush.cn
+||widgets.pinterest.com^
+127.0.0.1 miniapp.qiluyidian.mobi
+||win.gdt.qq.com^
+127.0.0.1 static.bshare.cn
+||wn.pos.baidu.com^
+||wn.x.jd.com^
+127.0.0.1 launches.appsflyer.com
+||ws-keyboard.shouji.sogou.com^
+||ws.sj.qq.com^
+127.0.0.1 cl2.webterren.com
+||www42.zskwai.com^
+127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
+||wxa.wxs.qq.com^
+||wximg.wxs.qq.com^
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+||wxsmw.wxs.qq.com^
+||wxsnsad.tc.qq.com^
+||wxsnsdy.wxs.qq.com^
+||wxsnsdythumb.wxs.qq.com^
+||xc.gdt.qq.com^
+||xiaomi-dtv.m.cn.miaozhen.com^
+||xiaoshuo.wtzw.com^
+||xlivrdr.com^
+||xlmzc.cnjp-exp.com^
+||xlog.jd.com^
+||xlviiirdr.com^
+||xlviirdr.com^
+127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
+||yk-ssp.ad.youku.com^
+||ykad-data.youku.com^
+127.0.0.1 log-api.pangolin-sdk-toutiao.com
+||ykad-gateway.youku.com^
+||youku-acs.m.taobao.com^
+127.0.0.1 list.z.qingting.fm
+||youxi.kugou.com^
+||zeus.ad.xiaomi.com^
+127.0.0.1 adlaunch.qingting.fm
+127.0.0.1 adse.ximalaya.com
+127.0.0.1 adse.wsa.ximalaya.com
+127.0.0.1 adsebs.ximalaya.com
+127.0.0.1 adsehera.ximalaya.com
+127.0.0.1 adbehavior.ximalaya.com
+127.0.0.1 adwbs.ximalaya.com
+127.0.0.1 adbs.ximalaya.com
+127.0.0.1 dns.ximalaya.com
+127.0.0.1 mobwsa.ximalaya.com
+127.0.0.1 location.ximalaya.com
+127.0.0.1 xdcs-collector.ximalaya.com
+127.0.0.1 events.appsflyer.com
+127.0.0.1 adstats.tencentmusic.com
+127.0.0.1 adcdn.tencentmusic.com
+127.0.0.1 adexpo.tencentmusic.com
+127.0.0.1 adclick.tencentmusic.com
+127.0.0.1 g1.163.com
+127.0.0.1 nex.163.com
+127.0.0.1 admusicpic.music.126.net
+127.0.0.1 iadmusicmat.music.126.net
+127.0.0.1 clientlog3.music.163.com
+127.0.0.1 iadmusicmatvideo.music.126.net
+127.0.0.1 sdkapp.mobile.sina.cn
+127.0.0.1 wbapp.mobile.sina.cn
+127.0.0.1 vs.biz.weibo.com
+127.0.0.1 dp.im.weibo.cn
 127.0.0.1 ad10digital.checkm8.com
-127.0.0.1 cc.map.qq.com
+127.0.0.1 adstrategy.biz.weibo.com
+127.0.0.1 sax.sina.com.cn
+127.0.0.1 saxn.sina.com.cn
 127.0.0.1 ad11.adfarm1.adition.com
-127.0.0.1 aegis.qq.com
+127.0.0.1 beacon.sina.com.cn
 127.0.0.1 ad11.bannerbank.ru
-127.0.0.1 adash.man.aliyuncs.com
+127.0.0.1 s3.pfp.sina.net
 127.0.0.1 ad11.checkm8.com
+127.0.0.1 d0.sina.com.cn
 127.0.0.1 ad11.focalink.com
-127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
+127.0.0.1 d1.sina.com.cn
+127.0.0.1 d2.sina.com.cn
 127.0.0.1 ad11digital.checkm8.com
-127.0.0.1 ynuf.aliapp.org
-127.0.0.1 unidesk.alicdn.com
+127.0.0.1 d5.sina.com.cn
 127.0.0.1 ad11p.adfarm1.adition.com
-127.0.0.1 nbsdk-baichuan.alicdn.com
+127.0.0.1 d7.sina.com.cn
 127.0.0.1 ad12.bannerbank.ru
-127.0.0.1 baichuan-sdk.alicdn.com
+127.0.0.1 d8.sina.com.cn
 127.0.0.1 ad12.checkm8.com
-127.0.0.1 ilce.alicdn.com
+127.0.0.1 d9.sina.com.cn
 127.0.0.1 ad12.focalink.com
-127.0.0.1 abtest.alibaba.com
+127.0.0.1 adx.hupu.com
 127.0.0.1 ad123.ynet.com
+127.0.0.1 goblin.hupu.com
 127.0.0.1 ad12digital.checkm8.com
 127.0.0.1 ad13.adfarm1.adition.com
+127.0.0.1 shence.hupu.com
 127.0.0.1 ad13.checkm8.com
+127.0.0.1 ccdace.hupu.com
 127.0.0.1 ad13.focalink.com
+127.0.0.1 hd.hupu.com
 127.0.0.1 ad131m.adk2.co
+127.0.0.1 glores2.taisantech.com
 127.0.0.1 ad132m.adk2.co
+127.0.0.1 sanme2.taisantech.com
 127.0.0.1 ad13digital.checkm8.com
+127.0.0.1 madeqr.com
 127.0.0.1 ad14.checkm8.com
+127.0.0.1 mon.snssdk.com
 127.0.0.1 ad14.focalink.com
+127.0.0.1 extlog.snssdk.com
+127.0.0.1 toblog.ctobsnssdk.com
 127.0.0.1 ad14b6b1aa927786fc49cf6ecf8a322a.dopla.com.pl
+127.0.0.1 tobapplog.ctobsnssdk.com
 127.0.0.1 ad14digital.checkm8.com
+127.0.0.1 toutiao-frontier.snssdk.com
 127.0.0.1 ad15.checkm8.com
+127.0.0.1 gecko-hl.snssdk.com
 127.0.0.1 ad15.focalink.com
+127.0.0.1 gecko-lq.snssdk.com
 127.0.0.1 ad15digital.checkm8.com
+127.0.0.1 bds.snssdk.com
 127.0.0.1 ad16.checkm8.com
+127.0.0.1 mcs.snssdk.com
 127.0.0.1 ad16.focalink.com
+127.0.0.1 sdfp.snssdk.com
 127.0.0.1 ad16digital.checkm8.com
 127.0.0.1 ad17.checkm8.com
+127.0.0.1 pangolin.snssdk.com
 127.0.0.1 ad17.focalink.com
+127.0.0.1 adsfs.oppomobile.com
 127.0.0.1 ad17digital.checkm8.com
+127.0.0.1 adx.ads.oppomobile.com
 127.0.0.1 ad18.biz
+127.0.0.1 bdapi.ads.oppomobile.com
 127.0.0.1 ad18.checkm8.com
+127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 ad18.focalink.com
 127.0.0.1 ad18digital.checkm8.com
+127.0.0.1 httpdns.push.oppomobile.com
+127.0.0.1 sms.ads.oppomobile.com
 127.0.0.1 ad19.checkm8.com
+127.0.0.1 b1.ads.oppomobile.com
 127.0.0.1 ad19.focalink.com
+127.0.0.1 bjdata.ads.oppomobile.com
 127.0.0.1 ad19digital.checkm8.com
+127.0.0.1 data-id.ads.oppomobile.com
 127.0.0.1 ad1beb0611.com
+127.0.0.1 dataf.ads.oppomobile.com
 127.0.0.1 ad1d3e3ede36eebbce7d82e43b23fff9.skrl.pl
-127.0.0.1 proxy-mob-cld.alicdn.com
+127.0.0.1 g1.ads.oppomobile.com
 127.0.0.1 ad1data.com
-127.0.0.1 www.uyunad.com
+127.0.0.1 uapi.ads.oppomobile.com
 127.0.0.1 ad1digital.checkm8.com
+127.0.0.1 adlog.vivo.com.cn
 127.0.0.1 ad1e220ebc.com
-127.0.0.1 ali-ad.a.yximgs.com
+127.0.0.1 adreq.vivo.com.cn
 127.0.0.1 ad1game.ru
-127.0.0.1 adashbc.m.taobao.com
+127.0.0.1 adsdk.vivo.com.cn
 127.0.0.1 ad1rtb.com
-127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 ad2.adecn.com
-127.0.0.1 adashxgc.ut.taobao.com
+127.0.0.1 adsstatic.vivo.com.cn
+127.0.0.1 adxlog.vivo.com.cn
 127.0.0.1 ad2.adfarm1.adition.com
-127.0.0.1 adashx.m.taobao.com
 127.0.0.1 ad2.adnetwork.net
-127.0.0.1 c-adash.m.taobao.com
+127.0.0.1 stnetsdk.appstore.vivo.com.cn
 127.0.0.1 ad2.api.ero-advertising.com
-127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 monitor-stsdk.vivo.com.cn
 127.0.0.1 ad2.apx.appier.net
+127.0.0.1 onrt-stsdk.vivo.com.cn
 127.0.0.1 ad2.bal.dotandad.com
-127.0.0.1 adash.m.taobao.com
+127.0.0.1 ort-stsdk.vivo.com.cn
 127.0.0.1 ad2.bannerbank.ru
-127.0.0.1 h-adashx.ut.taobao.com
+127.0.0.1 pnrt-stsdk.vivo.com.cn
 127.0.0.1 ad2.bannerhost.ru
-127.0.0.1 tunion-api.m.taobao.com
+127.0.0.1 prt-stsdk.vivo.com.cn
 127.0.0.1 ad2.banners.ero-advertising.com
-127.0.0.1 acs4baichuan.m.taobao.com
+127.0.0.1 stnetsdk.vivo.com.cn
 127.0.0.1 ad2.bloggerads.net
-127.0.0.1 amdc.m.taobao.com
+127.0.0.1 stsdk.vivo.com.cn
 127.0.0.1 ad2.candy-network.com
-127.0.0.1 amdcopen.m.taobao.com
+127.0.0.1 bronrt.stsdk.vivo.com.cn
+127.0.0.1 brort.stsdk.vivo.com.cn
+127.0.0.1 brpnrt.stsdk.vivo.com.cn
+127.0.0.1 brprt.stsdk.vivo.com.cn
+127.0.0.1 onrt.stsdk.vivo.com.cn
+127.0.0.1 ort.stsdk.vivo.com.cn
+127.0.0.1 pnrt.stsdk.vivo.com.cn
 127.0.0.1 ad2.cdns.turn.com
-127.0.0.1 eco.taobao.com
 127.0.0.1 ad2.checkm8.com
-127.0.0.1 umengacs.m.taobao.com
-127.0.0.1 umengjmacs.m.taobao.com
-127.0.0.1 openjmacs.m.taobao.com
+127.0.0.1 prt.stsdk.vivo.com.cn
 127.0.0.1 ad2.contentabc.com
-127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 ad2.cooks.com
-127.0.0.1 sjarvis.taobao.com
 127.0.0.1 ad2.doubleclick.net
-127.0.0.1 audid-api.taobao.com
 127.0.0.1 ad2.doublepimp.com
-127.0.0.1 adashx4yt.m.taobao.com
 127.0.0.1 ad2.ero-advertising.com
-127.0.0.1 h-adashx4yt.ut.taobao.com
 127.0.0.1 ad2.firehousezone.com
-127.0.0.1 umdc.aliapp.org
 127.0.0.1 ad2.fivecdm.com
 127.0.0.1 ad2.fm-p.jp
-127.0.0.1 iqiyi.irs01.com
 127.0.0.1 ad2.gammae.com
-127.0.0.1 letv.irs01.com
 127.0.0.1 ad2.hotel.com
-127.0.0.1 s9.irs03.com
 127.0.0.1 ad2.hotels.com
-127.0.0.1 s72f5a8e.irs03.com
 127.0.0.1 ad2.iinfo.cz
-127.0.0.1 s06aa680.irs03.com
 127.0.0.1 ad2.img.static.youmi.net
 127.0.0.1 ad2.lbn.ru
-127.0.0.1 ckmap.mediav.com
 127.0.0.1 ad2.lupa.cz
 127.0.0.1 ad2.maho.jp
 127.0.0.1 ad2.mimint.co.kr
+127.0.0.1 vcardsdkservice.vivo.com.cn
 127.0.0.1 ad2.nationalreview.com
+127.0.0.1 m.shilian168.cn
 127.0.0.1 ad2.nend.net
+127.0.0.1 m.zdjgj.cn
 127.0.0.1 ad2.netriota.hu
+127.0.0.1 ee.j5s9b.cn
 127.0.0.1 ad2.nmm.de
+127.0.0.1 m.j5s9b.cn
 127.0.0.1 ad2.pl
+127.0.0.1 uo.jstaogu.com
 127.0.0.1 ad2.plugmedia.hk
+127.0.0.1 m.89kvh.cn
 127.0.0.1 ad2.rambler.ru
+127.0.0.1 ee.89kvh.cn
 127.0.0.1 ad2.sina.com.cn
+127.0.0.1 xn--mtso8sj6menhyil.online
 127.0.0.1 ad2.speedbit.com
+127.0.0.1 wx.sifakaoshi360.com
 127.0.0.1 ad2.thumbs.ero-advertising.com
+127.0.0.1 pv.vipwm.cc
 127.0.0.1 ad2.turn.com
+127.0.0.1 xn--xhq9mt12cf5v.website
 127.0.0.1 ad2.udn.com
+127.0.0.1 r2.tschewang.com
 127.0.0.1 ad2.xrea.com
+127.0.0.1 80vn.cn
 127.0.0.1 ad2.yam.com
+127.0.0.1 www.hxcav77.com
 127.0.0.1 ad2.yangjinyou.com
+127.0.0.1 assets.ckjr001.com
 127.0.0.1 ad2.zophar.net
+127.0.0.1 kpstaticbj.wx.ckjr001.com
+127.0.0.1 www.meipian7.cn
+127.0.0.1 wxa79ef55c1a84e284.wx.ckjr001.com
+127.0.0.1 uvu.nojmlxq.cn
+127.0.0.1 veim.lrswl.com
+127.0.0.1 adsdk.yandex.ru
+127.0.0.1 hybird.rayjump.com
+127.0.0.1 c.kuaiduizuoye.com
+127.0.0.1 dig.zjurl.cn
+127.0.0.1 www.qchannel01.cn
+127.0.0.1 www.qchannel03.cn
+127.0.0.1 www.qchannel04.cn
+127.0.0.1 log.qchannel03.cn
+127.0.0.1 d.qchannel03.cn
+127.0.0.1 b.qchannel03.cn
+127.0.0.1 a.qchannel03.cn
+127.0.0.1 pg-ad-b1.ws.126.net
+127.0.0.1 pg-ad-b2.ws.126.net
+127.0.0.1 yt-adp.ws.126.net
 127.0.0.1 ad20.checkm8.com
+127.0.0.1 yt-adv.bn.netease.com
+127.0.0.1 mydisplay.ctfile.com
+127.0.0.1 dns.m.sm.cn
+127.0.0.1 log.m.sm.cn
+127.0.0.1 mobds.pthejzb.com
+127.0.0.1 sdk.mobad.ijinshan.com
+127.0.0.1 norma-external-collect.meizu.com
+127.0.0.1 api.adxpand.com
 127.0.0.1 ad20.net
+127.0.0.1 df.mic.mob.com
 127.0.0.1 ad20digital.checkm8.com
+127.0.0.1 dfe.mic.mob.com
 127.0.0.1 ad21.checkm8.com
+127.0.0.1 l.gm.mob.com
+127.0.0.1 f.gm.mob.com
 127.0.0.1 ad21digital.checkm8.com
+127.0.0.1 js.users.51.la
 127.0.0.1 ad22.checkm8.com
+127.0.0.1 av1.xdrig.com
 127.0.0.1 ad22digital.checkm8.com
-127.0.0.1 click.mediav.com
-127.0.0.1 cm.mediav.com
-127.0.0.1 g1max.mediav.com
-127.0.0.1 g1xd.mediav.com
-127.0.0.1 item.mediav.com
-127.0.0.1 juxiao.mediav.com
-127.0.0.1 material-ssl.mediav.com
-127.0.0.1 material.mediav.com
-127.0.0.1 max-l.mediav.com
-127.0.0.1 max.mediav.com
-127.0.0.1 mvp.mediav.com
+127.0.0.1 adpai.thepaper.cn
 127.0.0.1 ad23.checkm8.com
-127.0.0.1 pages-juxiao.mediav.com
-127.0.0.1 pages.juxiao.mediav.com
+127.0.0.1 applog.uc.cn
 127.0.0.1 ad2397e2f82.chefs-kitchen.co.uk
-127.0.0.1 pv.mediav.com
+127.0.0.1 fbapi.guguread.com
 127.0.0.1 ad23digital.checkm8.com
-127.0.0.1 s3m.mediav.com
+127.0.0.1 jrad.jd.com
 127.0.0.1 ad24.checkm8.com
-127.0.0.1 sdk.mediav.com
-127.0.0.1 secure.mediav.com
+127.0.0.1 api.adnet.mob.com
+127.0.0.1 tracking.ad-survey.com
 127.0.0.1 ad247e58073863491eed9aeda8c31bc8.puoli.pl
-127.0.0.1 show-3.mediav.com
+127.0.0.1 api1.888zy.cn
 127.0.0.1 ad24digital.checkm8.com
-127.0.0.1 show-g.mediav.com
+127.0.0.1 open.e.kuaishou.com
 127.0.0.1 ad25.checkm8.com
-127.0.0.1 show-m.mediav.com
-127.0.0.1 show-s.mediav.com
+127.0.0.1 sdk.api.oaid.wocloud.cn
 127.0.0.1 ad25digital.checkm8.com
-127.0.0.1 show.g.mediav.com
+127.0.0.1 i.w.inmobi.cn
+127.0.0.1 sdktm.w.inmobi.cn
 127.0.0.1 ad26.checkm8.com
-127.0.0.1 show.m.mediav.com
 127.0.0.1 ad2678cf1036488523eafb64cda03b70.zonatas.pl
-127.0.0.1 show.mediav.com
 127.0.0.1 ad26digital.checkm8.com
-127.0.0.1 ssxd.mediav.com
 127.0.0.1 ad27.checkm8.com
-127.0.0.1 static-ssl.mediav.com
-127.0.0.1 static.mediav.com
 127.0.0.1 ad27digital.checkm8.com
-127.0.0.1 t.dsp.mediav.com
+127.0.0.1 dm.bytedance.com
 127.0.0.1 ad28.checkm8.com
-127.0.0.1 track.mediav.com
+127.0.0.1 dm.pstatp.com
+127.0.0.1 sdk.guard.mob.com
 127.0.0.1 ad28a7c3db30db8d1fa9cb95650fc2c2.hostaysp.pl
-127.0.0.1 tran.mediav.com
-127.0.0.1 view.mediav.com
+127.0.0.1 stg-data.ads.heytapmobi.com
 127.0.0.1 ad28digital.checkm8.com
-127.0.0.1 xd.mediav.com
+127.0.0.1 dolphin-center.adsame.com
 127.0.0.1 ad29.checkm8.com
-127.0.0.1 c.bing.com
+127.0.0.1 keybut.com
 127.0.0.1 ad29digital.checkm8.com
-127.0.0.1 otf.msn.com
+127.0.0.1 api.df.mob.com
 127.0.0.1 ad2adnetwork.biz
-127.0.0.1 umeng.com
-127.0.0.1 alog.umeng.com
+127.0.0.1 api-analytics-cn.huami.com
+127.0.0.1 api.applink.mob.com
 127.0.0.1 ad2b20b975ee8a62cd6cd758d5500bf0.noktsa.pl
-127.0.0.1 alog.umengcloud.com
+127.0.0.1 statics.woozooo.com
 127.0.0.1 ad2bitcoin.com
+127.0.0.1 api-ads.tiantianqutao.com
+127.0.0.1 c.adx.2345.com
 127.0.0.1 ad2db14240e4d98c92490474560b1309.mjrl.pl
-127.0.0.1 alogus.umeng.com
-127.0.0.1 alogsus.umeng.com
+127.0.0.1 cloud.xdrig.com
 127.0.0.1 ad2dd59de8570442133e7b4da12569f2.halikop.pl
-127.0.0.1 ulogs.umeng.com
+127.0.0.1 push.xdrig.com
 127.0.0.1 ad2digital.checkm8.com
-127.0.0.1 ulogs.umengcloud.com
+127.0.0.1 iflyad.bj.openstorage.cn
 127.0.0.1 ad2games.com
-127.0.0.1 plbslog.umeng.com
+127.0.0.1 adx.rrt365.com
 127.0.0.1 ad2iction.com
+127.0.0.1 zz.bdstatic.com
 127.0.0.1 ad2mhg.top
-127.0.0.1 api.wsq.umeng.com
 127.0.0.1 ad2the.net
-127.0.0.1 at.umeng.com
+127.0.0.1 adx.appsdk.com.cn
+127.0.0.1 adls.suning.com
+127.0.0.1 ssp.1nmob.com
+127.0.0.1 tl.oneway.mobi
+127.0.0.1 in.vipliangmei.com
+127.0.0.1 sdk.open.talk.getui.net
+127.0.0.1 sdk.open.talk.gepush.com
+127.0.0.1 ddd.1sapp.com
+127.0.0.1 trk1.17admob.com
+127.0.0.1 adashx.ut.amap.com
+127.0.0.1 x1.go.sohu.com
+127.0.0.1 dsp.ads.umeng.com
+127.0.0.1 sdk.open.talk.getui.com
+127.0.0.1 st.appsad.cn
+127.0.0.1 adx.timewit.cn
+127.0.0.1 track.adx.adlefee.com
 127.0.0.1 ad2up.com
-127.0.0.1 au.umeng.com
+127.0.0.1 stats.xwuad.com
 127.0.0.1 ad2upapp.com
-127.0.0.1 dev.umeng.com
 127.0.0.1 ad3.adfarm1.adition.com
-127.0.0.1 ex.umengcloud.com
+127.0.0.1 adx-bid.tianzhuobj.com
 127.0.0.1 ad3.api.ero-advertising.com
-127.0.0.1 msg.umengcloud.com
+127.0.0.1 platform.adwep.com
 127.0.0.1 ad3.apx.appier.net
-127.0.0.1 udash.umengcloud.com
 127.0.0.1 ad3.bannerbank.ru
-127.0.0.1 upoll.umengcloud.com
 127.0.0.1 ad3.banners.ero-advertising.com
-127.0.0.1 utop.umengcloud.com
 127.0.0.1 ad3.checkm8.com
-127.0.0.1 ar.umeng.com
 127.0.0.1 ad3.contentabc.com
-127.0.0.1 oc.umeng.com
 127.0.0.1 ad3.depositfiles.com
-127.0.0.1 errlog.umeng.com
 127.0.0.1 ad3.eu
-127.0.0.1 offmsg.umeng.com
 127.0.0.1 ad3.fpa.ero-advertising.com
 127.0.0.1 ad3.iinfo.cz
-127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 ad3.lbn.ru
-127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 ad3.linkbucks.com
-127.0.0.1 s1.stat.lianmeng.360.cn
 127.0.0.1 ad3.nationalreview.com
 127.0.0.1 ad3.nend.net
 127.0.0.1 ad3.rambler.ru
-127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 ad3.sina.com.cn
-127.0.0.1 cm.lianmeng.360.cn
 127.0.0.1 ad3.speedbit.com
-127.0.0.1 c.mse.360.cn
 127.0.0.1 ad3.udn.com
-127.0.0.1 service.jiagu.360.cn
 127.0.0.1 ad3.xrea.com
-127.0.0.1 s.360.cn
 127.0.0.1 ad30.checkm8.com
-127.0.0.1 p.s.360.cn
 127.0.0.1 ad30digital.checkm8.com
-127.0.0.1 b.appjiagu.com
 127.0.0.1 ad31.checkm8.com
-127.0.0.1 c.appjiagu.com
 127.0.0.1 ad31digital.checkm8.com
-127.0.0.1 j.appjiagu.com
 127.0.0.1 ad32.checkm8.com
-127.0.0.1 p.appjiagu.com
-127.0.0.1 s.appjiagu.com
 127.0.0.1 ad32digital.checkm8.com
-127.0.0.1 cm.adkmob.com
 127.0.0.1 ad33.checkm8.com
-127.0.0.1 ssdk.adkmob.com
 127.0.0.1 ad33digital.checkm8.com
-127.0.0.1 bigdata.advmob.cn
 127.0.0.1 ad34.checkm8.com
-127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ad34digital.checkm8.com
-127.0.0.1 ex.mobmore.com
 127.0.0.1 ad35.checkm8.com
-127.0.0.1 bu1.duba.com
-127.0.0.1 bu2.duba.com
 127.0.0.1 ad35digital.checkm8.com
-127.0.0.1 service.ad.duomi.com
 127.0.0.1 ad36.checkm8.com
 127.0.0.1 ad36digital.checkm8.com
-127.0.0.1 adsys.sinovision.net
 127.0.0.1 ad37.checkm8.com
-127.0.0.1 www.admaji.com
 127.0.0.1 ad37digital.checkm8.com
 127.0.0.1 ad38.checkm8.com
 127.0.0.1 ad38digital.checkm8.com
 127.0.0.1 ad39.checkm8.com
 127.0.0.1 ad39digital.checkm8.com
 127.0.0.1 ad3bvh.cyou
-127.0.0.1 ads.fetnet.net
 127.0.0.1 ad3c1fcefbecb52545d402730b0f84bc.nmdj.pl
-127.0.0.1 ads.ign.com
 127.0.0.1 ad3digital.checkm8.com
-127.0.0.1 ads.ttv.com.tw
 127.0.0.1 ad3fb310cca170a449f19f6ee38a577e.nmdj.pl
-127.0.0.1 drd.hauchi.com.tw
 127.0.0.1 ad4.adfarm1.adition.com
-127.0.0.1 ysm.hauchi.com.tw
-127.0.0.1 r.pixgold.com
 127.0.0.1 ad4.api.ero-advertising.com
 127.0.0.1 ad4.bannerbank.ru
 127.0.0.1 ad4.banners.ero-advertising.com
-127.0.0.1 api.ad-locus.com
 127.0.0.1 ad4.bigmir.net
-127.0.0.1 user.ad-locus.com
-127.0.0.1 adbana.com
 127.0.0.1 ad4.candy-network.com
 127.0.0.1 ad4.checkm8.com
-127.0.0.1 api.adbana.com
 127.0.0.1 ad4.com.cn
-127.0.0.1 apistat.adbana.com
 127.0.0.1 ad4.contentabc.com
-127.0.0.1 cnf.adbana.com
 127.0.0.1 ad4.gueb.com
-127.0.0.1 stat.adbana.com
 127.0.0.1 ad4.i2i.jp
-127.0.0.1 aduu.cn
 127.0.0.1 ad4.layerads.ero-advertising.com
-127.0.0.1 mgr.aduu.cn
 127.0.0.1 ad4.lbn.ru
-127.0.0.1 res.aduu.cn
 127.0.0.1 ad4.nend.net
-127.0.0.1 appuu.cn
-127.0.0.1 www.appuu.cn
 127.0.0.1 ad4.sina.com.cn
 127.0.0.1 ad4.speedbit.com
 127.0.0.1 ad4.thumbs.ero-advertising.com
-127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 ad4.udn.com
 127.0.0.1 ad40.checkm8.com
-127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 ad40digital.checkm8.com
-127.0.0.1 8chzga.v.admaster.com.cn
 127.0.0.1 ad41.atlas.cz
-127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 ad41.checkm8.com
-127.0.0.1 c.admaster.com.cn
 127.0.0.1 ad41digital.checkm8.com
-127.0.0.1 click.admaster.com.cn
 127.0.0.1 ad42.checkm8.com
-127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 ad42digital.checkm8.com
-127.0.0.1 pptv.adx.admaster.com.cn
 127.0.0.1 ad43.checkm8.com
-127.0.0.1 rtb.admaster.com.cn
 127.0.0.1 ad43digital.checkm8.com
-127.0.0.1 smt.admaster.com.cn
 127.0.0.1 ad44.checkm8.com
-127.0.0.1 vbaof.admaster.com.cn
 127.0.0.1 ad44acb07f9bdf94054045887325a760.dopla.com.pl
-127.0.0.1 vhunantv.admaster.com.cn
 127.0.0.1 ad44digital.checkm8.com
-127.0.0.1 view.admaster.com.cn
 127.0.0.1 ad45.checkm8.com
-127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 ad45digital.checkm8.com
-127.0.0.1 vletv.admaster.com.cn
 127.0.0.1 ad46.checkm8.com
-127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 ad46digital.checkm8.com
-127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 ad47.checkm8.com
-127.0.0.1 www.admaster.com.cn
 127.0.0.1 ad47digital.checkm8.com
-127.0.0.1 js.admin6.com
 127.0.0.1 ad48.checkm8.com
-127.0.0.1 conversion.adpro.cn
+127.0.0.1 cdn.pyadx.com
 127.0.0.1 ad48digital.checkm8.com
-127.0.0.1 m.adpro.cn
 127.0.0.1 ad49.checkm8.com
-127.0.0.1 x.adpro.cn
+127.0.0.1 js-ad.a.yximgs.com
 127.0.0.1 ad4989.co.kr
-127.0.0.1 adpro.pro.cn
-127.0.0.1 adx.pro.cn
+127.0.0.1 tx-ad.a.yximgs.com
 127.0.0.1 ad49digital.checkm8.com
+127.0.0.1 ana.masky.biddingx.com
 127.0.0.1 ad4cash.de
-127.0.0.1 conversion.pro.cn
-127.0.0.1 dsp.pro.cn
+127.0.0.1 ifs.tanx.com
+127.0.0.1 ifsk2.tanx.com
 127.0.0.1 ad4digital.checkm8.com
-127.0.0.1 pro.cn
 127.0.0.1 ad4game.com
-127.0.0.1 ssp.pro.cn
 127.0.0.1 ad4m.at
-127.0.0.1 www.pro.cn
 127.0.0.1 ad4mat.com
-127.0.0.1 www.adsage.cn
 127.0.0.1 ad4mat.de
-127.0.0.1 download.adsage.com
 127.0.0.1 ad4mat.it
-127.0.0.1 mws.adsage.com
 127.0.0.1 ad4mat.net
-127.0.0.1 trc.adsage.com
+127.0.0.1 adashx.ut.ele.me
 127.0.0.1 ad4partners.com
-127.0.0.1 config.mobisage.cn
+127.0.0.1 h-adashx.ut.ele.me
+127.0.0.1 e-ad-monitor.huya.com
 127.0.0.1 ad4point.nyc3.digitaloceanspaces.com
-127.0.0.1 adsame.com
+127.0.0.1 adlaunch.qtfm.cn
 127.0.0.1 ad4sell.com
-127.0.0.1 adsamer.adsame.com
-127.0.0.1 asp.adsame.com
+127.0.0.1 fumiad.dxys.pro
 127.0.0.1 ad5.bannerbank.ru
-127.0.0.1 autobild.adsame.com
+127.0.0.1 talk.nz4.getui.com
 127.0.0.1 ad5.banners.ero-advertising.com
-127.0.0.1 botuu.adsame.com
+127.0.0.1 c-gi.getui.com
 127.0.0.1 ad5.bigmir.net
-127.0.0.1 caing.adsame.com
-127.0.0.1 caixin.adsame.com
+127.0.0.1 config.jpush.cn
 127.0.0.1 ad5.checkm8.com
+127.0.0.1 adash-emas.cn-hangzhou.aliyuncs.com
 127.0.0.1 ad5.contentabc.com
-127.0.0.1 conde.adsame.com
+127.0.0.1 config-junion.jpush.cn
 127.0.0.1 ad5.fpa.ero-advertising.com
-127.0.0.1 corebug.adsame.com
+127.0.0.1 report-stats.ad.jiguang.cn
 127.0.0.1 ad5.koreadaily.com
-127.0.0.1 dcci.adsame.com
+127.0.0.1 stat2.openinstall.io
 127.0.0.1 ad5.lbn.ru
-127.0.0.1 demo.adsame.com
+127.0.0.1 cdn-sdk-opt.getui.com
 127.0.0.1 ad5.speedbit.com
+127.0.0.1 t.adbxb.com
 127.0.0.1 ad5.udn.com
-127.0.0.1 eagleasp.adsame.com
+127.0.0.1 tracking.v.tf.360.cn
 127.0.0.1 ad50.checkm8.com
-127.0.0.1 easynews.adsame.com
+127.0.0.1 adx.doumpaq.com
 127.0.0.1 ad50digital.checkm8.com
-127.0.0.1 hnb2c.adsame.com
-127.0.0.1 i.adsame.com
+127.0.0.1 adx.kuaiyiad.com
+127.0.0.1 search.mgc-games.com
 127.0.0.1 ad52cf44f994c9e8e2aaef58e81f208b.napiszawiado.pl
-127.0.0.1 ifeng.adsame.com
-127.0.0.1 jfdaily.adsame.com
+127.0.0.1 adstats.mgc-games.com
+127.0.0.1 api.snmi.cn
+127.0.0.1 s.snmi.cn
 127.0.0.1 ad56d286df3f7422ee933f377d3e40c9.nmdj.pl
-127.0.0.1 jrj.adsame.com
+127.0.0.1 fms.ipinyou.com
 127.0.0.1 ad5digital.checkm8.com
-127.0.0.1 jsmedia.adsame.com
-127.0.0.1 mail.adsame.com
+127.0.0.1 ssp1.kfadx.tech
+127.0.0.1 vapi.tiandi.com
 127.0.0.1 ad5e09cd9589335aa4b7a4129cd9a7e5.owps.pl
-127.0.0.1 material.jfdaily.adsame.com
+127.0.0.1 s.adxvip.com
 127.0.0.1 ad5track.com
-127.0.0.1 max.adsame.com
+127.0.0.1 c-gtc.getui.net
+127.0.0.1 b-gtc.gepush.com
 127.0.0.1 ad6.bannerbank.ru
-127.0.0.1 maxsys.adsame.com
+127.0.0.1 b-gtc.getui.net
 127.0.0.1 ad6.banners.ero-advertising.com
-127.0.0.1 mix.adsame.com
+127.0.0.1 talk.nz4.gepush.com
 127.0.0.1 ad6.bigmir.net
-127.0.0.1 oeeee.adsame.com
+127.0.0.1 talk.nz4.getui.net
 127.0.0.1 ad6.checkm8.com
-127.0.0.1 panda.adsame.com
+127.0.0.1 advert.lx.netease.com
 127.0.0.1 ad6.contentabc.com
-127.0.0.1 preview.adsame.com
-127.0.0.1 qianlong.adsame.com
+127.0.0.1 ma-adx.ctrip.com
 127.0.0.1 ad6.horvitznewspapers.net
-127.0.0.1 rayli.adsame.com
+127.0.0.1 gi.gepush.com
 127.0.0.1 ad6.speedbit.com
-127.0.0.1 return.adsame.com
+127.0.0.1 gi.getui.net
 127.0.0.1 ad6digital.checkm8.com
+127.0.0.1 b-gi.gepush.com
 127.0.0.1 ad6media.fr
+127.0.0.1 b-gi.getui.net
+127.0.0.1 s.trafficjam.cn
 127.0.0.1 ad7.api.ero-advertising.com
-127.0.0.1 samba.adsame.com
+127.0.0.1 wkrd.tingyun.com
 127.0.0.1 ad7.bannerbank.ru
-127.0.0.1 sambaclk.adsame.com
+127.0.0.1 mon.ad.xelements.cn
 127.0.0.1 ad7.banners.ero-advertising.com
-127.0.0.1 sambasys.adsame.com
+127.0.0.1 imp.ad.xelements.cn
 127.0.0.1 ad7.bigmir.net
-127.0.0.1 sammix.adsame.com
+127.0.0.1 league1.maoyuncloud.cn
 127.0.0.1 ad7.checkm8.com
-127.0.0.1 samrt.adsame.com
 127.0.0.1 ad7.com
-127.0.0.1 stnn.adsame.com
+127.0.0.1 androidads4-6.adcolony.com
 127.0.0.1 ad7.contentabc.com
-127.0.0.1 techweb.iv.adsame.com
+127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 ad7.gueb.com
-127.0.0.1 uusee.adsame.com
+127.0.0.1 wd.adcolony.com
 127.0.0.1 ad7.leadboltads.net
-127.0.0.1 xinhuanet.adsame.com
+127.0.0.1 amap-aos-info-nogw.amap.com
 127.0.0.1 ad7.literotica.com
-127.0.0.1 yaolan.adsame.com
+127.0.0.1 adreport.adtianmai.com
 127.0.0.1 ad7.speedbit.com
-127.0.0.1 www.adsame.com
-127.0.0.1 juxiao.adsmogo.net
+127.0.0.1 adapi.izuiyou.com
 127.0.0.1 ad7.thumbs.ero-advertising.com
-127.0.0.1 www.adsmogo.net
+127.0.0.1 adstat.izuiyou.com
 127.0.0.1 ad70bbfb11.com
-127.0.0.1 adsmogo.com
+127.0.0.1 test.adsp.xunlei.com
 127.0.0.1 ad72.cfd
-127.0.0.1 click1forhz.adsmogo.com
 127.0.0.1 ad7digital.checkm8.com
+127.0.0.1 api-mcp.adsp.xunlei.com
 127.0.0.1 ad7mylo.com
-127.0.0.1 click2forhz.adsmogo.com
+127.0.0.1 xladapi.izuiyou.com
 127.0.0.1 ad8.adfarm1.adition.com
-127.0.0.1 click3forhz.adsmogo.com
 127.0.0.1 ad8.api.ero-advertising.com
-127.0.0.1 my.adsmogo.com
+127.0.0.1 advertpay-vip-ssl.xunlei.com
 127.0.0.1 ad8.bannerbank.ru
-::1             localhost
-127.0.0.1 www.adsmogo.com
-127.0.0.1 adfill.adview.cn
+127.0.0.1 watch.advertising.speed.cdn.vip.xunlei.com
 127.0.0.1 ad8.banners.ero-advertising.com
-127.0.0.1 adview.cn
+127.0.0.1 xunlei.adx.admaster.com.cn
 127.0.0.1 ad8.checkm8.com
 127.0.0.1 ad8.contentabc.com
+127.0.0.1 advertpay.vip.xunlei.com
 127.0.0.1 ad8.speedbit.com
-127.0.0.1 report.adview.cn
-127.0.0.1 rtb.adview.cn
+127.0.0.1 config.adview.cn
+127.0.0.1 p2sdmkj6t.bkt.clouddn.com
 127.0.0.1 ad882ed6840ddcc0eef05876dc2b9bcd.mjrl.pl
-127.0.0.1 test2014.adview.cn
+127.0.0.1 log.umsns.com
 127.0.0.1 ad8879b3087646c39075ebf609cbda23.nmdj.pl
-127.0.0.1 www.adview.cn
 127.0.0.1 ad8digital.checkm8.com
+127.0.0.1 s.youmi.net
 127.0.0.1 ad9.bannerbank.ru
+127.0.0.1 r.youmi.net
 127.0.0.1 ad9.checkm8.com
+127.0.0.1 stat.gw.youmi.net
+127.0.0.1 bid.adview.cn
 127.0.0.1 ad9.contentabc.com
-127.0.0.1 adtest.adwo.com
 127.0.0.1 ad9.speedbit.com
-127.0.0.1 ama.adwo.com
 127.0.0.1 ad999.biz
-127.0.0.1 apiconfig.adwo.com
+127.0.0.1 logs.amap.com
+127.0.0.1 commercial.shouji.360.cn
 127.0.0.1 ad9b93ff1bdf2a3daec5dfe0cafe2681.carcjado.pl
-127.0.0.1 game.adwo.com
 127.0.0.1 ad9digital.checkm8.com
-127.0.0.1 mw.adwo.com
-127.0.0.1 nhz.adwo.com
+127.0.0.1 zhihu-web-analytics.zhihu.com
+127.0.0.1 ada.baidu.com
+127.0.0.1 post1.voiceads.cn
 127.0.0.1 ada33bea5b.com
-127.0.0.1 r2.adwo.com
 127.0.0.1 ada8-2.ampleur.jp
-127.0.0.1 r3.adwo.com
 127.0.0.1 ada8.ampleur.jp
-127.0.0.1 sdu.adwo.com
-127.0.0.1 static.adwo.com
+127.0.0.1 adm.10jqka.com.cn
 127.0.0.1 ada93d5b34e5a73d59becf9be48eb928.poiwla.pl
-127.0.0.1 track.adwo.com
-127.0.0.1 www.adwo.com
+127.0.0.1 ads.voiceads.cn
 127.0.0.1 adactive-ads.aimatch.com
-127.0.0.1 api.domob.cn
+127.0.0.1 sdk.zsdfm.com
 127.0.0.1 adadvisor.net
-127.0.0.1 domob.cn
+127.0.0.1 adnew.wifi8.com
 127.0.0.1 adalytics.prixacdn.net
-127.0.0.1 domob.com.cn
 127.0.0.1 adamoads.com
-127.0.0.1 e.domob.cn
+127.0.0.1 smart-789.kakamobi.cn
 127.0.0.1 adaos-ads.net
 127.0.0.1 adapi.about.co.kr
-127.0.0.1 s.domob.cn
+127.0.0.1 short-video.kakamobi.cn
 127.0.0.1 adapi.gunosy.com
-127.0.0.1 sd.domob.cn
 127.0.0.1 adapi.inlcorp.com
-127.0.0.1 sm.domob.cn
-127.0.0.1 api.doumob.com
+127.0.0.1 ubmcmm.baidustatic.com
 127.0.0.1 adapi.lenovogame.com
-127.0.0.1 www.doumob.com
+127.0.0.1 adserviceretry.kugou.com
 127.0.0.1 adapi.ragapa.com
-127.0.0.1 duomeng.cn
-127.0.0.1 e.duomeng.org
+127.0.0.1 adsfile.bssdlbig.kugou.com
 127.0.0.1 adapi.shouji.360.cn
-127.0.0.1 guomob.com
+127.0.0.1 cloudservice22.kingsoft-office-service.com
 127.0.0.1 adapi.tuyensinh247.com
+127.0.0.1 api.touchxd.com
 127.0.0.1 adapter.shouji.360.cn
-127.0.0.1 ads.static.madserving.com
+127.0.0.1 b-gi.getui.com
 127.0.0.1 adaptv.advertising.com
-127.0.0.1 adv.madserving.com
+127.0.0.1 kepler.jd.com
 127.0.0.1 adasd.tentaklsistem.click
-127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
-127.0.0.1 baofeng.m.cn.miaozhen.com
-127.0.0.1 cm.cn.miaozhen.com
-127.0.0.1 e.cn.miaozhen.com
-127.0.0.1 g.ads.cn.miaozhen.com
-127.0.0.1 g.cn.miaozhen.com
+127.0.0.1 orbit.jd.com
+127.0.0.1 adash.m.taobao.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 adash.man.aliyuncs.com
+127.0.0.1 api-luckycoinsdk.doglobal.net
+127.0.0.1 adashbc.m.taobao.com
+127.0.0.1 durdcn.doglobal.net
+127.0.0.1 adashbc.ut.taobao.com
+127.0.0.1 api-es.doglobal.net
+127.0.0.1 adashx.m.taobao.com
+127.0.0.1 adproxy.autohome.com.cn
 127.0.0.1 adashx.ut.taobao.com
-127.0.0.1 hunantv.m.cn.miaozhen.com
+127.0.0.1 v3-ad.ixigua.com
 127.0.0.1 adashx4ae.ut.taobao.com
-127.0.0.1 iqiyi.m.cn.miaozhen.com
-127.0.0.1 js.miaozhen.com
-127.0.0.1 letv.m.cn.miaozhen.com
-127.0.0.1 miaozhen.com
+127.0.0.1 rcv.aiclk.com
+127.0.0.1 cdn.aiclk.com
+127.0.0.1 adashx4yt.m.taobao.com
+127.0.0.1 cfg-cdn.aiclk.com
+127.0.0.1 adashxgc.ut.taobao.com
+127.0.0.1 adavideo.baidu.com
+127.0.0.1 api.aiclk.com
 127.0.0.1 adb-analytics.live-now.com
-127.0.0.1 msg.cn.miaozhen.com
+127.0.0.1 update0.aiclk.com
 127.0.0.1 adb2waycm-atl.netmng.com
-127.0.0.1 sitemonitor.cn.miaozhen.com
+127.0.0.1 sdk-ab-config.aiclk.com
 127.0.0.1 adb7rtb.com
-127.0.0.1 sohutv.m.cn.miaozhen.com
+127.0.0.1 adbana.com
+127.0.0.1 sdk-globalconfig.aiclk.com
+127.0.0.1 adx.maplehaze.cn
 127.0.0.1 adbehavior.wsa.ximalaya.com
-127.0.0.1 stm-cdn.cn.miaozhen.com
-127.0.0.1 stm-collect.cn.miaozhen.com
+127.0.0.1 log.kajicam.com
+127.0.0.1 conf.xdrig.com
 127.0.0.1 adbetnet.advertserve.com
-127.0.0.1 survey.miaozhen.com
+127.0.0.1 api-ad.kajicam.com
 127.0.0.1 adblock-360.com
+127.0.0.1 me.xdrig.com
 127.0.0.1 adblock-pro.org
-127.0.0.1 tyaqy.m.cn.miaozhen.com
+127.0.0.1 api.ad.yipinread.com
 127.0.0.1 adblock-zen-download.com
-127.0.0.1 tytx.m.cn.miaozhen.com
+127.0.0.1 dpush-api.domob.cn
 127.0.0.1 adblockers.b-cdn.net
-127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
+127.0.0.1 engine.lvehaisen.com
 127.0.0.1 adbma.adk2.co
-127.0.0.1 yktd.m.cn.miaozhen.com
+127.0.0.1 sdk.tf.360.cn
 127.0.0.1 adbooth.adk2.co
+127.0.0.1 sdkrec.tf.360.cn
 127.0.0.1 adbox.sina.com.cn
-127.0.0.1 api.exc.mob.com
+127.0.0.1 sdk.s.360.cn
 127.0.0.1 adbreak.cubecdn.net
-127.0.0.1 api.share.mob.com
-127.0.0.1 api.fd.mob.com
-127.0.0.1 c.data.mob.com
-127.0.0.1 cca.mob.com
-127.0.0.1 devs.data.mob.com
+127.0.0.1 me.cpatrk.net
+127.0.0.1 ap.cpatrk.net
+127.0.0.1 adt.cpatrk.net
+127.0.0.1 edgecast-vod.yimg.com
 127.0.0.1 adbsdk.flyermobi.com
-127.0.0.1 m.data.mob.com
+127.0.0.1 edgecast-vod.yahoo.net
+127.0.0.1 adc.hpplay.cn
 127.0.0.1 adc-ad-assets.adtilt.com
-127.0.0.1 api.mobgi.com
-127.0.0.1 mobgi.com
+127.0.0.1 adcdn.hpplay.cn
 127.0.0.1 adc01.media-rep.com
-127.0.0.1 stat.mobgi.com
+127.0.0.1 adeng.hpplay.cn
 127.0.0.1 adc02.media-rep.com
-127.0.0.1 w.ymapp.com
+127.0.0.1 tanx.com
 127.0.0.1 adc03.media-rep.com
-127.0.0.1 img-cdn-spot.ymcdn.cn
+127.0.0.1 et.tanx.com
+127.0.0.1 df.tanx.com
 127.0.0.1 adc092bfbb579c312c9f93d667937c6d.serswise.pl
-127.0.0.1 a.img.static.youmi.net
+127.0.0.1 ef-dongfeng.tanx.com
 127.0.0.1 adc2.adcentriconline.com
-127.0.0.1 a1.img.static.youmi.net
 127.0.0.1 adc3-assets.adcolony.com
-127.0.0.1 a2.img.static.youmi.net
-127.0.0.1 a3.img.static.youmi.net
+127.0.0.1 adlog.flurry.com
+127.0.0.1 ads.flurry.com
 127.0.0.1 adcannyads.com
+127.0.0.1 ads.icloseli.cn
 127.0.0.1 adcdn.gamemeca.com
+127.0.0.1 etl.xlmc.sandai.net
 127.0.0.1 adcdn.goo.ne.jp
-127.0.0.1 cf8d.stat.gw.youmi.net
-127.0.0.1 notifiter.youmi.net
+127.0.0.1 uapi.ads.heytapmobi.com
+127.0.0.1 b1-data.ads.heytapmobi.com
 127.0.0.1 adcenter-api.cashwalk.co
-127.0.0.1 static.youmi.net
+127.0.0.1 adx.ads.heytapmobi.com
 127.0.0.1 adcentre.it-advanced.com
-127.0.0.1 t.youmi.net
+127.0.0.1 b2-data.ads.heytapmobi.com
 127.0.0.1 adchina.cc
-127.0.0.1 youmi.net
-127.0.0.1 www.youmi.net
-127.0.0.1 api.youxiaoad.com
+127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 hw.zuimeitianqi.com
+127.0.0.1 adsfs-sdkconfig.heytapimage.com
 127.0.0.1 adcore.lenovomm.com
+127.0.0.1 optimus-ads.amap.com
 127.0.0.1 adcos.adxmly.com
-127.0.0.1 source.youxiaoad.com
+127.0.0.1 widgets.outbrain.com
 127.0.0.1 addelivery-engine-api.voodoo-ads.io
-127.0.0.1 ssp.youxiaoad.com
+127.0.0.1 www.ad5lm.net
+127.0.0.1 zls.xz6d.com
 127.0.0.1 addthiscdn.com
-127.0.0.1 admedia.com
-127.0.0.1 b.admedia.com
+127.0.0.1 spl.ztvx8.com
+127.0.0.1 pv.dakawm.cc
+127.0.0.1 ade.googlesyndication.com
+127.0.0.1 jpg.mengbingyuan.com
 127.0.0.1 ade1.activeprog2.space
-127.0.0.1 g.admedia.com
+127.0.0.1 y76.ylems.club
+127.0.0.1 epp.2polj.top
 127.0.0.1 ade11f86.northlightpictures.ca
-127.0.0.1 inline.admedia.com
+127.0.0.1 qqwx.zhangguangzong.com
 127.0.0.1 ade2.activeprog2.space
-127.0.0.1 m.admedia.com
+127.0.0.1 ads.reader.yueyouxs.com
 127.0.0.1 ade3.activeprog2.space
-127.0.0.1 i.l.inmobicdn.net
 127.0.0.1 adeko.mobi
-127.0.0.1 au.w.inmobi.cn
+127.0.0.1 c.sayhi.360.cn
+127.0.0.1 cloud.zyiis.net
 127.0.0.1 adekwatneinfo.click
-127.0.0.1 sdkm.w.inmobi.cn
-127.0.0.1 api.w.inmobi.com
 127.0.0.1 adekwatnosc24h.click
+127.0.0.1 ads.weilitoutiao.net
+127.0.0.1 ssp-api.domob.cn
 127.0.0.1 adekwatnyczyn.click
+127.0.0.1 ssp-event.domob.cn
 127.0.0.1 adekwatnyfakt.click
+127.0.0.1 du.163.com
 127.0.0.1 adelogs.adobe.com
+127.0.0.1 yaolu.mh.163.com
 127.0.0.1 aden.baidu.com
+127.0.0.1 yaolu.yuedu.163.com
 127.0.0.1 adeventtracker.spotify.com
-127.0.0.1 apptv.w.inmobi.com
-127.0.0.1 au.w.inmobi.com
+127.0.0.1 newswifiapi.dftoutiao.com
+127.0.0.1 api.e.kuaishou.com
 127.0.0.1 adf.ero-advertising.com
 127.0.0.1 adf01.net
-127.0.0.1 cf.cdn.inmobi.com
-127.0.0.1 config-ltvp.inmobi.com
+127.0.0.1 api2.e.kuaishou.com
+127.0.0.1 log-dmp.suishenyun.cn
 127.0.0.1 adf0f4a2a087650548efa6fdb3c07bf1.tracisa.pl
-127.0.0.1 config.inmobi.com
+127.0.0.1 log1.cmpassport.com
 127.0.0.1 adf6.adf6.com
-127.0.0.1 et.w.inmobi.com
+127.0.0.1 adlog.tagtic.cn
 127.0.0.1 adf92353150fd7e79f86ad6c0af40d93.aols.pl
-127.0.0.1 sdkm.w.inmobi.com
-127.0.0.1 www.inmobi.com
+127.0.0.1 adopt-sdk.xg.tagtic.cn
+127.0.0.1 adfill.adview.cn
+127.0.0.1 gs.getui.com
+127.0.0.1 adfilter.imtt.qq.com
+127.0.0.1 lc.getui.com
 127.0.0.1 adfinity.pro
+127.0.0.1 g1.tagtic.cn
 127.0.0.1 adfox.yandex.ru
+127.0.0.1 ads.adroi.com.cn
 127.0.0.1 adfpaces.ero-advertising.com
+127.0.0.1 ads-go.adroi.com.cn
 127.0.0.1 adfstat.yandex.ru
+127.0.0.1 adx.hzbxm.com
 127.0.0.1 adfunds.org
+127.0.0.1 api.verify.mob.com
 127.0.0.1 adg99.com
+127.0.0.1 pasta.esfile.duapps.com
 127.0.0.1 adgeo.163.com
+127.0.0.1 nrcapi.ssl2.duapps.com
 127.0.0.1 adhitzads.com
+127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 adhouse.cubecdn.net
+127.0.0.1 ss.chelaile.net.cn
 127.0.0.1 adhouse.pro
+127.0.0.1 b-gtc.getui.com
 127.0.0.1 adi2007.cnool.net
-127.0.0.1 adasad.myweb.hinet.net
+127.0.0.1 c-gtc.getui.com
 127.0.0.1 adimages.sina.com.hk
+127.0.0.1 c-hzgt2.getui.com
 127.0.0.1 adimg.163.com
+127.0.0.1 atrace.chelaile.net.cn
 127.0.0.1 adimg.activeadv.net
-127.0.0.1 adcast.deviantart.com
+127.0.0.1 api-gi.getui.com
 127.0.0.1 adimg.cgv.co.kr
 127.0.0.1 adimg.com.com
+127.0.0.1 sdk.open.phone.igexin.com
 127.0.0.1 adimg.cqnews.net
+127.0.0.1 sdk-open-phone.getui.com
 127.0.0.1 adimg.daumcdn.net
+127.0.0.1 sf1-be-pack.pglstatp-toutiao.com
 127.0.0.1 adimg.deviantart.net
 127.0.0.1 adimg.i2i.jp
+127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
 127.0.0.1 adimg.liba.com
 127.0.0.1 adimg.mobile.sina.cn
-127.0.0.1 adfuture.cn
+127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
 127.0.0.1 adimg.nate.com
+127.0.0.1 gorgon.youdao.com
 127.0.0.1 adimg.net
+127.0.0.1 dev.iyuba.cn
 127.0.0.1 adimg.newdaily.co.kr
+127.0.0.1 gstat.myzaker.com
 127.0.0.1 adimg.ngfiles.com
+127.0.0.1 ggs.myzaker.com
 127.0.0.1 adimg.rekmob.com
+127.0.0.1 m.ads.sohu.com
 127.0.0.1 adimg.uimserv.net
+127.0.0.1 s.ads.sohu.com
 127.0.0.1 adimg.uve.weibo.com
+127.0.0.1 t.ads.sohu.com
+127.0.0.1 a.track.sohu.com
 127.0.0.1 adimpression.startappservice.com
+127.0.0.1 monitor.ssp.admobile.top
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
-127.0.0.1 adlaunch.moji.com
+127.0.0.1 sdk.ssp.admobile.top
 127.0.0.1 adipestcontrolservice.com
+127.0.0.1 u.ssp.admobile.top
 127.0.0.1 adjunctcar.click
+127.0.0.1 api.fc.mob.com
 127.0.0.1 adjust-local-settings.com
-127.0.0.1 admd.yam.com
+127.0.0.1 dspwin.adsame.com
 127.0.0.1 adjust-net.jp
-127.0.0.1 admeld.adnxs.com
+127.0.0.1 tr.adsame.com
 127.0.0.1 adjust.com
-127.0.0.1 adm.icast.cn
+127.0.0.1 dspimg.adsame.com
 127.0.0.1 adjust.net.in
-127.0.0.1 adm.leju.sina.com.cn
+127.0.0.1 app-tj.adinall.com
 127.0.0.1 adjust.world
+127.0.0.1 g.koowo.com
 127.0.0.1 adk2.co
 127.0.0.1 adk2.com
-127.0.0.1 adn.insight.ucweb.com
+127.0.0.1 mobilead.kuwo.cn
 127.0.0.1 adk2x.com
-127.0.0.1 a.dounanhuahui.com
+127.0.0.1 nmobi.kuwo.cn
 127.0.0.1 adkiemtien123.click
+127.0.0.1 splashimgbssdl.yun.kugou.com
 127.0.0.1 adkwai.com
-127.0.0.1 adpublish.ydstatic.com
+127.0.0.1 m1.ad.10010.com
 127.0.0.1 adleads.com
-127.0.0.1 adres.myaora.net
-127.0.0.1 ads1.msads.net
-127.0.0.1 ads1.msn.com
-127.0.0.1 ads2.msads.net
-127.0.0.1 ads2.msn.com
-127.0.0.1 ads.adaptv.advertising.com
-127.0.0.1 ads-a.juicyads.com
-127.0.0.1 adsco.re
-127.0.0.1 ads.creative-serving.com
-127.0.0.1 adsence.sogou.com
-127.0.0.1 adserve2.tom.com
-127.0.0.1 adserver.adtech.de
-127.0.0.1 adserver.adtechus.com
-127.0.0.1 adserver.juicyads.com
-127.0.0.1 adserver-us.adtech.advertising.com
-127.0.0.1 adserver.xpanama.net
-127.0.0.1 adserver.yahoo.com
-127.0.0.1 ads.eu.msn.com
-127.0.0.1 ads.gionee.com
-127.0.0.1 ads.gmodules.com
-127.0.0.1 ads.msn.com
-127.0.0.1 ads.ninemsn.com.au
-127.0.0.1 ads.pubmatic.com
-127.0.0.1 adsp.xunlei.com
-127.0.0.1 ads.servebom.com
-127.0.0.1 ads.service.kugou.com
-127.0.0.1 ads.sina.com
-127.0.0.1 ads.stickyadstv.com
-127.0.0.1 adss.yahoo.com
-127.0.0.1 adsunflower.com
-127.0.0.1 ads.waps.cn
-127.0.0.1 ads.wapx.cn
-127.0.0.1 ads.yahoo.com
-127.0.0.1 ads.yam.com
-127.0.0.1 ads.yimg.com
+127.0.0.1 config.unityads.unitychina.cn
+127.0.0.1 api.openinstall.io
+127.0.0.1 ads.oneway.mobi
 127.0.0.1 adlogs.ad2iction.com
+127.0.0.1 ads.oway.mobi
+127.0.0.1 adm.baidu.com
+127.0.0.1 owads.audioadx.com
+127.0.0.1 adm.leju.sina.com.cn
+127.0.0.1 p3.adkwai.com
 127.0.0.1 adm0.autoimg.cn
 127.0.0.1 adm1.autoimg.cn
+127.0.0.1 ali-stats.jpush.cn
 127.0.0.1 adm2.autoimg.cn
+127.0.0.1 stats.jpush.cn
 127.0.0.1 adm3.autoimg.cn
+127.0.0.1 gd-stats.jpush.cn
 127.0.0.1 adm67dh9m.pages.pro.br
+127.0.0.1 tsis.jpush.cn
 127.0.0.1 adm789.com
-127.0.0.1 adsyndication.msn.com
+127.0.0.1 bjuser.jpush.cn
 127.0.0.1 admaster.com.cn
-127.0.0.1 ads.youtube.com
+127.0.0.1 s.jpush.cn
 127.0.0.1 admaster.net
-127.0.0.1 adtrack.ucweb.com
+127.0.0.1 adx.sogaha.cn
+127.0.0.1 api.jialiangad.com
 127.0.0.1 admatch-syndication.mochila.com
-127.0.0.1 adui.tg.meitu.com
+127.0.0.1 track.adxwork.com
 127.0.0.1 admediator.unityads.unity3d.com
+127.0.0.1 p1-lm.adkwai.com
+127.0.0.1 admeld.adnxs.com
+127.0.0.1 p1.adkwai.com
 127.0.0.1 admeridianads.com
+127.0.0.1 report.yumobi.cn
 127.0.0.1 admidadsp.com
-127.0.0.1 adx-static.ksosoft.com
+127.0.0.1 ssp.indexmob.com
 127.0.0.1 admin.adsplay.net
-127.0.0.1 adx.xiaodutv.com
+127.0.0.1 engine.liandaomobi.com
+127.0.0.1 admin.vserv.mobi
+127.0.0.1 api.yidaomobi.com
 127.0.0.1 admon.pro
+127.0.0.1 adtrack.e.kuaishou.com
 127.0.0.1 admost-banner.b-cdn.net
+127.0.0.1 open.e.kuaishou.cn
 127.0.0.1 admusicmatvideo.music.126.net
-127.0.0.1 www.admarket.mobi
-127.0.0.1 z.sora.yoyi.com.cn
+127.0.0.1 jnn-pa.googleapis.com
+127.0.0.1 adcs-ue.myappsget.com
 127.0.0.1 adn.agrantsem.com
-127.0.0.1 03.lzzncm.com
+127.0.0.1 api.myadsget.com
 127.0.0.1 adn.fusionads.net
-127.0.0.1 04.lzzncm.com
-127.0.0.1 all.cnzz.com.danuoyi.tbcache.com
+127.0.0.1 midas-tracker.hellay.net
+127.0.0.1 adn.insight.ucweb.com
+127.0.0.1 adcs-ap.myappsget.com
 127.0.0.1 adnetwork-adserver.aiactiv.io
-127.0.0.1 z3.cnzz.com
+127.0.0.1 adx-tk.rayjump.com
 127.0.0.1 adnewnc.app.autohome.com.cn
-127.0.0.1 s4.cnzz.com
+127.0.0.1 events.ads.vungle.com
 127.0.0.1 adnitro.pro
-127.0.0.1 ei.cnzz.com
+127.0.0.1 app.appsflyer.com
 127.0.0.1 adnotacjaszybka.click
-127.0.0.1 c.cnzz.com
-127.0.0.1 s13.cnzz.com
+127.0.0.1 adx.apiok.net
 127.0.0.1 adnotacje24.click
-127.0.0.1 q14.cnzz.com
+127.0.0.1 ads.api.vungle.com
 127.0.0.1 adnotacyjne.click
+127.0.0.1 net.rayjump.com
 127.0.0.1 adnxs-simple.com
-127.0.0.1 w.cnzz.com
+127.0.0.1 svibeacon.onezapp.com
 127.0.0.1 adnxs.com
-127.0.0.1 v1.cnzz.com
+127.0.0.1 data.flurry.com
 127.0.0.1 adnxs.net
-127.0.0.1 s5.cnzz.com
+127.0.0.1 ms.applovin.com
 127.0.0.1 adnxs.revsci.net
-127.0.0.1 s6.cnzz.com
+127.0.0.1 rt.applovin.com
 127.0.0.1 ado.pro-market.net
-127.0.0.1 s9.cnzz.com
-127.0.0.1 s22.cnzz.com
+127.0.0.1 d.applvn.com
 127.0.0.1 adobe-analytics-dc.belastingdienst.nl
-127.0.0.1 s23.cnzz.com
+127.0.0.1 telemetry.sdk.inmobi.com
+127.0.0.1 ms.applvn.com
 127.0.0.1 adobe-analytics.vionicshoes.com
-127.0.0.1 s11.cnzz.com
-127.0.0.1 s95.cnzz.com
+127.0.0.1 rt.applvn.com
 127.0.0.1 adobe-dev-landingpageprefix.descubre.interbank.pe
-127.0.0.1 s96.cnzz.com
+127.0.0.1 api.youngle.tech
+127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 adobe-dns.adobe.com
-127.0.0.1 gxbr.cnzz.com
+127.0.0.1 httpkafka.unityads.unity3d.com
 127.0.0.1 adobe-ep.cms.gov
-127.0.0.1 z11.cnzz.com
-127.0.0.1 z13.cnzz.com
+127.0.0.1 configv2.unityads.unity3d.com
 127.0.0.1 adobe-ep.cuidadodesalud.gov
-127.0.0.1 z1.cnzz.com
+127.0.0.1 cdn.appnext.com
 127.0.0.1 adobe-ep.healthcare.gov
-127.0.0.1 z2.cnzz.com
+127.0.0.1 imasdk.googleapis.com
 127.0.0.1 adobe-ep.insurekidsnow.gov
-127.0.0.1 z4.cnzz.com
-127.0.0.1 z5.cnzz.com
+::1             localhost
+127.0.0.1 events.mz.unity3d.com
 127.0.0.1 adobe-ep.medicaid.gov
-127.0.0.1 z6.cnzz.com
 127.0.0.1 adobe-ep.medicare.gov
-127.0.0.1 z7.cnzz.com
+127.0.0.1 umeng.com.gds.alibabadns.com
 127.0.0.1 adobe-flashplayer.com
-127.0.0.1 z8.cnzz.com
+127.0.0.1 errnewlog.umeng.com
 127.0.0.1 adobe-nonsecure.cjone.com
-127.0.0.1 z9.cnzz.com
+127.0.0.1 auction-load.unityads.unity3d.com
 127.0.0.1 adobe-secure.cjone.com
-127.0.0.1 z10.cnzz.com
+127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 adobe.112.2o7.net
+127.0.0.1 app-measurement.com
 127.0.0.1 adobe.adhaven.com
-127.0.0.1 z12.cnzz.com
+127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 adobe.aeonbank.co.jp
-127.0.0.1 zs10.cnzz.com
+127.0.0.1 ads.google.com
 127.0.0.1 adobe.autoscout24.at
-127.0.0.1 zs11.cnzz.com
+127.0.0.1 www.googleadservices.com
 127.0.0.1 adobe.autoscout24.be
-127.0.0.1 zs12.cnzz.com
-127.0.0.1 zs13.cnzz.com
+127.0.0.1 google-analytics.com
 127.0.0.1 adobe.autoscout24.bg
-127.0.0.1 zs14.cnzz.com
+127.0.0.1 www.google-analytics.com
 127.0.0.1 adobe.autoscout24.com
-127.0.0.1 zs15.cnzz.com
+127.0.0.1 www.googletagmanager.com
 127.0.0.1 adobe.autoscout24.com.tr
-127.0.0.1 zs16.cnzz.com
+127.0.0.1 googlesyndication.com
 127.0.0.1 adobe.autoscout24.com.ua
-127.0.0.1 zs1.cnzz.com
 127.0.0.1 adobe.autoscout24.cz
-127.0.0.1 zs25.cnzz.com
+127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 adobe.autoscout24.de
-127.0.0.1 zs2.cnzz.com
-127.0.0.1 zs3.cnzz.com
+127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 adobe.autoscout24.es
-127.0.0.1 zs4.cnzz.com
 127.0.0.1 adobe.autoscout24.eu
-127.0.0.1 zs5.cnzz.com
+127.0.0.1 adservice.google.com
 127.0.0.1 adobe.autoscout24.fr
-127.0.0.1 zs6.cnzz.com
+127.0.0.1 adservice.google.com.au
 127.0.0.1 adobe.autoscout24.hr
-127.0.0.1 zs7.cnzz.com
+127.0.0.1 ads.traffichunt.com
 127.0.0.1 adobe.autoscout24.it
-127.0.0.1 zs8.cnzz.com
+127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 adobe.autoscout24.lu
-127.0.0.1 zs9.cnzz.com
-127.0.0.1 zvs1.cnzz.com
 127.0.0.1 adobe.autoscout24.nl
-127.0.0.1 zvs2.cnzz.com
 127.0.0.1 adobe.autoscout24.pl
-127.0.0.1 hqs1.cnzz.com
 127.0.0.1 adobe.autoscout24.ro
-127.0.0.1 hqs4.cnzz.com
 127.0.0.1 adobe.autoscout24.ru
-127.0.0.1 hqs7.cnzz.com
-127.0.0.1 hqs9.cnzz.com
 127.0.0.1 adobe.autoscout24.se
-127.0.0.1 hzs10.cnzz.com
-127.0.0.1 hzs12.cnzz.com
 127.0.0.1 adobe.bupaglobal.com
-127.0.0.1 hzs13.cnzz.com
 127.0.0.1 adobe.com.102.112.2o7.net
-127.0.0.1 hzs14.cnzz.com
 127.0.0.1 adobe.demdex.net
-127.0.0.1 hzs17.cnzz.com
 127.0.0.1 adobe.dynamic.ca
-127.0.0.1 hzs23.cnzz.com
 127.0.0.1 adobe.falabella.com
-127.0.0.1 hzs2.cnzz.com
 127.0.0.1 adobe.falabella.com.ar
-127.0.0.1 hzs3.cnzz.com
-127.0.0.1 hzs5.cnzz.com
 127.0.0.1 adobe.falabella.com.co
-127.0.0.1 hzs7.cnzz.com
 127.0.0.1 adobe.falabella.com.pe
-127.0.0.1 hzs8.cnzz.com
 127.0.0.1 adobe.filmstruck.com
-127.0.0.1 hzs9.cnzz.com
 127.0.0.1 adobe.pmi.org
-127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 adobe.sodimac.cl
 127.0.0.1 adobe.sukoonglobalhealth.com
-127.0.0.1 pcookie.cnzz.com
 127.0.0.1 adobe.toridoll.com
 127.0.0.1 adobe.truckscout24.com
 127.0.0.1 adobe.tt.omtrdc.net
@@ -4387,257 +3654,511 @@
 127.0.0.1 adp1.cnool.net
 127.0.0.1 adp13a.com
 127.0.0.1 adpartner.pro
+127.0.0.1 adping.qq.com
 127.0.0.1 adplexmedia.adk2.co
 127.0.0.1 adplexmedia.adk2x.com
+127.0.0.1 adpm.app.qq.com
+127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 adpretirementservices.122.2o7.net
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 adpro.pro.cn
+127.0.0.1 static.googleadsserving.cn
 127.0.0.1 adpulse.ads.targetnet.com
 127.0.0.1 adpush.goforandroid.com
+127.0.0.1 lb.usemaxserver.de
 127.0.0.1 adpushsdk.goforandroid.com
+127.0.0.1 tracking.klickthru.com
+127.0.0.1 gsmtop.net
 127.0.0.1 adr.hepllbussiines.click
+127.0.0.1 click.buzzcity.net
 127.0.0.1 adrcdn.com
+127.0.0.1 stats.pflexads.com
+127.0.0.1 adrdir.qq.com
+127.0.0.1 a.glcdn.co
+127.0.0.1 adres.myaora.net
+127.0.0.1 wwww.adleads.com
 127.0.0.1 adrezbinvest.pro
+127.0.0.1 apps.buzzcity.net
 127.0.0.1 adrikaadvertising.com
+127.0.0.1 ads.mobgold.com
 127.0.0.1 adrikon-invest.pro
+127.0.0.1 android.bcfads.com
 127.0.0.1 adro.pro
+127.0.0.1 show.buzzcity.net
 127.0.0.1 ads-6686.top
+127.0.0.1 api.analytics.omgpop.com
+127.0.0.1 r.edge.inmobicdn.net
 127.0.0.1 ads-816899299.ap-southeast-1.elb.amazonaws.com
+127.0.0.1 www.mmnetwork.mobi
+127.0.0.1 ads-a.juicyads.com
+127.0.0.1 img.ads.huntmad.com
 127.0.0.1 ads-admin.hubs.vn
+127.0.0.1 creative1cdn.mobfox.com
 127.0.0.1 ads-adv.top
+127.0.0.1 admicro1.vcmedia.vn
 127.0.0.1 ads-advertisinglogin.com
+127.0.0.1 s3.phluant.com
+127.0.0.1 c.vrvm.com
 127.0.0.1 ads-ap.adaptv.advertising.com
+127.0.0.1 go.vrvm.com
+127.0.0.1 static.estebull.com
 127.0.0.1 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
+127.0.0.1 mobile.Banzai.it
 127.0.0.1 ads-api.kidsnote.com
+127.0.0.1 ads.xxxad.net
 127.0.0.1 ads-api.playfun.vn
+127.0.0.1 adcontent.saymedia.com
 127.0.0.1 ads-api.production.nebula-drupal.stuff.co.nz
+127.0.0.1 ads.saymedia.com
+127.0.0.1 ftpcontent.worldnow.com
+127.0.0.1 s0.2mdn.net
+127.0.0.1 bigmobileads.com
 127.0.0.1 ads-api.stuff.co.nz
+127.0.0.1 ads.mopub.com
 127.0.0.1 ads-api.tiktok.com
+127.0.0.1 oasc04012.247realmedia.com
+127.0.0.1 assets.cntdy.mobi
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 ads-b-480313385.us-west-1.elb.amazonaws.com
+127.0.0.1 api.airpush.com
 127.0.0.1 ads-backend.chaincliq.com
+127.0.0.1 cdn1.crispadvertising.com
 127.0.0.1 ads-bi.zenkube.com
+127.0.0.1 cdn2.crispadvertising.com
 127.0.0.1 ads-bid.l.doubleclick.net
+127.0.0.1 rs-staticart.ybcdn.net
 127.0.0.1 ads-bidder-api.twitter.com
+127.0.0.1 img.ads.taptapnetworks.com
 127.0.0.1 ads-bilek.com
+127.0.0.1 adserver.ubiyoo.com
 127.0.0.1 ads-blablacar.com
 127.0.0.1 ads-blue.com
+127.0.0.1 c753738.r38.cf2.rackcdn.com
+127.0.0.1 edge.reporo.net
+127.0.0.1 adultmoda.com
 127.0.0.1 ads-brand-postback.unityads.unity3d.com
+127.0.0.1 b.scorecardresearch.com
 127.0.0.1 ads-by.madadsmedia.com
+127.0.0.1 m.adsymptotic.com
 127.0.0.1 ads-by.yieldselect.com
+127.0.0.1 asotrack1.fluentmobile.com
 127.0.0.1 ads-c-1854119718.us-west-1.elb.amazonaws.com
+127.0.0.1 apps.mobilityware.com
 127.0.0.1 ads-cdn.fptplay.net
+127.0.0.1 ads.mobilityware.com
+127.0.0.1 ads.admarvel.com
 127.0.0.1 ads-chunks.prod.ihrhls.com
 127.0.0.1 ads-click.com
+127.0.0.1 netdna.reporo.net
+127.0.0.1 www.eltrafiko.com
 127.0.0.1 ads-cloud.rovio.com
+127.0.0.1 cdn.trafficforce.com
 127.0.0.1 ads-collector.luizalabs.com
+127.0.0.1 gts-ads.twistbox.com
 127.0.0.1 ads-colruytgroup.adhese.com
+127.0.0.1 static.cdn.gtsmobi.com
 127.0.0.1 ads-connect.com
+127.0.0.1 img.ads.mobilefuse.net
 127.0.0.1 ads-d.viber.com
+127.0.0.1 as.adfonic.net
 127.0.0.1 ads-de.spray.net
+127.0.0.1 media.mobpartner.mobi
 127.0.0.1 ads-delivery.b-cdn.net
+127.0.0.1 ads2.mediaarmor.com
 127.0.0.1 ads-delivery.gameforge.com
+127.0.0.1 cdn.nearbyad.com
 127.0.0.1 ads-dev.ad4game.com
 127.0.0.1 ads-dev.pinterest.com
+127.0.0.1 gemini.yahoo.com
 127.0.0.1 ads-dot-fbc-web-2018.uc.r.appspot.com
+127.0.0.1 d3oltyb66oj2v8.cloudfront.net
 127.0.0.1 ads-ec.adaptv.advertising.com
 127.0.0.1 ads-eu.adaptv.advertising.com
+127.0.0.1 c.vserv.mobi
 127.0.0.1 ads-fb.co
+127.0.0.1 ads.vserv.mobi
 127.0.0.1 ads-game-187f4.firebaseapp.com
+127.0.0.1 sf.vserv.mobi
+127.0.0.1 hybl9bazbc35.pflexads.com
 127.0.0.1 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
+127.0.0.1 hhbekxxw5d9e.pflexads.com
 127.0.0.1 ads-gdl.imovideo.ru
+127.0.0.1 www.pflexads.com
+127.0.0.1 orencia.pflexads.com
 127.0.0.1 ads-i2i.jp
+127.0.0.1 cdn.celtra.com
 127.0.0.1 ads-interfaces.sc-cdn.net
+127.0.0.1 ads.celtra.com
 127.0.0.1 ads-kesselhaus.com
+127.0.0.1 cache-ssl.celtra.com
+127.0.0.1 cache.celtra.com
 127.0.0.1 ads-leaseweb.appsgeyser.com
+127.0.0.1 track.celtra.com
 127.0.0.1 ads-lfi3olnec7fr.stackpathdns.com
+127.0.0.1 wv.inner-active.mobi
 127.0.0.1 ads-link.net
 127.0.0.1 ads-lite.net
 127.0.0.1 ads-lot.ru
+127.0.0.1 cdn1.inner-active.mobi
+127.0.0.1 m2m1.inner-active.mobi
 127.0.0.1 ads-manage-recovery8812441234.miracle-chain.com
+127.0.0.1 a.applovin.com
 127.0.0.1 ads-management.su
+127.0.0.1 d.applovin.com
 127.0.0.1 ads-market.online
+127.0.0.1 pdn.applovin.com
+127.0.0.1 mobpartner.mobi
 127.0.0.1 ads-marketing-vivofs.vivo.com.cn
+127.0.0.1 go.mobpartner.mobi
+127.0.0.1 r.mobpartner.mobi
+127.0.0.1 adinfuse.com
 127.0.0.1 ads-media.gameforge.com
+127.0.0.1 cvt.mydas.mobi
 127.0.0.1 ads-mediafin.adhese.com
+127.0.0.1 lp.mydas.mobi
 127.0.0.1 ads-nrc.adhese.com
+127.0.0.1 golds.lp.mydas.mobi
 127.0.0.1 ads-partners.coupang.com
+127.0.0.1 suo.lp.mydas.mobi
 127.0.0.1 ads-pebblemedia.adhese.com
+127.0.0.1 aio.lp.mydas.mobi
 127.0.0.1 ads-pixiv.net
+127.0.0.1 lp.mp.mydas.mobi
 127.0.0.1 ads-platform.zalo.me
+127.0.0.1 media.mydas.mobi
+127.0.0.1 ads.mp.mydas.mobi
 127.0.0.1 ads-privacy-api.prd.mz.internal.unity3d.com
+127.0.0.1 neptune.appads.com
 127.0.0.1 ads-query.luizalabs.com
+127.0.0.1 neptune1.appads.com
 127.0.0.1 ads-resources-legacy.waze.com
+127.0.0.1 neptune2.appads.com
 127.0.0.1 ads-resources.waze.com
+127.0.0.1 neptune3.appads.com
 127.0.0.1 ads-rm.looksmart.com
+127.0.0.1 saturn.appads.com
 127.0.0.1 ads-rolandgarros.com
+127.0.0.1 saturn1.appads.com
 127.0.0.1 ads-roularta.adhese.com
+127.0.0.1 saturn2.appads.com
+127.0.0.1 saturn3.appads.com
 127.0.0.1 ads-router-noneu.truecaller.com
+127.0.0.1 jupiter.appads.com
 127.0.0.1 ads-sdk.mattel163.com
+127.0.0.1 jupiter1.appads.com
 127.0.0.1 ads-sdk.nianticlabs.com
+127.0.0.1 jupiter2.appads.com
 127.0.0.1 ads-sdk.upltv.com
+127.0.0.1 jupiter3.appads.com
 127.0.0.1 ads-secure.videohub.tv
+127.0.0.1 req.appads.com
 127.0.0.1 ads-server.mxplay.com
+127.0.0.1 req1.appads.com
 127.0.0.1 ads-sg.tiktok.com
+127.0.0.1 req2.appads.com
 127.0.0.1 ads-static.conde.digital
+127.0.0.1 req3.appads.com
 127.0.0.1 ads-static.phonepe.com
+127.0.0.1 campaign-tapad.s3.amazonaws.com
 127.0.0.1 ads-stats.com
+127.0.0.1 i.w.inmobi.com
 127.0.0.1 ads-stream.com
+127.0.0.1 r.w.inmobi.com
 127.0.0.1 ads-t.ru
+127.0.0.1 c.w.inmobi.com
 127.0.0.1 ads-thanhnien-vn.cdn.ampproject.org
+127.0.0.1 china.inmobi.com
 127.0.0.1 ads-tm-glb.click
+127.0.0.1 japan.inmobi.com
 127.0.0.1 ads-tr.bigmining.com
+127.0.0.1 mdn1.phluantmobile.net
 127.0.0.1 ads-tracking.beop.io
+127.0.0.1 mdn2.phluantmobile.net
 127.0.0.1 ads-tracking.beopinion.com
+127.0.0.1 mdn3.phluantmobile.net
 127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 ads-twitter.com
+127.0.0.1 mdn3origin.phluantmobile.net
 127.0.0.1 ads-union.jd.com
+127.0.0.1 akamai.smartadserver.com
 127.0.0.1 ads-us.pictela.net
+127.0.0.1 cdn1.smartadserver.com
+127.0.0.1 diff.smartadserver.com
 127.0.0.1 ads-v-darwin.hulu.com
+127.0.0.1 diff2.smartadserver.com
 127.0.0.1 ads-verification-for-pay.vercel.app
+127.0.0.1 diff3.smartadserver.com
 127.0.0.1 ads-verify.flurry.com
+127.0.0.1 eqx.smartadserver.com
 127.0.0.1 ads-wc.adaptv.advertising.com
+127.0.0.1 im2.smartadserver.com
 127.0.0.1 ads-wordego.azureedge.net
+127.0.0.1 itx5-publicidad.smartadserver.com
 127.0.0.1 ads-yallo-production.imgix.net
+127.0.0.1 itx5.smartadserver.com
 127.0.0.1 ads.123net.jp
+127.0.0.1 ww129.smartadserver.com
 127.0.0.1 ads.1thegioi.vn
+127.0.0.1 ww13.smartadserver.com
 127.0.0.1 ads.211.ru
+127.0.0.1 ww14.smartadserver.com
 127.0.0.1 ads.359group.com
 127.0.0.1 ads.365.mk
+127.0.0.1 ww234.smartadserver.com
 127.0.0.1 ads.365cdn.is
+127.0.0.1 ww251.smartadserver.com
 127.0.0.1 ads.3e-news.net
+127.0.0.1 ww264.smartadserver.com
 127.0.0.1 ads.3sfmedia.com
 127.0.0.1 ads.4tube.com
+127.0.0.1 ww302.smartadserver.com
 127.0.0.1 ads.568play.vn
+127.0.0.1 ww362.smartadserver.com
 127.0.0.1 ads.5ci.lt
+127.0.0.1 ww370.smartadserver.com
 127.0.0.1 ads.6svn.com
+127.0.0.1 ww381.smartadserver.com
+127.0.0.1 ww392.smartadserver.com
 127.0.0.1 ads.73dpi.com
+127.0.0.1 ww55.smartadserver.com
 127.0.0.1 ads.7days.ae
+127.0.0.1 ww57.smartadserver.com
 127.0.0.1 ads.8live.com
+127.0.0.1 ww84.smartadserver.com
 127.0.0.1 ads.a-snag-smartmoney.fyi
+127.0.0.1 www.smartadserver.com
 127.0.0.1 ads.aarhusupdate.dk
+127.0.0.1 www2.smartadserver.com
 127.0.0.1 ads.aavv.com
+127.0.0.1 www3.smartadserver.com
 127.0.0.1 ads.abbythetraveler.com
+127.0.0.1 www4.smartadserver.com
 127.0.0.1 ads.abovetopsecret.com
+127.0.0.1 ads.mobclix.com
 127.0.0.1 ads.abs-cbn.com
+127.0.0.1 ads2.greystripe.com
 127.0.0.1 ads.accelerator-media.com
+127.0.0.1 adsx.greystripe.com
 127.0.0.1 ads.aceweb.net
+127.0.0.1 c.greystripe.com
 127.0.0.1 ads.acpc.cat
 127.0.0.1 ads.acrosspf.com
 127.0.0.1 ads.activepower.net
+127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 ads.activestate.com
+127.0.0.1 admarvel.s3.amazonaws.com
 127.0.0.1 ads.ad-center.com
+127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
 127.0.0.1 ads.ad2iction.com
 127.0.0.1 ads.ad4game.com
+127.0.0.1 inneractive-assets.s3.amazonaws.com
 127.0.0.1 ads.ad4max.com
+127.0.0.1 strikeadcdn.s3.amazonaws.com
+127.0.0.1 ads.adadapted.com
+127.0.0.1 c.admob.com
 127.0.0.1 ads.adagent.chacha.com
+127.0.0.1 media.admob.com
 127.0.0.1 ads.adamoads.com
+127.0.0.1 met.adwhirl.com
 127.0.0.1 ads.adap.tv
+127.0.0.1 mob.adwhirl.com
+127.0.0.1 ads.adaptv.advertising.com
+127.0.0.1 mobileads.msn.com
 127.0.0.1 ads.adbroker.de
+127.0.0.1 aos.wall.youmi.net
 127.0.0.1 ads.adcorps.com
+127.0.0.1 au.youmi.net
 127.0.0.1 ads.addesktop.com
+127.0.0.1 coconuts.boy.jp
 127.0.0.1 ads.addynamix.com
+127.0.0.1 iacpromotion.s3.amazonaws.com
 127.0.0.1 ads.adecosystems.net
+127.0.0.1 plugin.2easydroid.com
 127.0.0.1 ads.adelement.com
+127.0.0.1 adimg3.search.naver.net
 127.0.0.1 ads.adengage.com
 127.0.0.1 ads.adflex.vn
+127.0.0.1 a.medialytics.com
 127.0.0.1 ads.adfox.ru
+127.0.0.1 c.medialytics.com
 127.0.0.1 ads.adgoto.com
+127.0.0.1 cdn.creative.medialytics.com
 127.0.0.1 ads.adhall.com
+127.0.0.1 p.medialytics.com
 127.0.0.1 ads.adhood.com
+127.0.0.1 px.cdn.creative.medialytics.com
 127.0.0.1 ads.adhostingsolutions.com
 127.0.0.1 ads.adhsm.adhese.com
 127.0.0.1 ads.adinall.com
 127.0.0.1 ads.adiply.com
+127.0.0.1 adx.g.doubleclick.net
 127.0.0.1 ads.adk2.com
 127.0.0.1 ads.adk2x.com
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 ads.admatrix.vn
+127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 ads.admaximize.com
+127.0.0.1 static.doubleclick.net
 127.0.0.1 ads.administrator.de
+127.0.0.1 doubleclick.ctfile.com
 127.0.0.1 ads.adnet.am
 127.0.0.1 ads.adnxs.com
 127.0.0.1 ads.adoffice.11st.co.kr
 127.0.0.1 ads.adone.com
+127.0.0.1 doubleclick.net
 127.0.0.1 ads.adred.de
 127.0.0.1 ads.adriver.ru
+127.0.0.1 4171764.fls.doubleclick.net
 127.0.0.1 ads.adroar.com
 127.0.0.1 ads.ads.netlog.com
 127.0.0.1 ads.adsag.com
+127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 ads.adsbookie.com
 127.0.0.1 ads.adshareware.net
+127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 ads.adsinimages.com
+127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 ads.adsniper.ru
+127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 ads.adsnxs.com
+127.0.0.1 afs.googlesyndication.com
 127.0.0.1 ads.adsonar.com
+127.0.0.1 video-ad-stats.googlesyndication.com
 127.0.0.1 ads.adsready.com
+127.0.0.1 s1.2mdn.net
 127.0.0.1 ads.adsrvmedia.com
 127.0.0.1 ads.adsrvmedia.net
+127.0.0.1 ssl.google-analytics.com
 127.0.0.1 ads.adstream.com.ro
 127.0.0.1 ads.adsymptotic.com
 127.0.0.1 ads.adtegrity.net
+127.0.0.1 adscdn.baidu.com
 127.0.0.1 ads.adtheorent.com
+127.0.0.1 afd.baidu.com
 127.0.0.1 ads.adthrive.com
+127.0.0.1 als.baidu.com
 127.0.0.1 ads.adtiger.de
+127.0.0.1 cbjs.baidu.com
 127.0.0.1 ads.adtrustmedia.com
+127.0.0.1 cm.baidu.com
 127.0.0.1 ads.adual.net
+127.0.0.1 cm.pos.baidu.com
 127.0.0.1 ads.adultfriendfinder.com
+127.0.0.1 cpro.baidu.com
 127.0.0.1 ads.advance.net
+127.0.0.1 crs.baidu.com
 127.0.0.1 ads.adverline.com
+127.0.0.1 eclick.baidu.com
 127.0.0.1 ads.advertise.net
+127.0.0.1 eiv.baidu.com
 127.0.0.1 ads.advertisespace.com
+127.0.0.1 entry.baidu.com
 127.0.0.1 ads.adviad.com
+127.0.0.1 idm-su.baidu.com
 127.0.0.1 ads.adviva.net
+127.0.0.1 idm.bce.baidu.com
 127.0.0.1 ads.adworldnetwork.com
+127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 ads.adxadserv.com
+127.0.0.1 mobads.baidu.com
 127.0.0.1 ads.adxpansion.com
+127.0.0.1 msite.baidu.com
 127.0.0.1 ads.adxpose.com
+127.0.0.1 nsclick.baidu.com
 127.0.0.1 ads.aerserv.com
+127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 ads.affiliateclub.com
+127.0.0.1 pc.videoclick.baidu.com
 127.0.0.1 ads.affiliates.match.com
 127.0.0.1 ads.afraccess.com
+127.0.0.1 pos.baidu.com
 127.0.0.1 ads.aftab.cc
+127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 ads.ahds.ac.uk
+127.0.0.1 river.zhidao.baidu.com
 127.0.0.1 ads.aitype.net
+127.0.0.1 s.cpro.baidu.com
 127.0.0.1 ads.akairan.com
+127.0.0.1 wangmeng.baidu.com
 127.0.0.1 ads.akaup.com
+127.0.0.1 wn.pos.baidu.com
 127.0.0.1 ads.al.com
+127.0.0.1 bdplus.baidu.com
 127.0.0.1 ads.alaatv.com
+127.0.0.1 datax.baidu.com
 127.0.0.1 ads.aland.com
 127.0.0.1 ads.albawaba.com
+127.0.0.1 openrcv.baidu.com
 127.0.0.1 ads.alive.com
 127.0.0.1 ads.all-free-download.com
+127.0.0.1 cb.baidu.com
 127.0.0.1 ads.allaccess.com.ph
+127.0.0.1 hdj.baidu.com
 127.0.0.1 ads.allsites.com
+127.0.0.1 mssp.baidu.com
 127.0.0.1 ads.allvertical.com
+127.0.0.1 nlog.baidu.com
 127.0.0.1 ads.almasdarnews.com
 127.0.0.1 ads.alobacsi.vn
+127.0.0.1 sestat.baidu.com
 127.0.0.1 ads.alphaporno.com
+127.0.0.1 stat.v.baidu.com
 127.0.0.1 ads.alphonso.tv
+127.0.0.1 videopush.baidu.com
 127.0.0.1 ads.alt.com
 127.0.0.1 ads.altema.jp
+127.0.0.1 wisepush.video.baidu.com
+127.0.0.1 hmma.baidu.com
 127.0.0.1 ads.altitude-arena.com
+127.0.0.1 dup.baidustatic.com
 127.0.0.1 ads.am5.vip.prod.criteo.com
+127.0.0.1 sp0.baidu.com
 127.0.0.1 ads.amakings.com
+127.0.0.1 qapm.baidu.com
 127.0.0.1 ads.amaland.com
+127.0.0.1 fclog.baidu.com
 127.0.0.1 ads.amazingmedia.com
+127.0.0.1 sofire.baidu.com
 127.0.0.1 ads.amdmb.com
+127.0.0.1 tcbox.baidu.com
 127.0.0.1 ads.amgdgt.com
+127.0.0.1 browserkernel.baidu.com
 127.0.0.1 ads.ami-admin.com
+127.0.0.1 hijack.baidu.com
 127.0.0.1 ads.amigos.com
+127.0.0.1 hpd.baidu.com
 127.0.0.1 ads.annabac.com
+127.0.0.1 hm.baidu.com
 127.0.0.1 ads.annonsbladet.com
+127.0.0.1 ecma.bdimg.com
 127.0.0.1 ads.ants.vn
+127.0.0.1 ecmb.bdimg.com
 127.0.0.1 ads.aol.co.uk
+127.0.0.1 cdn-haokanapk.baidu.com
 127.0.0.1 ads.apartmenttherapy.com
 127.0.0.1 ads.api.my7v.com
+127.0.0.1 tuijian.baidu.com
+127.0.0.1 ucstat.baidu.com
 127.0.0.1 ads.apn.co.nz
+127.0.0.1 crab.baidu.com
 127.0.0.1 ads.apn.co.za
+127.0.0.1 api1.tuisong.baidu.com
 127.0.0.1 ads.appota.com
+127.0.0.1 baidu-mipdx.cn.miaozhen.com
 127.0.0.1 ads.appsgeyser.com
+127.0.0.1 api3.tuisong.baidu.com
 127.0.0.1 ads.araba.com
+127.0.0.1 api8.tuisong.baidu.com
 127.0.0.1 ads.aralego.com
+127.0.0.1 sa.tuisong.baidu.com
 127.0.0.1 ads.aroundtherings.com
+127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 ads.artsopolis.com
 127.0.0.1 ads.as.criteo.com
+127.0.0.1 sa8.tuisong.baidu.com
 127.0.0.1 ads.as4x.tmcs.net
+127.0.0.1 cpro.baidustatic.com
 127.0.0.1 ads.as4x.tmcs.ticketmaster.com
 127.0.0.1 ads.asexstories.com
 127.0.0.1 ads.asiafriendfinder.com
@@ -4645,18 +4166,29 @@
 127.0.0.1 ads.aspentimes.com
 127.0.0.1 ads.asredas.com
 127.0.0.1 ads.assemblyexchange.com
+127.0.0.1 adsfile.qq.com
 127.0.0.1 ads.asset.aparat.com
+127.0.0.1 adsgroup.qq.com
 127.0.0.1 ads.associatedcontent.com
+127.0.0.1 adshmct.qq.com
 127.0.0.1 ads.astalavista.us
+127.0.0.1 adshmmsg.qq.com
 127.0.0.1 ads.auctionads.com
 127.0.0.1 ads.auctioncity.co.nz
+127.0.0.1 adslvfile.qq.com
 127.0.0.1 ads.auctions.yahoo.com
+127.0.0.1 adslvseed.qq.com
 127.0.0.1 ads.audio.thisisdax.com
+127.0.0.1 adstextview.qq.com
 127.0.0.1 ads.autonet.com.vn
 127.0.0.1 ads.autotrader.com
+127.0.0.1 adsview.qq.com
 127.0.0.1 ads.avazu.net
+127.0.0.1 adsview2.qq.com
 127.0.0.1 ads.avct.cloud
+127.0.0.1 adv.app.qq.com
 127.0.0.1 ads.avocarrot.com
+127.0.0.1 adver.qq.com
 127.0.0.1 ads.avocet.io
 127.0.0.1 ads.aws.fwmrm.net
 127.0.0.1 ads.aws.viber.com
@@ -4664,379 +4196,734 @@
 127.0.0.1 ads.azjmp.com
 127.0.0.1 ads.b10f.jp
 127.0.0.1 ads.baazee.com
+127.0.0.1 adsense.html5.qq.com
 127.0.0.1 ads.bangkokpost.co.th
 127.0.0.1 ads.baoangiang.com.vn
 127.0.0.1 ads.baobinhduong.vn
 127.0.0.1 ads.baobinhthuan.com.vn
 127.0.0.1 ads.baocamau.vn
 127.0.0.1 ads.baocantho.com.vn
+127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 ads.baodatviet.vn
+127.0.0.1 adsrich.qq.com
 127.0.0.1 ads.baohaiduong.vn
 127.0.0.1 ads.baolongan.vn
 127.0.0.1 ads.baotainguyenmoitruong.vn
 127.0.0.1 ads.bauerpublishing.com
 127.0.0.1 ads.bb59.ru
+127.0.0.1 d3g.qq.com
 127.0.0.1 ads.bbcworld.com
+127.0.0.1 jqmt.qq.com
 127.0.0.1 ads.bcnewsgroup.com
+127.0.0.1 jsqmt.qq.com
 127.0.0.1 ads.be2hand.com
+127.0.0.1 ta.qq.com
 127.0.0.1 ads.beeb.com
+127.0.0.1 p.tencentmind.com
 127.0.0.1 ads.beliefnet.com
+127.0.0.1 e.qq.com
+127.0.0.1 cm.e.qq.com
 127.0.0.1 ads.belointeractive.com
+127.0.0.1 sdk.e.qq.com
 127.0.0.1 ads.betfair.com
+127.0.0.1 p.l.qq.com
 127.0.0.1 ads.betsafe.com
+127.0.0.1 dp3.qq.com
 127.0.0.1 ads.betweendigital.com
+127.0.0.1 us.l.qq.com
 127.0.0.1 ads.bfast.com
+127.0.0.1 android.rqd.qq.com
 127.0.0.1 ads.bgfree.com
+127.0.0.1 android.bugly.qq.com
 127.0.0.1 ads.bgtop.net
 127.0.0.1 ads.bianca.com
+127.0.0.1 api.poll.aiseet.atianqi.com
 127.0.0.1 ads.bid
+127.0.0.1 btrace.qq.com
 127.0.0.1 ads.bidclix.com
+127.0.0.1 otheve.beacon.qq.com
 127.0.0.1 ads.bidstreamserver.com
+127.0.0.1 tools.3g.qq.com
 127.0.0.1 ads.bigchurch.com
+127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 ads.bigfoot.com
+127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 ads.biggerboat.com
+127.0.0.1 mtrace.qq.com
 127.0.0.1 ads.bigrebelads.com
+127.0.0.1 misc.wcd.qq.com
 127.0.0.1 ads.bing.com
+127.0.0.1 raddus.bayescom.com
 127.0.0.1 ads.birdmedia.com
+127.0.0.1 mtt.eve.mdt.qq.com
 127.0.0.1 ads.biscom.net
+127.0.0.1 push.pgl.qq.com
 127.0.0.1 ads.bittorrent.com
+127.0.0.1 rmpad.imtt.qq.com
 127.0.0.1 ads.bizhut.com
 127.0.0.1 ads.bizx.info
+127.0.0.1 tangram.e.qq.com
 127.0.0.1 ads.bkitsoftware.com
+127.0.0.1 mig.str.mdt.qq.com
+127.0.0.1 pms.mb.qq.com
 127.0.0.1 ads.bl-consulting.net
+127.0.0.1 adsmind.apdcdn.tc.qq.com
 127.0.0.1 ads.bleikt.is
+127.0.0.1 p.store.qq.com
 127.0.0.1 ads.blixem.nl
+127.0.0.1 masdk.3g.qq.com
 127.0.0.1 ads.blizzard.com
+127.0.0.1 ten.sngapm.qq.com
 127.0.0.1 ads.blog.com
 127.0.0.1 ads.blogdrive.com
+127.0.0.1 ads.privacy.qq.com
 127.0.0.1 ads.blogherads.com
+127.0.0.1 tdid.m.qq.com
+127.0.0.1 h.trace.qq.com
 127.0.0.1 ads.blogtalkradio.com
 127.0.0.1 ads.bloodhorse.com
+127.0.0.1 mtt.str.mdt.qq.com
 127.0.0.1 ads.bloomberg.com
+127.0.0.1 tmeadcomm.y.qq.com
 127.0.0.1 ads.bluecava.com
+127.0.0.1 qzs.gdtimg.com
 127.0.0.1 ads.bluelithium.com
+127.0.0.1 public.gdtimg.com
 127.0.0.1 ads.bluemountain.com
+127.0.0.1 cmshow.gtimg.cn
 127.0.0.1 ads.bninews.com
+127.0.0.1 qappcenterv6.3g.qq.com
 127.0.0.1 ads.bnmedia.com
+127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 ads.boardtracker.com
+127.0.0.1 cc.map.qq.com
 127.0.0.1 ads.boerding.com
+127.0.0.1 aegis.qq.com
 127.0.0.1 ads.boerse-express.com
 127.0.0.1 ads.bondage.com
 127.0.0.1 ads.bonnint.net
+127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 ads.botbanhang.vn
+127.0.0.1 ynuf.aliapp.org
 127.0.0.1 ads.boursorama.com
+127.0.0.1 unidesk.alicdn.com
 127.0.0.1 ads.boylesports.com
+127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 ads.brabys.com
+127.0.0.1 baichuan-sdk.alicdn.com
 127.0.0.1 ads.brand.net
+127.0.0.1 ilce.alicdn.com
 127.0.0.1 ads.brandenburg.is
+127.0.0.1 abtest.alibaba.com
 127.0.0.1 ads.brazzers.com
+127.0.0.1 proxy-mob-cld.alicdn.com
 127.0.0.1 ads.bridgebase.com
+127.0.0.1 www.uyunad.com
 127.0.0.1 ads.bridgetrack.com
+127.0.0.1 ali-ad.a.yximgs.com
 127.0.0.1 ads.bridgetrack.com.edgesuite.net
 127.0.0.1 ads.bsplayer.com
 127.0.0.1 ads.bstlnk.com
 127.0.0.1 ads.bulldogcpi.com
+127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 ads.bullionyield.com
 127.0.0.1 ads.bumq.com
+127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 ads.burgasinfo.com
+127.0.0.1 tunion-api.m.taobao.com
 127.0.0.1 ads.buscape.com.br
+127.0.0.1 acs4baichuan.m.taobao.com
 127.0.0.1 ads.businessclick.com
+127.0.0.1 amdc.m.taobao.com
 127.0.0.1 ads.businessstyle.vn
+127.0.0.1 amdcopen.m.taobao.com
 127.0.0.1 ads.businessweek.com
+127.0.0.1 eco.taobao.com
 127.0.0.1 ads.cadovn.biz
+127.0.0.1 umengacs.m.taobao.com
 127.0.0.1 ads.calgarystampede.com
+127.0.0.1 umengjmacs.m.taobao.com
 127.0.0.1 ads.camrecord.com
+127.0.0.1 openjmacs.m.taobao.com
 127.0.0.1 ads.canalblog.com
+127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 ads.captifymedia.com
+127.0.0.1 sjarvis.taobao.com
 127.0.0.1 ads.cardea.se
+127.0.0.1 audid-api.taobao.com
 127.0.0.1 ads.careerbuilder.vn
 127.0.0.1 ads.carmudi.vn
+127.0.0.1 h-adashx4yt.ut.taobao.com
 127.0.0.1 ads.carocean.co.uk
+127.0.0.1 umdc.aliapp.org
 127.0.0.1 ads.cars.com
+127.0.0.1 iqiyi.irs01.com
 127.0.0.1 ads.casinocity.com
+127.0.0.1 letv.irs01.com
 127.0.0.1 ads.casumoaffiliates.com
+127.0.0.1 s9.irs03.com
 127.0.0.1 ads.catholic.org
+127.0.0.1 s72f5a8e.irs03.com
 127.0.0.1 ads.cavello.com
+127.0.0.1 s06aa680.irs03.com
 127.0.0.1 ads.cb-cdn.com
 127.0.0.1 ads.cbc.ca
+127.0.0.1 ckmap.mediav.com
 127.0.0.1 ads.cc
+127.0.0.1 click.mediav.com
 127.0.0.1 ads.cc-dt.com
+127.0.0.1 cm.mediav.com
 127.0.0.1 ads.ccgateway.net
+127.0.0.1 g1max.mediav.com
 127.0.0.1 ads.ccstock.cn
+127.0.0.1 g1xd.mediav.com
 127.0.0.1 ads.cdn.rovio.com
+127.0.0.1 item.mediav.com
 127.0.0.1 ads.cdn.viber.com
+127.0.0.1 juxiao.mediav.com
 127.0.0.1 ads.cdnow.com
 127.0.0.1 ads.cdnslate.com
+127.0.0.1 material-ssl.mediav.com
 127.0.0.1 ads.cdrinfo.com
+127.0.0.1 material.mediav.com
 127.0.0.1 ads.cdvn.vip
+127.0.0.1 max-l.mediav.com
 127.0.0.1 ads.ce.cn
+127.0.0.1 max.mediav.com
+127.0.0.1 mvp.mediav.com
 127.0.0.1 ads.centraliprom.com
+127.0.0.1 pages-juxiao.mediav.com
 127.0.0.1 ads.cgchannel.com
+127.0.0.1 pages.juxiao.mediav.com
 127.0.0.1 ads.chacomedia.com
+127.0.0.1 pv.mediav.com
 127.0.0.1 ads.chalomumbai.com
+127.0.0.1 s3m.mediav.com
 127.0.0.1 ads.champs-elysees.com
+127.0.0.1 sdk.mediav.com
 127.0.0.1 ads.chango.com
+127.0.0.1 secure.mediav.com
 127.0.0.1 ads.chanhtuoi.com
+127.0.0.1 show-3.mediav.com
 127.0.0.1 ads.channel4.com
+127.0.0.1 show-g.mediav.com
 127.0.0.1 ads.chartboosts.com
+127.0.0.1 show-m.mediav.com
 127.0.0.1 ads.cheabit.com
+127.0.0.1 show-s.mediav.com
 127.0.0.1 ads.china.com
+127.0.0.1 show.g.mediav.com
 127.0.0.1 ads.chipcenter.com
+127.0.0.1 show.m.mediav.com
 127.0.0.1 ads.choingayiwin.top
+127.0.0.1 show.mediav.com
 127.0.0.1 ads.chumcity.com
+127.0.0.1 ssxd.mediav.com
 127.0.0.1 ads.cinemaden.com
+127.0.0.1 static-ssl.mediav.com
 127.0.0.1 ads.cineville.nl
+127.0.0.1 static.mediav.com
 127.0.0.1 ads.citymagazine.si
+127.0.0.1 t.dsp.mediav.com
 127.0.0.1 ads.ck101.com
+127.0.0.1 track.mediav.com
 127.0.0.1 ads.clasificadox.com
+127.0.0.1 tran.mediav.com
 127.0.0.1 ads.cleveland.com
+127.0.0.1 view.mediav.com
 127.0.0.1 ads.clickability.com
+127.0.0.1 xd.mediav.com
 127.0.0.1 ads.clickad.com.pl
+127.0.0.1 c.bing.com
 127.0.0.1 ads.clickagents.com
+127.0.0.1 otf.msn.com
 127.0.0.1 ads.clovenetwork.com
+127.0.0.1 umeng.com
 127.0.0.1 ads.clubzone.com
+127.0.0.1 alog.umeng.com
 127.0.0.1 ads.cluster01.oasis.zmh.zope.net
+127.0.0.1 alog.umengcloud.com
 127.0.0.1 ads.cn.miaozhen.com
 127.0.0.1 ads.cnixon.com
+127.0.0.1 alogus.umeng.com
 127.0.0.1 ads.cnngo.com
 127.0.0.1 ads.co.com
+127.0.0.1 alogsus.umeng.com
 127.0.0.1 ads.cobrad.com
+127.0.0.1 ulogs.umeng.com
 127.0.0.1 ads.collegclub.com
+127.0.0.1 ulogs.umengcloud.com
 127.0.0.1 ads.collegemix.com
+127.0.0.1 plbslog.umeng.com
 127.0.0.1 ads.colombiaonline.com
+127.0.0.1 api.wsq.umeng.com
 127.0.0.1 ads.com.com
+127.0.0.1 at.umeng.com
 127.0.0.1 ads.comeon.com
 127.0.0.1 ads.compro.se
+127.0.0.1 au.umeng.com
 127.0.0.1 ads.consumeraffairs.com
+127.0.0.1 dev.umeng.com
 127.0.0.1 ads.contactmusic.com
+127.0.0.1 ex.umengcloud.com
 127.0.0.1 ads.contentabc.com
+127.0.0.1 msg.umengcloud.com
 127.0.0.1 ads.contents.fc2.com
+127.0.0.1 udash.umengcloud.com
 127.0.0.1 ads.contextweb.com
+127.0.0.1 upoll.umengcloud.com
+127.0.0.1 utop.umengcloud.com
 127.0.0.1 ads.contrasoft.dk
 127.0.0.1 ads.coopson.com
+127.0.0.1 ar.umeng.com
 127.0.0.1 ads.corusradionetwork.com
+127.0.0.1 oc.umeng.com
+127.0.0.1 errlog.umeng.com
 127.0.0.1 ads.courierpostonline.com
+127.0.0.1 offmsg.umeng.com
 127.0.0.1 ads.cpxcenter.com
 127.0.0.1 ads.cpxinteractive.com
+127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 ads.cracked.com
+127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 ads.crakmedia.com
+127.0.0.1 s1.stat.lianmeng.360.cn
 127.0.0.1 ads.crapville.com
+127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 ads.crawler.com
+127.0.0.1 cm.lianmeng.360.cn
+127.0.0.1 ads.creative-serving.com
+127.0.0.1 c.mse.360.cn
 127.0.0.1 ads.crisppremium.com
+127.0.0.1 service.jiagu.360.cn
 127.0.0.1 ads.crosscut.com
+127.0.0.1 s.360.cn
 127.0.0.1 ads.csdn.net
+127.0.0.1 p.s.360.cn
 127.0.0.1 ads.ctvdigital.net
 127.0.0.1 ads.cungcau.vn
+127.0.0.1 b.appjiagu.com
 127.0.0.1 ads.currantbun.com
 127.0.0.1 ads.cvut.cz
+127.0.0.1 c.appjiagu.com
 127.0.0.1 ads.cyberctm.com
+127.0.0.1 j.appjiagu.com
 127.0.0.1 ads.cybersales.cz
+127.0.0.1 p.appjiagu.com
 127.0.0.1 ads.d-msquared.com
+127.0.0.1 s.appjiagu.com
+127.0.0.1 cm.adkmob.com
+127.0.0.1 ssdk.adkmob.com
 127.0.0.1 ads.da1.vip.prod.criteo.com
+127.0.0.1 bigdata.advmob.cn
 127.0.0.1 ads.dabetvip.vin
+127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ads.dabi.ir
+127.0.0.1 ex.mobmore.com
 127.0.0.1 ads.dada.it
+127.0.0.1 bu1.duba.com
 127.0.0.1 ads.dailycamera.com
+127.0.0.1 bu2.duba.com
 127.0.0.1 ads.dandelionchocolate.jp
+127.0.0.1 service.ad.duomi.com
 127.0.0.1 ads.dangky789.sbs
+127.0.0.1 adsys.sinovision.net
 127.0.0.1 ads.databrainz.com
+127.0.0.1 www.admaji.com
 127.0.0.1 ads.ddj.com
 127.0.0.1 ads.deliverimp.com
 127.0.0.1 ads.deltha.hu
 127.0.0.1 ads.democratandchronicle.com
 127.0.0.1 ads.dennisnet.co.uk
 127.0.0.1 ads.depositfiles.com
+127.0.0.1 ads.fetnet.net
 127.0.0.1 ads.designboom.com
+127.0.0.1 ads.ign.com
 127.0.0.1 ads.designtaxi.com
+127.0.0.1 ads.ttv.com.tw
 127.0.0.1 ads.desktopscans.com
+127.0.0.1 drd.hauchi.com.tw
+127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 ads.desmoinesregister.com
+127.0.0.1 r.pixgold.com
 127.0.0.1 ads.detelefoongids.nl
 127.0.0.1 ads.deviantart.com
 127.0.0.1 ads.devicebondage.com
+127.0.0.1 api.ad-locus.com
 127.0.0.1 ads.devmates.com
+127.0.0.1 user.ad-locus.com
 127.0.0.1 ads.dfiles.ru
+127.0.0.1 api.adbana.com
 127.0.0.1 ads.dichtbij.adhese.com
+127.0.0.1 apistat.adbana.com
 127.0.0.1 ads.digital-digest.com
+127.0.0.1 cnf.adbana.com
 127.0.0.1 ads.digital.disneyadvertising.com
+127.0.0.1 stat.adbana.com
+127.0.0.1 aduu.cn
 127.0.0.1 ads.digitalacre.com
+127.0.0.1 mgr.aduu.cn
 127.0.0.1 ads.digitalalchemy.tv
+127.0.0.1 res.aduu.cn
 127.0.0.1 ads.digitalcaramel.com
+127.0.0.1 appuu.cn
 127.0.0.1 ads.digitalmedianet.com
+127.0.0.1 www.appuu.cn
 127.0.0.1 ads.digitalpoint.com
 127.0.0.1 ads.digitalthrottle.com
+127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 ads.dijitalvarliklar.com
+127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 ads.dimcab.com
+127.0.0.1 8chzga.v.admaster.com.cn
 127.0.0.1 ads.directcorp.de
+127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 ads.directionsmag.com
+127.0.0.1 c.admaster.com.cn
 127.0.0.1 ads.discreetad.com
 127.0.0.1 ads.dk
+127.0.0.1 click.admaster.com.cn
+127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 ads.dkelseymedia.com
+127.0.0.1 pptv.adx.admaster.com.cn
 127.0.0.1 ads.docunordic.net
+127.0.0.1 rtb.admaster.com.cn
 127.0.0.1 ads.dofunapps.com
 127.0.0.1 ads.dogusdigital.com
+127.0.0.1 smt.admaster.com.cn
 127.0.0.1 ads.doit.com.cn
 127.0.0.1 ads.domainoptions.net
+127.0.0.1 vbaof.admaster.com.cn
 127.0.0.1 ads.domeus.com
+127.0.0.1 vhunantv.admaster.com.cn
 127.0.0.1 ads.dotomi.com
+127.0.0.1 view.admaster.com.cn
 127.0.0.1 ads.double.net
+127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 ads.doublemax.net
+127.0.0.1 vletv.admaster.com.cn
 127.0.0.1 ads.downloadaccelerator.com
+127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 ads.drf.com
+127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 ads.drugs.com
 127.0.0.1 ads.dtpnetwork.biz
+127.0.0.1 www.admaster.com.cn
 127.0.0.1 ads.dugwood.com
+127.0.0.1 js.admin6.com
 127.0.0.1 ads.dygdigital.com
+127.0.0.1 conversion.adpro.cn
 127.0.0.1 ads.dynamic-media.org
+127.0.0.1 m.adpro.cn
 127.0.0.1 ads.e-planning.net
+127.0.0.1 x.adpro.cn
 127.0.0.1 ads.e24.no
+127.0.0.1 adx.pro.cn
 127.0.0.1 ads.eagletribune.com
+127.0.0.1 conversion.pro.cn
 127.0.0.1 ads.easy-ads.com
+127.0.0.1 dsp.pro.cn
 127.0.0.1 ads.easy-forex.com
+127.0.0.1 pro.cn
 127.0.0.1 ads.eccentrix.com
+127.0.0.1 ssp.pro.cn
 127.0.0.1 ads.ecircles.com
+127.0.0.1 www.pro.cn
 127.0.0.1 ads.economist.com
+127.0.0.1 www.adsage.cn
 127.0.0.1 ads.edadeal.ru
+127.0.0.1 download.adsage.com
 127.0.0.1 ads.ehealthcaresolutions.com
+127.0.0.1 mws.adsage.com
 127.0.0.1 ads.einmedia.com
+127.0.0.1 trc.adsage.com
 127.0.0.1 ads.eircom.net
+127.0.0.1 config.mobisage.cn
 127.0.0.1 ads.ekstat.com
+127.0.0.1 adsame.com
 127.0.0.1 ads.elcarado.com
+127.0.0.1 adsamer.adsame.com
 127.0.0.1 ads.electrocelt.com
+127.0.0.1 asp.adsame.com
 127.0.0.1 ads.elitetrader.com
+127.0.0.1 autobild.adsame.com
 127.0.0.1 ads.elmaz.com
+127.0.0.1 botuu.adsame.com
 127.0.0.1 ads.elpais.com.uy
+127.0.0.1 caing.adsame.com
 127.0.0.1 ads.emdee.ca
+127.0.0.1 caixin.adsame.com
 127.0.0.1 ads.emirates.net.ae
+127.0.0.1 conde.adsame.com
 127.0.0.1 ads.empoweringmedia.net
+127.0.0.1 corebug.adsame.com
 127.0.0.1 ads.emqus.com
+127.0.0.1 dcci.adsame.com
 127.0.0.1 ads.energy-torrent.com
+127.0.0.1 demo.adsame.com
 127.0.0.1 ads.enliven.com
 127.0.0.1 ads.enrt.eu
+127.0.0.1 eagleasp.adsame.com
 127.0.0.1 ads.environmentalleader.com
+127.0.0.1 easynews.adsame.com
 127.0.0.1 ads.eorezo.com
+127.0.0.1 hnb2c.adsame.com
 127.0.0.1 ads.epi.sk
+127.0.0.1 i.adsame.com
 127.0.0.1 ads.epltalk.com
+127.0.0.1 ifeng.adsame.com
 127.0.0.1 ads.eqads.com
+127.0.0.1 jfdaily.adsame.com
 127.0.0.1 ads.ere.net
+127.0.0.1 jrj.adsame.com
 127.0.0.1 ads.ero-advertising.com
+127.0.0.1 jsmedia.adsame.com
 127.0.0.1 ads.erotism.com
+127.0.0.1 mail.adsame.com
 127.0.0.1 ads.espn.adsonar.com
+127.0.0.1 material.jfdaily.adsame.com
 127.0.0.1 ads.eu.criteo.com
+127.0.0.1 max.adsame.com
 127.0.0.1 ads.eu.e-planning.net
+127.0.0.1 maxsys.adsame.com
+127.0.0.1 ads.eu.msn.com
+127.0.0.1 mix.adsame.com
 127.0.0.1 ads.everadpro.click
+127.0.0.1 oeeee.adsame.com
 127.0.0.1 ads.everesttech.net
+127.0.0.1 panda.adsame.com
 127.0.0.1 ads.evidon.com
+127.0.0.1 preview.adsame.com
 127.0.0.1 ads.evtv1.com
+127.0.0.1 qianlong.adsame.com
 127.0.0.1 ads.exactdrive.com
+127.0.0.1 rayli.adsame.com
 127.0.0.1 ads.exactseek.com
+127.0.0.1 return.adsame.com
 127.0.0.1 ads.exakt24.se
 127.0.0.1 ads.examiner.net
+127.0.0.1 samba.adsame.com
 127.0.0.1 ads.exdynsrv.com
+127.0.0.1 sambaclk.adsame.com
 127.0.0.1 ads.exoclick.com
 127.0.0.1 ads.exosrv.com
+127.0.0.1 sambasys.adsame.com
+127.0.0.1 sammix.adsame.com
 127.0.0.1 ads.expat-blog.biz
+127.0.0.1 samrt.adsame.com
 127.0.0.1 ads.expekt.com
+127.0.0.1 stnn.adsame.com
 127.0.0.1 ads.expekt.se
+127.0.0.1 techweb.iv.adsame.com
 127.0.0.1 ads.facebook.com
+127.0.0.1 uusee.adsame.com
 127.0.0.1 ads.fairfax.com.au
+127.0.0.1 xinhuanet.adsame.com
+127.0.0.1 yaolan.adsame.com
+127.0.0.1 www.adsame.com
 127.0.0.1 ads.fastcomgroup.it
+127.0.0.1 juxiao.adsmogo.net
 127.0.0.1 ads.fasttrack-ignite.com
+127.0.0.1 www.adsmogo.net
 127.0.0.1 ads.fayettevillenc.com
+127.0.0.1 adsmogo.com
 127.0.0.1 ads.feedly.com
+127.0.0.1 click1forhz.adsmogo.com
 127.0.0.1 ads.feelingtouch.com
+127.0.0.1 click2forhz.adsmogo.com
 127.0.0.1 ads.femmefab.nl
+127.0.0.1 click3forhz.adsmogo.com
 127.0.0.1 ads.ferianc.com
+127.0.0.1 my.adsmogo.com
+127.0.0.1 www.adsmogo.com
 127.0.0.1 ads.fiat-bg.org
 127.0.0.1 ads.fileindexer.com
+127.0.0.1 adview.cn
 127.0.0.1 ads.filmup.com
 127.0.0.1 ads.financialcontent.com
 127.0.0.1 ads.fingersoft.net
+127.0.0.1 report.adview.cn
 127.0.0.1 ads.first-response.be
+127.0.0.1 rtb.adview.cn
 127.0.0.1 ads.flashgames247.com
+127.0.0.1 test2014.adview.cn
 127.0.0.1 ads.fling.com
+127.0.0.1 www.adview.cn
 127.0.0.1 ads.flooble.com
 127.0.0.1 ads.floridatoday.com
 127.0.0.1 ads.focus-news.net
 127.0.0.1 ads.fool.com
+127.0.0.1 adtest.adwo.com
 127.0.0.1 ads.footymad.net
+127.0.0.1 ama.adwo.com
 127.0.0.1 ads.fooyoh.com
 127.0.0.1 ads.forbes.net
+127.0.0.1 apiconfig.adwo.com
 127.0.0.1 ads.formit.cz
+127.0.0.1 game.adwo.com
 127.0.0.1 ads.fortunecity.com
+127.0.0.1 mw.adwo.com
 127.0.0.1 ads.fotosidan.se
+127.0.0.1 nhz.adwo.com
 127.0.0.1 ads.fox.com
+127.0.0.1 r2.adwo.com
 127.0.0.1 ads.foxnetworks.com
+127.0.0.1 r3.adwo.com
 127.0.0.1 ads.foxnews.com
+127.0.0.1 sdu.adwo.com
 127.0.0.1 ads.fpt.vn
+127.0.0.1 static.adwo.com
 127.0.0.1 ads.fptplay.net.vn
+127.0.0.1 track.adwo.com
+127.0.0.1 www.adwo.com
 127.0.0.1 ads.fr3.vip.prod.criteo.com
+127.0.0.1 api.domob.cn
 127.0.0.1 ads.fredericksburg.com
+127.0.0.1 domob.cn
 127.0.0.1 ads.freebannertrade.com
+127.0.0.1 domob.com.cn
 127.0.0.1 ads.freecaster.tv
+127.0.0.1 e.domob.cn
+127.0.0.1 s.domob.cn
 127.0.0.1 ads.freeonlinegames.com
+127.0.0.1 sd.domob.cn
 127.0.0.1 ads.freeskreen.com
+127.0.0.1 sm.domob.cn
 127.0.0.1 ads.freshmeat.net
+127.0.0.1 api.doumob.com
 127.0.0.1 ads.friendfinder.com
+127.0.0.1 www.doumob.com
 127.0.0.1 ads.fuckingmachines.com
+127.0.0.1 duomeng.cn
 127.0.0.1 ads.fuelo.net
+127.0.0.1 e.duomeng.org
 127.0.0.1 ads.fulldls.com
+127.0.0.1 guomob.com
 127.0.0.1 ads.fulltiltpoker.com
+127.0.0.1 ads.static.madserving.com
 127.0.0.1 ads.funnelconsultants.com
+127.0.0.1 adv.madserving.com
 127.0.0.1 ads.gamavirtual.com
 127.0.0.1 ads.game.net
+127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 ads.gamecity.net
+127.0.0.1 baofeng.m.cn.miaozhen.com
 127.0.0.1 ads.gamecopyworld.no
+127.0.0.1 cm.cn.miaozhen.com
 127.0.0.1 ads.gamemeca.com
+127.0.0.1 e.cn.miaozhen.com
 127.0.0.1 ads.gameservers.com
+127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 ads.gamespyid.com
+127.0.0.1 g.cn.miaozhen.com
 127.0.0.1 ads.gamigo.de
+127.0.0.1 hunantv.m.cn.miaozhen.com
 127.0.0.1 ads.gaming-universe.de
+127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 ads.gaming1.com
+127.0.0.1 js.miaozhen.com
 127.0.0.1 ads.gamned.com
 127.0.0.1 ads.garga.biz
+127.0.0.1 letv.m.cn.miaozhen.com
 127.0.0.1 ads.gazetaesportiva.net
+127.0.0.1 miaozhen.com
 127.0.0.1 ads.gencgazete.net
+127.0.0.1 msg.cn.miaozhen.com
 127.0.0.1 ads.genericlink.com
+127.0.0.1 sitemonitor.cn.miaozhen.com
 127.0.0.1 ads.genieessp.com
+127.0.0.1 sohutv.m.cn.miaozhen.com
 127.0.0.1 ads.gercekgundem.com
+127.0.0.1 stm-cdn.cn.miaozhen.com
 127.0.0.1 ads.getlucky.com
+127.0.0.1 stm-collect.cn.miaozhen.com
 127.0.0.1 ads.ghettotube.com
+127.0.0.1 survey.miaozhen.com
 127.0.0.1 ads.giaminhmedia.vn
+127.0.0.1 ads.gionee.com
+127.0.0.1 tyaqy.m.cn.miaozhen.com
 127.0.0.1 ads.givemegay.com
+127.0.0.1 tytx.m.cn.miaozhen.com
 127.0.0.1 ads.glasove.com
+127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
 127.0.0.1 ads.gld.dk
 127.0.0.1 ads.glispa.com
+127.0.0.1 yktd.m.cn.miaozhen.com
 127.0.0.1 ads.globescale.com
 127.0.0.1 ads.globo.com
+127.0.0.1 api.exc.mob.com
+127.0.0.1 ads.gmodules.com
+127.0.0.1 api.share.mob.com
 127.0.0.1 ads.go2net.com.ua
+127.0.0.1 api.fd.mob.com
 127.0.0.1 ads.godt.no
+127.0.0.1 c.data.mob.com
 127.0.0.1 ads.gofuckyourself.com
+127.0.0.1 cca.mob.com
 127.0.0.1 ads.gold
+127.0.0.1 devs.data.mob.com
 127.0.0.1 ads.golfweek.com
+127.0.0.1 m.data.mob.com
 127.0.0.1 ads.goodreads.com
+127.0.0.1 api.mobgi.com
+127.0.0.1 mobgi.com
+127.0.0.1 stat.mobgi.com
 127.0.0.1 ads.gorillanation.com
+127.0.0.1 w.ymapp.com
 127.0.0.1 ads.gosu.vn
+127.0.0.1 img-cdn-spot.ymcdn.cn
 127.0.0.1 ads.goyk.com
+127.0.0.1 a.img.static.youmi.net
 127.0.0.1 ads.gplusmedia.com
+127.0.0.1 a1.img.static.youmi.net
 127.0.0.1 ads.gradfinder.com
+127.0.0.1 a2.img.static.youmi.net
+127.0.0.1 a3.img.static.youmi.net
 127.0.0.1 ads.granadamedia.com
+127.0.0.1 cf8d.stat.gw.youmi.net
 127.0.0.1 ads.gravytrainproductions.com
+127.0.0.1 notifiter.youmi.net
 127.0.0.1 ads.greenbaypressgazette.com
 127.0.0.1 ads.greengeeks.com
 127.0.0.1 ads.greenvilleonline.com
+127.0.0.1 static.youmi.net
 127.0.0.1 ads.grindinggears.com
+127.0.0.1 t.youmi.net
+127.0.0.1 youmi.net
 127.0.0.1 ads.groupcommerce.com
+127.0.0.1 www.youmi.net
 127.0.0.1 ads.grupozeta.es
+127.0.0.1 api.youxiaoad.com
 127.0.0.1 ads.gsm-exchange.com
+127.0.0.1 source.youxiaoad.com
 127.0.0.1 ads.gsmexchange.com
+127.0.0.1 ssp.youxiaoad.com
+127.0.0.1 admedia.com
+127.0.0.1 b.admedia.com
+127.0.0.1 g.admedia.com
+127.0.0.1 inline.admedia.com
+127.0.0.1 m.admedia.com
+127.0.0.1 i.l.inmobicdn.net
+127.0.0.1 au.w.inmobi.cn
+127.0.0.1 sdkm.w.inmobi.cn
+127.0.0.1 api.w.inmobi.com
+127.0.0.1 apptv.w.inmobi.com
+127.0.0.1 au.w.inmobi.com
 127.0.0.1 ads.guardian.co.uk
 127.0.0.1 ads.guardianunlimited.co.uk
+127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 ads.gumgum.com
+127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 ads.guru3d.com
+127.0.0.1 config.inmobi.com
 127.0.0.1 ads.h2porn.com
+127.0.0.1 et.w.inmobi.com
 127.0.0.1 ads.haberler.com
 127.0.0.1 ads.harpers.org
+127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 ads.haskovo.net
+127.0.0.1 www.inmobi.com
 127.0.0.1 ads.havenhomemedia.com
 127.0.0.1 ads.hbv.de
 127.0.0.1 ads.he.valueclick.net
@@ -5052,6 +4939,8 @@
 127.0.0.1 ads.hitcents.com
 127.0.0.1 ads.hobyto.com
 127.0.0.1 ads.hogtied.com
+127.0.0.1 adasad.myweb.hinet.net
+127.0.0.1 adcast.deviantart.com
 127.0.0.1 ads.holid.io
 127.0.0.1 ads.hollandsentinel.com
 127.0.0.1 ads.hollywood.com
@@ -5079,6 +4968,7 @@
 127.0.0.1 ads.icq.com
 127.0.0.1 ads.ictnews.vn
 127.0.0.1 ads.identads.com
+127.0.0.1 adfuture.cn
 127.0.0.1 ads.idgworldexpo.com
 127.0.0.1 ads.igfhaber.com
 127.0.0.1 ads.iknowthatgirl.com
@@ -5089,18 +4979,36 @@
 127.0.0.1 ads.imeem.com
 127.0.0.1 ads.img.globo.com
 127.0.0.1 ads.imguol.com
+127.0.0.1 adlaunch.moji.com
 127.0.0.1 ads.imgur.com
 127.0.0.1 ads.imovideo.ru
+127.0.0.1 admd.yam.com
 127.0.0.1 ads.impulsosocial.online
 127.0.0.1 ads.indeed.com
+127.0.0.1 adm.icast.cn
 127.0.0.1 ads.independent.com.mt
 127.0.0.1 ads.indexinfo.org
 127.0.0.1 ads.indiatimes.com
 127.0.0.1 ads.indosatooredoo.com
+127.0.0.1 a.dounanhuahui.com
 127.0.0.1 ads.indya.com
 127.0.0.1 ads.indystar.com
+127.0.0.1 adpublish.ydstatic.com
 127.0.0.1 ads.inegolonline.com
+127.0.0.1 ads1.msads.net
 127.0.0.1 ads.inetgroup.vn
+127.0.0.1 ads1.msn.com
+127.0.0.1 ads2.msads.net
+127.0.0.1 ads2.msn.com
+127.0.0.1 adsco.re
+127.0.0.1 adsence.sogou.com
+127.0.0.1 adserve2.tom.com
+127.0.0.1 adserver.adtech.de
+127.0.0.1 adserver.adtechus.com
+127.0.0.1 adserver.juicyads.com
+127.0.0.1 adserver-us.adtech.advertising.com
+127.0.0.1 adserver.xpanama.net
+127.0.0.1 adserver.yahoo.com
 127.0.0.1 ads.inetinteractive.com
 127.0.0.1 ads.infi.net
 127.0.0.1 ads.infomediainc.com
@@ -5169,24 +5077,43 @@
 127.0.0.1 ads.kyalon.net
 127.0.0.1 ads.lamchame.vn
 127.0.0.1 ads.lanistaads.com
+127.0.0.1 ads.msn.com
 127.0.0.1 ads.laodongbinhduong.org.vn
+127.0.0.1 ads.ninemsn.com.au
 127.0.0.1 ads.laodongnghean.vn
+127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.layer-ad.org
+127.0.0.1 adsp.xunlei.com
 127.0.0.1 ads.leadboltads.net
+127.0.0.1 ads.servebom.com
 127.0.0.1 ads.lemmatechnologies.com
+127.0.0.1 ads.service.kugou.com
 127.0.0.1 ads.leovegas.com
+127.0.0.1 ads.sina.com
 127.0.0.1 ads.lesbianpersonals.com
+127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.lfstmedia.com
+127.0.0.1 adss.yahoo.com
 127.0.0.1 ads.liberte.pl
+127.0.0.1 adsunflower.com
 127.0.0.1 ads.lifdununa.is
+127.0.0.1 ads.waps.cn
+127.0.0.1 ads.wapx.cn
 127.0.0.1 ads.lifethink.net
+127.0.0.1 ads.yahoo.com
 127.0.0.1 ads.link4ads.com
+127.0.0.1 ads.yam.com
 127.0.0.1 ads.linkedin.com
+127.0.0.1 ads.yimg.com
 127.0.0.1 ads.linksrequest.com
+127.0.0.1 adsyndication.msn.com
 127.0.0.1 ads.linktracking.net
+127.0.0.1 ads.youtube.com
 127.0.0.1 ads.linuxjournal.com
 127.0.0.1 ads.listingware.com
+127.0.0.1 adtrack.ucweb.com
 127.0.0.1 ads.live365.com
+127.0.0.1 adui.tg.meitu.com
 127.0.0.1 ads.livenation.com
 127.0.0.1 ads.livepromotools.com
 127.0.0.1 ads.livetvcdn.net
@@ -5211,66 +5138,139 @@
 127.0.0.1 ads.marry.vn
 127.0.0.1 ads.massinfra.nl
 127.0.0.1 ads.matiro.com
+127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 ads.mcafee.com
+127.0.0.1 adx.xiaodutv.com
 127.0.0.1 ads.mdchoice.com
 127.0.0.1 ads.mediaforge.com
 127.0.0.1 ads.mediamayhemcorp.com
 127.0.0.1 ads.mediams.mb.softbank.jp
 127.0.0.1 ads.mediaodyssey.com
 127.0.0.1 ads.mediasmart.es
+127.0.0.1 www.admarket.mobi
 127.0.0.1 ads.mediaturf.net
+127.0.0.1 z.sora.yoyi.com.cn
 127.0.0.1 ads.mediatwo.com
 127.0.0.1 ads.medienhaus.de
+127.0.0.1 03.lzzncm.com
 127.0.0.1 ads.meetcelebs.com
+127.0.0.1 04.lzzncm.com
 127.0.0.1 ads.mefeedia.com
+127.0.0.1 all.cnzz.com.danuoyi.tbcache.com
 127.0.0.1 ads.megaproxy.com
+127.0.0.1 z3.cnzz.com
 127.0.0.1 ads.memob.com
+127.0.0.1 s4.cnzz.com
 127.0.0.1 ads.metblogs.com
+127.0.0.1 ei.cnzz.com
 127.0.0.1 ads.metropolis.co.jp
+127.0.0.1 c.cnzz.com
 127.0.0.1 ads.mgnetwork.com
+127.0.0.1 s13.cnzz.com
 127.0.0.1 ads.miarroba.com
+127.0.0.1 q14.cnzz.com
+127.0.0.1 w.cnzz.com
 127.0.0.1 ads.mic.com
+127.0.0.1 v1.cnzz.com
 127.0.0.1 ads.millionairemate.com
+127.0.0.1 s5.cnzz.com
 127.0.0.1 ads.milliyet.cubecdn.net
+127.0.0.1 s6.cnzz.com
 127.0.0.1 ads.mindsetnetwork.com
+127.0.0.1 s9.cnzz.com
 127.0.0.1 ads.mindviz.com
+127.0.0.1 s22.cnzz.com
 127.0.0.1 ads.minmote.no
+127.0.0.1 s23.cnzz.com
 127.0.0.1 ads.mircx.com
+127.0.0.1 s11.cnzz.com
 127.0.0.1 ads.mixbg.net
+127.0.0.1 s95.cnzz.com
 127.0.0.1 ads.mlive.com
+127.0.0.1 s96.cnzz.com
 127.0.0.1 ads.mm.ap.org
+127.0.0.1 gxbr.cnzz.com
 127.0.0.1 ads.mmania.com
+127.0.0.1 z11.cnzz.com
+127.0.0.1 z13.cnzz.com
+127.0.0.1 z1.cnzz.com
 127.0.0.1 ads.mncmedia.co.kr
+127.0.0.1 z2.cnzz.com
 127.0.0.1 ads.mnemosoft.com
+127.0.0.1 z4.cnzz.com
 127.0.0.1 ads.mobadvent.com
+127.0.0.1 z5.cnzz.com
+127.0.0.1 z6.cnzz.com
+127.0.0.1 z7.cnzz.com
+127.0.0.1 z8.cnzz.com
 127.0.0.1 ads.mobilebet.com
+127.0.0.1 z9.cnzz.com
 127.0.0.1 ads.mobilefuse.net
+127.0.0.1 z10.cnzz.com
 127.0.0.1 ads.mobilemarketer.com
+127.0.0.1 z12.cnzz.com
 127.0.0.1 ads.mobitree.co.kr
+127.0.0.1 zs10.cnzz.com
 127.0.0.1 ads.mobvertising.net
+127.0.0.1 zs11.cnzz.com
 127.0.0.1 ads.mofos.com
+127.0.0.1 zs12.cnzz.com
 127.0.0.1 ads.mondogames.com
+127.0.0.1 zs13.cnzz.com
 127.0.0.1 ads.monetize-me.com
+127.0.0.1 zs14.cnzz.com
+127.0.0.1 zs15.cnzz.com
 127.0.0.1 ads.morningstar.com
+127.0.0.1 zs16.cnzz.com
 127.0.0.1 ads.motorgraph.com
+127.0.0.1 zs1.cnzz.com
 127.0.0.1 ads.motorvarlden.se
+127.0.0.1 zs25.cnzz.com
+127.0.0.1 zs2.cnzz.com
 127.0.0.1 ads.motosiklet.net
+127.0.0.1 zs3.cnzz.com
 127.0.0.1 ads.mouseplanet.com
+127.0.0.1 zs4.cnzz.com
 127.0.0.1 ads.movieweb.com
+127.0.0.1 zs5.cnzz.com
 127.0.0.1 ads.mp3searchy.com
+127.0.0.1 zs6.cnzz.com
+127.0.0.1 zs7.cnzz.com
 127.0.0.1 ads.mrgreen.com
+127.0.0.1 zs8.cnzz.com
+127.0.0.1 zs9.cnzz.com
 127.0.0.1 ads.mrskin.com
+127.0.0.1 zvs1.cnzz.com
+127.0.0.1 zvs2.cnzz.com
+127.0.0.1 hqs1.cnzz.com
 127.0.0.1 ads.mtgroup.kr
+127.0.0.1 hqs4.cnzz.com
 127.0.0.1 ads.mtv.uol.com.br
+127.0.0.1 hqs7.cnzz.com
+127.0.0.1 hqs9.cnzz.com
 127.0.0.1 ads.multimania.lycos.fr
+127.0.0.1 hzs10.cnzz.com
+127.0.0.1 hzs12.cnzz.com
 127.0.0.1 ads.museum.or.jp
+127.0.0.1 hzs13.cnzz.com
+127.0.0.1 hzs14.cnzz.com
 127.0.0.1 ads.muslimehelfen.org
+127.0.0.1 hzs17.cnzz.com
 127.0.0.1 ads.mustangworks.com
+127.0.0.1 hzs23.cnzz.com
+127.0.0.1 hzs2.cnzz.com
 127.0.0.1 ads.mvscoelho.com
+127.0.0.1 hzs3.cnzz.com
+127.0.0.1 hzs5.cnzz.com
+127.0.0.1 hzs7.cnzz.com
 127.0.0.1 ads.myadv.org
+127.0.0.1 hzs8.cnzz.com
 127.0.0.1 ads.mycricket.com
+127.0.0.1 hzs9.cnzz.com
 127.0.0.1 ads.mydas.mobi
+127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 ads.mysimon.com
+127.0.0.1 pcookie.cnzz.com
 127.0.0.1 ads.mytelus.com
 127.0.0.1 ads.nationalreview.com
 127.0.0.1 ads.nationchannel.com
@@ -7686,6 +7686,7 @@
 127.0.0.1 amp-252ceae8.adventuresofhotrodtodd.com
 127.0.0.1 amp-project.pro
 127.0.0.1 ampliaciones.viazonasegura.click
+127.0.0.1 ampliacionesreactiva.solucionesonline.click
 127.0.0.1 ampliacionesreactiva.viaservicezone.click
 127.0.0.1 ampliacionreativaweb.click
 127.0.0.1 amrytt.adk2x.com
@@ -7712,6 +7713,7 @@
 127.0.0.1 analytics-api.klickly.com
 127.0.0.1 analytics-api.liveapp.com
 127.0.0.1 analytics-api.samsunghealthcn.com
+127.0.0.1 analytics-api.sconto.cz
 127.0.0.1 analytics-api.smzdm.com
 127.0.0.1 analytics-api.statvoo.com
 127.0.0.1 analytics-api.vanceai.com
@@ -8929,7 +8931,6 @@
 127.0.0.1 api.33beta.com
 127.0.0.1 api.3650022.com
 127.0.0.1 api.448kbet.com
-127.0.0.1 api.52kkg.com
 127.0.0.1 api.53.localytics.com
 127.0.0.1 api.558kbet.com
 127.0.0.1 api.7017k.com
@@ -9745,6 +9746,7 @@
 127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 author.bloggerads.net
 127.0.0.1 authorizeddear.pro
+127.0.0.1 auto24-pro.com
 127.0.0.1 autoads.asia
 127.0.0.1 autoinsuranceadviser.net
 127.0.0.1 automizely-analytics.com
@@ -9778,6 +9780,7 @@
 127.0.0.1 aware-living.pro
 127.0.0.1 awariadnia.click
 127.0.0.1 awazne-tvn24.adsraja.com
+127.0.0.1 awegold.pro
 127.0.0.1 aws-api.sail-personalize.com
 127.0.0.1 aws-update.net
 127.0.0.1 aws.dsp.madserving.com
@@ -10490,6 +10493,7 @@
 127.0.0.1 business-accounts-supports-pages-ads-development.vercel.app
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 business-verify.pro
+127.0.0.1 business.ads-fanpage-center.com
 127.0.0.1 business.adsverifyrestrictions.com
 127.0.0.1 business.cleverads.vn
 127.0.0.1 businessandtrading.pro
@@ -11451,13 +11455,13 @@
 127.0.0.1 compassionaterough.pro
 127.0.0.1 complete-afternoon.pro
 127.0.0.1 compliance-advisor.com
+127.0.0.1 compliance.advertisinges.com
 127.0.0.1 complimentaryesspathiphyllum.pro
 127.0.0.1 compoqkraj.click
 127.0.0.1 compowapacut.click
 127.0.0.1 con1.ofisls-pro.xyz
 127.0.0.1 concertads-configs.vox-cdn.com
 127.0.0.1 concrete-cabinet.pro
-127.0.0.1 conditionprovice.pro
 127.0.0.1 conf.international.baidu.com
 127.0.0.1 conf.smartnews-ads.com
 127.0.0.1 confe.dc.oppomobile.com
@@ -11480,6 +11484,7 @@
 127.0.0.1 connect.247media.ads.link4ads.com
 127.0.0.1 connect.partner-connect.netapp.com
 127.0.0.1 connect.play.aiseet.atianqi.com
+127.0.0.1 connective-melodized-bdc64d62aaad8d3bdf-d9e5d39cfde32e7a4.pages.dev
 127.0.0.1 cons.ofisls-pro.xyz
 127.0.0.1 considerate-brief.pro
 127.0.0.1 consignes-flash.com
@@ -12116,6 +12121,7 @@
 127.0.0.1 distant-session.pro
 127.0.0.1 distantcorp.click
 127.0.0.1 distorteddead.pro
+127.0.0.1 diva.adsndtrackify.xyz
 127.0.0.1 divavillage.advertserve.com
 127.0.0.1 divisionforeheadsyndromear.pro
 127.0.0.1 divisionmeringueteletypeed.pro
@@ -12208,6 +12214,7 @@
 127.0.0.1 dns.weixin.qq.cn
 127.0.0.1 dns.weixin.qq.com
 127.0.0.1 dns.weixin.qq.com.cn
+127.0.0.1 dnsprolongation.pro
 127.0.0.1 do99.pro
 127.0.0.1 dobrapozycja.click
 127.0.0.1 dobreczyny.click
@@ -12239,6 +12246,7 @@
 127.0.0.1 doikladnakl.click
 127.0.0.1 dokladneczyny.click
 127.0.0.1 doksan-investing.pro
+127.0.0.1 domain.parkages.click
 127.0.0.1 domainadvertising.com
 127.0.0.1 domainpointweb.pro
 127.0.0.1 domenabezpieczestwa.click
@@ -15958,13 +15966,11 @@
 127.0.0.1 mamytylkonas.click
 127.0.0.1 manage.juicyads.com
 127.0.0.1 manageadv.cblogs.eu
-127.0.0.1 management.mannagerss-fanpagee-advertisingg.com
 127.0.0.1 manfonk-invest.pro
 127.0.0.1 mangoads.net
 127.0.0.1 mania-zakupow.click
 127.0.0.1 manifest-server.naiadsystems.com
 127.0.0.1 manipulacjafaktami.click
-127.0.0.1 mannagerss-fanpagee-advertisingg.com
 127.0.0.1 mansionelectronelectron.pro
 127.0.0.1 mantis.autoads.asia
 127.0.0.1 mapkatechniczna.click
@@ -16231,6 +16237,7 @@
 127.0.0.1 mi-de-ner-nis3.info
 127.0.0.1 mi-hack.com
 127.0.0.1 mi-ide.com
+127.0.0.1 mi-ing-actualizar.com
 127.0.0.1 mi-kawaii.com
 127.0.0.1 mi-olx.pl
 127.0.0.1 mi-scotlabank.com
@@ -16280,6 +16287,7 @@
 127.0.0.1 microngroup.pro
 127.0.0.1 microsoft-update.name
 127.0.0.1 microsoftadvertisingdevcenter.112.2o7.net
+127.0.0.1 midpathadvisors.com
 127.0.0.1 midtnadvertising.com
 127.0.0.1 miejscowosci24h.click
 127.0.0.1 miejskibiuletyn.click
@@ -17359,6 +17367,7 @@
 127.0.0.1 olx.ads-public-worlds.shop
 127.0.0.1 olx.dostawa-pl.pro
 127.0.0.1 olx.id-umowa42389.click
+127.0.0.1 olx.online-polaczenie.pro
 127.0.0.1 olx.pay-check.site
 127.0.0.1 olx.pay-info.pro
 127.0.0.1 olx.pl-oferta-iphone-14-pro-max-deep-purple-256-gb.pl
@@ -19355,6 +19364,7 @@
 127.0.0.1 pub-d68ad18c36594a9aa56910da8f439b4a.r2.dev
 127.0.0.1 pub-d6ad1a88c68b4b9b8a220948f53a7589.r2.dev
 127.0.0.1 pub-d6de34ea781b490e874cadc2917d8a8d.r2.dev
+127.0.0.1 pub-d75bb1be9d414347a8fca3ada45e0c35.r2.dev
 127.0.0.1 pub-d8acfad97cad47be8b4d8966ca74ed9a.r2.dev
 127.0.0.1 pub-d94a2ac4aa004ad2a84e79ecfa0116b2.r2.dev
 127.0.0.1 pub-d99482a6cd354defb811ad7877f90aac.r2.dev
@@ -19409,7 +19419,6 @@
 127.0.0.1 pub-ec526bef8b544fe7ade8fe8050bcaf1c.r2.dev
 127.0.0.1 pub-ecade82d8fa74b62b94595b5fe313a86.r2.dev
 127.0.0.1 pub-ecc15af033cf44ad86d1d068ef7b9776.r2.dev
-127.0.0.1 pub-ed1fa1ada35c4907abfcd75f39fc5d76.r2.dev
 127.0.0.1 pub-edc2e6b683e04acead6831298b181ea9.r2.dev
 127.0.0.1 pub-ee3104004adf45ee95fbe7a226c32433.r2.dev
 127.0.0.1 pub-ef47dfdc85ad463a911b6bde06661e80.r2.dev
@@ -19597,7 +19606,6 @@
 127.0.0.1 qowexei8.pro
 127.0.0.1 qqq.ujadw.dns-dynamic.net
 127.0.0.1 qrcodes.pro
-127.0.0.1 qsdkyh-f93eab.ingress-bonde.ewp.live
 127.0.0.1 qskin.pro
 127.0.0.1 qsptv.net
 127.0.0.1 qstore.inner.api.sj.360.cn
@@ -20414,7 +20422,6 @@
 127.0.0.1 scdn.eclick.vn
 127.0.0.1 sceggerthingal.click
 127.0.0.1 scene.vip.xunlei.com
-127.0.0.1 schedule.mannagerss-fanpagee-advertisingg.com
 127.0.0.1 schematposta.click
 127.0.0.1 schematyczne.click
 127.0.0.1 schowanerzeczy.click
@@ -20959,7 +20966,6 @@
 127.0.0.1 skilleadservices.com
 127.0.0.1 skin-navibox.pro
 127.0.0.1 skins-change.pro
-@@||ad.10010.com^
 127.0.0.1 skinschange.pro
 127.0.0.1 skinslike.pro
 127.0.0.1 skintrade.pro
@@ -20970,7 +20976,6 @@
 127.0.0.1 skladwiadomosci.click
 127.0.0.1 sklejam-powieki.click
 127.0.0.1 sklepbliskociebie.click
-@@||ad.abchina.com^
 127.0.0.1 skoknazycie.click
 127.0.0.1 skroconyfakt.click
 127.0.0.1 skrotmyslowy.click
@@ -20989,9 +20994,7 @@
 127.0.0.1 slaxpro.projectprog.click
 127.0.0.1 sledczapomylka.click
 127.0.0.1 sledzeniedowodow.click
-@@||ad.kazakinfo.com^
 127.0.0.1 sledzimykomentarz.click
-@@||ad.ourgame.com^
 127.0.0.1 sledzimyruchy.click
 127.0.0.1 sledztwo24h.click
 127.0.0.1 sledztwoosiedlowe.click
@@ -21019,7 +21022,6 @@
 127.0.0.1 sm-test.groc.press
 127.0.0.1 sm.delltechnologies.com
 127.0.0.1 sm.domobcdn.com
-@@||adcdn.pingan.com^
 127.0.0.1 sm.edweek.org
 127.0.0.1 sm.existltd.com
 127.0.0.1 sm.groc.press
@@ -21134,7 +21136,6 @@
 127.0.0.1 softsmart.mobi
 127.0.0.1 softspace.mobi
 127.0.0.1 softsystem.pro
-127.0.0.1 sogecashnet-pro-appsupport.com
 127.0.0.1 sogo.uc.continuefaf.top
 127.0.0.1 sokmil-ad.com
 127.0.0.1 solads.media
@@ -21142,7 +21143,6 @@
 127.0.0.1 soliads.net
 127.0.0.1 soliads.online
 127.0.0.1 solicitaenlineapersonalonline.loger.click
-127.0.0.1 solicitudagosto.evaluandosite.click
 127.0.0.1 solicitudenlinea.agostoevalua.click
 127.0.0.1 solidnewykonanie.click
 127.0.0.1 soliloquizestandardiseis.pro
@@ -21178,7 +21178,6 @@
 127.0.0.1 soyjak.download
 127.0.0.1 sozipeuwev.pro
 127.0.0.1 sp-api.dable.io
-@@||advert.kf5.com^
 127.0.0.1 sp.advertising.com
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 sp.montgomeryadvertiser.com
@@ -21299,7 +21298,6 @@
 127.0.0.1 sprawypolskie.click
 127.0.0.1 sprawyrozwiazanie.click
 127.0.0.1 spreadsheetsa.top
-127.0.0.1 spreadsheetsb.top
 127.0.0.1 spreadsheetse.top
 127.0.0.1 spreadsheetsf.top
 127.0.0.1 spreadsheetsg.top
@@ -21383,7 +21381,6 @@
 127.0.0.1 st.pay-click.ru
 127.0.0.1 st.yandexadexchange.net
 127.0.0.1 st3.wagbridge.advertisement.tanx.com
-@@||api.ads.tvb.com^
 127.0.0.1 stabilityguardclick.click
 127.0.0.1 stage-uev.ad-stir.com
 127.0.0.1 staging-ads.flurry.com
@@ -21472,7 +21469,6 @@
 127.0.0.1 staticads.btopenworld.com
 127.0.0.1 statics.adanxing.com
 127.0.0.1 stationedforemaned.pro
-@@||app-advertise.zhihuishu.com^
 127.0.0.1 stationedmissioned.pro
 127.0.0.1 stationingchargees.pro
 127.0.0.1 stationingpancakeed.pro
@@ -21767,7 +21763,6 @@
 127.0.0.1 syndromemeringueis.pro
 127.0.0.1 synsads.com
 127.0.0.1 syrupedchargeing.pro
-@@||buyad.bi-xenon.cn^
 127.0.0.1 syrupedpancakeed.pro
 127.0.0.1 syrupingchargees.pro
 127.0.0.1 syrupingforemanes.pro
@@ -21800,7 +21795,6 @@
 127.0.0.1 szkolaalarmuje24h.click
 127.0.0.1 szkolastrachu.click
 127.0.0.1 szkolnemiasteczko.click
-@@||captcha.su.baidu.com^
 127.0.0.1 szkolnepowiadomienie.click
 127.0.0.1 szkolnetragedie.click
 127.0.0.1 szokujacaprawda.click
@@ -21819,7 +21813,6 @@
 127.0.0.1 szummedialny.click
 127.0.0.1 szybka7demka24h7.click
 127.0.0.1 szybkajazda.click
-@@||cbsi.map.fastly.net^
 127.0.0.1 szybkareakcja24h.click
 127.0.0.1 szybkie.click
 127.0.0.1 szybkiedonosy.click
@@ -21847,7 +21840,6 @@
 127.0.0.1 t.smartverify.pro
 127.0.0.1 t.teads.tv
 127.0.0.1 t.teads.tv.edgekey.net
-@@||cdn-msp*.18comic.*^
 127.0.0.1 t.update.fbsbx.com
 127.0.0.1 t0.extreme-dm.com
 127.0.0.1 t1.adserver.com
@@ -22045,6 +22037,7 @@
 127.0.0.1 test.open.ggwpacademy.com
 127.0.0.1 test.surepush.cn
 127.0.0.1 test.vlion.cn
+@@||ad.10010.com^
 127.0.0.1 test2018.adview.cn
 127.0.0.1 test2019.adview.cn
 127.0.0.1 testad.hot-mob.com
@@ -22055,6 +22048,7 @@
 127.0.0.1 text98w.click
 127.0.0.1 textads.biz
 127.0.0.1 textads.madisonavenue.com
+@@||ad.abchina.com^
 127.0.0.1 textads.sexmoney.com
 127.0.0.1 textlink.simba.taobao.com
 127.0.0.1 texto.click
@@ -22074,6 +22068,8 @@
 127.0.0.1 thaliade02.webtrekk.net
 127.0.0.1 thankstart.click
 127.0.0.1 the-bitcoin-rush-pro.financialmarketsworld.com
+@@||ad.kazakinfo.com^
+@@||ad.ourgame.com^
 127.0.0.1 the-dubailifestyle-pro.financialmarketsworld.com
 127.0.0.1 the-ether.pro
 127.0.0.1 the-immediate-advantage.financialmarketsworld.com
@@ -22097,6 +22093,7 @@
 127.0.0.1 thepl-winna.click
 127.0.0.1 theplayadvisor.com
 127.0.0.1 thepopads.com
+@@||adcdn.pingan.com^
 127.0.0.1 thereforetreadvoluntarily.com
 127.0.0.1 thesekid.pro
 127.0.0.1 thevapeadvisor.com
@@ -22264,6 +22261,7 @@
 127.0.0.1 totalplusitypulseway.click
 127.0.0.1 touched35one.pro
 127.0.0.1 tour.affbuzzads.com
+@@||advert.kf5.com^
 127.0.0.1 toutiao.2haha.com
 127.0.0.1 toutiao.jxnews.com.cn
 127.0.0.1 toutiao.social
@@ -22464,6 +22462,7 @@
 127.0.0.1 traffic-media.co
 127.0.0.1 traffic-media.co.uk
 127.0.0.1 traffic-monetizer.com
+@@||api.ads.tvb.com^
 127.0.0.1 traffic-offers.com
 127.0.0.1 traffic-on-steroids.com
 127.0.0.1 traffic-signal-manufacturers.com
@@ -22539,7 +22538,6 @@
 127.0.0.1 training.leadboltads.net
 127.0.0.1 trane-ir-corp-ingersollrand.112.2o7.net
 127.0.0.1 tranquilechoes.click
-127.0.0.1 transferlock.click
 127.0.0.1 transferludnosci.click
 127.0.0.1 transitradar.click
 127.0.0.1 transparent-user-information-ad-a789.netlify.app
@@ -22557,6 +22555,7 @@
 127.0.0.1 trends.mobile.sina.cn
 127.0.0.1 trendyiinspiracje.click
 127.0.0.1 trendyinformacyjne.click
+@@||app-advertise.zhihuishu.com^
 127.0.0.1 trendypotoczne.click
 127.0.0.1 trendyzycia.click
 127.0.0.1 treseemon.click
@@ -22652,6 +22651,7 @@
 127.0.0.1 ttcu-union.actonservice.com
 127.0.0.1 tthathehadstop.info
 127.0.0.1 ttnet.yandex.com.tr
+127.0.0.1 ttp.leelight444ne.dns-dynamic.net
 127.0.0.1 ttplugins.ttpsdk.info
 127.0.0.1 ttt.agrantsem.com
 127.0.0.1 ttt4.agrantsem.com
@@ -22710,6 +22710,7 @@
 127.0.0.1 twemarhosting.click
 127.0.0.1 twemarzone.click
 127.0.0.1 twinadsrv.com
+127.0.0.1 twint-update.info
 127.0.0.1 twistads.com
 127.0.0.1 twitter-circle.com
 127.0.0.1 twitter.cm
@@ -22729,7 +22730,6 @@
 127.0.0.1 tx-kmpaudio.pull.yximgs.com
 127.0.0.1 tx-pro-pull.kwai.net.iberostar.com
 127.0.0.1 tx.xtnew.click
-@@||equifaxps.122.2o7.net^
 127.0.0.1 txfgav.pottex-check.top
 127.0.0.1 txthelj.click
 127.0.0.1 ty.viqiyi.admaster.com.cn
@@ -22832,6 +22832,7 @@
 127.0.0.1 ukladzamkniety.click
 127.0.0.1 ukrytypojazd.click
 127.0.0.1 ukrytyprzekaz.click
+@@||buyad.bi-xenon.cn^
 127.0.0.1 ukrytyswiadek.click
 127.0.0.1 ulekvetch.click
 127.0.0.1 ulgqnhjw86wo.ad-operations-streamline.sbs
@@ -22851,6 +22852,7 @@
 127.0.0.1 umengcloud.com
 127.0.0.1 umid.orion.meizu.com
 127.0.0.1 umownynastroj.click
+@@||captcha.su.baidu.com^
 127.0.0.1 umyslowerozkosze.click
 127.0.0.1 umyslowerozterki.click
 127.0.0.1 unads.ru
@@ -22866,6 +22868,7 @@
 127.0.0.1 unidorlin-invest.pro
 127.0.0.1 unified.adsafeprotected.com
 127.0.0.1 unifiedads.magellanotech.it
+@@||cbsi.map.fastly.net^
 127.0.0.1 unifiedbidding.ad.smaato.net
 127.0.0.1 uniklanyreportarz.click
 127.0.0.1 union-wifi.com
@@ -22893,6 +22896,7 @@
 127.0.0.1 unletstatic.click
 127.0.0.1 unlimited-everywhere-anytime-shows-adventures.com
 127.0.0.1 unlimited-everywhere-shows-adventures.online
+@@||cdn-msp*.18comic.*^
 127.0.0.1 unlockads.com
 127.0.0.1 unluckydead.pro
 127.0.0.1 unmeltsavaged.click
@@ -22976,7 +22980,6 @@
 127.0.0.1 update.stickyadstv.com
 127.0.0.1 update.tas.yieldmo.com
 127.0.0.1 update.tcsg.edu
-127.0.0.1 update.tepcoonline.icu
 127.0.0.1 update.wo.gumgum.com
 127.0.0.1 update.wps.cn
 127.0.0.1 update.wtag.adaptv.advertising.com
@@ -23763,6 +23766,7 @@
 127.0.0.1 wcdn.sdjlbg.xyz
 127.0.0.1 wcdn.vbet88.fun
 127.0.0.1 wct.click
+@@||equifaxps.122.2o7.net^
 127.0.0.1 wd3odvadb7ka3151j4qqbedo.trendhitchhiker.com
 127.0.0.1 wdads.sx.atl.publicus.com
 127.0.0.1 wdata.ero-advertising.com
@@ -24226,7 +24230,6 @@
 127.0.0.1 www.4ur.click
 127.0.0.1 www.501e3ad7.faysgya.shop
 127.0.0.1 www.5e-qixi.pro
-@@||img.ads.tvb.com^
 127.0.0.1 www.637ad964271257ca2a8abfb6cb88c324.puoli.pl
 127.0.0.1 www.69a3ad94244833ee3aec2052ce7bf2b7.puoli.pl
 127.0.0.1 www.6antu5ead1rs.site
@@ -24473,7 +24476,6 @@
 127.0.0.1 www.advertyz.com
 127.0.0.1 www.advisorycouncil.xyz
 127.0.0.1 www.advisoryhub69site.online
-@@||kiplinger.112.2o7.net^
 127.0.0.1 www.advixio.com
 127.0.0.1 www.advocatemy.org
 127.0.0.1 www.advocatenkantoormaastricht.com
@@ -24595,6 +24597,7 @@
 127.0.0.1 www.atluhatwer.click
 127.0.0.1 www.aussieadventuresland.com
 127.0.0.1 www.auth.gamedream.pro
+127.0.0.1 www.auto24-pro.com
 127.0.0.1 www.autoads.asia
 127.0.0.1 www.autoinsuranceadviser.net
 127.0.0.1 www.autornieznany.click
@@ -24618,14 +24621,12 @@
 127.0.0.1 www.backendbadshah.com
 127.0.0.1 www.backwardoflampbookar.pro
 127.0.0.1 www.badalekor-investing.pro
-@@||local.adguard.org^
 127.0.0.1 www.badaniespoleczne.click
 127.0.0.1 www.badb5refl.com
 127.0.0.1 www.badshop.pl
 127.0.0.1 www.badsistems.com
 127.0.0.1 www.badyner-investing.pro
 127.0.0.1 www.badznabierzaco.click
-@@||logging.apache.org^
 127.0.0.1 www.balansartykulu.click
 127.0.0.1 www.baliadventurestour.com
 127.0.0.1 www.ballotpedia.pro
@@ -24680,7 +24681,6 @@
 127.0.0.1 www.bepof.click
 127.0.0.1 www.bepofer.click
 127.0.0.1 www.bepoferas.click
-@@||manwa.me^
 127.0.0.1 www.bepoferep.click
 127.0.0.1 www.bepoferet.click
 127.0.0.1 www.bepofex.click
@@ -24797,7 +24797,6 @@
 127.0.0.1 www.bst.co3mpo1kraj.click
 127.0.0.1 www.bst.la1unch3ush.click
 127.0.0.1 www.bttza.infociebie.click
-@@||metrics.torproject.org^
 127.0.0.1 www.btw.ero-advertising.com
 127.0.0.1 www.budowadrogi.click
 127.0.0.1 www.budowazycia.click
@@ -24932,7 +24931,6 @@
 127.0.0.1 www.cigezeyhye.pro
 127.0.0.1 www.cigurae9.pro
 127.0.0.1 www.cisacadvisory.com
-@@||myqqjd.com^
 127.0.0.1 www.cisco-analytics.com
 127.0.0.1 www.cityads.com
 127.0.0.1 www.clanpasta.click
@@ -24971,6 +24969,7 @@
 127.0.0.1 www.confirmation-info-ad-account-a4.netlify.app
 127.0.0.1 www.connect-hub2fa.pro
 127.0.0.1 www.connect.api.almirall.com
+127.0.0.1 www.connective-melodized-bdc64d62aaad8d3bdf-d9e5d39cfde32e7a4.pages.dev
 127.0.0.1 www.constel-analytics.com
 127.0.0.1 www.consumer-focus.com
 127.0.0.1 www.contextuads.com
@@ -25112,6 +25111,7 @@
 127.0.0.1 www.dismemberment.pro
 127.0.0.1 www.dispatch-360.com
 127.0.0.1 www.distantcorp.click
+127.0.0.1 www.diva.adsndtrackify.xyz
 127.0.0.1 www.divisionforeheadsyndromear.pro
 127.0.0.1 www.divisionmeringueteletypeed.pro
 127.0.0.1 www.divisionstandingaluminumas.pro
@@ -25126,12 +25126,12 @@
 127.0.0.1 www.dmvastj2pgw.click
 127.0.0.1 www.dns-eu-east-32.xyz
 127.0.0.1 www.dns-pl.com
+127.0.0.1 www.dnsprolongation.pro
 127.0.0.1 www.dobrapozycja.click
 127.0.0.1 www.dobreczyny.click
 127.0.0.1 www.dobreprogramy.pro
 127.0.0.1 www.dobreuczynki.click
 127.0.0.1 www.dobroczynni24.click
-@@||optout.rlcdn.com^
 127.0.0.1 www.dobrodziejstwo.click
 127.0.0.1 www.dobrozwycieza.click
 127.0.0.1 www.doceloweinfo.click
@@ -25220,6 +25220,7 @@
 127.0.0.1 www.dpd-pl.platnosc.click
 127.0.0.1 www.dracodoomte.pro
 127.0.0.1 www.dragborninvesting.pro
+@@||img.ads.tvb.com^
 127.0.0.1 www.dralig-investing.pro
 127.0.0.1 www.dramatycznaszosa.click
 127.0.0.1 www.dramatycznedni.click
@@ -25476,6 +25477,7 @@
 127.0.0.1 www.finance-corp.info
 127.0.0.1 www.financialaifuturist.pro
 127.0.0.1 www.find.my-xiaomi.live
+@@||kiplinger.112.2o7.net^
 127.0.0.1 www.findlak-investing.pro
 127.0.0.1 www.findmydevices.click
 127.0.0.1 www.fintechaiinnovator.pro
@@ -25622,12 +25624,14 @@
 127.0.0.1 www.gminnadomena.click
 127.0.0.1 www.gminnanotka.click
 127.0.0.1 www.gminnawiadomosc.click
+@@||local.adguard.org^
 127.0.0.1 www.gminnepogloski.click
 127.0.0.1 www.gminnepotracenia.click
 127.0.0.1 www.gminnewiadomosci.click
 127.0.0.1 www.gminnewypadki.click
 127.0.0.1 www.gminnyinformator.click
 127.0.0.1 www.gminnykurier.click
+@@||logging.apache.org^
 127.0.0.1 www.gminnyportal.click
 127.0.0.1 www.gminnyradca.click
 127.0.0.1 www.gminnytowar.click
@@ -25681,6 +25685,7 @@
 127.0.0.1 www.grudzien-wiado1.website
 127.0.0.1 www.grupawsparcia.click
 127.0.0.1 www.gryfaktow.click
+@@||manwa.me^
 127.0.0.1 www.gsraf.gradspeeches.com
 127.0.0.1 www.gualomomento.click
 127.0.0.1 www.guetploron.pro
@@ -25770,8 +25775,6 @@
 127.0.0.1 www.hosting2086464.online.pro
 127.0.0.1 www.hosting2108230.online.pro
 127.0.0.1 www.hosting2119326.online.pro
-@@||redirect.appmetrica.yandex.com^
-@@||redirect.appmetrica.yandex.net^
 127.0.0.1 www.hosting2120935.online.pro
 127.0.0.1 www.hosting2127385.online.pro
 127.0.0.1 www.hosting2129536.online.pro
@@ -25787,6 +25790,7 @@
 127.0.0.1 www.hosting2234405.online.pro
 127.0.0.1 www.hosting2280850.online.pro
 127.0.0.1 www.hot-mob.com
+@@||metrics.torproject.org^
 127.0.0.1 www.hotbuzzupdates.click
 127.0.0.1 www.hotdogsandads.com
 127.0.0.1 www.hsb-corp.com
@@ -25920,6 +25924,7 @@
 127.0.0.1 www.internationaltaxadvice.com
 127.0.0.1 www.internet-partner.pl
 127.0.0.1 www.internetoglasza.click
+@@||myqqjd.com^
 127.0.0.1 www.internetoweecho.click
 127.0.0.1 www.internetoweinfo24h.click
 127.0.0.1 www.intervalforeheadsyndromees.pro
@@ -26120,6 +26125,7 @@
 127.0.0.1 www.kunsztpodstaw.click
 127.0.0.1 www.kupujzglowa.click
 127.0.0.1 www.kuqaneu4.pro
+@@||optout.rlcdn.com^
 127.0.0.1 www.kusihio.pro
 127.0.0.1 www.kutusieigia.pro
 127.0.0.1 www.kwalifikacja24h.click
@@ -26138,7 +26144,6 @@
 127.0.0.1 www.lanzouz.com
 127.0.0.1 www.larukia.pro
 127.0.0.1 www.lasedyo9.pro
-@@||smartpixel.tv
 127.0.0.1 www.latestheadlines.click
 127.0.0.1 www.latestinstantnews.click
 127.0.0.1 www.latilirom-invest.pro
@@ -26158,7 +26163,6 @@
 127.0.0.1 www.leadsteed.com
 127.0.0.1 www.leafscope.click
 127.0.0.1 www.leatheringwordes.pro
-@@||sobot.com^
 127.0.0.1 www.lebaneseads.com
 127.0.0.1 www.leczumiaroraz.click
 127.0.0.1 www.legumelin.pro
@@ -26360,6 +26364,7 @@
 127.0.0.1 www.mibet.mobi
 127.0.0.1 www.microngroup.pro
 127.0.0.1 www.microsoft-update.name
+127.0.0.1 www.midpathadvisors.com
 127.0.0.1 www.midtnadvertising.com
 127.0.0.1 www.miejscowosci24h.click
 127.0.0.1 www.miejskibiuletyn.click
@@ -26600,7 +26605,6 @@
 127.0.0.1 www.notepad2.com
 127.0.0.1 www.notify-account-locked-fadc5.firebaseapp.com
 127.0.0.1 www.nova5.cadsolutions.org
-@@||track2.royalmail.com^
 127.0.0.1 www.novaonads.com
 127.0.0.1 www.nowaaktualnosc.click
 127.0.0.1 www.nowasytuacja.click
@@ -26732,6 +26736,7 @@
 127.0.0.1 www.olx-pt.mobi
 127.0.0.1 www.olx-zamowienie.pro
 127.0.0.1 www.olx.ads-public-worlds.shop
+127.0.0.1 www.olx.online-polaczenie.pro
 127.0.0.1 www.olx.pay-info.pro
 127.0.0.1 www.olx.pl-offerta.pro
 127.0.0.1 www.olx.pl.dostawa.pro
@@ -26793,10 +26798,11 @@
 127.0.0.1 www.orchestraingsnowyed.pro
 127.0.0.1 www.org-upgrade.com
 127.0.0.1 www.organizacjapomocna.click
-@@||vodafonelimited.tt.omtrdc.net^
 127.0.0.1 www.organizationedclipboarded.pro
 127.0.0.1 www.organizationesclipboarding.pro
 127.0.0.1 www.organizationescockatooes.pro
+@@||redirect.appmetrica.yandex.com^
+@@||redirect.appmetrica.yandex.net^
 127.0.0.1 www.organizationingcockatooes.pro
 127.0.0.1 www.organizationingphysicianes.pro
 127.0.0.1 www.organizationingsnowying.pro
@@ -26821,7 +26827,6 @@
 127.0.0.1 www.osobisterzeczy.click
 127.0.0.1 www.ostatniadroga.click
 127.0.0.1 www.ostatniarzecz.click
-@@||wan.douyu.com^
 127.0.0.1 www.ostatniezyczenie.click
 127.0.0.1 www.ostatnisygnal.click
 127.0.0.1 www.ostrewiadomosci.click
@@ -26857,7 +26862,6 @@
 127.0.0.1 www.parfaitesshouldering.pro
 127.0.0.1 www.parfaitingeverydayed.pro
 127.0.0.1 www.paridakinvest.pro
-@@||webtrack.dhlglobalmail.com^
 127.0.0.1 www.parityclap.click
 127.0.0.1 www.parsads.com
 127.0.0.1 www.parterking.click
@@ -26946,7 +26950,6 @@
 127.0.0.1 www.pleasureesatmosphereing.pro
 127.0.0.1 www.pleasureesgardeniaing.pro
 127.0.0.1 www.pleasureesplanees.pro
-@@||wwwimage-tve.cbsstatic.com^
 127.0.0.1 www.pleasureingplanees.pro
 127.0.0.1 www.pledgerime.click
 127.0.0.1 www.plejada24.online
@@ -27023,7 +27026,6 @@
 127.0.0.1 www.popads.net
 127.0.0.1 www.popadvert.com
 127.0.0.1 www.popularnemedia.click
-@@||yyfweb.postar.cn^
 127.0.0.1 www.porannakolizja.click
 127.0.0.1 www.porannatragedia.click
 127.0.0.1 www.poranneinfo.click
@@ -27203,6 +27205,7 @@
 127.0.0.1 www.program-info.pro
 127.0.0.1 www.programbookbackwardlifees.pro
 127.0.0.1 www.programbooklampdream.pro
+@@||smartpixel.tv
 127.0.0.1 www.programoodkrywczy.click
 127.0.0.1 www.programradiowy.click
 127.0.0.1 www.programtygodnia.click
@@ -27224,6 +27227,7 @@
 127.0.0.1 www.prowdzimydzialania.click
 127.0.0.1 www.prowincjawypadek.click
 127.0.0.1 www.prozazycia.click
+@@||sobot.com^
 127.0.0.1 www.przecietnypolak.click
 127.0.0.1 www.przedstawiamynagranie.click
 127.0.0.1 www.przegladfaktow.click
@@ -27660,6 +27664,7 @@
 127.0.0.1 www.soliloquizestandardiseis.pro
 127.0.0.1 www.solsticesongbird.click
 127.0.0.1 www.somuchproduct.click
+@@||track2.royalmail.com^
 127.0.0.1 www.sondauliczna24h.click
 127.0.0.1 www.sopsorr.click
 127.0.0.1 www.sorind.pro
@@ -27845,6 +27850,7 @@
 127.0.0.1 www.syncquark.click
 127.0.0.1 www.syndication.exdynsrv.com
 127.0.0.1 www.syndromemeringueis.pro
+@@||vodafonelimited.tt.omtrdc.net^
 127.0.0.1 www.syrupedchargeing.pro
 127.0.0.1 www.syrupedpancakeed.pro
 127.0.0.1 www.syrupingchargees.pro
@@ -27872,6 +27878,7 @@
 127.0.0.1 www.szokujacaprawda.click
 127.0.0.1 www.szokujacekomunikaty.click
 127.0.0.1 www.szokujacezdarzenia.click
+@@||wan.douyu.com^
 127.0.0.1 www.szokwypadkowy.click
 127.0.0.1 www.szosamiejska.click
 127.0.0.1 www.sztukadobroci.click
@@ -27907,6 +27914,7 @@
 127.0.0.1 www.tcm.optica.ero-advertising.com
 127.0.0.1 www.teaching-condo-webs.click
 127.0.0.1 www.teamadvertise.info
+@@||webtrack.dhlglobalmail.com^
 127.0.0.1 www.techhandle.click
 127.0.0.1 www.techheadsoftware.net
 127.0.0.1 www.techniczneinfo.click
@@ -27995,6 +28003,7 @@
 127.0.0.1 www.townshipstandingteletypeed.pro
 127.0.0.1 www.tpsdkmw.pl
 127.0.0.1 www.trace-2000.com
+@@||wwwimage-tve.cbsstatic.com^
 127.0.0.1 www.tracenieswiadomosci.click
 127.0.0.1 www.track.adsfast.com
 127.0.0.1 www.trackadsb1.com
@@ -28068,6 +28077,7 @@
 127.0.0.1 www.truejourney.click
 127.0.0.1 www.trunksedhingeed.pro
 127.0.0.1 www.trunksescomparisoned.pro
+@@||yyfweb.postar.cn^
 127.0.0.1 www.trunksingtangentes.pro
 127.0.0.1 www.trustedadviser.co.nz
 127.0.0.1 www.trustedjourney.click
