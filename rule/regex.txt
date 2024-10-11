@@ -1,8 +1,9 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-11 16:17:22
+! Last Modified: 2024-10-12 00:15:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
 directtrack.*.js
 ||107.167.16.*.gif
@@ -112,6 +113,7 @@ directtrack.*.js
 ||log*.aliyuncs.com^
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
+||log*.zijieapi.com^
 ||log-*.previewnetworks.com^
 ||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
@@ -133,6 +135,7 @@ directtrack.*.js
 ||pixel-*.convertagain.net^
 ||pixel-*.rubiconproject.com^
 ||pixelapi-*.cs.mysamba.tv^
+||polaris*-normal-*.zijieapi.com^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||qpb*.sohu.com^
@@ -159,6 +162,7 @@ directtrack.*.js
 ||t*.zcvh.net^
 ||telemetry*.transcend.io^
 ||thezbpe5*.xyz^
+||tnc*.zijieapi.com^
 ||tnc16-*.byteoversea.com^
 ||track.*.roku.com^
 ||tracking*.euroads.fi^
