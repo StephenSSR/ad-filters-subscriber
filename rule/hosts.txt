@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-10-13 00:15:25
+! Last Modified: 2024-10-13 09:06:36
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -1020,7 +1020,6 @@
 127.0.0.1 4171764.fls.doubleclick.net
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 adclick.g.doubleclick.net
-::1             localhost
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
@@ -1651,6 +1650,7 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
+::1             localhost
 110.43.121.13 bigota.d.miui.com
 110.43.121.13 hugeota.d.miui.com
 110.43.121.249 bigota.d.miui.com
