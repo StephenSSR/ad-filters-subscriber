@@ -28,7 +28,9 @@ application:
         path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
       - name: '10007' 
         path: 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all' 
-
+      - name: 'fcm' 
+        path: 'https://raw.githubusercontent.com/entr0pia/fcm-hosts/refs/heads/fcm/fcm-hosts' 
+        
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
     local:
       - name: private
