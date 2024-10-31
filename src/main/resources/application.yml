@@ -34,7 +34,7 @@ application:
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
     local:
       - name: 'private'
-        path: '/rule/private.txt'
+        path: 'rule/private.txt'
 
   #输出配置
   output:
