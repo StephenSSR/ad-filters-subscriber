@@ -26,8 +26,8 @@ application:
         path: 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt' 
       - name: 'AWAvenue' 
         path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
-      - name: '10007' 
-        path: 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all' 
+      #- name: '10007' 
+       # path: 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all' 
       - name: 'fcm' 
         path: 'https://raw.githubusercontent.com/entr0pia/fcm-hosts/refs/heads/fcm/fcm-hosts' 
         
