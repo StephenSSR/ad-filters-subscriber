@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-18 09:07:29
+! Last Modified: 2024-11-18 16:19:03
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -489,6 +489,8 @@
 127.0.0.1 www.qchannel03.cn
 127.0.0.1 www.qchannel04.cn
 127.0.0.1 log.qchannel03.cn
+142.250.141.188     alt2-mtalk.google.com
+108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 d.qchannel03.cn
 127.0.0.1 b.qchannel03.cn
 127.0.0.1 a.qchannel03.cn
@@ -810,6 +812,7 @@
 127.0.0.1 rt.applovin.com
 127.0.0.1 d.applvn.com
 127.0.0.1 telemetry.sdk.inmobi.com
+::1             localhost
 127.0.0.1 ms.applvn.com
 127.0.0.1 rt.applvn.com
 127.0.0.1 api.youngle.tech
@@ -1480,11 +1483,9 @@
 127.0.0.1 t.youmi.net
 127.0.0.1 youmi.net
 127.0.0.1 www.youmi.net
-142.250.141.188     alt2-mtalk.google.com
 127.0.0.1 api.youxiaoad.com
 127.0.0.1 source.youxiaoad.com
 127.0.0.1 ssp.youxiaoad.com
-108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 admedia.com
 127.0.0.1 b.admedia.com
 127.0.0.1 g.admedia.com
@@ -1662,4 +1663,3 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-::1             localhost
