@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-18 00:14:52
+! Last Modified: 2024-11-18 09:07:29
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -515,14 +515,12 @@
 127.0.0.1 fbapi.guguread.com
 127.0.0.1 jrad.jd.com
 127.0.0.1 api.adnet.mob.com
-142.250.141.188     alt2-mtalk.google.com
 127.0.0.1 tracking.ad-survey.com
 127.0.0.1 api1.888zy.cn
 127.0.0.1 open.e.kuaishou.com
 127.0.0.1 sdk.api.oaid.wocloud.cn
 127.0.0.1 i.w.inmobi.cn
 127.0.0.1 sdktm.w.inmobi.cn
-108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 dm.bytedance.com
 127.0.0.1 dm.pstatp.com
 127.0.0.1 sdk.guard.mob.com
@@ -808,7 +806,6 @@
 127.0.0.1 net.rayjump.com
 127.0.0.1 svibeacon.onezapp.com
 127.0.0.1 data.flurry.com
-::1             localhost
 127.0.0.1 ms.applovin.com
 127.0.0.1 rt.applovin.com
 127.0.0.1 d.applvn.com
@@ -1483,9 +1480,11 @@
 127.0.0.1 t.youmi.net
 127.0.0.1 youmi.net
 127.0.0.1 www.youmi.net
+142.250.141.188     alt2-mtalk.google.com
 127.0.0.1 api.youxiaoad.com
 127.0.0.1 source.youxiaoad.com
 127.0.0.1 ssp.youxiaoad.com
+108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 admedia.com
 127.0.0.1 b.admedia.com
 127.0.0.1 g.admedia.com
@@ -1663,3 +1662,4 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
+::1             localhost
