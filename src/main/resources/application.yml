@@ -30,7 +30,11 @@ application:
         path: 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all' 
       - name: 'fcm' 
         path: 'https://raw.githubusercontent.com/entr0pia/fcm-hosts/refs/heads/fcm/fcm-hosts' 
-        
+      - name: 'adaway' 
+        path: 'https://adaway.org/hosts.txt' 
+      - name: 'adguard' #规则名称
+        path: 'https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt' #规则地址
+
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
     local:
       - name: 'private'
