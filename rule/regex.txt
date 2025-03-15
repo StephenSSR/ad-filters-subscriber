@@ -1,11 +1,13 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-03-15 00:16:45
+! Last Modified: 2025-03-15 09:04:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
 directtrack.*.js
+||*bmwmini.tt.omtrdc.net^
+||*bmwofnorthamericallc.tt.omtrdc.net^
 ||107.167.16.*.gif
 ||107.167.22.*.gif
 ||121.204.246.*.gif
@@ -158,6 +160,7 @@ directtrack.*.js
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
 ||qpb*.sohu.com^
+||query*.petametrics.com^
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^
 ||report.*.qq.com^
