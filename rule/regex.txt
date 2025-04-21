@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-04-21 16:19:47
+! Last Modified: 2025-04-22 00:17:22
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||cdn-msp*.18comic*.*^
@@ -39,6 +39,7 @@ directtrack.*.js
 ||analytics.*.sky.com^
 ||analyzer*.fc2.com^
 ||api*.amplitude.com^
+||api*.moengage.com^
 ||api-*.hismarttv.com^
 ||app-analytics-*.snapchat.com^
 ||appanalysis*.banggood.com^
@@ -171,6 +172,7 @@ directtrack.*.js
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||sd.yhzzzs*.com^
+||sdk-*.moengage.com^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
 ||sock*-goguardian.pusher.com^
