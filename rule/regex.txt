@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-04-30 00:18:01
+! Last Modified: 2025-04-30 09:10:40
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||cdn-msp*.18comic*.*^
@@ -210,7 +210,9 @@ directtrack.*.js
 ||ulog*.gifshow.com^
 ||ulog*.kwai-pro.com^
 ||ulog*.kwaipros.com^
-||ulogs*.ksapisrv.com^
+||ulog-*.ksapisrv.com^
+||ulog.*.ksapisrv.com^
+||ulog.*.kwai-pro.com^
 ||union*.365inews.com^
 ||use-trk*.bluevoox.com^
 ||vns86.oss-*.aliyuncs.com^
