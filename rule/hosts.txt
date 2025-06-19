@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-06-19 09:14:54
+! Last Modified: 2025-06-19 16:20:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -302,11 +302,6 @@
 127.0.0.1 union.56.com
 127.0.0.1 v16.56.com
 127.0.0.1 pole.6rooms.com
-142.250.141.188     alt2-mtalk.google.com
-108.177.104.188     alt7-mtalk.google.com
-::1             localhost
-127.0.0.2 localhost
-127.0.0.3 localhost
 127.0.0.1 shrek.6.cn
 127.0.0.1 simba.6.cn
 127.0.0.1 union.6.cn
@@ -1666,6 +1661,8 @@
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
 127.0.0.1  localhost
+142.250.141.188     alt2-mtalk.google.com
+108.177.104.188     alt7-mtalk.google.com
 ::1  localhost
 127.0.0.1 analytics.163.com
 127.0.0.1 crash.163.com
@@ -2157,6 +2154,7 @@
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 unified.adsafeprotected.com
 127.0.0.1 vafw.adsafeprotected.com
+::1             localhost
 127.0.0.1 vapixel.adsafeprotected.com
 127.0.0.1 vast.adsafeprotected.com
 127.0.0.1 video.adsafeprotected.com
@@ -2226,6 +2224,8 @@
 127.0.0.1 v.adsrvr.org
 127.0.0.1 va6-bid.adsrvr.org
 127.0.0.1 vae-bid.adsrvr.org
+127.0.0.2 localhost
+127.0.0.3 localhost
 127.0.0.1 adstune.com
 127.0.0.1 folder.adsunflower.com
 127.0.0.1 rebootv5.adsunflower.com

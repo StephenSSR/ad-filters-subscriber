@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-06-19 09:14:54
+! Last Modified: 2025-06-19 16:20:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -15,11 +15,8 @@
 180.163.150.33      dl.l.google.com
 127.0.0.1 localhost
 ::1 localhost
-||1500020991.vodplayer.wxamedia.com^
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
-||1500022744.vodplayer.wxamedia.com^
 127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
-||1500026601.vodplayer.wxamedia.com^
 127.0.0.1 wxsnsdy.wxs.qq.com #-> 微信
 127.0.0.1 is.snssdk.com
 127.0.0.1 adsmind.gdtimg.com
@@ -39,71 +36,20 @@
 127.0.0.1 rm.gdt.qq.com
 127.0.0.1 nc.gdt.qq.com
 127.0.0.1 vr.gdt.qq.com
-||8le8le.com^
 127.0.0.1 rpt.gdt.qq.com
-||8rn1y79f02-1.algolianet.com^
 127.0.0.1 win.gdt.qq.com
-||a0.app.xiaomi.com^
-||aaid.umeng.com^
 127.0.0.1 ipv4.gdt.qq.com
-||abtest-ch.snssdk.com^
 127.0.0.1 v6ii.gdt.qq.com
-||ad-cdn.qingting.fm^
 127.0.0.1 video.market.xiaomi.com
-||ad-scope.com^
 127.0.0.1 t1.a.market.xiaomi.com
-||ad-scope.com.cn^
 127.0.0.1 t2.a.market.xiaomi.com
-||ad-sdk-config.youdao.com^
 127.0.0.1 t3.a.market.xiaomi.com
-||ad-sdk.huxiu.com^
 127.0.0.1 t4.a.market.xiaomi.com
-||ad-splash-tracking.hktvmall.com^
-||ad-splash.hktvmall.com^
 127.0.0.1 t5.a.market.xiaomi.com
-||ad.12306.cn^
 127.0.0.1 t6.a.market.xiaomi.com
-||ad.51wnl.com^
 127.0.0.1 nav.browser.miui.com
-||ad.api.3g.youku.com^
 127.0.0.1 security.browser.miui.com
-||ad.bwton.com^
 127.0.0.1 api.ad.xiaomi.com
-||ad.cctv.com^
-||ad.cyapi.cn^
-||ad.doubleclick.net^
-||ad.gameley.com^
-||ad.hpplay.cn^
-||ad.partner.gifshow.com^
-||ad.qingting.fm^
-||ad.qq.com^
-||ad.richmob.cn^
-||ad.tencentmusic.com^
-||ad.toutiao.com^
-||ad.v3mh.com^
-||ad.winrar.com.cn^
-||ad.ximalaya.com^
-||ad.zijieapi.com^
-||ad2.ettoday.net^
-||adapi.izuiyou.com^
-||adapi.yynetwk.com^
-||adashbc.ut.taobao.com^
-||adc.hpplay.cn^
-||adcdn.hpplay.cn^
-||adcdn.tencentmusic.com^
-||adclick.g.doubleclick.net^
-||adclick.tencentmusic.com^
-||adcolony.com^
-||addata.jd.com^
-||adeng.hpplay.cn^
-||adexp.chinaliftoff.io^
-||adexp.liftoff.io^
-||adexpo.tencentmusic.com^
-||adfilter.imtt.qq.com^
-||adfstat.yandex.ru^
-||adguanggao.eee114.com^
-||adjust.cn^
-||adjust.com^
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 m.track.ad.xiaomi.com
 127.0.0.1 t.track.ad.xiaomi.com
@@ -170,106 +116,16 @@
 127.0.0.1 noxagile.duapp.com
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 msg.video.qiyi.com
-||adks.hpplay.cn^
 127.0.0.1 msg2.video.qiyi.com
-||adlink-api.huan.tv^
-||adm.funshion.com^
-||ads-api-o.api.leiniao.com^
-||ads-api.tiktok.com^
-||ads-api.twitter.com^
-||ads-img-al.xhscdn.com^
-||ads-img-qc.xhscdn.com^
-||ads-jp.tiktok.com^
-||ads-marketing-vivofs.vivo.com.cn^
-||ads-sdk-api.ranfenghd.com^
-||ads-sg.tiktok.com^
-||ads-video-al.xhscdn.com^
-||ads-video-qc.xhscdn.com^
-||ads.95516.com^
-||ads.flurry.com^
-||ads.google.cn^
-||ads.huan.tv^
-||ads.huantest.com^
-||ads.icloseli.cn^
-||ads.inmobi.com^
-||ads.linkedin.com^
-||ads.music.126.net^
-||ads.pinterest.com^
-||ads.pubmatic.com^
-||ads.raidrive.com^
-||ads.servebom.com^
-||ads.service.kugou.com^
-||ads.tiktok.com^
-||ads.v3mh.com^
-||ads.youtube.com^
-||ads.zhinengxiyifang.cn^
-||ads3-normal-hl.zijieapi.com^
-||ads3-normal-lf.zijieapi.com^
 127.0.0.1 t7z.cupid.ptqy.gitv.tv
-||ads3-normal-lq.zijieapi.com^
 127.0.0.1 g.dtv.cn.miaozhen.com
-||ads3-normal.zijieapi.com^
 127.0.0.1 baiducdncmn.inter.iqiyi.com
-||ads5-normal-hl.zijieapi.com^
 127.0.0.1 msgv6.qy.net
-||ads5-normal-lf.zijieapi.com^
 127.0.0.1 api.ts.feedback.qy.net
-||ads5-normal-lq.zijieapi.com^
 127.0.0.1 puma.api.iqiyi.com
-||ads5-normal.zijieapi.com^
-||adsdk.vivo.com.cn^
 127.0.0.1 puma-api.iqiyi.com
-||adse.test.ximalaya.com^
 127.0.0.1 rd596n.jomodns.com
-||adse.wsa.ximalaya.com^
 127.0.0.1 baiducdncmn-gd.inter.iqiyi.com
-||adse.ximalaya.com^
-||adsebs.ximalaya.com^
-||adsense.google.cn^
-||adserver.unityads.unity3d.com^
-||adservice.google.cn^
-||adservice.google.com^
-||adservice.sigmob.cn^
-||adserviceretry.kugou.com^
-||adsfile.bssdlbig.kugou.com^
-||adsfile.qq.com^
-||adsfilebssdlbig.ali.kugou.com^
-||adsfileretry.service.kugou.com^
-||adsfs-sdkconfig.heytapimage.com^
-||adsfs.oppomobile.com^
-||adslvfile.qq.com^
-||adsmart.konka.com^
-||adsmind.gdtimg.com^
-||adsmind.ugdtimg.com^
-||adsp.xunlei.com^
-||adstats.tencentmusic.com^
-||adstore-1252524079.file.myqcloud.com^
-||adstore-index-1252524079.file.myqcloud.com^
-||adstudio-assets.scdn.co^
-||adstudio.spotify.com^
-||adtago.s3.amazonaws.com^
-||adtech.yahooinc.com^
-||adtrack.quark.cn^
-||adv.fjtv.net^
-||adv.sec.intl.miui.com^
-||adv.sec.miui.com^
-||advertising-api-eu.amazon.com^
-||advertising-api-fe.amazon.com^
-||advertising-api.amazon.com^
-||advertising.apple.com^
-||advertising.yahoo.com^
-||advertising.yandex.ru^
-||advice-ads.s3.amazonaws.com^
-||adview.cn^
-||adx-ad.smart-tv.cn^
-||adx-bj.anythinktech.com^
-||adx-cn.anythinktech.com^
-||adx-drcn.op.dbankcloud.cn^
-||adx-open-service.youku.com^
-||adx-os.anythinktech.com^
-||adx.ads.heytapmobi.com^
-||adx.ads.oppomobile.com^
-||adx.appsdk.com.cn^
 127.0.0.1 bdcdncmn-gd.inter.71edge.com
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
 127.0.0.1 msg.ptqy.gitv.tv
@@ -306,390 +162,129 @@
 127.0.0.1 livec.l.qq.com
 127.0.0.1 livem.l.qq.com
 127.0.0.1 livep.l.qq.com
-||adx.sogaha.cn^
-||adx.tuia.cn^
-||adxlog-adnet.vivo.com.cn^
-||adxserver.ad.cmvideo.cn^
-||aegis.qq.com^
-||afs.googlesyndication.com^
-||agn.aty.sohu.com^
-||aiseet.aa.atianqi.com^
-||ali-ad.a.yximgs.com^
-||ali-p2p-v2.pull.yximgs.com^
-||alog.umeng.com^
-||alogus.umeng.com^
-||als.baidu.com^
-||amdcopen.m.taobao.com^
-||an.facebook.com^
-||analysis.chatglm.cn^
-||analysis.yozocloud.cn^
-||analytics-api.samsunghealthcn.com^
-||analytics.adjust.cn^
-||analytics.pinterest.com^
-||analytics.pointdrive.linkedin.com^
-||analytics.query.yahoo.com^
-||analytics.rayjump.com^
-||analytics.s3.amazonaws.com^
-||analytics.tiktok.com^
-||analytics.woozooo.com^
-||analyticsengine.s3.amazonaws.com^
-||analyze.lemurbrowser.com^
-||android.bugly.qq.com^
-||andrqd.play.aiseet.atianqi.com^
-||ap.dongqiudi.com^
-||apd-pcdnwxlogin.teg.tencent-cloud.net^
-||apd-pcdnwxnat.teg.tencent-cloud.net^
-||apd-pcdnwxstat.teg.tencent-cloud.net^
-||api-access.pangolin-sdk-toutiao.com^
-||api-access.pangolin-sdk-toutiao1.com^
-||api-access.pangolin-sdk-toutiao2.com^
-||api-access.pangolin-sdk-toutiao3.com^
-||api-access.pangolin-sdk-toutiao4.com^
-||api-access.pangolin-sdk-toutiao5.com^
-||api-ad-product.huxiu.com^
-||api-adservices.apple.com^
-||api-gd.hiaiabc.com^
-||api-htp.beizi.biz^
-||api.ad.xiaomi.com^
-||api.e.kuaishou.com^
-||api.fu.xcultur.com^
-||api.htp.hubcloud.com.cn^
-||api.hzsanjiaomao.com^
-||api.installer.xiaomi.com^
-||api.jietuhb.com^
-||api.kingdata.ksyun.com^
-||api.ssp.xcultur.com^
-||api.statsig.com^
-||api.touch-moblie.com^
-||api.yfanads.com^
-||api5-normal-quic-lf.ixigua.com^
-||apiyd.my91app.com^
-||app-measurement.com^
-||appcfg.v.qq.com^
 127.0.0.1 lives.l.qq.com
-||applog.lc.quark.cn^
 127.0.0.1 ls.l.qq.com
-||applog.uc.cn^
-||applog.zijieapi.com^
 127.0.0.1 p2.l.qq.com
-||applovin.com^
 127.0.0.1 p3.l.qq.com
-||applvn.com^
 127.0.0.1 t.l.qq.com
-||appversion.115.com^
 127.0.0.1 vd.l.qq.com
-||aspect-upush.umeng.com^
 127.0.0.1 w.l.qq.com
-||auction.unityads.unity3d.com^
 127.0.0.1 news.l.qq.com
-||audid-api.taobao.com^
 127.0.0.1 mcgi.v.qq.com
-||audid.umeng.com^
 127.0.0.1 soup.v.qq.com
-||b1-data.ads.heytapmobi.com^
 127.0.0.1 bksoup.v.qq.com
-||badjs.weixinbridge.com^
-||baichuan-sdk.alicdn.com^
 127.0.0.1 sohu-dtv.m.cn.miaozhen.com
-||baichuan-sdk.taobao.com^
 127.0.0.1 agn.aty.snmsohu.aisee.tv
-||bdad.123pan.cn^
 127.0.0.1 agn.aty.sohu.com
-||bdapi-ads.realmemobile.com^
 127.0.0.1 f.aty.sohu.com
-||bdapi-in-ads.realmemobile.com^
 127.0.0.1 m.aty.sohu.com
-||bdapi.ads.oppomobile.com^
 127.0.0.1 fmg.aty.sohu.com
-||beacon-api.aliyuncs.com^
 127.0.0.1 mmg.aty.sohu.com
-||beacon.qq.com^
 127.0.0.1 p.aty.sohu.com
-||beaconcdn.qq.com^
-||beacons.gvt2.com^
 127.0.0.1 pg.aty.sohu.com
-||beizi.biz^
 127.0.0.1 pm.aty.sohu.com
-||bes-mtj.baidu.com^
-||bgg.baidu.com^
 127.0.0.1 v.aty.sohu.com
-||bianxian.com^
 127.0.0.1 vg.aty.sohu.com
-||bingads.microsoft.com^
 127.0.0.1 vm.aty.sohu.com
-||bj.ad.track.66mobi.com^
 127.0.0.1 da.mmarket.com
-||books-analytics-events.apple.com^
 127.0.0.1 click.hd.sohu.com.cn
-||browsercfg-drcn.cloud.dbankcloud.cn^
 127.0.0.1 click2.hd.sohu.com
-||bsrv.qq.com^
 127.0.0.1 count.vrs.sohu.com
-||bugly.qq.com^
 127.0.0.1 ctr.hd.sohu.com
-||business-api.tiktok.com^
-||c.bidtoolads.com^
 127.0.0.1 pb.hd.sohu.com.cn
-||c.evidon.com^
 127.0.0.1 pv.hd.sohu.com
-||c.gj.qq.com^
-||c.kuaiduizuoye.com^
 127.0.0.1 vstat.my.tv.sohu.com
-||c.sayhi.360.cn^
-||c2.gdt.qq.com^
 127.0.0.1 vstat.v.blog.sohu.com
-||canvas-cdn.gdt.qq.com^
-||catalog.fjwhcbsh.com^
 127.0.0.1 wl.hd.sohu.com
-||cbjs.baidu.com^
 127.0.0.1 download.wan.sohu.com
-||ccc-x.jd.com^
-||ccs.umeng.com^
 127.0.0.1 g.jssdk.net
-||cctv.adsunion.com^
-||cdn-ad.wtzw.com^
 127.0.0.1 changyan.sohu.com
-||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 127.0.0.1 n.mark.letv.com
-||cdn-f.adsmoloco.com^
 127.0.0.1 static.app.m.letv.com
-||cdn-plugin-sync-upgrade-juui.hismarttv.com^
-||cdn.ad.xiaomi.com^
 127.0.0.1 test.ark.letv.com
-||cdn.aiclk.com^
-||cdn.chinaliftoff-creatives.io^
 127.0.0.1 de.as.cp61.ott.cibntv.net
-||cdn.hpplay.com.cn^
-||cdn.iads.unitychina.cn^
 127.0.0.1 lives.l.cp81.ott.cibntv.net
-||cdn.liftoff-creatives.io^
-||cdn.ynuf.aliapp.org^
-||cfg.imtt.qq.com^
-||chat1.jd.com^
-||chiq-cloud.com^
-||cj.qidian.com^
-||ck.ads.oppomobile.com^
-||click.chinaliftoff.io^
 127.0.0.1 mtrace.play.cp81.ott.cibntv.net
 127.0.0.1 ad.advst.cp33.ott.cibntv.net
 127.0.0.1 sltint.adv.ott.cibntv.net
 127.0.0.1 topapi.cp12.ott.cibntv.net
-||click.googleanalytics.com^
-||click.liftoff.io^
-||click.oneplus.cn^
-||click4.chinaliftoff.io^
-||clog.miguvideo.com^
-||cn-api.anythinktech.com^
-||cnlogs.umeng.com^
 127.0.0.1 ad.video.51togic.com
-||cnlogs.umengcloud.com^
-||cnzz.com^
-||collect.kugou.com^
 127.0.0.1 ssp.cibn.starschina.com
-||commdata.v.qq.com^
-||conf.hpplay.cn^
-||config.chsmarttv.com^
-||config.inmobi.com^
-||config.unityads.unity3d.com^
-||cpc-service-square.aiclk.com^
-||cpro.baidustatic.com^
-||crashlyticsreports-pa.googleapis.com^
-||csjplatform.com^
 127.0.0.1 vpptv.admaster.com.cn
-||cws-cctv.conviva.com^
-||d.applovin.com^
 127.0.0.1 pptv.m.cn.miaozhen.com
-||d.applvn.com^
 127.0.0.1 ads.aplus.pptv.com
-||data-sdk-uuid-log.d.meituan.net^
-||data.ads.oppomobile.com^
 127.0.0.1 app.aplus.pptv.com
-||data.chsmarttv.com^
 127.0.0.1 as.aplus.pptv.com
-||data.mistat.india.xiaomi.com^
 127.0.0.1 de.as.pptv.com
-||data.mistat.rus.xiaomi.com^
-||data.mistat.xiaomi.com^
 127.0.0.1 jp.as.pptv.com
-||datk.anythinktech.com^
 127.0.0.1 static.g.pptv.com
-||dc.sigmob.cn^
-||de.tynt.com^
 127.0.0.1 tj.g.pptv.com
-||diagnosis.ad.xiaomi.com^
 127.0.0.1 ads.data.pplive.com
-||dig.bdurl.net^
-||dl.zuimeitianqi.com^
 127.0.0.1 gas.data.pplive.com
-||dlogs.bwton.com^
-||dm.toutiao.com^
 127.0.0.1 plt.data.pplive.com
-||domain.aishengji.com^
 127.0.0.1 web.data.pplive.com
-||doubleclick-cn.net^
-||download.changhong.upgrade2.huan.tv^
 127.0.0.1 mobile.da.mgtv.com
-||downloadxml.changhong.upgrade2.huan.tv^
 127.0.0.1 mobile2.da.mgtv.com
-||drcn-weather.cloud.huawei.com^
 127.0.0.1 ott.da.mgtv.com
-||dsp-x.jd.com^
-||dsp.fcbox.com^
 127.0.0.1 ott2.da.mgtv.com
-||dualstack-logs.amap.com^
 127.0.0.1 ott3.da.mgtv.com
-||dxp.baidu.com^
-||dyp2p-ali.douyucdn.cn^
 127.0.0.1 ott-v0-al.data.mgtv.com
-||dyp2p-hw.douyucdn.cn^
 127.0.0.1 ott.v1.data.mgtv.com
-||e.ad.xiaomi.com^
-||eclick.baidu.com^
 127.0.0.1 ys.da.mgtv.com
-||edge.ads.twitch.tv^
 127.0.0.1 ynet.da.mgtv.com
-||ef-dongfeng.tanx.com^
-||entry.baidu.com^
 127.0.0.1 pc.da.mgtv.com
-||errlog.umeng.com^
 127.0.0.1 pc1.da.mgtv.com
 127.0.0.1 pcweb-v1.log.mgtv.com
 127.0.0.1 pcweb.v1.mgtv.com
 127.0.0.1 py.da.mgtv.com
 127.0.0.1 v1-play.log.mgtv.com
 127.0.0.1 v2.da.mgtv.com
-||errnewlog.umeng.com^
 127.0.0.1 v2.log.mgtv.com
-||et-eus.w.inmobi.com^
 127.0.0.1 web.da.mgtv.com
-||event.tradplusad.com^
 127.0.0.1 x.da.mgtv.com
-||events-drcn.op.dbankcloud.cn^
 127.0.0.1 y.da.mgtv.com
-||events.reddit.com^
 127.0.0.1 zx.da.mgtv.com
-||events.redditmedia.com^
-||fclog.baidu.com^
 127.0.0.1 apperr.log.mgtv.com
 127.0.0.1 m2.da.mgtv.com
 127.0.0.1 m.da.mgtv.com
-||feed-image.baidu.com^
 127.0.0.1 cws-cctv.conviva.com
-||file.daihuo.qq.com^
 127.0.0.1 galaxy.bjcathay.com
-||firebaselogging-pa.googleapis.com^
 127.0.0.1 rtas.videocc.net
-||flurry.com^
 127.0.0.1 a.cntv.cn
-||frontend-perf-service.e.kuaishou.com^
 127.0.0.1 ad.cctv.com
-||fundingchoicesmessages.google.com^
-||fxgate.baidu.com^
-||g-adnet.hiaiabc.com^
 127.0.0.1 d.cntv.cn
-||g-staic.ganjingworld.com^
 127.0.0.1 adguanggao.eee114.com
-||g.dtv.cn.miaozhen.com^
 127.0.0.1 cctv.adsunion.com
-||g2.ganjing.world^
-||game.loveota.com^
 127.0.0.1 adstore-1252524079.file.myqcloud.com
-||gdfp.gifshow.com^
-||gemini.yahoo.com^
 127.0.0.1 adstore-index-1252524079.file.myqcloud.com
-||geo.yahoo.com^
-||getui.cn^
-||getui.com^
 127.0.0.1 aa0.pub.funshion.com
-||ggx.cmvideo.cn^
 127.0.0.1 aa1.pub.funshion.com
-||ggx01.miguvideo.com^
 127.0.0.1 adm.funshion.com
-||ggx03.miguvideo.com^
 127.0.0.1 conf.funshion.com
-||globalapi.ad.xiaomi.com^
 127.0.0.1 pub.funshion.com
-||google-analytics.com^
 127.0.0.1 vs.funshion.com
-||googleads.g.doubleclick-cn.net^
 127.0.0.1 rt.funshion.net
-||googleads.g.doubleclick.com^
 127.0.0.1 stat.funshion.net
-||googleads.g.doubleclick.net^
 127.0.0.1 fun.adx.admaster.com.cn
-||googleadservices-cn.com^
-||googleadservices.com^
 127.0.0.1 ykad-gateway.youku.com
-||googletagservices-cn.com^
-||gorgon.youdao.com^
-||gromore.pangolin-sdk-toutiao.com^
-||grs.dbankcloud.com^
-||grs.hicloud.com^
-||gslb.hpplay.cn^
 127.0.0.1 ykugc.cp31.ott.cibntv.net.302.myalicdn.com
-||gvideo.qpic.cn^
-||h-adashx.ut.taobao.com^
-||h.trace.qq.com^
 127.0.0.1 vali.cp31.ott.cibntv.net.302.myalicdn.com
-||h5.analytics.126.net^
-||h5.hpplay.com.cn^
 127.0.0.1 youku-dtv.m.cn.miaozhen.com
-||hanlanad.com^
 127.0.0.1 m.atm.youku.com
-||hc-ssp.sm.cn^
 127.0.0.1 ipm.atm.youku.com
-||heads-ak.spotify.com.edgesuite.net^
-||heads-fa.spotify.com^
 127.0.0.1 orange-dc.youku.com
-||hexagon-analytics.com^
 127.0.0.1 youku-acs.m.taobao.com
-||hm.baidu.com^
-||hmma.baidu.com^
 127.0.0.1 video-ad.sm.cn
-||hotupgrade.hpplay.cn^
-||houyi.kkmh.com^
 127.0.0.1 rest.irs01.com
-||hpplay.cdn.cibn.cc^
 127.0.0.1 px.ucweb.com
-||httpdns.bcelive.com^
 127.0.0.1 huichuan.sm.cn
-||httpdns.ocloud.oppomobile.com^
 127.0.0.1 timeserver.cnzz.net
-||hugelog.fcbox.com^
-||huichuan.sm.cn^
 127.0.0.1 val.atm.youku.com
-||hw-ot-ad.a.yximgs.com^
-||hw-p2p-pull.video-voip.com^
-||hw-p2p.pull.yximgs.com^
-||hwpub-s01-drcn.cloud.dbankcloud.cn^
-||hybrid.miniapp.taobao.com^
-||hye.comp.360os.com^
-||hyt.comp.360os.com^
-||i.l-new.inmobicdn.net^
-||i.l.inmobicdn.net^
-||iad.apple.com^
-||iadctest.qwapi.com^
-||iadsdk.apple.com^
-||iadworkbench.apple.com^
-||ifacelog.iqiyi.com^
-||ifs.tanx.com^
-||ii.gdt.qq.com^
-||imag8.pubmatic.com^
-||imag86.pubmatic.com^
-||image-ad.sm.cn^
-||image.hpplay.cn^
 127.0.0.1 ykad-data.youku.com
-||imageplus.baidu.com^
-||images.outbrainimg.com^
 127.0.0.1 yk-ssp.ad.youku.com
-||images.pinduoduo.com^
 127.0.0.1 adashx.ut.youku.com
-||imdns.hpplay.cn^
 127.0.0.1 adx-open-service.youku.com
-||img-c.heytapimage.com^
-||img-x.jd.com^
 127.0.0.1 h-adashx.ut.youku.com
-||img.adnyg.com^
 127.0.0.1 ggx.cmvideo.cn
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 openstorage.ad.cmvideo.cn
@@ -707,11 +302,6 @@
 127.0.0.1 union.56.com
 127.0.0.1 v16.56.com
 127.0.0.1 pole.6rooms.com
-142.250.141.188     alt2-mtalk.google.com
-108.177.104.188     alt7-mtalk.google.com
-::1             localhost
-127.0.0.2 localhost
-127.0.0.3 localhost
 127.0.0.1 shrek.6.cn
 127.0.0.1 simba.6.cn
 127.0.0.1 union.6.cn
@@ -2071,24 +1661,196 @@
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
 127.0.0.1  localhost
+142.250.141.188     alt2-mtalk.google.com
+108.177.104.188     alt7-mtalk.google.com
+||1500020991.vodplayer.wxamedia.com^
+||1500022744.vodplayer.wxamedia.com^
+||1500026601.vodplayer.wxamedia.com^
+||8le8le.com^
+||8rn1y79f02-1.algolianet.com^
+||a0.app.xiaomi.com^
+||aaid.umeng.com^
+||abtest-ch.snssdk.com^
+||ad-cdn.qingting.fm^
+||ad-scope.com^
+||ad-scope.com.cn^
+||ad-sdk-config.youdao.com^
+||ad-sdk.huxiu.com^
+||ad-splash-tracking.hktvmall.com^
+||ad-splash.hktvmall.com^
+||ad.12306.cn^
+||ad.51wnl.com^
+||ad.api.3g.youku.com^
+||ad.bwton.com^
+||ad.cctv.com^
+||ad.cyapi.cn^
+||ad.doubleclick.net^
+||ad.gameley.com^
+||ad.hpplay.cn^
+||ad.partner.gifshow.com^
+||ad.qingting.fm^
+||ad.qq.com^
+||ad.richmob.cn^
+||ad.tencentmusic.com^
+||ad.toutiao.com^
+||ad.v3mh.com^
+||ad.winrar.com.cn^
+||ad.ximalaya.com^
+||ad.zijieapi.com^
+||ad2.ettoday.net^
+||adapi.izuiyou.com^
+||adapi.yynetwk.com^
+||adashbc.ut.taobao.com^
+||adc.hpplay.cn^
+||adcdn.hpplay.cn^
+||adcdn.tencentmusic.com^
+||adclick.g.doubleclick.net^
+||adclick.tencentmusic.com^
+||adcolony.com^
+||addata.jd.com^
+||adeng.hpplay.cn^
+||adexp.chinaliftoff.io^
+||adexp.liftoff.io^
+||adexpo.tencentmusic.com^
+||adfilter.imtt.qq.com^
+||adfstat.yandex.ru^
+||adguanggao.eee114.com^
+||adjust.cn^
+||adjust.com^
+||adks.hpplay.cn^
+||adlink-api.huan.tv^
+||adm.funshion.com^
+||ads-api-o.api.leiniao.com^
+||ads-api.tiktok.com^
+||ads-api.twitter.com^
+||ads-img-al.xhscdn.com^
+||ads-img-qc.xhscdn.com^
+||ads-jp.tiktok.com^
+||ads-marketing-vivofs.vivo.com.cn^
+||ads-sdk-api.ranfenghd.com^
+||ads-sg.tiktok.com^
+||ads-video-al.xhscdn.com^
+||ads-video-qc.xhscdn.com^
+||ads.95516.com^
+||ads.flurry.com^
+||ads.google.cn^
+||ads.huan.tv^
+||ads.huantest.com^
+||ads.icloseli.cn^
+||ads.inmobi.com^
+||ads.linkedin.com^
+||ads.music.126.net^
+||ads.pinterest.com^
+||ads.pubmatic.com^
+||ads.raidrive.com^
+||ads.servebom.com^
+||ads.service.kugou.com^
+||ads.tiktok.com^
+||ads.v3mh.com^
+||ads.youtube.com^
+||ads.zhinengxiyifang.cn^
+||ads3-normal-hl.zijieapi.com^
+||ads3-normal-lf.zijieapi.com^
+||ads3-normal-lq.zijieapi.com^
+||ads3-normal.zijieapi.com^
+||ads5-normal-hl.zijieapi.com^
+||ads5-normal-lf.zijieapi.com^
+||ads5-normal-lq.zijieapi.com^
+||ads5-normal.zijieapi.com^
+||adsdk.vivo.com.cn^
+||adse.test.ximalaya.com^
+||adse.wsa.ximalaya.com^
+||adse.ximalaya.com^
+||adsebs.ximalaya.com^
+||adsense.google.cn^
+||adserver.unityads.unity3d.com^
+||adservice.google.cn^
+||adservice.google.com^
+||adservice.sigmob.cn^
+||adserviceretry.kugou.com^
+||adsfile.bssdlbig.kugou.com^
+||adsfile.qq.com^
+||adsfilebssdlbig.ali.kugou.com^
+||adsfileretry.service.kugou.com^
+||adsfs-sdkconfig.heytapimage.com^
+||adsfs.oppomobile.com^
+||adslvfile.qq.com^
+||adsmart.konka.com^
+||adsmind.gdtimg.com^
+||adsmind.ugdtimg.com^
+||adsp.xunlei.com^
+||adstats.tencentmusic.com^
+||adstore-1252524079.file.myqcloud.com^
+||adstore-index-1252524079.file.myqcloud.com^
+||adstudio-assets.scdn.co^
+||adstudio.spotify.com^
+||adtago.s3.amazonaws.com^
+||adtech.yahooinc.com^
+||adtrack.quark.cn^
+||adv.fjtv.net^
+||adv.sec.intl.miui.com^
+||adv.sec.miui.com^
+||advertising-api-eu.amazon.com^
+||advertising-api-fe.amazon.com^
+||advertising-api.amazon.com^
+||advertising.apple.com^
+||advertising.yahoo.com^
+||advertising.yandex.ru^
+||advice-ads.s3.amazonaws.com^
+||adview.cn^
+||adx-ad.smart-tv.cn^
+||adx-bj.anythinktech.com^
+||adx-cn.anythinktech.com^
+||adx-drcn.op.dbankcloud.cn^
+||adx-open-service.youku.com^
+||adx-os.anythinktech.com^
+||adx.ads.heytapmobi.com^
 ::1  localhost
+||adx.ads.oppomobile.com^
+||adx.appsdk.com.cn^
+||adx.sogaha.cn^
 127.0.0.1 analytics.163.com
+||adx.tuia.cn^
 127.0.0.1 crash.163.com
+||adxlog-adnet.vivo.com.cn^
+||adxserver.ad.cmvideo.cn^
 127.0.0.1 iad.g.163.com
+||aegis.qq.com^
 127.0.0.1 api4.1mobile.com
+||afs.googlesyndication.com^
 127.0.0.1 sync.1rx.io
+||agn.aty.sohu.com^
 127.0.0.1 tag.1rx.io
+||aiseet.aa.atianqi.com^
+||ali-ad.a.yximgs.com^
 127.0.0.1 s.206ads.com
+||ali-p2p-v2.pull.yximgs.com^
+||alog.umeng.com^
 127.0.0.1 api.247-inc.net
+||alogus.umeng.com^
 127.0.0.1 tie.247-inc.net
+||als.baidu.com^
 127.0.0.1 247realmedia.com
+||amdcopen.m.taobao.com^
+||an.facebook.com^
+||analysis.chatglm.cn^
+||analysis.yozocloud.cn^
 127.0.0.1 cms-xch-chicago.33across.com
 127.0.0.1 ssc.33across.com
+||analytics-api.samsunghealthcn.com^
+||analytics.adjust.cn^
 127.0.0.1 ssc-cms.33across.com
+||analytics.pinterest.com^
 127.0.0.1 360in.com
+||analytics.pointdrive.linkedin.com^
 127.0.0.1 ad.360in.com
+||analytics.query.yahoo.com^
+||analytics.rayjump.com^
 127.0.0.1 challenge.360in.com
+||analytics.s3.amazonaws.com^
 127.0.0.1 dispatcher.360in.com
+||analytics.tiktok.com^
+||analytics.woozooo.com^
 127.0.0.1 exp.360in.com
 127.0.0.1 ad.360yield.com
 127.0.0.1 3gl.net
@@ -2109,254 +1871,498 @@
 127.0.0.1 s.update.3lift.com
 127.0.0.1 us-east-tlx.3lift.com
 127.0.0.1 us-west-tlx.3lift.com
+||analyticsengine.s3.amazonaws.com^
 127.0.0.1 404mobi.com
+||analyze.lemurbrowser.com^
 127.0.0.1 c.4dex.io
+||android.bugly.qq.com^
 127.0.0.1 script.4dex.io
+||andrqd.play.aiseet.atianqi.com^
 127.0.0.1 4dsply.com
+||ap.dongqiudi.com^
 127.0.0.1 4seeresults.com
+||apd-pcdnwxlogin.teg.tencent-cloud.net^
 127.0.0.1 controller.4seeresults.com
+||apd-pcdnwxnat.teg.tencent-cloud.net^
 127.0.0.1 device.4seeresults.com
+||apd-pcdnwxstat.teg.tencent-cloud.net^
 127.0.0.1 replaycontroller.4seeresults.com
+||api-access.pangolin-sdk-toutiao.com^
 127.0.0.1 51ginkgo.com
+||api-access.pangolin-sdk-toutiao1.com^
 127.0.0.1 logs.81plug.com
+||api-access.pangolin-sdk-toutiao2.com^
 127.0.0.1 cdn.88-f.net
+||api-access.pangolin-sdk-toutiao3.com^
 127.0.0.1 config.88-f.net
+||api-access.pangolin-sdk-toutiao4.com^
 127.0.0.1 rlog.9gag.com
+||api-access.pangolin-sdk-toutiao5.com^
 127.0.0.1 ad.a-ads.com
+||api-ad-product.huxiu.com^
 127.0.0.1 click.a-ads.com
+||api-adservices.apple.com^
+||api-gd.hiaiabc.com^
+||api-htp.beizi.biz^
+||api.ad.xiaomi.com^
+||api.e.kuaishou.com^
+||api.fu.xcultur.com^
+||api.htp.hubcloud.com.cn^
 127.0.0.1 static.a-ads.com
+||api.hzsanjiaomao.com^
+||api.installer.xiaomi.com^
 127.0.0.1 fl.a.ki
+||api.jietuhb.com^
+||api.kingdata.ksyun.com^
+||api.ssp.xcultur.com^
 127.0.0.1 prod.cm.publishers.advertising.a2z.com
+||api.statsig.com^
+||api.touch-moblie.com^
 127.0.0.1 notify.bugsnag.appstore.a2z.com
+||api.yfanads.com^
 127.0.0.1 analytics.console.aws.a2z.com
+||api5-normal-quic-lf.ixigua.com^
+||apiyd.my91app.com^
 127.0.0.1 pr.analytics.console.aws.a2z.com
+||app-measurement.com^
+||appcfg.v.qq.com^
 127.0.0.1 prod.pr.analytics.console.aws.a2z.com
+||applog.lc.quark.cn^
+||applog.uc.cn^
 127.0.0.1 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
+||applog.zijieapi.com^
+||applovin.com^
+||applvn.com^
 127.0.0.1 us-east-1.prod.pr.analytics.console.aws.a2z.com
+||appversion.115.com^
 127.0.0.1 us-east-2.prod.pr.analytics.console.aws.a2z.com
+||aspect-upush.umeng.com^
+||auction.unityads.unity3d.com^
 127.0.0.1 us-west-2.prod.pr.analytics.console.aws.a2z.com
+||audid-api.taobao.com^
 127.0.0.1 pw.analytics.console.aws.a2z.com
+||audid.umeng.com^
+||b1-data.ads.heytapmobi.com^
 127.0.0.1 prod.pw.analytics.console.aws.a2z.com
+||badjs.weixinbridge.com^
 127.0.0.1 metrics.client-eng.a2z.com
+||baichuan-sdk.alicdn.com^
+||baichuan-sdk.taobao.com^
 127.0.0.1 global.telemetry.insights.video.a2z.com
+||bdad.123pan.cn^
 127.0.0.1 segment.a3cloud.net
+||bdapi-ads.realmemobile.com^
 127.0.0.1 a8.net
+||bdapi-in-ads.realmemobile.com^
 127.0.0.1 smetrics.aa.com
+||bdapi.ads.oppomobile.com^
 127.0.0.1 aamapi.com
+||beacon-api.aliyuncs.com^
+||beacon.qq.com^
 127.0.0.1 aamcf.aamsitecertifier.com
+||beaconcdn.qq.com^
 127.0.0.1 adx-asia.aarki.net
+||beacons.gvt2.com^
 127.0.0.1 adx-asia-imp.aarki.net
+||beizi.biz^
+||bes-mtj.baidu.com^
 127.0.0.1 adx-west-imp.aarki.net
+||bgg.baidu.com^
+||bianxian.com^
 127.0.0.1 chartboost-imp.aarki.net
+||bingads.microsoft.com^
 127.0.0.1 rm.aarki.net
+||bj.ad.track.66mobi.com^
 127.0.0.1 rm-hk.aarki.net
+||books-analytics-events.apple.com^
 127.0.0.1 spire.aarki.net
 127.0.0.1 unity-imp.aarki.net
+||browsercfg-drcn.cloud.dbankcloud.cn^
+||bsrv.qq.com^
 127.0.0.1 lb.aatkit.com
+||bugly.qq.com^
 127.0.0.1 reporting.aatkit.com
+||business-api.tiktok.com^
 127.0.0.1 rules.aatkit.com
+||c.bidtoolads.com^
 127.0.0.1 rules2.aatkit.com
+||c.evidon.com^
+||c.gj.qq.com^
 127.0.0.1 rules3.aatkit.com
+||c.kuaiduizuoye.com^
 127.0.0.1 tracking.aatkit.com
+||c.sayhi.360.cn^
+||c2.gdt.qq.com^
 127.0.0.1 c.aaxads.com
+||canvas-cdn.gdt.qq.com^
 127.0.0.1 assets.abbi.io
+||catalog.fjwhcbsh.com^
 127.0.0.1 rtapi.abbi.io
+||cbjs.baidu.com^
+||ccc-x.jd.com^
 127.0.0.1 stats.abbi.io
+||ccs.umeng.com^
+||cctv.adsunion.com^
 127.0.0.1 sw88.abc.com
+||cdn-ad.wtzw.com^
 127.0.0.1 ariane.abtasty.com
+||cdn-ads.oss-cn-shanghai.aliyuncs.com^
+||cdn-f.adsmoloco.com^
 127.0.0.1 dcinfos-cache.abtasty.com
+||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 127.0.0.1 sr-tag.abtasty.com
+||cdn.ad.xiaomi.com^
 127.0.0.1 pingapi.accengage.com
+||cdn.aiclk.com^
 127.0.0.1 daraz-by.accengage.net
+||cdn.chinaliftoff-creatives.io^
 127.0.0.1 static.accesstrade.vn
+||cdn.hpplay.com.cn^
 127.0.0.1 tags.acmeaom.com
+||cdn.iads.unitychina.cn^
 127.0.0.1 activemetering.com
+||cdn.liftoff-creatives.io^
+||cdn.ynuf.aliapp.org^
 127.0.0.1 track.activemetering.com
+||cfg.imtt.qq.com^
 127.0.0.1 ums.acuityplatform.com
+||chat1.jd.com^
+||chiq-cloud.com^
 127.0.0.1 config.ad-brix.com
+||cj.qidian.com^
+||ck.ads.oppomobile.com^
+||click.chinaliftoff.io^
+||click.googleanalytics.com^
+||click.liftoff.io^
 127.0.0.1 data.ad-score.com
+||click.oneplus.cn^
+||click4.chinaliftoff.io^
 127.0.0.1 data2.ad-score.com
+||clog.miguvideo.com^
 127.0.0.1 js2.ad-score.com
+||cn-api.anythinktech.com^
 127.0.0.1 rdr.ad-score.com
+||cnlogs.umeng.com^
 127.0.0.1 rt.ad-score.com
+||cnlogs.umengcloud.com^
 127.0.0.1 c.ad-srv.co
+||cnzz.com^
+||collect.kugou.com^
 127.0.0.1 ad-stir.com
+||commdata.v.qq.com^
 127.0.0.1 bypass.ad-stir.com
+||conf.hpplay.cn^
 127.0.0.1 js.ad-stir.com
+||config.chsmarttv.com^
 127.0.0.1 sync.ad-stir.com
+||config.inmobi.com^
 127.0.0.1 tr.ad-stir.com
+||config.unityads.unity3d.com^
 127.0.0.1 ad-x.co.uk
+||cpc-service-square.aiclk.com^
 127.0.0.1 apps.ad-x.co.uk
+||cpro.baidustatic.com^
 127.0.0.1 a.ad.gt
+||crashlyticsreports-pa.googleapis.com^
 127.0.0.1 ids.ad.gt
+||csjplatform.com^
 127.0.0.1 p.ad.gt
+||cws-cctv.conviva.com^
 127.0.0.1 pixels.ad.gt
+||d.applovin.com^
 127.0.0.1 seg.ad.gt
+||d.applvn.com^
 127.0.0.1 ad.org.vn
+||data-sdk-uuid-log.d.meituan.net^
 127.0.0.1 serving.ad.org.vn
+||data.ads.oppomobile.com^
+||data.chsmarttv.com^
 127.0.0.1 adlogs.ad2iction.com
+||data.mistat.india.xiaomi.com^
 127.0.0.1 ads.ad2iction.com
+||data.mistat.rus.xiaomi.com^
+||data.mistat.xiaomi.com^
 127.0.0.1 content.ad2iction.com
+||datk.anythinktech.com^
+||dc.sigmob.cn^
 127.0.0.1 ads.ad4game.com
+||de.tynt.com^
+||diagnosis.ad.xiaomi.com^
 127.0.0.1 ad6media.fr
+||dig.bdurl.net^
+||dl.zuimeitianqi.com^
+||dlogs.bwton.com^
+||dm.toutiao.com^
+||domain.aishengji.com^
+||doubleclick-cn.net^
+||download.changhong.upgrade2.huan.tv^
+||downloadxml.changhong.upgrade2.huan.tv^
+||drcn-weather.cloud.huawei.com^
+||dsp-x.jd.com^
+||dsp.fcbox.com^
+||dualstack-logs.amap.com^
+||dxp.baidu.com^
+||dyp2p-ali.douyucdn.cn^
+||dyp2p-hw.douyucdn.cn^
 127.0.0.1 ad.adacado.com
+||e.ad.xiaomi.com^
+||eclick.baidu.com^
 127.0.0.1 content.adacado.com
+||edge.ads.twitch.tv^
+||ef-dongfeng.tanx.com^
 127.0.0.1 info.adacado.com
+||entry.baidu.com^
 127.0.0.1 pixel.adacado.com
+||errlog.umeng.com^
 127.0.0.1 strtrk.adacado.com
+||errnewlog.umeng.com^
+||et-eus.w.inmobi.com^
+||event.tradplusad.com^
+||events-drcn.op.dbankcloud.cn^
+||events.reddit.com^
+||events.redditmedia.com^
+||fclog.baidu.com^
+||feed-image.baidu.com^
+||file.daihuo.qq.com^
+||firebaselogging-pa.googleapis.com^
+||flurry.com^
+||frontend-perf-service.e.kuaishou.com^
+||fundingchoicesmessages.google.com^
+||fxgate.baidu.com^
+||g-adnet.hiaiabc.com^
+||g-staic.ganjingworld.com^
+||g.dtv.cn.miaozhen.com^
+||g2.ganjing.world^
+||game.loveota.com^
+||gdfp.gifshow.com^
+||gemini.yahoo.com^
+||geo.yahoo.com^
+||getui.cn^
+||getui.com^
+||ggx.cmvideo.cn^
+||ggx01.miguvideo.com^
+||ggx03.miguvideo.com^
+||globalapi.ad.xiaomi.com^
+||google-analytics.com^
+||googleads.g.doubleclick-cn.net^
+||googleads.g.doubleclick.com^
+||googleads.g.doubleclick.net^
+||googleadservices-cn.com^
+||googleadservices.com^
+||googletagservices-cn.com^
+||gorgon.youdao.com^
+||gromore.pangolin-sdk-toutiao.com^
+||grs.dbankcloud.com^
+||grs.hicloud.com^
+||gslb.hpplay.cn^
+||gvideo.qpic.cn^
+||h-adashx.ut.taobao.com^
+||h.trace.qq.com^
+||h5.analytics.126.net^
+||h5.hpplay.com.cn^
+||hanlanad.com^
+||hc-ssp.sm.cn^
+||heads-ak.spotify.com.edgesuite.net^
 127.0.0.1 ec.adadapted.com
+||heads-fa.spotify.com^
+||hexagon-analytics.com^
+||hm.baidu.com^
 127.0.0.1 images.adadapted.com
+||hmma.baidu.com^
 127.0.0.1 payload.adadapted.com
+||hotupgrade.hpplay.cn^
+||houyi.kkmh.com^
 127.0.0.1 aqt.adalliance.io
+||hpplay.cdn.cibn.cc^
 127.0.0.1 mafo.adalliance.io
-||img.adnyg.com.w.kunlungr.com^
+||httpdns.bcelive.com^
 127.0.0.1 tracking.adalyser.com
-||impression-asia.chinaliftoff.io^
+||httpdns.ocloud.oppomobile.com^
 127.0.0.1 adap.tv
-||impression-asia.liftoff.io^
+||hugelog.fcbox.com^
+||huichuan.sm.cn^
 127.0.0.1 segments.adap.tv
-||impression.appsflyer.com^
+||hw-ot-ad.a.yximgs.com^
 127.0.0.1 sync.adap.tv
-||in.treasuredata.com^
+||hw-p2p-pull.video-voip.com^
 127.0.0.1 adapex.io
-||iot-eu-logser.realme.com^
+||hw-p2p.pull.yximgs.com^
 127.0.0.1 cdn.adapex.io
-||iot-logser.realme.com^
+||hwpub-s01-drcn.cloud.dbankcloud.cn^
 127.0.0.1 adasiaholdings.com
-||ipv4.kkmh.com^
-||irc.qubiankeji.com^
+||hybrid.miniapp.taobao.com^
 127.0.0.1 adnetwork.adasiaholdings.com
-||itv2-up.openspeech.cn^
+||hye.comp.360os.com^
 127.0.0.1 adblade.com
-||ixav-cse.avlyun.com^
+||hyt.comp.360os.com^
+||i.l-new.inmobicdn.net^
 127.0.0.1 dmp.adblade.com
-||iyfbodn.com^
-||janapi.jd.com^
+||i.l.inmobicdn.net^
 127.0.0.1 pixel.adblade.com
-||jiguang.cn^
+||iad.apple.com^
 127.0.0.1 static-cdn.adblade.com
-||jpush.cn^
+||iadctest.qwapi.com^
 127.0.0.1 adbro.me
-||jpush.html5.qq.com^
-||jpush.io^
+||iadsdk.apple.com^
 127.0.0.1 apis.adbro.me
+||iadworkbench.apple.com^
 127.0.0.1 cdn.adbro.me
-||jswebcollects.kugou.com^
-||kde.qq.com^
-||kepler.jd.com^
+||ifacelog.iqiyi.com^
+||ifs.tanx.com^
 127.0.0.1 api.adcalls.nl
-||kl.67it.com^
+||ii.gdt.qq.com^
 127.0.0.1 cdn1.adcdnx.com
-||klink.volceapplog.com^
+||imag8.pubmatic.com^
+||imag86.pubmatic.com^
 127.0.0.1 rtb.adcel.co
-||knicks.jd.com^
+||image-ad.sm.cn^
 127.0.0.1 t.adcell.com
-||ks-p2p-v2.pull.yximgs.com^
+||image.hpplay.cn^
 127.0.0.1 adcolony.com
-||ks-p2p.pull.yximgs.com^
 127.0.0.1 adc3-assets.adcolony.com
-||ks.ferlytc.com^
-||ks.pull.yximgs.com^
-||launcher.smart-tv.cn^
 127.0.0.1 ads30.adcolony.com
-||launcherimg.smart-tv.cn^
+||imageplus.baidu.com^
 127.0.0.1 androidads20.adcolony.com
-||lf3-ad-union-sdk.pglstatp-toutiao.com^
+||images.outbrainimg.com^
 127.0.0.1 androidads21.adcolony.com
+||images.pinduoduo.com^
 127.0.0.1 androidads23.adcolony.com
+||imdns.hpplay.cn^
 127.0.0.1 androidads4-3.adcolony.com
 127.0.0.1 androidads4-5.adcolony.com
 127.0.0.1 androidads4-7.adcolony.com
+||img-c.heytapimage.com^
+||img-x.jd.com^
 127.0.0.1 androidads4-8.adcolony.com
+||img.adnyg.com^
 127.0.0.1 c4d-cdn.adcolony.com
+||img.adnyg.com.w.kunlungr.com^
 127.0.0.1 c4dm.adcolony.com
+||impression-asia.chinaliftoff.io^
 127.0.0.1 cpa.adcolony.com
+||impression-asia.liftoff.io^
 127.0.0.1 events3.adcolony.com
+||impression.appsflyer.com^
 127.0.0.1 events3alt.adcolony.com
+||in.treasuredata.com^
+||iot-eu-logser.realme.com^
 127.0.0.1 iosads24.adcolony.com
+||iot-logser.realme.com^
 127.0.0.1 rtb.adcolony.com
+||ipv4.kkmh.com^
+||irc.qubiankeji.com^
+||itv2-up.openspeech.cn^
 127.0.0.1 adsinter1.addealsnetwork.com
+||ixav-cse.avlyun.com^
 127.0.0.1 adsvideo1.addealsnetwork.com
+||iyfbodn.com^
+||janapi.jd.com^
 127.0.0.1 trk-int.addealsnetwork.com
+||jiguang.cn^
+||jpush.cn^
 127.0.0.1 api.addthis.com
+||jpush.html5.qq.com^
+||jpush.io^
 127.0.0.1 api-public.addthis.com
+||jswebcollects.kugou.com^
 127.0.0.1 cw.addthis.com
+||kde.qq.com^
 127.0.0.1 dlx.addthis.com
+||kepler.jd.com^
+||kl.67it.com^
 127.0.0.1 e.dlx.addthis.com
-||lf6-ad-union-sdk.pglstatp-toutiao.com^
+||klink.volceapplog.com^
 127.0.0.1 m.dlx.addthis.com
-||lh3.googleadsserving.cn^
+||knicks.jd.com^
 127.0.0.1 p.dlx.addthis.com
-||litchiads.com^
+||ks-p2p-v2.pull.yximgs.com^
 127.0.0.1 x.dlx.addthis.com
-||live-api.hktvmall.com^
+||ks-p2p.pull.yximgs.com^
+||ks.ferlytc.com^
 127.0.0.1 edge.addthis.com
-||liveats-vod.video.ptqy.gitv.tv^
+||ks.pull.yximgs.com^
 127.0.0.1 m.addthis.com
-||livemonitor.huan.tv^
+||launcher.smart-tv.cn^
 127.0.0.1 q.addthis.com
-||livep.l.aiseet.atianqi.com^
+||launcherimg.smart-tv.cn^
 127.0.0.1 s7.addthis.com
-||lives.l.aiseet.atianqi.com^
+||lf3-ad-union-sdk.pglstatp-toutiao.com^
 127.0.0.1 s8.addthis.com
-||lives.l.ott.video.qq.com^
 127.0.0.1 su.addthis.com
-||livewebbs2pcdn.msstatic.com^
+||lf6-ad-union-sdk.pglstatp-toutiao.com^
 127.0.0.1 v1.addthis.com
-||lm10111.jtrincc.cn^
-||log-api-mn.huxiu.com^
+||lh3.googleadsserving.cn^
+||litchiads.com^
 127.0.0.1 cache.addthiscdn.com
-||log-api.huxiu.com^
-||log-api.pangolin-sdk-toutiao-b.com^
+||live-api.hktvmall.com^
 127.0.0.1 m.addthisedge.com
+||liveats-vod.video.ptqy.gitv.tv^
+||livemonitor.huan.tv^
+127.0.0.1 static.addtoany.com
+||livep.l.aiseet.atianqi.com^
+127.0.0.1 stats.addtoany.com
+||lives.l.aiseet.atianqi.com^
+127.0.0.1 ads.adelement.com
+||lives.l.ott.video.qq.com^
+127.0.0.1 ctv.adelement.com
+||livewebbs2pcdn.msstatic.com^
+127.0.0.1 sc.adelement.com
+||lm10111.jtrincc.cn^
+127.0.0.1 bm.adentifi.com
+||log-api-mn.huxiu.com^
+||log-api.huxiu.com^
+127.0.0.1 rtb.adentifi.com
+||log-api.pangolin-sdk-toutiao-b.com^
+127.0.0.1 adfalcon.com
+127.0.0.1 api.adfalcon.com
 ||log-api.pangolin-sdk-toutiao.com^
 ||log-report.com^
-127.0.0.1 static.addtoany.com
+127.0.0.1 adforgames.com
 ||log-sdk.gifshow.com^
-127.0.0.1 stats.addtoany.com
+127.0.0.1 adform.com
 ||log-sdk.ksapisrv.com^
 ||log-upload-os.hoyoverse.com^
-127.0.0.1 ads.adelement.com
+127.0.0.1 adform.net
 ||log-upload.mihoyo.com^
-127.0.0.1 ctv.adelement.com
+127.0.0.1 a1.adform.net
 ||log-verify.dutils.com^
-127.0.0.1 sc.adelement.com
+127.0.0.1 adx.adform.net
 ||log-verify.hiaiabc.com^
+127.0.0.1 adx2.adform.net
 ||log.ad.xiaomi.com^
-127.0.0.1 bm.adentifi.com
+127.0.0.1 asia.adform.net
 ||log.aispeech.com^
-127.0.0.1 rtb.adentifi.com
 ||log.amemv.com^
-127.0.0.1 adfalcon.com
+127.0.0.1 c1.adform.net
 ||log.appstore3.huan.tv^
+127.0.0.1 cm.adform.net
 ||log.avlyun.com^
-127.0.0.1 api.adfalcon.com
 ||log.avlyun.sec.intl.miui.com^
-127.0.0.1 adforgames.com
 ||log.byteoversea.com^
-127.0.0.1 adform.com
 ||log.fc.yahoo.com^
 ||log.iflytek.com^
-127.0.0.1 adform.net
 ||log.kuwo.cn^
-127.0.0.1 a1.adform.net
+127.0.0.1 cm2.adform.net
 ||log.pinterest.com^
-127.0.0.1 adx.adform.net
 ||log.popin.cc^
+127.0.0.1 cm3.adform.net
 ||log.snssdk.com^
-127.0.0.1 adx2.adform.net
+127.0.0.1 dmp.adform.net
 ||log.stat.kugou.com^
-127.0.0.1 asia.adform.net
+127.0.0.1 s2.adform.net
 ||log.tagtic.cn^
-127.0.0.1 c1.adform.net
+127.0.0.1 track.adform.net
 ||log.tbs.qq.com^
-127.0.0.1 cm.adform.net
+127.0.0.1 adformdsp.net
 ||log.vcgame.cn^
 ||log.web.kugou.com^
+127.0.0.1 banners.adfox.net
 ||log.zijieapi.com^
+127.0.0.1 ads.adfox.ru
 ||log1.cmpassport.com^
+127.0.0.1 banners.adfox.ru
 ||logbak.hicloud.com^
-127.0.0.1 cm2.adform.net
+127.0.0.1 adfurikun.jp
 ||logrcv.aiclk.com^
 ||logs.amap.com^
 ||logservice.hicloud.com^
@@ -2365,98 +2371,122 @@
 ||logupdate.avlyun.sec.miui.com^
 ||luimg.baidu.com^
 ||m-adnet.hiaiabc.com^
+127.0.0.1 api.adfurikun.jp
 ||m.ad.zhangyue.com^
+127.0.0.1 ginf.adfurikun.jp
 ||m.atm.youku.com^
 ||m.kubiqq.com^
 ||m1.ad.10010.com^
+127.0.0.1 folder.adfuture.cn
 ||mapi.m.jd.com^
+127.0.0.1 fotacontrol.adfuture.cn
 ||masdkv6.3g.qq.com^
+127.0.0.1 rebootv5.adfuture.cn
 ||mazu.m.qq.com^
 ||mbdlog.iqiyi.com^
-127.0.0.1 cm3.adform.net
-||metrics.data.hicloud.com^
-127.0.0.1 dmp.adform.net
-||metrics.icloud.com^
-127.0.0.1 s2.adform.net
-||metrics.mzstatic.com^
-127.0.0.1 track.adform.net
-||metrics2.data.hicloud.com^
-||metrika.yandex.ru^
-127.0.0.1 adformdsp.net
-||mi.gdt.qq.com^
-127.0.0.1 banners.adfox.net
-||miav-cse.avlyun.com^
-||micro-xdb.com^
-127.0.0.1 ads.adfox.ru
-||mime.baidu.com^
-127.0.0.1 banners.adfox.ru
-||mine.baidu.com^
-127.0.0.1 adfurikun.jp
-||mini-prog-drm.vodplayvideo.net^
-127.0.0.1 api.adfurikun.jp
-||mission-pub.smart-tv.cn^
-||miui-fxcse.avlyun.com^
-127.0.0.1 ginf.adfurikun.jp
-||mmgame.qpic.cn^
-||mnqlog.ldmnq.com^
-127.0.0.1 folder.adfuture.cn
-||moatads.com^
-127.0.0.1 fotacontrol.adfuture.cn
-127.0.0.1 rebootv5.adfuture.cn
 127.0.0.1 clk.adgaterewards.com
+||metrics.data.hicloud.com^
 127.0.0.1 wall.adgaterewards.com
+||metrics.icloud.com^
 127.0.0.1 adgear.com
+||metrics.mzstatic.com^
 127.0.0.1 adgrx.com
+||metrics2.data.hicloud.com^
 127.0.0.1 cdn.adgrx.com
+||metrika.yandex.ru^
 127.0.0.1 cdn-stv.adgrx.com
+||mi.gdt.qq.com^
 127.0.0.1 cm.adgrx.com
+||miav-cse.avlyun.com^
 127.0.0.1 rtb.adgrx.com
+||micro-xdb.com^
 127.0.0.1 tvx.adgrx.com
+||mime.baidu.com^
 127.0.0.1 adobe.adhaven.com
+||mine.baidu.com^
 127.0.0.1 beachfront.adhaven.com
+||mini-prog-drm.vodplayvideo.net^
 127.0.0.1 e.adhaven.com
+||mission-pub.smart-tv.cn^
 127.0.0.1 nxd.adhaven.com
+||miui-fxcse.avlyun.com^
 127.0.0.1 openx.adhaven.com
+||mmgame.qpic.cn^
 127.0.0.1 telaria.adhaven.com
+||mnqlog.ldmnq.com^
+||moatads.com^
 127.0.0.1 ads-mediafin.adhese.com
 ||mobads-logs.baidu.com^
+127.0.0.1 pool-mediafin.adhese.com
 ||mobads-pre-config.cdn.bcebos.com^
+127.0.0.1 pool-pebblemedia.adhese.com
 ||mobads.baidu.com^
+127.0.0.1 px.adhigh.net
 ||mobaliyun.res.mgtv.com^
+127.0.0.1 adhitzads.com
 ||mobile.da.mgtv.com^
+127.0.0.1 adhood.com
 ||mobilelog.upqzfile.com^
+127.0.0.1 aksdk-images.adikteev.com
 ||mon.zijieapi.com^
+127.0.0.1 tag.adincube.com
 ||monitor-ads-test.huan.tv^
+127.0.0.1 adingo.jp
 ||monitor-uu.play.aiseet.atianqi.com^
+127.0.0.1 cc.adingo.jp
 ||monitor.music.qq.com^
+127.0.0.1 hv.adingo.jp
 ||monitor.uu.qq.com^
+127.0.0.1 pdn.adingo.jp
 ||monsetting.toutiao.com^
+127.0.0.1 sh.adingo.jp
 ||ms.applovin.com^
 ||ms.applvn.com^
+127.0.0.1 ad11p.adfarm1.adition.com
 ||ms4.applovin.com^
 ||ms4.applvn.com^
+127.0.0.1 ad13.adfarm1.adition.com
 ||msdk.voiceads.cn^
+127.0.0.1 adsdk.adfarm1.adition.com
 ||mssdk.volces.com^
 ||mssdk.zijieapi.com^
+127.0.0.1 dspcluster.adfarm1.adition.com
 ||mtj.baidu.com^
+127.0.0.1 cd.adition.com
 ||nadvideo2.baidu.com^
+127.0.0.1 imagesrv.adition.com
 ||newvoice.chiq5.smart-tv.cn^
 ||nmetrics.samsung.com^
+127.0.0.1 track.adition.com
+127.0.0.1 vt.adition.com
 ||notes-analytics-events.apple.com^
 ||notify.sec.miui.com^
+127.0.0.1 pool.adizio.com
 ||nsclick.baidu.com^
+127.0.0.1 adj.st
 ||o-sdk.mediation.unity3d.com^
+127.0.0.1 3p3x.adj.st
 ||o2o.api.xiaomi.com^
+127.0.0.1 4495.adj.st
 ||offerwall.yandex.net^
+127.0.0.1 94vs.adj.st
 ||ogads-pa.clients6.google.com^
+127.0.0.1 af4a.adj.st
 ||omgmta.play.aiseet.atianqi.com^
+127.0.0.1 bhpz.adj.st
 ||open.e.kuaishou.cn^
+127.0.0.1 q4mn.adj.st
 ||open.e.kuaishou.com^
+127.0.0.1 r8qs.adj.st
 ||open.kuaishouzt.com^
+127.0.0.1 sxj8.adj.st
 ||open.kwaizt.com^
 ||open.snssdk.com^
+127.0.0.1 fraud.adjoe.zone
 ||optimus-ads.amap.com^
+127.0.0.1 prod.fraud.adjoe.zone
 ||orbit.jd.com^
+127.0.0.1 prod.adjoe.zone
 ||oss.cdn.aiclk.com^
 ||oth.eve.mdt.qq.com^
 ||oth.str.mdt.qq.com^
@@ -2491,381 +2521,223 @@
 ||pig.pupuapi.com^
 ||pin.hpplay.cn^
 ||pixon.ads-pixiv.net^
-||pkoplink.com^
-||pl.cp31.ott.cibntv.net^
-||plbslog.umeng.com^
-||pms.mb.qq.com^
-||policy.video.ptqy.gitv.tv^
-||pos.baidu.com^
-||prod-mediate-events.applovin.com^
-||proxy.advp.apple.com^
-||public.gdtimg.com^
-||q.i.gdt.qq.com^
-||qn-cdnfile1pcdn.msstatic.com^
-||qqdata.ab.qq.com^
-||qzs.gdtimg.com^
-||recommend-drcn.hms.dbankcloud.cn^
-||report.tv.kohesport.qq.com^
-||res.hubcloud.com.cn^
-||res1.applovin.com^
-||res1.hubcloud.com.cn^
-||res2.hubcloud.com.cn^
-||res3.hubcloud.com.cn^
-||resolve.umeng.com^
-||rev.aiclk.com^
-||review.gdtimg.com^
-||rlog.popin.cc^
-||rms-drcn.platform.dbankcloud.cn^
-||roi.soulapp.cn^
-||rp.hpplay.cn^
-||rps.hpplay.cn^
-||rpt.gdt.qq.com^
-||rt.applovin.com^
-||rt.applvn.com^
-||rtb.voiceads.cn^
-||s.amazon-adsystem.com^
-||s8t.teads.tv^
-||saad.ms.zhangyue.net^
-||saas.hpplay.cn^
-||samsung-com.112.2o7.net^
-||samsungads.com^
-||sanme2.taisantech.com^
-||saxysec.com^
-||scs.openspeech.cn^
-||sdk-ab-config.qquanquan.com^
-||sdk-cache.video.ptqy.gitv.tv^
-||sdk.1rtb.net^
-||sdk.ad.smaato.net^
-||sdk.adx.adwangmai.com^
-||sdk.beizi.biz^
-||sdk.cferw.com^
-||sdk.e.qq.com^
-||sdk.hzsanjiaomao.com^
-||sdk.markmedia.com.cn^
-||sdk.mobads.adwangmai.com^
-||sdkauth.hpplay.cn^
-||sdkconf.avlyun.com^
-||sdkconfig.ad.intl.xiaomi.com^
-||sdkconfig.ad.xiaomi.com^
-||sdkconfig.play.aiseet.atianqi.com^
-||sdkconfig.video.qq.com^
-||sdkoptedge.chinanetcenter.com^
-||sdktmp.hubcloud.com.cn^
-||sdownload.stargame.com^
-||search.ixigua.com^
-||search3-search.ixigua.com^
-||search5-search-hl.ixigua.com^
-||search5-search.ixigua.com^
-||securemetrics.apple.com^
-||securepubads.g.doubleclick.net^
-||sensors-log.dongqiudi.com^
-||sentry.music.163.com^
-||service.changhong.upgrade2.huan.tv^
-||service.vmos.cn^
-||sf16-static.i18n-pglstatp.com^
-||sf3-fe-tos.pglstatp-toutiao.com^
-||shouji.sogou.com^
-||sigmob.cn^
-||sigmob.com^
-||skdisplay.jd.com^
-||sl.hpplay.cn^
-||slb-p2p.vcloud.ks-live.com^
-||smad.ms.zhangyue.net^
-||smart-tv.cn^
-||smartad.10010.com^
-||smetrics.samsung.com^
-||sms.ads.oppomobile.com^
-||sngmta.qq.com^
-||snowflake.qq.com^
-||staging-notify.sec.miui.com^
-||stat.dongqiudi.com^
-||stat.y.qq.com^
-||static.ads-twitter.com^
-||statics.woozooo.com^
-||stats.wp.com^
-||statsigapi.net^
-||stg-data.ads.heytapmobi.com^
-||stun.hitv.com^
-||success.ctobsnssdk.com^
-||supply.inmobicdn.net^
-||sv-video.play.aiseet.atianqi.com^
-||syh-imp.cdnjtzy.com^
-||szbdyd.com^
-||t-dsp.pinduoduo.com^
-||t.applovin.com^
-||t.l.qq.com^
-||t.teads.tv^
-||t.track.ad.xiaomi.com^
-||t002.ottcn.com^
-||t1.a.market.xiaomi.com^
-||t1.teads.tv^
-||t2.a.market.xiaomi.com^
-||t3.a.market.xiaomi.com^
-||t7z.cupid.iqiyi.com^
-||t7z.cupid.ptqy.gitv.tv^
-||tangram.e.qq.com^
-||tdc.qq.com^
-||tdsdk.cpatrk.net^
-||tdsdk.xdrig.com^
-||telemetry.sdk.inmobi.com^
-||tencent-dtv.m.cn.miaozhen.com^
-||terms-drcn.platform.dbankcloud.cn^
-||test.ad.xiaomi.com^
-||test.e.ad.xiaomi.com^
-||tj.b.qq.com^
-||tj.video.qq.com^
-||tmead.y.qq.com^
-||tmeadcomm.y.qq.com^
-||tmfmazu-wangka.m.qq.com^
-||tmfmazu.m.qq.com^
-||tmfsdk.m.qq.com^
-||tmfsdktcpv4.m.qq.com^
-||tnc3-aliec1.toutiaoapi.com^
-||tnc3-aliec2.bytedance.com^
-||tnc3-aliec2.toutiaoapi.com^
-||tnc3-alisc1.bytedance.com^
-||tnc3-alisc1.zijieapi.com^
-||tnc3-alisc2.zijieapi.com^
-||tnc3-bjlgy.bytedance.com^
-||tnc3-bjlgy.toutiaoapi.com^
-||tnc3-bjlgy.zijieapi.com^
-||toblog.ctobsnssdk.com^
-||tpa-hcdn.iqiyi.com^
-||tpc.googlesyndication-cn.com^
-||tpc.googlesyndication.com^
-||tr-asia.adsmoloco.com^
-||trace.qq.com^
-||tracelog-debug.aiclk.com^
-||tracelog-debug.qquanquan.com^
-||track.lc.quark.cn^
-||track.uc.cn^
-||tracker.ai.xiaomi.com^
-||tracker.gitee.com^
-||tracking.miui.com^
-||tracking.rus.miui.com^
-||tvapp.hpplay.cn^
-||tvuser-ch.cedock.com^
-||tx-ad.a.yximgs.com^
-||tx-kmpaudio.pull.yximgs.com^
-||tx-p2p-pull.live-voip.com^
-||tx-p2p-v2.pull.yximgs.com^
-||tytx.m.cn.miaozhen.com^
-||tz.sec.xiaomi.com^
-||uapi.ads.heytapmobi.com^
-||udc.yahoo.com^
-||udcm.yahoo.com^
-||uedas.qidian.com^
-||uhabo.com^
-||ulog-sdk.gifshow.com^
-||ulogjs.gifshow.com^
-||ulogs.umeng.com^
-||ulogs.umengcloud.com^
-||umengacs.m.taobao.com^
-||umengjmacs.m.taobao.com^
-||umini.shujupie.com^
-||union.baidu.cn^
-||union.baidu.com^
-||update.avlyun.sec.miui.com^
-||update.lejiao.tv^
-||update0.aiclk.com^
-||upgrade-update.hismarttv.com^
-||uranus.jd.com^
-||us.l.qq.com^
-||usr-api.aiclk.com^
-||v.110route.cn^
-||v.adintl.cn^
-||v.adx.hubcloud.com.cn^
-||v1-ad.video.yximgs.com^
-||v2-ad.video.yximgs.com^
-||v2-api-channel-launcher.hismarttv.com^
-||v2.gdt.qq.com^
-||v2mi.gdt.qq.com^
-||v3-ad.video.yximgs.com^
-||v3.gdt.qq.com^
-||vali-ugc.cp31.ott.cibntv.net^
-||vd6.l.qq.com^
-||vi.l.qq.com^
-||video-ad.sm.cn^
-||video-dsp.pddpic.com^
-||video.dispatch.tc.qq.com^
-||video.market.xiaomi.com^
-||vipauth.hpplay.cn^
-||vipgslb.hpplay.cn^
-||virusinfo-cloudscan-cn.heytapmobi.com^
-||vlive.qqvideo.tc.qq.com^
-||volc.bj.ad.track.66mobi.com^
-||vungle.com^
-||w.l.qq.com^
-||w1.askwai.com^
-||w1.gskwai.com^
-||w1.kskwai.com^
-||watson.microsoft.com^
-||watson.telemetry.microsoft.com^
-||wcp.taobao.com^
-||weather-analytics-events.apple.com^
-||weather-community-drcn.weather.dbankcloud.cn^
-||webstat.qiumibao.com^
-||webview.unityads.unity3d.com^
-||widgets.outbrain.com^
-||widgets.pinterest.com^
-||wildcard.moatads.com.edgekey.net^
-||win.gdt.qq.com^
-||wn.x.jd.com^
-||ws-keyboard.shouji.sogou.com^
-||ws.sj.qq.com^
-||wv.inner-active.mobi^
-||wwads.cn^
-||www42.zskwai.com^
-||wxa.wxs.qq.com^
-||wxaintpcos.wxqcloud.qq.com.cn^
-||wximg.wxs.qq.com^
-||wxsmw.wxs.qq.com^
-||wxsnsad.tc.qq.com^
-||wxsnsdy.tc.qq.com^
-||wxsnsdy.wxs.qq.com^
-||wxsnsdythumb.wxs.qq.com^
-||xc.gdt.qq.com^
-||xcultur.com^
-||xiaomi-dtv.m.cn.miaozhen.com^
-||xlog.jd.com^
-||xlviiirdr.com^
-||xlviirdr.com^
-||xycdn.com^
-||yk-ssp.ad.youku.com^
-||ykad-data.youku.com^
-||ykad-gateway.youku.com^
-||youku-acs.m.taobao.com^
-||ytx-file.110route.cn^
-||zeus.ad.xiaomi.com^
-||zhihu-web-analytics.zhihu.com^
-127.0.0.1 pool-mediafin.adhese.com
-127.0.0.1 pool-pebblemedia.adhese.com
-127.0.0.1 px.adhigh.net
-127.0.0.1 adhitzads.com
-127.0.0.1 adhood.com
-127.0.0.1 aksdk-images.adikteev.com
-127.0.0.1 tag.adincube.com
-127.0.0.1 adingo.jp
-127.0.0.1 cc.adingo.jp
-127.0.0.1 hv.adingo.jp
-127.0.0.1 pdn.adingo.jp
-127.0.0.1 sh.adingo.jp
-127.0.0.1 ad11p.adfarm1.adition.com
-127.0.0.1 ad13.adfarm1.adition.com
-127.0.0.1 adsdk.adfarm1.adition.com
-127.0.0.1 dspcluster.adfarm1.adition.com
-127.0.0.1 cd.adition.com
-127.0.0.1 imagesrv.adition.com
-127.0.0.1 track.adition.com
-127.0.0.1 vt.adition.com
-127.0.0.1 pool.adizio.com
-127.0.0.1 adj.st
-127.0.0.1 3p3x.adj.st
-127.0.0.1 4495.adj.st
-127.0.0.1 94vs.adj.st
-127.0.0.1 af4a.adj.st
-127.0.0.1 bhpz.adj.st
-127.0.0.1 q4mn.adj.st
-127.0.0.1 r8qs.adj.st
-127.0.0.1 sxj8.adj.st
-127.0.0.1 fraud.adjoe.zone
-127.0.0.1 prod.fraud.adjoe.zone
-127.0.0.1 prod.adjoe.zone
 127.0.0.1 adjust.com
 127.0.0.1 app.adjust.com
 127.0.0.1 s2s.adjust.com
 127.0.0.1 ulink.adjust.com
 127.0.0.1 app.us.adjust.com
+||pkoplink.com^
 127.0.0.1 view.adjust.com
+||pl.cp31.ott.cibntv.net^
+||plbslog.umeng.com^
 127.0.0.1 adjust.net.in
+||pms.mb.qq.com^
 127.0.0.1 app.adjust.net.in
+||policy.video.ptqy.gitv.tv^
+||pos.baidu.com^
 127.0.0.1 adjust.world
+||prod-mediate-events.applovin.com^
 127.0.0.1 app.adjust.world
+||proxy.advp.apple.com^
 127.0.0.1 dsp.adkernel.com
+||public.gdtimg.com^
+||q.i.gdt.qq.com^
 127.0.0.1 static-rtb.adkernel.com
+||qn-cdnfile1pcdn.msstatic.com^
 127.0.0.1 sync.adkernel.com
+||qqdata.ab.qq.com^
 127.0.0.1 tag.adkernel.com
+||qzs.gdtimg.com^
 127.0.0.1 bp.adkmob.com
+||recommend-drcn.hms.dbankcloud.cn^
+||report.tv.kohesport.qq.com^
 127.0.0.1 profile.adkmob.com
+||res.hubcloud.com.cn^
+||res1.applovin.com^
 127.0.0.1 ufs.adkmob.com
+||res1.hubcloud.com.cn^
+||res2.hubcloud.com.cn^
 127.0.0.1 adtrack.adleadevent.com
+||res3.hubcloud.com.cn^
 127.0.0.1 rs2.adledge.com
+||resolve.umeng.com^
 127.0.0.1 cdn.adligature.com
+||rev.aiclk.com^
+||review.gdtimg.com^
 127.0.0.1 tagan.adlightning.com
+||rlog.popin.cc^
 127.0.0.1 am.adlooxtracking.com
+||rms-drcn.platform.dbankcloud.cn^
+||roi.soulapp.cn^
 127.0.0.1 as.adlooxtracking.com
+||rp.hpplay.cn^
+||rps.hpplay.cn^
 127.0.0.1 datam16.adlooxtracking.com
+||rpt.gdt.qq.com^
+||rt.applovin.com^
 127.0.0.1 cs.admanmedia.com
+||rt.applvn.com^
+||rtb.voiceads.cn^
 127.0.0.1 async01.admantx.com
+||s.amazon-adsystem.com^
 127.0.0.1 euasync01.admantx.com
+||s8t.teads.tv^
 127.0.0.1 usasync01.admantx.com
+||saad.ms.zhangyue.net^
+||saas.hpplay.cn^
 127.0.0.1 bridge.lga1.admarketplace.net
+||samsung-com.112.2o7.net^
 127.0.0.1 pca.admarketplace.net
+||samsungads.com^
 127.0.0.1 bridge.sfo1.admarketplace.net
+||sanme2.taisantech.com^
+||saxysec.com^
 127.0.0.1 tracking.admarketplace.net
+||scs.openspeech.cn^
 127.0.0.1 admarvel.com
+||sdk-ab-config.qquanquan.com^
+||sdk-cache.video.ptqy.gitv.tv^
+||sdk.1rtb.net^
 127.0.0.1 amp.admarvel.com
+||sdk.ad.smaato.net^
 127.0.0.1 base-cdn.admarvel.com
+||sdk.adx.adwangmai.com^
 127.0.0.1 omax.admarvel.com
+||sdk.beizi.biz^
+||sdk.cferw.com^
 127.0.0.1 admaster.com.cn
+||sdk.e.qq.com^
 127.0.0.1 cm.admaster.com.cn
+||sdk.hzsanjiaomao.com^
+||sdk.markmedia.com.cn^
 127.0.0.1 iclick.cm.admaster.com.cn
+||sdk.mobads.adwangmai.com^
+||sdkauth.hpplay.cn^
 127.0.0.1 cdn2.admatic.com.tr
+||sdkconf.avlyun.com^
+||sdkconfig.ad.intl.xiaomi.com^
 127.0.0.1 click.admedia.com
+||sdkconfig.ad.xiaomi.com^
 127.0.0.1 pixel.admedia.com
+||sdkconfig.play.aiseet.atianqi.com^
 127.0.0.1 admedo.com
+||sdkconfig.video.qq.com^
+||sdkoptedge.chinanetcenter.com^
 127.0.0.1 l.admedo.com
+||sdktmp.hubcloud.com.cn^
 127.0.0.1 pj.l.admedo.com
+||sdownload.stargame.com^
 127.0.0.1 ps.l.admedo.com
+||search.ixigua.com^
 127.0.0.1 adi.admicro.vn
+||search3-search.ixigua.com^
 127.0.0.1 admatic.admicro.vn
+||search5-search-hl.ixigua.com^
+||search5-search.ixigua.com^
 127.0.0.1 adnetwork.admicro.vn
+||securemetrics.apple.com^
 127.0.0.1 adx.admicro.vn
 127.0.0.1 goodsp.admicro.vn
+||securepubads.g.doubleclick.net^
 127.0.0.1 logging.admicro.vn
+||sensors-log.dongqiudi.com^
 127.0.0.1 lg1.logging.admicro.vn
+||sentry.music.163.com^
 127.0.0.1 pson.logging.admicro.vn
+||service.changhong.upgrade2.huan.tv^
 127.0.0.1 media1.admicro.vn
+||service.vmos.cn^
 127.0.0.1 min.admicro.vn
+||sf16-static.i18n-pglstatp.com^
 127.0.0.1 sspapi.admicro.vn
+||sf3-fe-tos.pglstatp-toutiao.com^
+||shouji.sogou.com^
 127.0.0.1 admitad.com
+||sigmob.cn^
 127.0.0.1 ad.admitad.com
+||sigmob.com^
+||skdisplay.jd.com^
 127.0.0.1 fonts.ad.admitad.com
+||sl.hpplay.cn^
 127.0.0.1 cdn.admitad.com
+||slb-p2p.vcloud.ks-live.com^
 127.0.0.1 admixer.co.kr
+||smad.ms.zhangyue.net^
+||smart-tv.cn^
 127.0.0.1 adn.admixer.co.kr
+||smartad.10010.com^
 127.0.0.1 admixer.net
+||smetrics.samsung.com^
 127.0.0.1 inv-nets-eu.admixer.net
+||sms.ads.oppomobile.com^
 127.0.0.1 apps.admob.com
+||sngmta.qq.com^
+||snowflake.qq.com^
 127.0.0.1 admost.com
+||staging-notify.sec.miui.com^
 127.0.0.1 cdn-api.admost.com
+||stat.dongqiudi.com^
 127.0.0.1 go.admost.com
+||stat.y.qq.com^
+||static.ads-twitter.com^
 127.0.0.1 med-api.admost.com
+||statics.woozooo.com^
 127.0.0.1 admulti.com
+||stats.wp.com^
+||statsigapi.net^
 127.0.0.1 gag.admulti.com
+||stg-data.ads.heytapmobi.com^
 127.0.0.1 banners.adnetmedia.lt
 127.0.0.1 adnetwork.vn
+||stun.hitv.com^
 127.0.0.1 delivery.adnetwork.vn
+||success.ctobsnssdk.com^
 127.0.0.1 media.adnetwork.vn
+||supply.inmobicdn.net^
 127.0.0.1 adnium.com
+||sv-video.play.aiseet.atianqi.com^
 127.0.0.1 a.adnium.com
 127.0.0.1 acdn.adnxs-simple.com
+||syh-imp.cdnjtzy.com^
 127.0.0.1 ib.adnxs-simple.com
+||szbdyd.com^
+||t-dsp.pinduoduo.com^
 127.0.0.1 nym1-ib.adnxs-simple.com
+||t.applovin.com^
+||t.l.qq.com^
+||t.teads.tv^
 127.0.0.1 acdn.adnxs.com
+||t.track.ad.xiaomi.com^
 127.0.0.1 adscale-emea.adnxs.com
 127.0.0.1 ams1-ib.adnxs.com
+||t002.ottcn.com^
+||t1.a.market.xiaomi.com^
 127.0.0.1 anycast.adnxs.com
+||t1.teads.tv^
 127.0.0.1 ib.anycast.adnxs.com
+||t2.a.market.xiaomi.com^
+||t3.a.market.xiaomi.com^
 127.0.0.1 m.anycast.adnxs.com
+||t7z.cupid.iqiyi.com^
+||t7z.cupid.ptqy.gitv.tv^
 127.0.0.1 mobile.anycast.adnxs.com
+||tangram.e.qq.com^
 127.0.0.1 b.adnxs.com
+||tdc.qq.com^
+||tdsdk.cpatrk.net^
 127.0.0.1 cdn.adnxs.com
+||tdsdk.xdrig.com^
+||telemetry.sdk.inmobi.com^
 127.0.0.1 crcdn01.adnxs.com
+||tencent-dtv.m.cn.miaozhen.com^
 127.0.0.1 crcdn09.adnxs.com
+||terms-drcn.platform.dbankcloud.cn^
 127.0.0.1 dcdn.adnxs.com
+||test.ad.xiaomi.com^
 127.0.0.1 ib.adnxs.com
+||test.e.ad.xiaomi.com^
 127.0.0.1 iqzn-useast.adnxs.com
+||tj.b.qq.com^
 127.0.0.1 lax1-ib.adnxs.com
 127.0.0.1 m.adnxs.com
 127.0.0.1 mediation.adnxs.com
@@ -2913,94 +2785,220 @@
 127.0.0.1 public-webservice.geo.adpushup.com
 127.0.0.1 vastdump-staging.adpushup.com
 127.0.0.1 adpxl.co
+||tj.video.qq.com^
 127.0.0.1 adpxljs.adpxl.co
+||tmead.y.qq.com^
 127.0.0.1 fl.adpxl.co
+||tmeadcomm.y.qq.com^
 127.0.0.1 adserver.adreactor.com
+||tmfmazu-wangka.m.qq.com^
 127.0.0.1 run.adrizer.com
 127.0.0.1 adroll.com
+||tmfmazu.m.qq.com^
 127.0.0.1 adx-winners-ap-southeast-1-rtb.adroll.com
+||tmfsdk.m.qq.com^
+||tmfsdktcpv4.m.qq.com^
 127.0.0.1 adx-winners-eu-west-1-rtb.adroll.com
+||tnc3-aliec1.toutiaoapi.com^
+||tnc3-aliec2.bytedance.com^
 127.0.0.1 adx-winners-us-east-1-rtb.adroll.com
+||tnc3-aliec2.toutiaoapi.com^
 127.0.0.1 adx-winners-us-west-2-rtb.adroll.com
+||tnc3-alisc1.bytedance.com^
+||tnc3-alisc1.zijieapi.com^
 127.0.0.1 apn-winners-ap-southeast-1-rtb.adroll.com
+||tnc3-alisc2.zijieapi.com^
+||tnc3-bjlgy.bytedance.com^
 127.0.0.1 apn-winners-eu-west-1-rtb.adroll.com
+||tnc3-bjlgy.toutiaoapi.com^
 127.0.0.1 apn-winners-us-east-1-rtb.adroll.com
 127.0.0.1 apn-winners-us-west-2-rtb.adroll.com
+||tnc3-bjlgy.zijieapi.com^
+||toblog.ctobsnssdk.com^
 127.0.0.1 app.adroll.com
+||tpa-hcdn.iqiyi.com^
 127.0.0.1 d.adroll.com
+||tpc.googlesyndication-cn.com^
+||tpc.googlesyndication.com^
 127.0.0.1 index-winners-ap-southeast-1-rtb.adroll.com
+||tr-asia.adsmoloco.com^
 127.0.0.1 index-winners-eu-west-1-rtb.adroll.com
+||trace.qq.com^
 127.0.0.1 index-winners-us-east-1-rtb.adroll.com
+||tracelog-debug.aiclk.com^
 127.0.0.1 index-winners-us-west-2-rtb.adroll.com
+||tracelog-debug.qquanquan.com^
 127.0.0.1 opx-winners-eu-west-1-rtb.adroll.com
+||track.lc.quark.cn^
+||track.uc.cn^
 127.0.0.1 opx-winners-us-east-1-rtb.adroll.com
+||tracker.ai.xiaomi.com^
+||tracker.gitee.com^
 127.0.0.1 opx-winners-us-west-2-rtb.adroll.com
+||tracking.miui.com^
+||tracking.rus.miui.com^
 127.0.0.1 pubmatic-winners-eu-west-1-rtb.adroll.com
+||tvapp.hpplay.cn^
 127.0.0.1 pubmatic-winners-us-east-1-rtb.adroll.com
+||tvuser-ch.cedock.com^
+||tx-ad.a.yximgs.com^
 127.0.0.1 pubmatic-winners-us-west-2-rtb.adroll.com
+||tx-kmpaudio.pull.yximgs.com^
+||tx-p2p-pull.live-voip.com^
+||tx-p2p-v2.pull.yximgs.com^
 127.0.0.1 rub-winners-eu-west-1-rtb.adroll.com
+||tytx.m.cn.miaozhen.com^
+||tz.sec.xiaomi.com^
+||uapi.ads.heytapmobi.com^
+||udc.yahoo.com^
+||udcm.yahoo.com^
 127.0.0.1 rub-winners-us-east-1-rtb.adroll.com
+||uedas.qidian.com^
 127.0.0.1 rub-winners-us-west-2-rtb.adroll.com
+||uhabo.com^
+||ulog-sdk.gifshow.com^
 127.0.0.1 yax-winners-ap-southeast-1-rtb.adroll.com
+||ulogjs.gifshow.com^
+||ulogs.umeng.com^
 127.0.0.1 yax-winners-eu-west-1-rtb.adroll.com
+||ulogs.umengcloud.com^
 127.0.0.1 yax-winners-us-east-1-rtb.adroll.com
+||umengacs.m.taobao.com^
+||umengjmacs.m.taobao.com^
 127.0.0.1 yax-winners-us-west-2-rtb.adroll.com
+||umini.shujupie.com^
 127.0.0.1 adrta.com
+||union.baidu.cn^
 127.0.0.1 cdn.adrta.com
+||union.baidu.com^
 127.0.0.1 gateway.adrta.com
+||update.avlyun.sec.miui.com^
+||update.lejiao.tv^
 127.0.0.1 ipds.gateway.adrta.com
+||update0.aiclk.com^
 127.0.0.1 ipds.adrta.com
+||upgrade-update.hismarttv.com^
 127.0.0.1 ipv6.adrta.com
+||uranus.jd.com^
 127.0.0.1 p.adrta.com
+||us.l.qq.com^
 127.0.0.1 pix.adrta.com
+||usr-api.aiclk.com^
 127.0.0.1 q.adrta.com
+||v.110route.cn^
 127.0.0.1 r.adrta.com
+||v.adintl.cn^
+||v.adx.hubcloud.com.cn^
 127.0.0.1 adstax-match.adrtx.net
+||v1-ad.video.yximgs.com^
 127.0.0.1 adstax-match-proxy.adrtx.net
+||v2-ad.video.yximgs.com^
 127.0.0.1 api.adrtx.net
+||v2-api-channel-launcher.hismarttv.com^
 127.0.0.1 cdn.adrtx.net
+||v2.gdt.qq.com^
+||v2mi.gdt.qq.com^
+||v3-ad.video.yximgs.com^
 127.0.0.1 ads-twitter.com
+||v3.gdt.qq.com^
 127.0.0.1 static.ads-twitter.com
+||vali-ugc.cp31.ott.cibntv.net^
+||vd6.l.qq.com^
 127.0.0.1 ads1-adnow.com
+||vi.l.qq.com^
 127.0.0.1 n.ads1-adnow.com
+||video-ad.sm.cn^
 127.0.0.1 st-n.ads1-adnow.com
+||video-dsp.pddpic.com^
+||video.dispatch.tc.qq.com^
 127.0.0.1 ads2-adnow.com
+||video.market.xiaomi.com^
 127.0.0.1 n.ads2-adnow.com
+||vipauth.hpplay.cn^
 127.0.0.1 ads3-adnow.com
+||vipgslb.hpplay.cn^
 127.0.0.1 n.ads3-adnow.com
+||virusinfo-cloudscan-cn.heytapmobi.com^
 127.0.0.1 st-n.ads3-adnow.com
+||vlive.qqvideo.tc.qq.com^
 127.0.0.1 ads5-adnow.com
+||volc.bj.ad.track.66mobi.com^
+||vungle.com^
 127.0.0.1 n.ads5-adnow.com
+||w.l.qq.com^
+||w1.askwai.com^
 127.0.0.1 st-n.ads5-adnow.com
+||w1.gskwai.com^
+||w1.kskwai.com^
 127.0.0.1 adsafeprotected.com
+||watson.microsoft.com^
 127.0.0.1 cdn.adsafeprotected.com
+||watson.telemetry.microsoft.com^
 127.0.0.1 dt.adsafeprotected.com
+||wcp.taobao.com^
 127.0.0.1 fw.adsafeprotected.com
+||weather-analytics-events.apple.com^
 127.0.0.1 mobile.adsafeprotected.com
+||weather-community-drcn.weather.dbankcloud.cn^
 127.0.0.1 orfw.adsafeprotected.com
+||webstat.qiumibao.com^
 127.0.0.1 orpixel.adsafeprotected.com
+||webview.unityads.unity3d.com^
 127.0.0.1 pixel.adsafeprotected.com
+||widgets.outbrain.com^
+||widgets.pinterest.com^
 127.0.0.1 sgfw.adsafeprotected.com
+||wildcard.moatads.com.edgekey.net^
 127.0.0.1 sgpixel.adsafeprotected.com
+||win.gdt.qq.com^
+||wn.x.jd.com^
 127.0.0.1 spixel.adsafeprotected.com
+||ws-keyboard.shouji.sogou.com^
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 unified.adsafeprotected.com
+||ws.sj.qq.com^
+||wv.inner-active.mobi^
 127.0.0.1 vafw.adsafeprotected.com
+||wwads.cn^
+::1             localhost
+||www42.zskwai.com^
 127.0.0.1 vapixel.adsafeprotected.com
+||wxa.wxs.qq.com^
 127.0.0.1 vast.adsafeprotected.com
+||wxaintpcos.wxqcloud.qq.com.cn^
 127.0.0.1 video.adsafeprotected.com
+||wximg.wxs.qq.com^
 127.0.0.1 wrapper-vast.adsafeprotected.com
+||wxsmw.wxs.qq.com^
+||wxsnsad.tc.qq.com^
 127.0.0.1 cm.adsafety.net
+||wxsnsdy.tc.qq.com^
 127.0.0.1 tags.adsafety.net
+||wxsnsdy.wxs.qq.com^
+||wxsnsdythumb.wxs.qq.com^
+||xc.gdt.qq.com^
 127.0.0.1 adsbynimbus.com
+||xcultur.com^
 127.0.0.1 growlr.adsbynimbus.com
+||xiaomi-dtv.m.cn.miaozhen.com^
+||xlog.jd.com^
 127.0.0.1 mw-encyclopediabritannica.adsbynimbus.com
+||xlviiirdr.com^
+||xlviirdr.com^
 127.0.0.1 timehop.adsbynimbus.com
+||xycdn.com^
+||yk-ssp.ad.youku.com^
 127.0.0.1 turbo.adsbynimbus.com
+||ykad-data.youku.com^
 127.0.0.1 ua-myfitnesspal.adsbynimbus.com
+||ykad-gateway.youku.com^
 127.0.0.1 weatherbug.adsbynimbus.com
+||youku-acs.m.taobao.com^
+||ytx-file.110route.cn^
 127.0.0.1 cotads.adscale.de
+||zeus.ad.xiaomi.com^
 127.0.0.1 hb.adscale.de
+||zhihu-web-analytics.zhihu.com^
 127.0.0.1 ih.adscale.de
 127.0.0.1 js.adscale.de
 127.0.0.1 adserve.work
@@ -3055,6 +3053,8 @@
 127.0.0.1 v.adsrvr.org
 127.0.0.1 va6-bid.adsrvr.org
 127.0.0.1 vae-bid.adsrvr.org
+127.0.0.2 localhost
+127.0.0.3 localhost
 127.0.0.1 adstune.com
 127.0.0.1 folder.adsunflower.com
 127.0.0.1 rebootv5.adsunflower.com
@@ -9184,6 +9184,7 @@ ubmcmm.baidustatic.com
 ||2pogg4c.cn^
 ||2qpqwkx.cn^
 ||2qy9zm.cn^
+||2r69dkb1a.com^
 ||2rbda.icu^
 ||2rid9fii9chx.www.atlaslane.com^
 ||2rwonuh.com^
@@ -30329,6 +30330,7 @@ ubmcmm.baidustatic.com
 ||eiphrut.com^
 ||eisdog.shape.com^
 ||eisnaisv.com^
+||eiszgw.icu^
 ||eit3.destinia.nl^
 ||eitilbyr.com^
 ||eitkrg.loriblu.com^
@@ -46070,6 +46072,7 @@ ubmcmm.baidustatic.com
 ||luwfwc.trendhim.fi^
 ||luwzem.skala.nl^
 ||luxdvf.antelope.co.jp^
+||luxrbx.icu^
 ||luxury.discoverylandco.com^
 ||luyarvx.icu^
 ||luzfpa.dltviaggi.it^
@@ -52148,6 +52151,7 @@ ubmcmm.baidustatic.com
 ||muresdx.top^
 ||musicoholics.com^
 ||muskox.appital.io^
+||musthroom9.top^
 ||muwqiga.icu^
 ||muwyib.lettuce.co.jp^
 ||muxing.city^
@@ -52617,6 +52621,7 @@ ubmcmm.baidustatic.com
 ||nczils.pristineauction.com^
 ||nczwsy.yourhomestory.com.pl^
 ||nd.nasdaqtech.nasdaq.com^
+||ndatzo.cn^
 ||ndbaxn.xyz^
 ||ndct-data.video.iqiyi.com^
 ||ndcywq.ullapopken.fr^
@@ -81096,6 +81101,7 @@ ubmcmm.baidustatic.com
 ||usphfiona.com^
 ||usr.interactiveone.com^
 ||usrkrz.zdravcity.ru^
+||usrpubtrk.com^
 ||usrzh.cn^
 ||ussco-dev.actonservice.com^
 ||ussolutions.equifax.com^
