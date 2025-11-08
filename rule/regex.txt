@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-11-08 00:16:28
+! Last Modified: 2025-11-08 09:08:48
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ad.sm.cn*
@@ -144,6 +144,7 @@ directtrack.*.js
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||log*-*.tiktokv.com^
 ||log*-misc-lf.amemv.com^
+||log*-normal-*.tiktokv.com
 ||log*-normal-*.tiktokv.us^
 ||log*-normal-useast1a.lemon8-app.com^
 ||log*.aliyuncs.com^
@@ -227,6 +228,7 @@ directtrack.*.js
 ||telemetry*.transcend.io^
 ||telemetry.*.pvp.net^
 ||thezbpe5*.xyz^
+||tnc*.tiktokv.com^
 ||tnc*.tiktokv.us^
 ||tnc*.zijieapi.com^
 ||tnc-va*.capcutapi.com^
