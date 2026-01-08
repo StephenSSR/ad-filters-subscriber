@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-01-08 00:24:09
+! Last Modified: 2026-01-08 09:20:00
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ad.sm.cn*
@@ -157,6 +157,7 @@ directtrack.*.js
 ||log-*.previewnetworks.com^
 ||log-va*.capcutapi.com^
 ||logger-*.dailymotion.com^
+||logreport-global-dual.cool*cloud.com^
 ||logs-*.rebxgame.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||logstash-*.radio-canada.ca^
@@ -265,6 +266,8 @@ directtrack.*.js
 ||union*.365inews.com^
 ||use-trk*.bluevoox.com^
 ||vns86.oss-*.aliyuncs.com^
+||weblogger-wss.cool*cloud.com^
+||wslog-global-dual.cool*cloud.com^
 ||www.xxmh*.com^
 ||xlog*-*.tiktokv.com^
 ||ya*.dwstatic.com^
