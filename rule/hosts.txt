@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-02-01 16:26:41
+! Last Modified: 2026-02-02 00:23:00
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -338,6 +338,9 @@
 127.0.0.1 adv.fjtv.net
 127.0.0.1 dsa-mfp.fengshows.cn
 127.0.0.1 sdk.cferw.com
+127.0.0.1  localhost
+127.0.0.2 localhost
+127.0.0.3 localhost
 127.0.0.1 ad.weixin.qq.com
 127.0.0.1 wxa.wxs.qq.com
 127.0.0.1 wxsnsdythumb.wxs.qq.com
@@ -482,8 +485,6 @@
 127.0.0.1 uvu.nojmlxq.cn
 127.0.0.1 veim.lrswl.com
 127.0.0.1 adsdk.yandex.ru
-142.250.141.188     alt2-mtalk.google.com
-108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 hybird.rayjump.com
 127.0.0.1 c.kuaiduizuoye.com
 127.0.0.1 dig.zjurl.cn
@@ -666,6 +667,7 @@
 127.0.0.1 api.aiclk.com
 127.0.0.1 update0.aiclk.com
 127.0.0.1 sdk-ab-config.aiclk.com
+142.250.141.188     alt2-mtalk.google.com
 127.0.0.1 sdk-globalconfig.aiclk.com
 127.0.0.1 adx.maplehaze.cn
 127.0.0.1 log.kajicam.com
@@ -673,6 +675,7 @@
 127.0.0.1 api-ad.kajicam.com
 127.0.0.1 me.xdrig.com
 127.0.0.1 api.ad.yipinread.com
+108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 dpush-api.domob.cn
 127.0.0.1 engine.lvehaisen.com
 127.0.0.1 sdk.tf.360.cn
@@ -931,6 +934,7 @@
 127.0.0.1 lp.mydas.mobi
 127.0.0.1 golds.lp.mydas.mobi
 127.0.0.1 suo.lp.mydas.mobi
+::1             localhost
 127.0.0.1 aio.lp.mydas.mobi
 127.0.0.1 lp.mp.mydas.mobi
 127.0.0.1 media.mydas.mobi
@@ -1176,7 +1180,6 @@
 127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 baichuan-sdk.alicdn.com
 127.0.0.1 ilce.alicdn.com
-::1             localhost
 127.0.0.1 abtest.alibaba.com
 127.0.0.1 proxy-mob-cld.alicdn.com
 127.0.0.1 www.uyunad.com
@@ -1285,10 +1288,17 @@
 127.0.0.1 ssdk.adkmob.com
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 cdn0.mobmore.com
+::1  localhost
+127.0.0.1 analytics.163.com
 127.0.0.1 ex.mobmore.com
+127.0.0.1 crash.163.com
 127.0.0.1 bu1.duba.com
+127.0.0.1 iad.g.163.com
 127.0.0.1 bu2.duba.com
+127.0.0.1 api4.1mobile.com
 127.0.0.1 service.ad.duomi.com
+127.0.0.1 sync.1rx.io
+127.0.0.1 tag.1rx.io
 127.0.0.1 ad.sinovision.net
 127.0.0.1 adsys.sinovision.net
 127.0.0.1 www.admaji.com
@@ -1387,9 +1397,7 @@
 127.0.0.1 samba.adsame.com
 127.0.0.1 sambaclk.adsame.com
 127.0.0.1 sambasys.adsame.com
-127.0.0.2 localhost
 127.0.0.1 sammix.adsame.com
-127.0.0.3 localhost
 127.0.0.1 samrt.adsame.com
 127.0.0.1 stnn.adsame.com
 127.0.0.1 techweb.iv.adsame.com
@@ -1665,14 +1673,6 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-127.0.0.1  localhost
-::1  localhost
-127.0.0.1 analytics.163.com
-127.0.0.1 crash.163.com
-127.0.0.1 iad.g.163.com
-127.0.0.1 api4.1mobile.com
-127.0.0.1 sync.1rx.io
-127.0.0.1 tag.1rx.io
 127.0.0.1 s.206ads.com
 127.0.0.1 api.247-inc.net
 127.0.0.1 tie.247-inc.net
@@ -4189,13 +4189,21 @@
 127.0.0.1 bd-nplb01.foresee.com
 127.0.0.1 bd-nplb02.foresee.com
 127.0.0.1 bd-nplb03.foresee.com
+110.43.121.13 bigota.d.miui.com
 127.0.0.1 brain.foresee.com
+110.43.121.13 hugeota.d.miui.com
 127.0.0.1 cx.foresee.com
+110.43.121.249 bigota.d.miui.com
 127.0.0.1 gateway.foresee.com
+110.43.121.249 hugeota.d.miui.com
 127.0.0.1 static.foresee.com
+123.6.13.6 bigota.d.miui.com
 127.0.0.1 events.foreseeresults.com
+123.6.13.6 hugeota.d.miui.com
 127.0.0.1 cdn-static.formisimo.com
+183.136.207.132 bigota.d.miui.com
 127.0.0.1 9e97cf8b099a.cdn4.forter.com
+183.136.207.132 hugeota.d.miui.com
 127.0.0.1 e44177b6b805.cdn4.forter.com
 127.0.0.1 fdfe4ed62699.cdn4.forter.com
 127.0.0.1 analytics.fosrv.com
@@ -7965,11 +7973,3 @@
 127.0.0.1 beacon.ztgame.com
 127.0.0.1 zucks.net
 127.0.0.1 log-collector.svctr.zynga.com
-110.43.121.13 bigota.d.miui.com
-110.43.121.13 hugeota.d.miui.com
-110.43.121.249 bigota.d.miui.com
-110.43.121.249 hugeota.d.miui.com
-123.6.13.6 bigota.d.miui.com
-123.6.13.6 hugeota.d.miui.com
-183.136.207.132 bigota.d.miui.com
-183.136.207.132 hugeota.d.miui.com
