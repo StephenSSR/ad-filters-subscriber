@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-02-24 00:50:59
+! Last Modified: 2026-02-24 09:46:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -13,6 +13,8 @@
 142.250.152.188     alt8-mtalk.google.com
 180.163.151.161     dl.google.com
 180.163.150.33      dl.l.google.com
+142.250.141.188     alt2-mtalk.google.com
+108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -856,7 +858,6 @@
 127.0.0.1 r.edge.inmobicdn.net
 127.0.0.1 www.mmnetwork.mobi
 127.0.0.1 img.ads.huntmad.com
-::1             localhost
 127.0.0.1 creative1cdn.mobfox.com
 127.0.0.1 admicro1.vcmedia.vn
 127.0.0.1 s3.phluant.com
@@ -1281,14 +1282,12 @@
 127.0.0.1 s.appjiagu.com
 127.0.0.1 cm.adkmob.com
 127.0.0.1 ssdk.adkmob.com
-142.250.141.188     alt2-mtalk.google.com
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 cdn0.mobmore.com
 127.0.0.1 ex.mobmore.com
 127.0.0.1 bu1.duba.com
 127.0.0.1 bu2.duba.com
 127.0.0.1 service.ad.duomi.com
-108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 ad.sinovision.net
 127.0.0.1 adsys.sinovision.net
 127.0.0.1 www.admaji.com
@@ -1353,8 +1352,6 @@
 127.0.0.1 download.adsage.com
 127.0.0.1 mws.adsage.com
 127.0.0.1 trc.adsage.com
-127.0.0.2 localhost
-127.0.0.3 localhost
 127.0.0.1 config.mobisage.cn
 127.0.0.1 adsame.com
 127.0.0.1 adsamer.adsame.com
@@ -1515,6 +1512,8 @@
 127.0.0.1 ad3.udn.com
 127.0.0.1 ad4.sina.com.cn
 127.0.0.1 ad4.udn.com
+127.0.0.2 localhost
+127.0.0.3 localhost
 127.0.0.1 ad.adhouyi.cn
 127.0.0.1 adadvisor.net
 127.0.0.1 adapi.lenovogame.com
@@ -1598,6 +1597,7 @@
 127.0.0.1 z.sora.yoyi.com.cn
 127.0.0.1 03.lzzncm.com
 127.0.0.1 04.lzzncm.com
+::1             localhost
 127.0.0.1 all.cnzz.com.danuoyi.tbcache.com
 127.0.0.1 z3.cnzz.com
 127.0.0.1 s4.cnzz.com
@@ -1665,14 +1665,6 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-110.43.121.13 bigota.d.miui.com
-110.43.121.13 hugeota.d.miui.com
-110.43.121.249 bigota.d.miui.com
-110.43.121.249 hugeota.d.miui.com
-123.6.13.6 bigota.d.miui.com
-123.6.13.6 hugeota.d.miui.com
-183.136.207.132 bigota.d.miui.com
-183.136.207.132 hugeota.d.miui.com
 127.0.0.1  localhost
 ::1  localhost
 127.0.0.1 analytics.163.com
@@ -7190,6 +7182,14 @@
 127.0.0.1 static.target2sell.com
 127.0.0.1 targetspot.com
 127.0.0.1 cdn.targetspot.com
+110.43.121.13 bigota.d.miui.com
+110.43.121.13 hugeota.d.miui.com
+110.43.121.249 bigota.d.miui.com
+110.43.121.249 hugeota.d.miui.com
+123.6.13.6 bigota.d.miui.com
+123.6.13.6 hugeota.d.miui.com
+183.136.207.132 bigota.d.miui.com
+183.136.207.132 hugeota.d.miui.com
 127.0.0.1 nodeny.targetspot.com
 127.0.0.1 sanalytics.tbs.com
 127.0.0.1 analytics.tdameritrade.com
