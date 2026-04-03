@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-04-03 00:52:37
+! Last Modified: 2026-04-03 09:56:23
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ad.sm.cn*
@@ -133,6 +133,7 @@ directtrack.*.js
 ||log*.byteoversea.com^
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
+||log-*.isnssdk.com^
 ||log-*.previewnetworks.com^
 ||log-v*-boot.capcutapi.com^
 ||log-va*.capcutapi.com^
@@ -172,6 +173,7 @@ directtrack.*.js
 ||orderana*.spankbang.com^
 ||p*-ad-sign.byteimg.com^
 ||p26.gejulm*.com^
+||ping*.bidease.com^
 ||pixel*.adswizz.com
 ||pixel*.production-public.tubi.io^
 ||pixel-*.convertagain.net^
