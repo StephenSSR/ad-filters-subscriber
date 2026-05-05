@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-05-05 01:25:52
+! Last Modified: 2026-05-05 10:23:40
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -181,10 +181,6 @@
 127.0.0.1 fmg.aty.sohu.com
 127.0.0.1 mmg.aty.sohu.com
 127.0.0.1 p.aty.sohu.com
-142.250.141.188     alt2-mtalk.google.com
-108.177.104.188     alt7-mtalk.google.com
-127.0.0.2 localhost
-127.0.0.3 localhost
 127.0.0.1 pg.aty.sohu.com
 127.0.0.1 pm.aty.sohu.com
 127.0.0.1 v.aty.sohu.com
@@ -337,7 +333,6 @@
 127.0.0.1 topapi.cp12.wasu.tv
 127.0.0.1 adservice.sigmob.cn
 127.0.0.1 stadig.ifeng.com
-::1             localhost
 127.0.0.1 api.newad.ifeng.com
 127.0.0.1 ifengad.3g.ifeng.com
 127.0.0.1 adv.fjtv.net
@@ -412,6 +407,8 @@
 127.0.0.1 d7.sina.com.cn
 127.0.0.1 d8.sina.com.cn
 127.0.0.1 d9.sina.com.cn
+142.250.141.188     alt2-mtalk.google.com
+108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 adx.hupu.com
 127.0.0.1 goblin.hupu.com
 127.0.0.1 shence.hupu.com
@@ -509,6 +506,8 @@
 127.0.0.1 ad.51wnl-cq.com
 127.0.0.1 norma-external-collect.meizu.com
 127.0.0.1 api.adxpand.com
+127.0.0.2 localhost
+127.0.0.3 localhost
 127.0.0.1 df.mic.mob.com
 127.0.0.1 dfe.mic.mob.com
 127.0.0.1 l.gm.mob.com
@@ -622,6 +621,7 @@
 127.0.0.1 test.adsp.xunlei.com
 127.0.0.1 api-mcp.adsp.xunlei.com
 127.0.0.1 xladapi.izuiyou.com
+::1             localhost
 127.0.0.1 advertpay-vip-ssl.xunlei.com
 127.0.0.1 watch.advertising.speed.cdn.vip.xunlei.com
 127.0.0.1 xunlei.adx.admaster.com.cn
