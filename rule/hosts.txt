@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-08-22 16:22:06
+! Last Modified: 2026-08-23 00:17:18
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -1323,7 +1323,6 @@
 127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 click.admaster.com.cn
-127.0.0.1  localhost
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 pptv.adx.admaster.com.cn
 127.0.0.1 rtb.admaster.com.cn
@@ -1466,7 +1465,6 @@
 127.0.0.1 cca.mob.com
 127.0.0.1 devs.data.mob.com
 127.0.0.1 m.data.mob.com
-::1             localhost
 127.0.0.1 api.mobgi.com
 127.0.0.1 mobgi.com
 127.0.0.1 stat.mobgi.com
@@ -1662,10 +1660,12 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-127.0.0.2 localhost
-127.0.0.3 localhost
 142.250.141.188     alt2-mtalk.google.com
 108.177.104.188     alt7-mtalk.google.com
+127.0.0.2 localhost
+127.0.0.3 localhost
+::1             localhost
+127.0.0.1  localhost
 ::1  localhost
 127.0.0.1 analytics.163.com
 127.0.0.1 crash.163.com
