@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-08-28 16:41:02
+! Last Modified: 2026-08-29 08:21:06
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -26,9 +26,13 @@
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 d.gdt.qq.com
+142.250.141.188     alt2-mtalk.google.com
+108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 i.gdt.qq.com
 127.0.0.1 m.gdt.qq.com
 127.0.0.1 t.gdt.qq.com
+127.0.0.2 localhost
+127.0.0.3 localhost
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 v2.gdt.qq.com
@@ -641,9 +645,7 @@
 127.0.0.1 adnew.wifi8.com
 127.0.0.1 ad.ikonke.com
 127.0.0.1 smart-789.kakamobi.cn
-127.0.0.2 localhost
 127.0.0.1 short-video.kakamobi.cn
-127.0.0.3 localhost
 127.0.0.1 ad.quwin.cn
 127.0.0.1 ubmcmm.baidustatic.com
 127.0.0.1 adserviceretry.kugou.com
@@ -838,8 +840,6 @@
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.au
-142.250.141.188     alt2-mtalk.google.com
-108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 ads.traffichunt.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 tpc.googlesyndication.com
@@ -1650,6 +1650,20 @@
 127.0.0.1 hqs4.cnzz.com
 127.0.0.1 hqs7.cnzz.com
 127.0.0.1 hqs9.cnzz.com
+127.0.0.1 hzs10.cnzz.com
+127.0.0.1 hzs12.cnzz.com
+127.0.0.1 hzs13.cnzz.com
+127.0.0.1 hzs14.cnzz.com
+127.0.0.1 hzs17.cnzz.com
+127.0.0.1 hzs23.cnzz.com
+127.0.0.1 hzs2.cnzz.com
+127.0.0.1 hzs3.cnzz.com
+127.0.0.1 hzs5.cnzz.com
+127.0.0.1 hzs7.cnzz.com
+127.0.0.1 hzs8.cnzz.com
+127.0.0.1 hzs9.cnzz.com
+127.0.0.1 hzvs1.cnzz.com
+127.0.0.1 pcookie.cnzz.com
 127.0.0.1  localhost
 ::1  localhost
 127.0.0.1 analytics.163.com
@@ -1906,20 +1920,6 @@
 127.0.0.1 hv.adingo.jp
 127.0.0.1 pdn.adingo.jp
 127.0.0.1 sh.adingo.jp
-127.0.0.1 hzs10.cnzz.com
-127.0.0.1 hzs12.cnzz.com
-127.0.0.1 hzs13.cnzz.com
-127.0.0.1 hzs14.cnzz.com
-127.0.0.1 hzs17.cnzz.com
-127.0.0.1 hzs23.cnzz.com
-127.0.0.1 hzs2.cnzz.com
-127.0.0.1 hzs3.cnzz.com
-127.0.0.1 hzs5.cnzz.com
-127.0.0.1 hzs7.cnzz.com
-127.0.0.1 hzs8.cnzz.com
-127.0.0.1 hzs9.cnzz.com
-127.0.0.1 hzvs1.cnzz.com
-127.0.0.1 pcookie.cnzz.com
 127.0.0.1 ad11p.adfarm1.adition.com
 127.0.0.1 ad13.adfarm1.adition.com
 127.0.0.1 adsdk.adfarm1.adition.com
@@ -1995,7 +1995,6 @@
 127.0.0.1 logging.admicro.vn
 127.0.0.1 lg1.logging.admicro.vn
 127.0.0.1 pson.logging.admicro.vn
-::1             localhost
 127.0.0.1 media1.admicro.vn
 127.0.0.1 min.admicro.vn
 127.0.0.1 sspapi.admicro.vn
@@ -2075,6 +2074,7 @@
 127.0.0.1 log.adplex.co.kr
 127.0.0.1 sspi.adpopcorn.com
 127.0.0.1 ssptrk.adpopcorn.com
+::1             localhost
 127.0.0.1 amp.adpushup.com
 127.0.0.1 public-webservice.apdc1n.adpushup.com
 127.0.0.1 apdc3n.adpushup.com
