@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-09-19 10:49:04
+! Last Modified: 2026-09-19 20:13:16
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -288,8 +288,6 @@
 127.0.0.1 ggx.cmvideo.cn
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 openstorage.ad.cmvideo.cn
-127.0.0.2 localhost
-127.0.0.3 localhost
 127.0.0.1 ggx01.miguvideo.com
 127.0.0.1 ggx02.miguvideo.com
 127.0.0.1 ggx10.miguvideo.com
@@ -840,6 +838,7 @@
 127.0.0.1 adservice.google.com.au
 127.0.0.1 ads.traffichunt.com
 127.0.0.1 googleads.g.doubleclick.net
+::1             localhost
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
@@ -1584,7 +1583,6 @@
 127.0.0.1 adsyndication.msn.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 adtrack.ucweb.com
-::1             localhost
 127.0.0.1 adui.tg.meitu.com
 127.0.0.1 ad.wang502.com
 127.0.0.1 ad.winrar.com.cn
@@ -1663,8 +1661,6 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-142.250.141.188     alt2-mtalk.google.com
-108.177.104.188     alt7-mtalk.google.com
 127.0.0.1  localhost
 ::1  localhost
 127.0.0.1 analytics.163.com
@@ -1690,12 +1686,14 @@
 127.0.0.1 g.3gl.net
 127.0.0.1 r.3gl.net
 127.0.0.1 as-eb2.3lift.com
+142.250.141.188     alt2-mtalk.google.com
 127.0.0.1 as-tlx.3lift.com
 127.0.0.1 cdn.3lift.com
 127.0.0.1 dmpsync.3lift.com
 127.0.0.1 eb2.3lift.com
 127.0.0.1 eu-tlx.3lift.com
 127.0.0.1 ib.3lift.com
+108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 images.3lift.com
 127.0.0.1 img.3lift.com
 127.0.0.1 staging-tlx.3lift.com
@@ -1981,6 +1979,8 @@
 127.0.0.1 admaster.com.cn
 127.0.0.1 cm.admaster.com.cn
 127.0.0.1 iclick.cm.admaster.com.cn
+127.0.0.2 localhost
+127.0.0.3 localhost
 127.0.0.1 cdn2.admatic.com.tr
 127.0.0.1 click.admedia.com
 127.0.0.1 pixel.admedia.com
@@ -3932,6 +3932,14 @@
 127.0.0.1 ds-m.addthisedge.com.edgekey.net
 127.0.0.1 v1.addthisedge.com.edgekey.net
 127.0.0.1 adobetag.com.edgekey.net
+110.43.121.13 bigota.d.miui.com
+110.43.121.13 hugeota.d.miui.com
+110.43.121.249 bigota.d.miui.com
+110.43.121.249 hugeota.d.miui.com
+123.6.13.6 bigota.d.miui.com
+123.6.13.6 hugeota.d.miui.com
+183.136.207.132 bigota.d.miui.com
+183.136.207.132 hugeota.d.miui.com
 127.0.0.1 san-www.adobetag.com.edgekey.net
 127.0.0.1 aniview.com.edgekey.net
 127.0.0.1 wildcard.aniview.com.edgekey.net
@@ -7965,11 +7973,3 @@
 127.0.0.1 beacon.ztgame.com
 127.0.0.1 zucks.net
 127.0.0.1 log-collector.svctr.zynga.com
-110.43.121.13 bigota.d.miui.com
-110.43.121.13 hugeota.d.miui.com
-110.43.121.249 bigota.d.miui.com
-110.43.121.249 hugeota.d.miui.com
-123.6.13.6 bigota.d.miui.com
-123.6.13.6 hugeota.d.miui.com
-183.136.207.132 bigota.d.miui.com
-183.136.207.132 hugeota.d.miui.com
