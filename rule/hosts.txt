@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-10-01 11:45:15
+! Last Modified: 2026-10-01 23:01:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -800,12 +800,10 @@
 127.0.0.1 adcs-ap.myappsget.com
 127.0.0.1 adx-tk.rayjump.com
 127.0.0.1 events.ads.vungle.com
-142.250.141.188     alt2-mtalk.google.com
 127.0.0.1 app.appsflyer.com
 127.0.0.1 adx.apiok.net
 127.0.0.1 ads.api.vungle.com
 127.0.0.1 net.rayjump.com
-108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 svibeacon.onezapp.com
 127.0.0.1 data.flurry.com
 127.0.0.1 ms.applovin.com
@@ -1081,7 +1079,6 @@
 127.0.0.1 hmma.baidu.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 sp0.baidu.com
-::1             localhost
 127.0.0.1 qapm.baidu.com
 127.0.0.1 fclog.baidu.com
 127.0.0.1 sofire.baidu.com
@@ -1235,6 +1232,8 @@
 127.0.0.1 show.m.mediav.com
 127.0.0.1 show.mediav.com
 127.0.0.1 ssxd.mediav.com
+127.0.0.2 localhost
+127.0.0.3 localhost
 127.0.0.1 static-ssl.mediav.com
 127.0.0.1 static.mediav.com
 127.0.0.1 t.dsp.mediav.com
@@ -1497,8 +1496,6 @@
 127.0.0.1 api.w.inmobi.com
 127.0.0.1 apptv.w.inmobi.com
 127.0.0.1 au.w.inmobi.com
-127.0.0.2 localhost
-127.0.0.3 localhost
 127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 config.inmobi.com
@@ -1634,14 +1631,47 @@
 127.0.0.1 zs13.cnzz.com
 127.0.0.1 zs14.cnzz.com
 127.0.0.1 zs15.cnzz.com
+127.0.0.1 zs16.cnzz.com
+127.0.0.1 zs1.cnzz.com
+127.0.0.1 zs25.cnzz.com
+127.0.0.1 zs2.cnzz.com
+127.0.0.1 zs3.cnzz.com
+127.0.0.1 zs4.cnzz.com
+127.0.0.1 zs5.cnzz.com
+127.0.0.1 zs6.cnzz.com
+127.0.0.1 zs7.cnzz.com
+127.0.0.1 zs8.cnzz.com
+127.0.0.1 zs9.cnzz.com
+127.0.0.1 zvs1.cnzz.com
+127.0.0.1 zvs2.cnzz.com
+127.0.0.1 hqs1.cnzz.com
+127.0.0.1 hqs4.cnzz.com
+127.0.0.1 hqs7.cnzz.com
+127.0.0.1 hqs9.cnzz.com
+127.0.0.1 hzs10.cnzz.com
+127.0.0.1 hzs12.cnzz.com
+127.0.0.1 hzs13.cnzz.com
+127.0.0.1 hzs14.cnzz.com
+127.0.0.1 hzs17.cnzz.com
+127.0.0.1 hzs23.cnzz.com
+127.0.0.1 hzs2.cnzz.com
+127.0.0.1 hzs3.cnzz.com
+127.0.0.1 hzs5.cnzz.com
+127.0.0.1 hzs7.cnzz.com
+127.0.0.1 hzs8.cnzz.com
+127.0.0.1 hzs9.cnzz.com
+127.0.0.1 hzvs1.cnzz.com
+127.0.0.1 pcookie.cnzz.com
 127.0.0.1  localhost
 ::1  localhost
+142.250.141.188     alt2-mtalk.google.com
 127.0.0.1 analytics.163.com
 127.0.0.1 crash.163.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 api4.1mobile.com
 127.0.0.1 sync.1rx.io
 127.0.0.1 tag.1rx.io
+108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 s.206ads.com
 127.0.0.1 api.247-inc.net
 127.0.0.1 tie.247-inc.net
@@ -2052,37 +2082,6 @@
 127.0.0.1 geo.adpushup.com
 127.0.0.1 public-webservice.geo.adpushup.com
 127.0.0.1 vastdump-staging.adpushup.com
-127.0.0.1 zs16.cnzz.com
-127.0.0.1 zs1.cnzz.com
-127.0.0.1 zs25.cnzz.com
-127.0.0.1 zs2.cnzz.com
-127.0.0.1 zs3.cnzz.com
-127.0.0.1 zs4.cnzz.com
-127.0.0.1 zs5.cnzz.com
-127.0.0.1 zs6.cnzz.com
-127.0.0.1 zs7.cnzz.com
-127.0.0.1 zs8.cnzz.com
-127.0.0.1 zs9.cnzz.com
-127.0.0.1 zvs1.cnzz.com
-127.0.0.1 zvs2.cnzz.com
-127.0.0.1 hqs1.cnzz.com
-127.0.0.1 hqs4.cnzz.com
-127.0.0.1 hqs7.cnzz.com
-127.0.0.1 hqs9.cnzz.com
-127.0.0.1 hzs10.cnzz.com
-127.0.0.1 hzs12.cnzz.com
-127.0.0.1 hzs13.cnzz.com
-127.0.0.1 hzs14.cnzz.com
-127.0.0.1 hzs17.cnzz.com
-127.0.0.1 hzs23.cnzz.com
-127.0.0.1 hzs2.cnzz.com
-127.0.0.1 hzs3.cnzz.com
-127.0.0.1 hzs5.cnzz.com
-127.0.0.1 hzs7.cnzz.com
-127.0.0.1 hzs8.cnzz.com
-127.0.0.1 hzs9.cnzz.com
-127.0.0.1 hzvs1.cnzz.com
-127.0.0.1 pcookie.cnzz.com
 127.0.0.1 adpxl.co
 127.0.0.1 adpxljs.adpxl.co
 127.0.0.1 fl.adpxl.co
@@ -2343,6 +2342,7 @@
 127.0.0.1 tag.sp.advertising.com
 127.0.0.1 ssp.advertising.com
 127.0.0.1 prod-m-node-1111.ssp.advertising.com
+::1             localhost
 127.0.0.1 prod-m-node-1211.ssp.advertising.com
 127.0.0.1 prod-m-node-2111.ssp.advertising.com
 127.0.0.1 prod-m-node-3111.ssp.advertising.com
