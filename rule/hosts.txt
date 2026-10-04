@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-10-04 02:57:07
+! Last Modified: 2026-10-04 11:56:41
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -1118,7 +1118,11 @@
 127.0.0.1 adsview2.qq.com
 127.0.0.1 adv.app.qq.com
 127.0.0.1 adver.qq.com
+142.250.141.188     alt2-mtalk.google.com
+108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 adfilter.imtt.qq.com
+127.0.0.2 localhost
+127.0.0.3 localhost
 127.0.0.1 ad.qq.com
 127.0.0.1 adsense.html5.qq.com
 127.0.0.1 adsolution.imtt.qq.com
@@ -1978,6 +1982,7 @@
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 cdn2.admatic.com.tr
 127.0.0.1 click.admedia.com
+::1             localhost
 127.0.0.1 pixel.admedia.com
 127.0.0.1 admedo.com
 127.0.0.1 l.admedo.com
@@ -2400,14 +2405,12 @@
 127.0.0.1 prod-ads.aerserv.com
 127.0.0.1 metrics.aetn.com
 127.0.0.1 insights.vip.aetnd.com
-142.250.141.188     alt2-mtalk.google.com
 127.0.0.1 track.afcpatrk.com
 127.0.0.1 map.go.affec.tv
 127.0.0.1 lb.affilae.com
 127.0.0.1 static.affilae.com
 127.0.0.1 scripts.affiliatefuture.com
 127.0.0.1 tags.affiliatefuture.com
-108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 affiz.net
 127.0.0.1 static.affluent.io
 127.0.0.1 fizzylabs.afftrack.com
@@ -2443,7 +2446,6 @@
 127.0.0.1 ads.stickyadstv.com.akadns.net
 127.0.0.1 fp3.ads.stickyadstv.com.akadns.net
 127.0.0.1 ip1.ads.stickyadstv.com.akadns.net
-::1             localhost
 127.0.0.1 ip2.ads.stickyadstv.com.akadns.net
 127.0.0.1 cdn.stickyadstv.com.akadns.net
 127.0.0.1 ip1.cdn.stickyadstv.com.akadns.net
@@ -2466,8 +2468,6 @@
 127.0.0.1 tps-wlb-uswest.dvgtm.akadns.net
 127.0.0.1 eyeblaster.akadns.net
 127.0.0.1 bs.eyeblaster.akadns.net
-127.0.0.2 localhost
-127.0.0.3 localhost
 127.0.0.1 adlanding.admarketplace.net.akadns.net
 127.0.0.1 rubiconproject.net.akadns.net
 127.0.0.1 beacon-nf.rubiconproject.net.akadns.net
