@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-10-11 03:41:03
+! Last Modified: 2026-10-11 11:34:06
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 142.250.157.188     mtalk.google.com
@@ -13,12 +13,8 @@
 142.250.152.188     alt8-mtalk.google.com
 180.163.151.161     dl.google.com
 180.163.150.33      dl.l.google.com
-142.250.141.188     alt2-mtalk.google.com
-108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 localhost
 ::1 localhost
-127.0.0.2 localhost
-127.0.0.3 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
 127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
 127.0.0.1 wxsnsdy.wxs.qq.com #-> 微信
@@ -50,7 +46,9 @@
 127.0.0.1 t3.a.market.xiaomi.com
 127.0.0.1 t4.a.market.xiaomi.com
 127.0.0.1 t5.a.market.xiaomi.com
+127.0.0.2 localhost
 127.0.0.1 t6.a.market.xiaomi.com
+127.0.0.3 localhost
 127.0.0.1 nav.browser.miui.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 api.ad.xiaomi.com
@@ -341,7 +339,6 @@
 127.0.0.1 ifengad.3g.ifeng.com
 127.0.0.1 adv.fjtv.net
 127.0.0.1 dsa-mfp.fengshows.cn
-::1             localhost
 127.0.0.1 sdk.cferw.com
 127.0.0.1 ad.weixin.qq.com
 127.0.0.1 wxa.wxs.qq.com
@@ -901,6 +898,8 @@
 127.0.0.1 static.cdn.gtsmobi.com
 127.0.0.1 img.ads.mobilefuse.net
 127.0.0.1 as.adfonic.net
+142.250.141.188     alt2-mtalk.google.com
+108.177.104.188     alt7-mtalk.google.com
 127.0.0.1 media.mobpartner.mobi
 127.0.0.1 ads2.mediaarmor.com
 127.0.0.1 cdn.nearbyad.com
@@ -957,6 +956,7 @@
 127.0.0.1 campaign-tapad.s3.amazonaws.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 r.w.inmobi.com
+::1             localhost
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 china.inmobi.com
 127.0.0.1 japan.inmobi.com
@@ -1665,14 +1665,6 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-110.43.121.13 bigota.d.miui.com
-110.43.121.13 hugeota.d.miui.com
-110.43.121.249 bigota.d.miui.com
-110.43.121.249 hugeota.d.miui.com
-123.6.13.6 bigota.d.miui.com
-123.6.13.6 hugeota.d.miui.com
-183.136.207.132 bigota.d.miui.com
-183.136.207.132 hugeota.d.miui.com
 127.0.0.1  localhost
 ::1  localhost
 127.0.0.1 analytics.163.com
@@ -7973,3 +7965,11 @@
 127.0.0.1 beacon.ztgame.com
 127.0.0.1 zucks.net
 127.0.0.1 log-collector.svctr.zynga.com
+110.43.121.13 bigota.d.miui.com
+110.43.121.13 hugeota.d.miui.com
+110.43.121.249 bigota.d.miui.com
+110.43.121.249 hugeota.d.miui.com
+123.6.13.6 bigota.d.miui.com
+123.6.13.6 hugeota.d.miui.com
+183.136.207.132 bigota.d.miui.com
+183.136.207.132 hugeota.d.miui.com
